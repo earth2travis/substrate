@@ -7,8 +7,8 @@ tags:
 related:
   - [[continuous-delivery]]
   - [[craft-production]]
+  - [[custom-tooling-opportunities]]
   - [[dark-factory]]
-  - [[devops]]
 source: research/raw/lean-software-development.md
 ---
 

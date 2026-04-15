@@ -9,7 +9,7 @@ related:
   - [[clawhavoc-security-crisis]]
   - [[codex]]
   - [[continuous-delivery]]
-  - [[devops]]
+  - [[custom-tooling-opportunities]]
 source: research/raw/openclaw.md
 ---
 

@@ -5,10 +5,10 @@ tags:
   - platform
   - infrastructure
 related:
+  - [[ai-sdk-research]]
   - [[clawhavoc-security-crisis]]
-  - [[dora-metrics]]
-  - [[dsjjjj-desiderata]]
-  - [[elixir-beam]]
+  - [[clawvault-deep-dive]]
+  - [[custom-tooling-opportunities]]
 source: research/raw/hermes-agent.md
 ---
 

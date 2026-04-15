@@ -4,10 +4,10 @@ tags:
   - philosophy
   - research
 related:
-  - [[2026-04-11_baudrillard-simulacra-and-simulation-deep-research]]
+  - [[2026-02-10-ai-career-convergence]]
+  - [[2026-04-11-baudrillard-simulacra-and-simulation]]
   - [[actual-occasions]]
   - [[alfred-north-whitehead]]
-  - [[becoming]]
 source: research/raw/prehension.md
 ---
 

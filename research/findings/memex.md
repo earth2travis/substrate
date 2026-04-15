@@ -5,9 +5,9 @@ tags:
   - memory
 related:
   - [[elixir-beam]]
-  - [[github-as-memory]]
   - [[github-knowledge-graph-second-brain]]
   - [[harness-engineering]]
+  - [[hermes-agent]]
 source: research/raw/memex.md
 ---
 

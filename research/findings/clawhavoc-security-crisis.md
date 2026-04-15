@@ -6,10 +6,10 @@ tags:
   - decision
   - organizational
 related:
+  - [[ai-sdk-research]]
   - [[chief-engineer-system]]
-  - [[github-as-memory]]
-  - [[hermes-agent]]
-  - [[nous-research]]
+  - [[clawvault-deep-dive]]
+  - [[farcaster-protocol]]
 source: research/raw/clawhavoc-security-crisis.md
 ---
 

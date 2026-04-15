@@ -5,10 +5,10 @@ tags:
   - research
   - memory
 related:
+  - [[2026-02-10-ai-career-convergence]]
   - [[actual-occasions]]
   - [[alfred-north-whitehead]]
-  - [[becoming]]
-  - [[chief-engineer-system]]
+  - [[api-first-interfaces]]
 source: research/raw/rag-vs-wiki.md
 ---
 

@@ -7,10 +7,10 @@ tags:
   - software-engineering
   - systems-thinking
 related:
-  - [[2026-04-08_bergson-duration-creative-evolution]]
-  - [[2026-04-08_contemporary-process-philosophy]]
-  - [[2026-04-08_llm-wiki-master-guide]]
-  - [[2026-04-08_nagarjuna-mulamadhyamakakarika-sunyata]]
+  - [[1password-integration]]
+  - [[2026-02-14-foundations]]
+  - [[2026-02-19-nex-brainstorm]]
+  - [[2026-02-20-composable-primitives]]
 source: research/raw/lean-software-development-research.md
 ---
 
