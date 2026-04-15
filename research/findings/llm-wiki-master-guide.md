@@ -6,10 +6,10 @@ tags:
   - systems-thinking
 related:
   - [[1password-integration]]
-  - [[2026-02-14-foundations]]
-  - [[2026-02-19-nex-brainstorm]]
-  - [[2026-02-20-composable-primitives]]
-source: research/raw/2026-04-08-llm-wiki-master-guide.md
+  - [[28-openclaw-mistakes-kloss]]
+  - [[5-whys]]
+  - [[a3-thinking]]
+source: research/raw/llm-wiki-master-guide.md
 ---
 
 # LLM Wiki Master Guide: Karpathy's Pattern, Implementations, Best Practices & Agent Instructions

@@ -9,7 +9,7 @@ tags:
 related:
   - [[karl-popper]]
   - [[research]]
-source: research/raw/2026-04-11-popper-logic-of-scientific-discovery.md
+source: research/raw/popper-logic-of-scientific-discovery.md
 ---
 
 # Deep Research: The Logic of Scientific Discovery

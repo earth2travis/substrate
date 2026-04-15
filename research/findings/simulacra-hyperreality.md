@@ -4,9 +4,9 @@ tags:
   - philosophy
   - model
 related:
-  - [[2026-04-11-baudrillard-simulacra-and-simulation]]
   - [[actual-occasions]]
   - [[alfred-north-whitehead]]
+  - [[baudrillard-simulacra-and-simulation]]
   - [[becoming]]
 source: research/raw/simulacra-hyperreality.md
 ---

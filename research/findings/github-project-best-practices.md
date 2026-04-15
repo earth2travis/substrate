@@ -3,10 +3,10 @@ title: "Best Practices: GitHub Project Management"
 tags:
   - lean-manufacturing
 related:
-  - [[2026-02-20-composable-primitives]]
   - [[5-whys]]
   - [[a3-thinking]]
   - [[ai-agents-that-run-a-company]]
+  - [[composable-primitives]]
 source: research/raw/github-project-best-practices.md
 ---
 

@@ -7,7 +7,7 @@ related:
   - [[alfred-north-whitehead]]
   - [[api-first-interfaces]]
   - [[autonomous-video-production]]
-source: research/raw/2026-02-10-ai-career-convergence.md
+source: research/raw/ai-career-convergence.md
 ---
 
 # AI Career Advice Is Wrong. The Real Threat Isn't Replacement — It's Convergence. Here's What To Do

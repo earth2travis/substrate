@@ -3,8 +3,8 @@ title: "Fishbone Diagrams: Cause and Effect Made Visible"
 tags:
   - research
 related:
-  - [[2026-02-10-ai-career-convergence]]
   - [[actual-occasions]]
+  - [[ai-career-convergence]]
   - [[alfred-north-whitehead]]
   - [[api-first-interfaces]]
 source: research/raw/fishbone-diagrams.md

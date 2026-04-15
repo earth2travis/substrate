@@ -5,8 +5,8 @@ tags:
   - project-management
   - github
 related:
-  - [[2026-02-10-ai-career-convergence]]
   - [[actual-occasions]]
+  - [[ai-career-convergence]]
   - [[alfred-north-whitehead]]
   - [[api-first-interfaces]]
 source: research/raw/project-board-configuration.md

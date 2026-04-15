@@ -5,10 +5,10 @@ tags:
   - research
   - philosophy
 related:
-  - [[2026-02-10-ai-career-convergence]]
-  - [[2026-04-11-baudrillard-simulacra-and-simulation]]
   - [[actual-occasions]]
+  - [[ai-career-convergence]]
   - [[alfred-north-whitehead]]
+  - [[api-first-interfaces]]
 source: research/raw/henri-bergson.md
 ---
 

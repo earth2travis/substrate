@@ -5,9 +5,9 @@ tags:
   - project-management
   - history
 related:
-  - [[2026-02-10-ai-career-convergence]]
   - [[5-whys]]
   - [[actual-occasions]]
+  - [[ai-career-convergence]]
   - [[alfred-north-whitehead]]
 source: research/raw/origins-and-evolution.md
 ---

@@ -5,8 +5,8 @@ tags:
   - research
   - memory
 related:
-  - [[2026-02-10-ai-career-convergence]]
   - [[actual-occasions]]
+  - [[ai-career-convergence]]
   - [[alfred-north-whitehead]]
   - [[api-first-interfaces]]
 source: research/raw/rag-vs-wiki.md

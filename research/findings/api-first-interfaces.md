@@ -3,8 +3,8 @@ title: "The Death of the GUI: API-First Interfaces"
 tags:
   - research
 related:
-  - [[2026-02-10-ai-career-convergence]]
   - [[actual-occasions]]
+  - [[ai-career-convergence]]
   - [[alfred-north-whitehead]]
   - [[autonomous-video-production]]
 source: research/raw/api-first-interfaces.md

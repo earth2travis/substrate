@@ -4,8 +4,8 @@ tags:
   - research
   - infrastructure
 related:
-  - [[2026-02-10-ai-career-convergence]]
   - [[actual-occasions]]
+  - [[ai-career-convergence]]
   - [[ai-sdk-research]]
   - [[alfred-north-whitehead]]
 source: research/raw/clawvault-deep-dive.md

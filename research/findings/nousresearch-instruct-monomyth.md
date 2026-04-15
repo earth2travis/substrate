@@ -6,10 +6,10 @@ tags:
   - systems-thinking
 related:
   - [[1password-integration]]
-  - [[2026-02-14-foundations]]
-  - [[2026-02-19-nex-brainstorm]]
-  - [[2026-02-20-composable-primitives]]
-source: research/raw/2026-04-11-nousresearch-instruct-monomyth.md
+  - [[28-openclaw-mistakes-kloss]]
+  - [[5-whys]]
+  - [[a3-thinking]]
+source: research/raw/nousresearch-instruct-monomyth.md
 ---
 
 # The Instruct Monomyth: why base models matter

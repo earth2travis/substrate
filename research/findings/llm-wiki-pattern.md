@@ -6,8 +6,8 @@ tags:
   - tools
   - research
 related:
-  - [[2026-02-10-ai-career-convergence]]
   - [[actual-occasions]]
+  - [[ai-career-convergence]]
   - [[alfred-north-whitehead]]
   - [[api-first-interfaces]]
 source: research/raw/llm-wiki-pattern.md

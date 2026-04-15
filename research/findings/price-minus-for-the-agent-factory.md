@@ -4,9 +4,9 @@ tags:
   - ai-agents
 related:
   - [[1password-integration]]
-  - [[2026-02-14-foundations]]
-  - [[2026-02-19-nex-brainstorm]]
-  - [[2026-02-20-composable-primitives]]
+  - [[28-openclaw-mistakes-kloss]]
+  - [[a3-thinking]]
+  - [[accounting-bookkeeping-research]]
 source: research/raw/price-minus-for-the-agent-factory.md
 ---
 

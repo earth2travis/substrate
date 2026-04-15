@@ -5,10 +5,10 @@ tags:
   - systems-thinking
 related:
   - [[1password-integration]]
-  - [[2026-02-14-foundations]]
-  - [[2026-02-19-nex-brainstorm]]
-  - [[2026-02-20-composable-primitives]]
-source: research/raw/2026-04-08-whitehead-process-and-reality.md
+  - [[28-openclaw-mistakes-kloss]]
+  - [[5-whys]]
+  - [[a3-thinking]]
+source: research/raw/whitehead-process-and-reality.md
 ---
 
 # Alfred North Whitehead's *Process and Reality*: A Comprehensive Research Guide
