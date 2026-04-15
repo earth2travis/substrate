@@ -5,8 +5,8 @@ updated: 2026-04-13
 type: entity
 tags: [person, company]
 sources:
-  - raw/openclaw-deep-research.md
-  - raw/hermes-agent-deep-research.md
+  - raw/openclaw-report.md
+  - raw/hermes-agent-report.md
 ---
 
 # Steve Tigue

@@ -4,7 +4,7 @@ created: 2026-04-08
 updated: 2026-04-09
 type: concept
 tags: [agent, memory, tools, research]
-sources: [raw/articles/karpathy-llm-wiki-pattern.md, raw/2026-04-08_llm-wiki-master-guide.md]
+sources: [raw/articles/karpathy-llm-wiki-pattern.md, raw/2026-04-08-llm-wiki-master-guide.md]
 ---
 
 # LLM Wiki Pattern

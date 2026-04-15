@@ -173,4 +173,4 @@ See [[process-without-substance]] for full philosophical mapping.
 ## Sources
 - raw/articles/openai-harness-engineering-article.md
 - raw/transcripts/symphony-harness-engineering-transcript-2026-04-07.md
-  - raw/2026-04-08_better-harness-tweet.md
+  - raw/2026-04-08-better-harness-tweet.md

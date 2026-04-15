@@ -5,9 +5,9 @@ updated: 2026-04-13
 type: entity
 tags: [company, research, platform]
 sources:
-  - raw/hermes-agent-deep-research.md
-  - raw/2026-04-11_nousresearch-dsjjjj-simulacra-stupor-of-becoming.md
-  - raw/2026-04-11_nousresearch-instruct-monomyth.md
+  - raw/hermes-agent-report.md
+  - raw/2026-04-11-nousresearch-dsjjjj-simulacra-stupor-of-becoming.md
+  - raw/2026-04-11-nousresearch-instruct-monomyth.md
 ---
 
 # Nous Research

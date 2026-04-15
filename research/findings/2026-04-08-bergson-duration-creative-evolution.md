@@ -6,11 +6,11 @@ tags:
   - process-philosophy
   - systems-thinking
 related:
-  - [[2026-04-08_contemporary-process-philosophy]]
-  - [[2026-04-08_llm-wiki-master-guide]]
-  - [[2026-04-08_nagarjuna-mulamadhyamakakarika-sunyata]]
-  - [[2026-04-08_whitehead-process-and-reality]]
-source: research/raw/2026-04-08_bergson-duration-creative-evolution.md
+  - [[2026-04-08-contemporary-process-philosophy]]
+  - [[2026-04-08-llm-wiki-master-guide]]
+  - [[2026-04-08-nagarjuna-mulamadhyamakakarika-sunyata]]
+  - [[2026-04-08-whitehead-process-and-reality]]
+source: research/raw/2026-04-08-bergson-duration-creative-evolution.md
 ---
 
 # Henri Bergson: Duration, Creative Evolution, and the Critique of Spatialized Time

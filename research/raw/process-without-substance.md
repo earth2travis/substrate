@@ -9,7 +9,7 @@ sources:
   - 2026-04-08_nagarjuna-mulamadhyamakakarika-sunyata.md
   - 2026-04-08_bergson-duration-creative-evolution.md
   - 2026-04-08_contemporary-process-philosophy.md
-  - raw/2026-04-08_better-harness-tweet.md
+  - raw/2026-04-08-better-harness-tweet.md
 ---
 
 # Process Without Substance: A Synthesis Across Traditions and Computation

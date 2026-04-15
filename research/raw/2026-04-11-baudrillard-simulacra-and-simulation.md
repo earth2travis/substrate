@@ -6,7 +6,7 @@ date: "1981 (French: Simulacres et Simulation)"
 fetched: "2026-04-11"
 type: "research"
 tags: [philosophy, postmodernism, simulacra, hyperreality, baudrillard, media-theory]
-sources: [raw/2026-04-11_nousresearch-dsjjjj-simulacra-stupor-of-becoming.md]
+sources: [raw/2026-04-11-nousresearch-dsjjjj-simulacra-stupor-of-becoming.md]
 ---
 
 # Deep Research: Simulacra and Simulation

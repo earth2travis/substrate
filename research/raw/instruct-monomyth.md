@@ -5,7 +5,7 @@ updated: 2026-04-13
 type: concept
 tags: [philosophy, model, training]
 sources:
-  - raw/2026-04-11_nousresearch-instruct-monomyth.md
+  - raw/2026-04-11-nousresearch-instruct-monomyth.md
 ---
 
 # Instruct Monomyth

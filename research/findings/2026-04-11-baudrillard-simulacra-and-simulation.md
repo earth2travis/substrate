@@ -8,11 +8,11 @@ tags:
   - baudrillard
   - media-theory
 related:
-  - [[2026-04-11_nousresearch-dsjjjj-simulacra-stupor-of-becoming]]
+  - [[2026-04-11-nousresearch-dsjjjj-simulacra-stupor-of-becoming]]
   - [[actual-occasions]]
   - [[alfred-north-whitehead]]
   - [[becoming]]
-source: research/raw/2026-04-11_baudrillard-simulacra-and-simulation-deep-research.md
+source: research/raw/2026-04-11-baudrillard-simulacra-and-simulation.md
 ---
 
 # Deep Research: Simulacra and Simulation

@@ -6,7 +6,7 @@ type: entity
 tags: [agent, platform, infrastructure]
 sources:
   - raw/articles/karpathy-llm-wiki-pattern.md
-  - raw/hermes-agent-deep-research.md
+  - raw/hermes-agent-report.md
 ---
 
 # Hermes Agent

@@ -5,7 +5,7 @@ updated: 2026-04-13
 type: concept
 tags: [philosophy, model]
 sources:
-  - raw/2026-04-11_baudrillard-simulacra-and-simulation-deep-research.md
+  - raw/2026-04-11-baudrillard-simulacra-and-simulation.md
 ---
 
 # Simulacra and Hyperreality

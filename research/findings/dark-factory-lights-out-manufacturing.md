@@ -5,10 +5,10 @@ tags:
   - lean-manufacturing
   - systems-thinking
 related:
-  - [[2026-04-08_bergson-duration-creative-evolution]]
-  - [[2026-04-08_contemporary-process-philosophy]]
-  - [[2026-04-08_llm-wiki-master-guide]]
-  - [[2026-04-08_nagarjuna-mulamadhyamakakarika-sunyata]]
+  - [[2026-04-08-bergson-duration-creative-evolution]]
+  - [[2026-04-08-contemporary-process-philosophy]]
+  - [[2026-04-08-llm-wiki-master-guide]]
+  - [[2026-04-08-nagarjuna-mulamadhyamakakarika-sunyata]]
 source: research/raw/dark-factory-lights-out-manufacturing.md
 ---
 

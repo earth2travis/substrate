@@ -4,11 +4,11 @@ tags:
   - process-philosophy
   - systems-thinking
 related:
-  - [[2026-04-08_bergson-duration-creative-evolution]]
-  - [[2026-04-08_contemporary-process-philosophy]]
-  - [[2026-04-08_llm-wiki-master-guide]]
-  - [[2026-04-08_nagarjuna-mulamadhyamakakarika-sunyata]]
-source: research/raw/2026-04-08_whitehead-process-and-reality.md
+  - [[2026-04-08-bergson-duration-creative-evolution]]
+  - [[2026-04-08-contemporary-process-philosophy]]
+  - [[2026-04-08-llm-wiki-master-guide]]
+  - [[2026-04-08-nagarjuna-mulamadhyamakakarika-sunyata]]
+source: research/raw/2026-04-08-whitehead-process-and-reality.md
 ---
 
 # Alfred North Whitehead's *Process and Reality*: A Comprehensive Research Guide

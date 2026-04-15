@@ -5,7 +5,7 @@ updated: 2026-04-13
 type: entity
 tags: [person, philosophy]
 sources:
-  - raw/2026-04-11_popper-the-logic-of-scientific-discovery-deep-research.md
+  - raw/2026-04-11-popper-logic-of-scientific-discovery.md
 ---
 
 # Karl Popper

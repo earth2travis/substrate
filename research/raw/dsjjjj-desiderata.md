@@ -5,9 +5,9 @@ updated: 2026-04-13
 type: concept
 tags: [philosophy, research, model]
 sources:
-  - raw/2026-04-11_nousresearch-dsjjjj-simulacra-stupor-of-becoming.md
-  - raw/2026-04-11_baudrillard-simulacra-and-simulation-deep-research.md
-  - raw/2026-04-11_nousresearch-instruct-monomyth.md
+  - raw/2026-04-11-nousresearch-dsjjjj-simulacra-stupor-of-becoming.md
+  - raw/2026-04-11-baudrillard-simulacra-and-simulation.md
+  - raw/2026-04-11-nousresearch-instruct-monomyth.md
 ---
 
 # DSJJJJ (Desideran AI)

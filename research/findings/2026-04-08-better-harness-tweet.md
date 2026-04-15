@@ -6,7 +6,7 @@ tags:
   - evals
   - AI-engineering
 related: []
-source: research/raw/2026-04-08_better-harness-tweet.md
+source: research/raw/2026-04-08-better-harness-tweet.md
 ---
 
 # Better Harness: A Recipe for Harness Hill-Climbing with Evals

@@ -105,18 +105,30 @@ def yaml_dump(data: dict) -> str:
 FRONTMATTER_RE = re.compile(r'^---\s*\n(.*?)\n---\s*\n(.*)', re.DOTALL)
 
 
+def normalize_filename(stem: str) -> str:
+    """Normalize a filename stem to kebab-case with hyphens only.
+    SCHEMA: kebab-case, lowercase. Date-prefixed files use hyphens, not underscores.
+    e.g. '2026-04-08_bergson...' -> '2026-04-08-bergson...'
+    """
+    # Replace underscores with hyphens (except within date prefix YYYY-MM-DD)
+    # The date prefix always ends with a _ or digit, then concept
+    # Replace all underscores with hyphens
+    return stem.replace('_', '-').lower()
+
+
 @dataclass
 class RawFile:
     path: Path
     filename: str
-    raw_fm: dict                       # whatever frontmatter existed
-    body: str                          # content after frontmatter
-    title: str                         # normalized title
-    tags: list[str]                    # normalized tags
-    related: list[str]                 # wikilinks to related files
-    source: str                        # path to raw file
-    is_html: bool = False              # true if file starts with HTML
-    has_frontmatter: bool = False      # true if had YAML frontmatter
+    stem: str                            # normalized stem (kebab-case, hyphens)
+    raw_fm: dict                         # whatever frontmatter existed
+    body: str                            # content after frontmatter
+    title: str                          # normalized title
+    tags: list[str]                     # normalized tags
+    related: list[str]                  # wikilinks to related files
+    source: str                         # path to raw file
+    is_html: bool = False               # true if file starts with HTML
+    has_frontmatter: bool = False       # true if had YAML frontmatter
 
 
 def read_raw_file(path: Path) -> RawFile:
@@ -169,6 +181,7 @@ def read_raw_file(path: Path) -> RawFile:
     return RawFile(
         path=path,
         filename=path.name,
+        stem=normalize_filename(path.stem),
         raw_fm=fm,
         body=body,
         title=title,
@@ -241,11 +254,10 @@ def find_related(raw_files: list[RawFile]) -> dict[str, list[str]]:
     2. Shared tags
     3. Title/keyword matching against other file titles
     """
-    # Build index: stem → RawFile
+    # Build index: normalized stem → RawFile
     by_stem = {}
     for rf in raw_files:
-        stem = rf.path.stem.lower()
-        by_stem[stem] = rf
+        by_stem[rf.stem] = rf
 
     # Collect all wikilinks that appear in bodies
     wikilinks_re = re.compile(r'\[\[([^\]]+)\]\]')
@@ -258,39 +270,39 @@ def find_related(raw_files: list[RawFile]) -> dict[str, list[str]]:
         # 1. Existing wikilinks in body
         for match in wikilinks_re.finditer(rf.body):
             link = match.group(1).strip()
-            # Convert wikilink to filename stem
-            link_stem = link.lower().replace(' ', '-').replace('_', '-')
+            # Convert wikilink to normalized filename stem
+            link_stem = normalize_filename(link.lower().replace(' ', '-'))
             if link_stem in by_stem:
-                links.add(by_stem[link_stem].path.stem)
+                links.add(by_stem[link_stem].stem)
 
         # 2. Shared tags (if file already has tags)
         if rf.tags:
             for other in raw_files:
-                if other.path.stem == rf.path.stem:
+                if other.stem == rf.stem:
                     continue
                 if set(rf.tags) & set(other.tags):
-                    links.add(other.path.stem)
+                    links.add(other.stem)
 
         # 3. Existing related list from frontmatter
         for rel in rf.related:
-            rel_stem = rel.lower().replace(' ', '-').split('/')[-1].split('.')[0]
+            rel_stem = normalize_filename(rel.lower().replace(' ', '-').split('/')[-1].split('.')[0])
             if rel_stem in by_stem:
-                links.add(by_stem[rel_stem].path.stem)
+                links.add(by_stem[rel_stem].stem)
 
         # Ensure at least 2 links (SCHEMA minimum)
         if len(links) < 2:
             # Fallback: find files that mention each other's concepts
             for other in raw_files:
-                if other.path.stem == rf.path.stem:
+                if other.stem == rf.stem:
                     continue
-                if rf.path.stem.replace('-', ' ') in other.body.lower()[:1000]:
-                    links.add(other.path.stem)
-                if other.path.stem.replace('-', ' ') in rf.body.lower()[:500]:
-                    links.add(other.path.stem)
-                if len(links) >= 4:  # cap at 4 to avoid bloated related lists
+                if other.stem.replace('-', ' ') in rf.body.lower()[:500]:
+                    links.add(other.stem)
+                if rf.stem.replace('-', ' ') in other.body.lower()[:1000]:
+                    links.add(other.stem)
+                if len(links) >= 4:
                     break
 
-        related_map[rf.path.stem] = sorted(list(links))[:4]
+        related_map[rf.stem] = sorted(list(links))[:4]
 
     return related_map
 
@@ -360,8 +372,8 @@ def main(repo_path: str, dry_run: bool = False):
 
         output = yaml_dump(fm) + '\n\n' + rf.body.lstrip('\n')
 
-        # Write finding (same name as raw, in findings/)
-        out_path = find_dir / rf.filename
+        # Write finding using normalized stem (SCHEMA: kebab-case, hyphens only)
+        out_path = find_dir / f"{rf.stem}.md"
 
         if dry_run:
             print(f"\n[Dry-run] Would write: {out_path}")
@@ -374,15 +386,15 @@ def main(repo_path: str, dry_run: bool = False):
 
         # Update indexes for promotion logic
         for tag in rf.tags:
-            tag_index[tag].append(rf.path.stem)
+            tag_index[tag].append(rf.stem)
 
         # Scan for key topic mentions (for promoting to concepts/entities)
         for other in valid_files:
-            if other.path.stem == rf.path.stem:
+            if other.stem == rf.stem:
                 continue
-            other_title = other.path.stem.replace('-', ' ').lower()
+            other_title = other.stem.replace('-', ' ').lower()
             if other_title in rf.body.lower():
-                topic_index[other.path.stem].append(rf.path.stem)
+                topic_index[other.stem].append(rf.stem)
 
     print(f"\nWrote {findings_written} findings to {find_dir}")
 
@@ -390,37 +402,30 @@ def main(repo_path: str, dry_run: bool = False):
     promoted = 0
     for stem, mentioned_by in topic_index.items():
         if len(mentioned_by) >= 2:  # SCHEMA: "appears in 2+ findings"
-            # Find the canonical file
-            canon = next((rf for rf in valid_files if rf.path.stem == stem), None)
+            canon = next((rf for rf in valid_files if rf.stem == stem), None)
 
             if canon and find_dir.exists():
-                insight_filename = f"{canon.path.stem}.md"
-                insight_path = None
+                insight_filename = f"{canon.stem}.md"
 
-                # Decide which insights subdirectory
-                # Heuristic: if title contains a person name → entities
-                # If it's a concept/pattern → concepts
                 person_indicators = {'person', 'philosopher', 'researcher', 'scientist', 'engineer', 'author', 'developer'}
-                concept_indicators = {'concept', 'pattern', 'system', 'method', 'theory', 'approach'}
 
                 is_entity = bool(person_indicators & set(canon.tags)) or any(
                     kw in canon.title.lower() for kw in ['production system', 'philosophy', 'theorem']
                 )
-                
+
                 if is_entity:
                     insight_path = insights_dir / 'entities' / insight_filename
                 else:
                     insight_path = insights_dir / 'concepts' / insight_filename
 
-                # Skip if insight already exists
                 if insight_path.exists() and not dry_run:
                     continue
 
-                # Build insight frontmatter
+                related = ['[[' + s + ']]' for s in related_map.get(stem, [])[:4]]
                 insight_fm = {
                     'title': canon.title,
                     'tags': canon.tags,
-                    'related': ['[[' + stem + ']]' for stem in related_map.get(stem, [])[:4]],
+                    'related': related,
                     'source': canon.source,
                 }
 

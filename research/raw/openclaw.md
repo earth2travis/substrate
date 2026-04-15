@@ -5,9 +5,9 @@ updated: 2026-04-13
 type: entity
 tags: [agent, platform, company, tools]
 sources:
-  - raw/openclaw-deep-research.md
-  - raw/openclaw-vs-hermes-coding-research.md
-  - raw/hermes-agent-deep-research.md
+  - raw/openclaw-report.md
+  - raw/openclaw-vs-hermes-coding.md
+  - raw/hermes-agent-report.md
 ---
 
 # OpenClaw

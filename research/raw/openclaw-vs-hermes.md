@@ -5,7 +5,7 @@ updated: 2026-04-13
 type: comparison
 tags: [model, comparison, evaluation]
 sources:
-  - raw/openclaw-vs-hermes-coding-research.md
+  - raw/openclaw-vs-hermes-coding.md
 ---
 
 # OpenClaw vs Hermes: Coding vs Research Analysis
