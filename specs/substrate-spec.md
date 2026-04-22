@@ -22,7 +22,6 @@ Every decision, research finding, and architectural choice is tracked in git. No
 - **Specs before scripts.** No script is written without a spec defining its inputs, outputs, and behavior first.
 - **Lint early, lint often.** Structural problems compound. Consistency is enforced automatically.
 - **Measure comprehension.** A knowledge system is useless if agents can't extract correct answers from it. Query evaluation proves the system works.
-- **The Moat.** The value of the Substrate is the accumulated synthesis that compounds over time. This proprietary understanding is a competitive advantage that cannot be replicated by a new agent starting from zero.
 - **Continuous improvement.** Weekly retrospectives analyze the Substrate's own health. Gaps drive the next iteration.
 
 ### 1.2 Entity Resolution
@@ -336,7 +335,7 @@ Fields:
 - `related` (required for insights, decisions, guides) — Minimum 2 wikilinks. Auto-generated for findings.
 - `source` (required) — Original URL or path to raw file. For insights, the finding or raw that promoted.
 - `date` (required) — Creation date.
-- `last_confirmed` (optional) — The date the information was last verified against a primary source. Used for temporal awareness and staleness checks.
+- `last_confirmed` (optional, insights/findings only) — The date the synthesized knowledge was last verified against primary sources. Used for staleness checks. Raw sources do not use this field.
 
 Additional fields by type:
 
