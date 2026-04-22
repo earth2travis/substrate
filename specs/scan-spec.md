@@ -5,7 +5,7 @@ status: "review"
 version: "1.0"
 ---
 
-# Security Scan Specification (`_security-scan.py`)
+# Security Scan Specification (`_scan.py`)
 
 ## Purpose
 
@@ -49,9 +49,9 @@ Exit code 0 if no CRITICALs. Exit code 1 if any CRITICAL exists.
 ## Usage
 
 ```bash
-python3 scripts/_security-scan.py                       # Run all checks
-python3 scripts/_security-scan.py --only leaked-secret  # Single check
-python3 scripts/_security-scan.py --format json         # Machine-readable
+python3 scripts/_scan.py                       # Run all checks
+python3 scripts/_scan.py --only leaked-secret  # Single check
+python3 scripts/_scan.py --format json          # Machine-readable
 ```
 
 ## Integration

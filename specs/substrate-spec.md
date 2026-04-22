@@ -55,16 +55,17 @@ substrate/
 ├── scripts/
 │   ├── _ingest.py            # Ingest pipeline
 │   ├── _lint.py              # Linter
-│   ├── _security-scan.py     # Security scanner
+│   ├── _scan.py              # Security scanner
 │   ├── _query.py             # Stored query engine (on-demand Q&A)
 │   ├── _eval.py              # Context evaluation engine (system health test)
 │   └── _retro.sh             # Weekly retrospective generator
 ├── specs/
-    ├── the-substrate-spec.md   # This document
+    ├── substrate-spec.md       # This document
     ├── ingest-spec.md
     ├── lint-spec.md
     ├── query-spec.md
-    └── security-spec.md
+    ├── eval-spec.md
+    └── scan-spec.md
 ```
 
 ### 2.2 Directory Contract
@@ -81,7 +82,7 @@ Each directory has a single responsibility. Scripts only write to their designat
 | `insights/comparisons/` | Agents (manual) | Humans, agents | Append/edit manually |
 | `decisions/` | Humans, agents | Humans, agents | Append-only; deprecated entries marked, not deleted |
 | `guides/` | Humans, agents | Humans, agents | Append/edit manually |
-| `evals/` | `_query.py` | Humans, agents | Overwritten each eval run |
+| `evals/` | `_eval.py` | Humans, agents | Overwritten each eval run |
 | `retros/` | `_retro.sh` | Humans, agents | Append-only, immutable once written |
 | `skills/` | Humans, agents | Agent skill systems | Append/edit manually |
 | `specs/` | Humans, agents | Humans, agents | Append/edit manually |
@@ -187,7 +188,7 @@ Retros are append-only and immutable. They live in `retros/week-YYYY-WNN.md`.
 |---|---|---|---|
 | Lint | Daily 02:00 UTC | `_lint.py` | stdout (exit code signals pass/fail) |
 | Ingest | Daily 02:30 UTC | `_ingest.py` | `research/findings/` + structured log |
-| Security scan | Daily 03:00 UTC | `_security-scan.py` | stdout (exit code signals pass/fail) |
+| Security scan | Daily 03:00 UTC | `_scan.py` | stdout (exit code signals pass/fail) |
 | Eval | Sun 04:00 UTC | `_eval.py` | `evals/YYYY-MM-DD-eval.md` |
 | Retro generation | Sun 05:00 UTC | `_retro.sh` | `retros/week-YYYY-WNN.md` |
 
@@ -287,8 +288,7 @@ Each system script has its own spec defining inputs, outputs, behavior, and inte
 - **[lint-spec.md](lint-spec.md)** — `_lint.py`: rules, severity levels, auto-fix, usage
 - **[query-spec.md](query-spec.md)** — `_query.py`: stored Q&A interface, query format, categories, on-demand answers
 - **[eval-spec.md](eval-spec.md)** — `_eval.py`: context evaluation engine, SAS metric, system health testing
-- **[security-spec.md](security-spec.md)** — `_security-scan.py`: checks, secret patterns, integration
-- **[context-eval-engine.md](context-eval-engine.md)** — Context Evaluation Engine: legacy reference, superseded by eval-spec.md
+- **[scan-spec.md](scan-spec.md)** — `_scan.py`: checks, secret patterns, integration
 
 ---
 
