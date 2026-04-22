@@ -135,3 +135,14 @@ Eval runs:
 1. Weekly via cron (Sunday 04:00 UTC)
 2. On demand by Travis or agents after major system changes
 3. Results feed into the weekly retrospective gap analysis
+
+## Skill Contract Testing
+
+Eval tests skill stability when the SEPL Loop proposes improvements. For skills with `contract.md`, the eval engine:
+
+1. Loads the skill's `contract.md` (inputs, outputs, failure modes)
+2. Runs the skill through its test cases from `skills/<name>/tests/` if they exist
+3. Compares pre-improvement and post-improvement behavior
+4. Validates that the improvement didn't break the contract
+
+Only skills with `evolvable: true` are auto-tested. All improvements require a PR regardless.

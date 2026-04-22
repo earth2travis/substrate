@@ -67,7 +67,9 @@ substrate/
 │   ├── comparisons/            # Head-to-head analysis
 │   ├── concepts/               # Unified concepts and frameworks
 │   └── entities/               # People, orgs, systems
-├── skills/                     # Shared agent capabilities (future)
+├── skills/                     # Protocol-Registered Resources (PRRs)
+│   ├── registry.json           # Skill registry: IDs, versions, ownership
+│   └── <skill-name>/           # Individual skills with contract.md
 ├── research/
 │   ├── raw/                    # Immutable source material
 │   ├── findings/               # Normalized, tagged, cross-referenced findings
@@ -105,19 +107,99 @@ Each directory has a single responsibility. Scripts only write to their designat
 | `guides/` | Humans, agents | Humans, agents | Append/edit manually |
 | `evals/` | `_eval.py` | Humans, agents | Overwritten each eval run |
 | `retros/` | `_retro.sh` | Humans, agents | Append-only, immutable once written |
-| `skills/` | Humans, agents | Agent skill systems | Append/edit manually |
+| `skills/` | PRR registry (see 2.4) | Agent skill systems, `_eval.py` | Append/edit via PRR protocol |
 | `specs/` | Humans, agents | Humans, agents | Append/edit manually |
 
 ### 2.3 What Each Directory Is NOT
 
 - **raw/** is not for agent output, session logs, or generated content. Only sources you want to ingest.
-- **findings/** is not a permanent directory — it's a staging area. Findings exist to be promoted to insights or consumed by the query engine.
+- **findings/** is not a permanent directory -- it's a staging area. Findings exist to be promoted to insights or consumed by the query engine.
 - **insights/** is not a dumping ground. Every insight must earn its place by referencing multiple sources.
 - **decisions/** is not a TODO list or issue tracker. It records decisions that have been made, not options under consideration.
-- **guides/** is not conceptual documentation. It's procedural content — steps to follow.
+- **guides/** is not conceptual documentation. It's procedural content -- steps to follow.
 - **evals/** is not for benchmarks or ground truth questions. It's output from evaluation runs only. Ground truth questions live in `research/queries/`.
 - **retros/** is not a daily log. It's a weekly analysis of system health.
-- **skills/** is not for scripts. It's for skill definitions that agents load into context.
+- **skills/** is not a loose folder of static files. Each skill is a Protocol-Registered Resource (PRR).
+
+### 2.4 Skills as Protocol-Registered Resources
+
+Skills in the Substrate are not just instruction sets; they are **Protocol-Registered Resources (PRRs)**. Each skill is a protocol-level resource that the Autogenesis Protocol (AGP) can address, version, test, and evolve.
+
+This extends the [agentskills.io](https://agentskills.io) standard (a folder containing a `SKILL.md` and optional scripts/assets) with a formal resource layer:
+
+**Standard Agent Skill vs. PRR:**
+
+| Feature | Standard Agent Skill (agentskills.io) | Protocol-Registered Resource (AGP) |
+|---|---|---|
+| **Discovery** | Agent scans a folder. | Registered in `registry.json` with metadata. |
+| **Versioning** | Manual (usually). | Tracked via Git commits and semantic versioning. |
+| **Evolution** | Human edits the `SKILL.md`. | The SEPL Loop can propose, test, and merge updates. |
+| **Contract** | Natural language instructions. | A formal `contract.md` defining inputs, outputs, and failure modes. |
+| **Authority** | Implicit. | Explicitly ranked in the Source Hierarchy. |
+
+**Skill Directory Structure:**
+
+```
+skills/
+├── registry.json                # Resource registry: IDs, versions, ownership
+├── <skill-name>/
+│   ├── SKILL.md                 # Human-readable instructions (agentskills.io standard)
+│   ├── contract.md              # Machine-readable interface contract
+│   ├── scripts/                 # Optional utility scripts for skill execution
+│   ├── assets/                  # Optional templates, configs, reference files
+│   └── tests/                   # Optional integration tests for _eval.py
+```
+
+**registry.json:**
+
+```json
+{
+  "skills": {
+    "skill-name": {
+      "resource-id": "skill:<name>",
+      "version": "1.0.0",
+      "evolvable": true,
+      "owner": "koda",
+      "contract": "contract.md",
+      "description": "Brief description of what this skill does"
+    }
+  }
+}
+```
+
+Fields:
+- `resource-id` — URI-style identifier for the AGP to address this skill.
+- `version` — Semantic version. Bump on every change.
+- `evolvable` — If `true`, the SEPL Loop has permission to auto-generate PRs for updates. If `false`, all changes require human approval.
+- `owner` — Which agent or human is responsible for this skill.
+- `contract` — Path to the `contract.md` file within the skill directory.
+
+**contract.md:**
+
+Defines the machine-readable interface contract for the skill:
+
+```markdown
+# Contract: <skill-name>
+
+## Inputs
+- What this skill expects as input (parameters, context, preconditions)
+
+## Outputs
+- What this skill produces (artifacts, side effects, follow-up actions)
+
+## Failure Modes
+- Known failure conditions and recovery procedures
+
+## Evaluation Criteria
+- How _eval.py tests whether an improvement to this skill is valid
+```
+
+**Source Hierarchy:**
+
+When multiple skills conflict or overlap, the Source Hierarchy determines authority:
+1. Skills with `evolvable: false` (human-locked) take precedence over evolvable skills.
+2. Skills with higher version numbers take precedence within the same family.
+3. The most recently tested skill (per `evals/` reports) has operational priority.
 
 ---
 
