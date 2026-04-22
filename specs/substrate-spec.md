@@ -271,7 +271,15 @@ When two sources disagree:
 
 Conflicts should be documented in insights or decision records, not silently resolved.
 
-### 5.4 Deprecation
+### 5.4 Entity Resolution
+
+The Substrate maintains a persistent **Entity Map** to resolve aliases and unify identities across fragmented sources (e.g., "Ξ2T," "earth2travis," and "Travis" are the same entity).
+
+- **The Map:** `insights/entities/entity-map.json` serves as the ground truth for all entity aliases.
+- **Ingestion:** The `_ingest.py` pipeline uses this map to tag findings with canonical entity IDs.
+- **Querying:** The `_query.py` engine expands entity searches to include all known aliases to ensure comprehensive retrieval.
+
+### 5.5 Deprecation
 
 Nothing is deleted from the Substrate. Content is deprecated:
 
