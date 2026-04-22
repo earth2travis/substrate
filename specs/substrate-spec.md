@@ -38,6 +38,16 @@ Without entity resolution, a question like "What did Travis say about the Cloudf
 
 ### 1.3 The Karpathy Pattern
 
+The Substrate follows the LLM Wiki pattern: raw sources flow through a pipeline into structured knowledge. But whereas the LLM Wiki is a public knowledge base about AI broadly, the Substrate is the Agent Factory's **private nervous system** — about who we are, what we're building, and what we've learned.
+
+### 1.4 The Moat: Accumulated Understanding
+
+The primary value of the Substrate is not the technology that hosts it, but the accumulated synthesis it contains. Unlike static documentation, the Substrate compounds in value every day it runs.
+
+- **Compounding Context.** Each new data point doesn't just add a fact; it refines the existing graph, resolves past conflicts, and deepens the system's intuition about our priorities.
+- **The Time Barrier.** A new agent starting from zero cannot replicate the Substrate's understanding, no matter how sophisticated its model. The accumulated tenure is a proprietary asset that can only be earned through continuous operation.
+- **Synthesis as Product.** The competitive advantage is the interpretive work — the resolution of conflicts, the ranking of sources, and the unification of entities — that happens before a file is ever written. Static documentation records what happened. The Substrate records what it means. The gap between those two is the moat.
+
 ---
 
 ## 2. Architecture
