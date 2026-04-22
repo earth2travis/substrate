@@ -1,60 +1,6 @@
 {
   "version": "1.0",
   "updated": "2026-04-22",
-  "entities": {
-    "travis-wyche": {
-      "canonical_name": "Travis Wyche",
-      "aliases": [
-        "travis@synthweave.xyz",
-        "@travis",
-        "earth2travis",
-        "Ξ2T",
-        "travis wyche",
-        "t",
-        "the operator",
-        "operator"
-      ],
-      "type": "person"
-    },
-    "koda": {
-      "canonical_name": "Koda",
-      "aliases": [
-        "@agent_koda_bot",
-        "agent-koda",
-        "agent_koda",
-        "agentkoda"
-      ],
-      "type": "agent"
-    },
-    "sivart": {
-      "canonical_name": "Sivart",
-      "aliases": [
-        "@sivart_bot",
-        "sivart_bot"
-      ],
-      "type": "agent"
-    },
-    "zookooree": {
-      "canonical_name": "Zookooree",
-      "aliases": [
-        "zookooree llc",
-        "agent factory",
-        "the factory"
-      ],
-      "type": "organization"
-    },
-    "substrate": {
-      "canonical_name": "Substrate",
-      "aliases": [
-        "ansible",
-        "brain-two",
-        "brain 2",
-        "the substrate",
-        "shared brain",
-        "company brain",
-        "nervous system"
-      ],
-      "type": "system"
-    }
-  }
+  "_note": "This file is populated organically by the ingest pipeline and manual curation. Do not seed aliases — discover them from source material.",
+  "entities": {}
 }
