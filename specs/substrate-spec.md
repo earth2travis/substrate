@@ -7,7 +7,7 @@ version: "2.0-rc"
 
 # The Substrate Spec
 
-A version-controlled shared knowledge graph for the Agent Factory (Zookooree). The Substrate is the nervous system between agents (Koda, Sivart) and Travis (Ξ2T).
+A version-controlled shared knowledge graph. The Substrate is a nervous system between agents Sivart and Koda and the human Ξ2T.
 
 ## 1. Philosophy
 
@@ -38,9 +38,9 @@ Without entity resolution, a question like "What did Travis say about the Cloudf
 
 ### 1.3 The Karpathy Pattern
 
-The Substrate follows the LLM Wiki pattern: raw sources flow through a pipeline into structured knowledge. But whereas the LLM Wiki is a public knowledge base about AI broadly, the Substrate is the Agent Factory's **private nervous system** — about who we are, what we're building, and what we've learned.
+The Substrate follows the LLM Wiki pattern: raw sources flow through a pipeline into structured knowledge. But whereas the LLM Wiki is a public knowledge base about AI broadly, the Substrate is a **private nervous system** — about who we are, what we're building, and what we've learned.
 
-### 1.4 The Moat: Accumulated Understanding
+### 1.4 Accumulated Understanding
 
 The primary value of the Substrate is not the technology that hosts it, but the accumulated synthesis it contains. Unlike static documentation, the Substrate compounds in value every day it runs.
 
@@ -61,7 +61,7 @@ substrate/
 ├── CONTRIBUTING.md                 # Agent/human workflow rules
 ├── decisions/                      # Architecture Decision Records (ADRs)
 ├── guides/                         # How-to procedures and workflows
-├── evals/                          # Output from query/eval scripts
+├── evals/                          # Output from eval scripts
 ├── retros/                         # Output from weekly retro script
 ├── insights/                       # Compiled, cross-referenced knowledge
 │   ├── comparisons/                # Head-to-head analysis docs
@@ -176,6 +176,7 @@ skills/
 ```
 
 Fields:
+
 - `resource-id` — URI-style identifier for the AGP to address this skill.
 - `version` — Semantic version. Bump on every change.
 - `evolvable` — If `true`, the SEPL Loop has permission to auto-generate PRs for updates. If `false`, all changes require human approval.
@@ -205,6 +206,7 @@ Defines the machine-readable interface contract for the skill:
 **Source Hierarchy:**
 
 When multiple skills conflict or overlap, the Source Hierarchy determines authority:
+
 1. Skills with `evolvable: false` (human-locked) take precedence over evolvable skills.
 2. Skills with higher version numbers take precedence within the same family.
 3. The most recently tested skill (per `evals/` reports) has operational priority.
@@ -311,8 +313,8 @@ Retros are append-only and immutable. They live in `retros/week-YYYY-WNN.md`.
 
 - **Files:** kebab-case, lowercase. `my-topic.md`. Never `My_Topic.md` or `my topic.md`.
 - **Folders:** lowercase, plural. `insights/` not `Insight/`.
-- **Dates:** YYYY-MM-DD in filenames and frontmatter. `week-2026-W17.md`.
-- **Wikilinks:** `[[wikilinks]]` for all internal references. Minimum 2 outbound per page.
+- **Dates:** YYYY-MM-DD in filenames and frontmatter. Not `week-2026-W17.md`.
+- **Wikilinks:** `[[wikilinks]]` for all internal references.
 - **Tags:** Broad, stable, no synonyms. One standard tag per concept.
 
 ### 4.2 Frontmatter Requirements
@@ -400,6 +402,7 @@ Each system script has its own spec defining inputs, outputs, behavior, and inte
 - **[lint-spec.md](lint-spec.md)** — `_lint.py`: rules, severity levels, auto-fix, usage
 
 The linter enforces all Content Standards. When it flags an issue, it can either report it (default) or fix it (`--fix` mode). Non-fixable issues require manual resolution.
+
 - **[query-spec.md](query-spec.md)** — `_query.py`: stored Q&A interface, query format, categories, on-demand answers
 - **[eval-spec.md](eval-spec.md)** — `_eval.py`: context evaluation engine, SAS metric, system health testing
 - **[scan-spec.md](scan-spec.md)** — `_scan.py`: checks, secret patterns, integration
@@ -444,17 +447,17 @@ Actions from retros are tracked as commits. The Substrate improves itself.
 
 ## 9. Decisions Registry
 
-| # | Decision | Date | Status | Summary |
-|---|---|---|---|---|
-| 001 | Rename brain-two → substrate | 2026-04-22 | accepted | Repo is github.com/earth2travis/substrate |
-| 002 | Eliminate daily/ and meta/ | 2026-04-14 | accepted | Context pollution; moved to messaging and redistributing |
-| 003 | Eliminate synthesis/ and operations/ | 2026-04-22 | accepted | No additional value; simplify structure |
-| 004 | Keep skills/ intentionally empty | 2026-04-22 | accepted | Build capabilities when foundation is stable |
-| 005 | Write specs before scripts | 2026-04-22 | accepted | Align on behavior before coding |
-| 006 | Weekly retrospectives | 2026-04-22 | accepted | Data for continuous improvement loop |
-| 007 | Add retros/ at root | 2026-04-22 | accepted | First-class artifact parallel to evals/ |
-| 008 | Split specs into individual files | 2026-04-22 | accepted | Master spec defines system, script specs define behavior |
-| 009 | Master spec is comprehensive | 2026-04-22 | accepted | System philosophy, architecture, governance, pipeline all in one doc |
+| # | Decision | Size | Date | Status | Summary |
+|---|---|---|---|---|---|
+| 001 | Rename brain-two → substrate | medium | 2026-04-22 | accepted | Repo is github.com/earth2travis/substrate |
+| 002 | Eliminate daily/ and meta/ | large | 2026-04-14 | accepted | Context pollution; moved to messaging and redistributing |
+| 003 | Eliminate synthesis/ and operations/ | medium | 2026-04-22 | accepted | No additional value; simplify structure |
+| 004 | Keep skills/ intentionally empty | small | 2026-04-22 | accepted | Build capabilities when foundation is stable |
+| 005 | Write specs before scripts | small | 2026-04-22 | accepted | Align on behavior before coding |
+| 006 | Weekly retrospectives | medium | 2026-04-22 | accepted | Data for continuous improvement loop |
+| 007 | Add retros/ at root | small | 2026-04-22 | accepted | First-class artifact parallel to evals/ |
+| 008 | Split specs into individual files | medium | 2026-04-22 | accepted | Master spec defines system, script specs define behavior |
+| 009 | Master spec is comprehensive | large | 2026-04-22 | accepted | System philosophy, architecture, governance, pipeline all in one doc |
 
 ---
 
