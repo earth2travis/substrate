@@ -5,6 +5,10 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-05-04] no-op | Daily synthesis — no new/changed sources
+- Ingest: 311 files scanned, 0 new, 0 changed, 0 orphan findings
+- No synthesis required. Exiting cleanly.
+
 ## [2026-05-04] create | Cron job: substrate-daily-synthesis
 - Automated daily synthesis pipeline wired
 - Runs daily at 06:00 UTC via cron job `89294cb62751`
