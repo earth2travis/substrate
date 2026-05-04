@@ -465,6 +465,76 @@ def find_broken_wikilinks(all_files: list[Path], repo: Path) -> list[Violation]:
     return violations
 
 
+def find_broken_fm_related_links(all_files: list[Path], repo: Path) -> list[Violation]:
+    """Find wikilinks in frontmatter 'related' field that point to non-existent files.
+    Mirrors the resolution logic in find_broken_wikilinks.
+    """
+    violations = []
+
+    # Build the same lookup tables as find_broken_wikilinks
+    existing_names = set()
+    existing_stems = set()
+    for p in all_files:
+        existing_names.add(p.name.lower())
+        existing_stems.add(p.stem.lower())
+        if len(p.relative_to(repo).parts) > 1:
+            existing_stems.add(str(p.relative_to(repo).with_suffix('')).lower().replace('/', '-'))
+
+    for path in all_files:
+        text = path.read_text(encoding='utf-8', errors='replace')
+        fm, _, has_fm = extract_frontmatter(text)
+        if not has_fm or not fm:
+            continue
+
+        related = fm.get('related')
+        if not isinstance(related, list):
+            continue
+
+        for item in related:
+            item = str(item).strip()
+            if not item:
+                continue
+
+            # Extract target from [[target|alias]] or bare target
+            target = item
+            m = re.match(r'^\[\[([^\]|\n]+)(?:\|[^\]]+)?\]\]$', item)
+            if m:
+                target = m.group(1).strip()
+
+            # Skip directory references
+            if target.endswith('/'):
+                continue
+
+            target_lower = target.lower()
+            target_stem = target_lower
+            if target_lower.endswith('.md'):
+                target_stem = target_lower[:-3]
+
+            exists = (
+                target_lower in existing_names
+                or target_stem in existing_stems
+                or target_stem.replace('-', '') in {s.replace('-', '') for s in existing_stems}
+            )
+
+            if not exists:
+                if is_raw_file(path, repo):
+                    severity = "INFO"
+                    msg = f"Forward-reference wikilink in frontmatter related: [[{target}]] — not yet in Substrate."
+                else:
+                    severity = "ERROR"
+                    msg = f"Frontmatter related wikilink [[{target}]] points to no existing .md file."
+
+                violations.append(Violation(
+                    file=str(path.relative_to(repo)),
+                    rule="broken-wikilink",
+                    severity=severity,
+                    message=msg,
+                    fixable=False,
+                ))
+
+    return violations
+
+
 # ---------------------------------------------------------------------------
 # Orphan detection
 # ---------------------------------------------------------------------------
@@ -623,6 +693,7 @@ def main(repo_path: str, target_dir: Optional[str] = None, fix: bool = False,
 
     # Run cross-file validations
     violations.extend(find_broken_wikilinks(all_files, repo))
+    violations.extend(find_broken_fm_related_links(all_files, repo))
     violations.extend(find_orphan_findings(repo))
 
     # Sort: ERROR first, then WARNING, then INFO
