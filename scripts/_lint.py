@@ -388,7 +388,9 @@ def validate_file(path: Path, repo: Path, all_titles: dict[str, list[str]]) -> l
 
 
 def find_broken_wikilinks(all_files: list[Path], repo: Path) -> list[Violation]:
-    """Find all wikilinks that point to non-existent files."""
+    """Find all wikilinks that point to non-existent files.
+    Skips wikilinks inside code blocks (```) and inline code spans (`).
+    """
     violations = []
 
     # Build a map of all existing file stems and names
@@ -401,11 +403,18 @@ def find_broken_wikilinks(all_files: list[Path], repo: Path) -> list[Violation]:
         if len(p.relative_to(repo).parts) > 1:
             existing_stems.add(str(p.relative_to(repo).with_suffix('')).lower().replace('/', '-'))
 
+    CODE_BLOCK_RE = re.compile(r'```[\s\S]*?```', re.DOTALL)
+    INLINE_CODE_RE = re.compile(r'`[^`\n]+`')
+
     for path in all_files:
         text = path.read_text(encoding='utf-8', errors='replace')
         fm, body, has_fm = extract_frontmatter(text)
 
-        for match in WIKILINK_RE.finditer(body):
+        # Strip code blocks and inline code spans before matching wikilinks
+        body_no_code = CODE_BLOCK_RE.sub('', body)
+        body_no_code = INLINE_CODE_RE.sub('', body_no_code)
+
+        for match in WIKILINK_RE.finditer(body_no_code):
             target = match.group(1).strip()
             # Extract filename part before |
             if '|' in target:
@@ -439,8 +448,11 @@ def find_broken_wikilinks(all_files: list[Path], repo: Path) -> list[Violation]:
                     severity = "ERROR"
                     msg = f"Wikilink [[{target}]] points to no existing .md file."
 
-                # Find line number
-                line_num = text[:match.start()].count('\n') + 1
+                # Find line number in original text (not stripped text)
+                # Map position in stripped text back to original position approximately
+                # For simplicity, search in original text for the match
+                original_match = WIKILINK_RE.search(body)
+                line_num = body[:original_match.start()].count('\n') + 1 if original_match else 1
                 violations.append(Violation(
                     file=str(path.relative_to(repo)),
                     rule="broken-wikilink",

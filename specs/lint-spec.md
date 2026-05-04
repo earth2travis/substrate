@@ -20,7 +20,7 @@ Enforce consistency across all Markdown files in the repo. The linter catches st
 | `fm-tags-empty` | WARNING | `tags` field exists but is empty or `[]` |
 | `fm-related-missing` | WARNING | No `related` field or fewer than 2 wikilinks |
 | `naming-convention` | ERROR | Filename contains underscores, spaces, or uppercase |
-| `broken-wikilink` | ERROR | `[[target]]` points to no `.md` file in the repo |
+| `broken-wikilink` | ERROR | `[[page-name]]` points to no `.md` file in the repo |
 | `orphan-finding` | WARNING | Finding exists but raw source is deleted |
 | `no-h1` | INFO | No top-level `# Heading` in the body |
 | `duplicate-title` | ERROR | Two files share the same `title` in frontmatter |
@@ -33,7 +33,7 @@ Structured report to stdout:
 ```
 [ERROR] research/raw/some_file.md: fm-title-missing — no title in frontmatter
 [WARNING] insights/concepts/foo-bar.md: fm-related-missing — 0 related links
-[BROKEN] insights/entities/baz.md: broken-wikilink — [[nonexistent-page]]
+[BROKEN] insights/entities/baz.md: broken-wikilink — [[missing-page]]
 ```
 
 Exit code 0 if no errors (warnings OK). Exit code 1 if any ERRORs exist.

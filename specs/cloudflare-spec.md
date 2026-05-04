@@ -82,6 +82,6 @@ The **Substrate** (`specs/the-substrate-spec.md`) defines the *content* and *str
 
 ## 5. Related
 
-* [[the-substrate-spec]]
-* [[autogenesis-protocol]]
-* [[context-eval-engine]]
+* [[substrate-spec]]
+* [[ingest-spec]]
+* [[eval-spec]]
