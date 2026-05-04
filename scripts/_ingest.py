@@ -1,38 +1,54 @@
 #!/usr/bin/env python3
-"""_ingest.py — Read raw sources, normalize frontmatter, find relationships,
-write findings and promote to insights when cross-file patterns emerge.
+"""_ingest.py — Mechanical digest generator. No validation, no synthesis.
+
+Responsibilities:
+  1. Scan research/raw/*.md
+  2. Parse YAML frontmatter (leniently, extract what exists)
+  3. Compute sha256 of each raw file body (after frontmatter)
+  4. Detect new, changed, and unchanged files vs previous run
+  5. Detect orphaned findings whose raw source was deleted
+  6. Write a machine-readable digest JSON for the agent to consume
+
+What this script does NOT do:
+  - Validate frontmatter against SCHEMA.md (that's _lint.py)
+  - Write findings/ or insights/
+  - Auto-tag, auto-promote, or synthesize
+  - Entity resolution
+
+Those are agent responsibilities, handled by the llm-wiki skill.
 
 Usage:
-  python3 scripts/_ingest.py [--dry-run] [--repo /path/to/ansible]
+  python3 scripts/_ingest.py [--repo /path/to/substrate] [--output /path/to/digest.json]
+  python3 scripts/_ingest.py --repo /path/to/substrate --output /path/to/digest.json
 
-The pipeline:
-  1. Scan research/raw/*.md
-  2. Parse YAML frontmatter (or infer if missing)
-  3. Normalize to SCHEMA: title, tags, related, source
-  4. Cross-reference files to auto-populate related links
-  5. Write normalized findings → research/findings/
-  6. Promote to insights/ when a topic appears in 2+ findings
-  7. Orphan cleanup: remove findings/ for deleted raw sources
-
-Raw files are never modified.
+The digest JSON is consumed by the agent to decide what to ingest next.
 """
 
 import argparse
+import hashlib
 import json
-import os
 import re
 import sys
-from collections import defaultdict
-from dataclasses import dataclass, field
+from dataclasses import dataclass
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Optional
 
 # ---------------------------------------------------------------------------
-# YAML parsing (stdlib only — no pyyaml)
+# Constants
+# ---------------------------------------------------------------------------
+
+RAW_DIR = "research/raw"
+FINDINGS_DIR = "research/findings"
+STATE_DIR = ".ingest-state"
+STATE_FILE = "hashes.json"
+
+# ---------------------------------------------------------------------------
+# Minimal YAML parser (stdlib only — no external deps)
 # ---------------------------------------------------------------------------
 
 def parse_yaml_block(text: str) -> dict:
-    """Minimal YAML parser for frontmatter."""
+    """Parse flat YAML frontmatter. Handles key: value, lists, quoted strings."""
     result = {}
     if not text.strip():
         return result
@@ -69,449 +85,288 @@ def parse_yaml_block(text: str) -> dict:
     return result
 
 
-def yaml_dump(data: dict) -> str:
-    """Serialize a flat dict to YAML."""
-    lines = ['---']
-    for key, value in data.items():
-        if isinstance(value, list):
-            if not value:
-                lines.append(f'{key}: []')
-            else:
-                lines.append(f'{key}:')
-                for item in value:
-                    lines.append(f'  - {item}')
-        elif value is None or value == '':
-            lines.append(f'{key}: ""')
-        else:
-            s = str(value)
-            if any(c in s for c in ':#{}[]|>&*!?%@`') or s.lower() in ('true', 'false', 'null', 'yes', 'no'):
-                s = f'"{s}"'
-            lines.append(f'{key}: {s}')
-    lines.append('---')
-    return '\n'.join(lines)
-
-
 # ---------------------------------------------------------------------------
-# File I/O and frontmatter extraction
+# Frontmatter extraction
 # ---------------------------------------------------------------------------
 
 FRONTMATTER_RE = re.compile(r'^---\s*\n(.*?)\n---\s*\n(.*)', re.DOTALL)
 
 
+def extract_frontmatter(text: str) -> tuple[Optional[dict], str, bool]:
+    """Extract YAML frontmatter and body. Returns (fm, body, has_fm)."""
+    m = FRONTMATTER_RE.match(text)
+    if m:
+        return parse_yaml_block(m.group(1)), m.group(2), True
+    return None, text, False
+
+
+def compute_sha256(text: str) -> str:
+    """Compute sha256 of text content."""
+    return hashlib.sha256(text.encode('utf-8')).hexdigest()
+
+
 def normalize_filename(stem: str) -> str:
-    """Normalize a filename stem to kebab-case with hyphens only."""
     return stem.replace('_', '-').lower()
 
 
 @dataclass
-class RawFile:
-    path: Path
+class RawFileDigest:
+    """Lightweight digest of a raw file for agent consumption."""
     filename: str
-    stem: str                            # normalized stem (kebab-case, hyphens)
-    raw_fm: dict                         # whatever frontmatter existed
-    body: str                            # content after frontmatter
-    title: str
-    tags: list[str]
-    related: list[str]
-    source: str
+    stem: str
+    has_frontmatter: bool
+    title: Optional[str] = None
+    tags: Optional[list] = None
+    source_url: Optional[str] = None
+    created: Optional[str] = None
+    updated: Optional[str] = None
+    sha256: str = ""
     is_html: bool = False
-    has_frontmatter: bool = False
+    no_ingest: bool = False
 
 
-def read_raw_file(path: Path) -> RawFile:
+def extract_source_url(fm: dict, body: str) -> Optional[str]:
+    """Extract source URL from frontmatter or body."""
+    # Try frontmatter first
+    for key in ('source_url', 'source', 'url', 'origin'):
+        val = fm.get(key)
+        if val and isinstance(val, str) and val.strip():
+            return val.strip()
+        if val and isinstance(val, list) and val:
+            first = val[0]
+            if isinstance(first, str) and first.strip():
+                return first.strip()
+
+    # Try body (common patterns in scraped content)
+    patterns = [
+        r'\*\*Source:\*\*\s*(https?://[^\s\n]+)',
+        r'Source:\s*(https?://[^\s\n]+)',
+        r'\[Source\]\((https?://[^)]+)\)',
+        r'(https?://(?:www\.)?x\.com/\S+)',
+        r'(https?://(?:www\.)?twitter\.com/\S+)',
+        r'(https?://(?:www\.)?github\.com/\S+)',
+        r'(https?://(?:arxiv\.org|papers\.ssrn\.com)/\S+)',
+    ]
+    for pat in patterns:
+        m = re.search(pat, body, re.IGNORECASE)
+        if m:
+            return m.group(1)
+
+    return None
+
+
+def extract_title(fm: dict, body: str, filename: str) -> str:
+    """Extract title from frontmatter, H1, or filename."""
+    if fm.get('title'):
+        return str(fm['title'])
+    h1 = re.search(r'^#\s+(.+)$', body, re.MULTILINE)
+    if h1:
+        return h1.group(1).strip()
+    return filename.replace('-', ' ').replace('_', ' ').title()
+
+
+def process_raw_file(path: Path) -> RawFileDigest:
+    """Read and digest a single raw file."""
     text = path.read_text(encoding='utf-8', errors='replace')
+    fm, body, has_fm = extract_frontmatter(text)
+    fm = fm or {}
 
-    is_html = bool(re.match(r'\s*<!DOCTYPE', text, re.IGNORECASE)) or text.count('<html') > 0
+    # Compute sha256 of body (after frontmatter), per llm-wiki skill spec
+    sha = compute_sha256(body)
 
-    fm = {}
-    body = text
-    has_fm = False
+    # Detect HTML
+    is_html = bool(re.match(r'\s*<!DOCTYPE', body, re.IGNORECASE)) or body[:500].count('<html') > 0
 
-    m = FRONTMATTER_RE.match(text)
-    if m:
-        has_fm = True
-        fm = parse_yaml_block(m.group(1))
-        body = m.group(2)
+    # Detect no-ingest flag
+    no_ingest = False
+    if has_fm:
+        flag = str(fm.get('no-ingest', '')).lower()
+        no_ingest = flag in ('true', 'yes', '1')
 
-    title = fm.get('title', '')
-    if not title:
-        h1 = re.search(r'^#\s+(.+)$', body, re.MULTILINE)
-        if h1:
-            title = h1.group(1).strip()
-        else:
-            title = path.stem.replace('-', ' ').replace('_', ' ').title()
-
-    tags = []
-    for fk in ('tags', 'tag'):
-        if fk in fm and isinstance(fm[fk], list):
-            tags.extend(fm[fk])
-            break
-
-    related = []
-    for fk in ('related', 'links', 'see_also'):
-        if fk in fm and isinstance(fm[fk], list):
-            related.extend(fm[fk])
-            break
-
-    source = fm.get('source', fm.get('source_url', fm.get('url', '')))
-    if not source:
-        source = f'research/raw/{path.name}'
-
-    return RawFile(
-        path=path,
+    return RawFileDigest(
         filename=path.name,
         stem=normalize_filename(path.stem),
-        raw_fm=fm,
-        body=body,
-        title=title,
-        tags=tags,
-        related=related,
-        source=source,
-        is_html=is_html,
         has_frontmatter=has_fm,
+        title=extract_title(fm, body, path.name),
+        tags=fm.get('tags') if isinstance(fm.get('tags'), list) else None,
+        source_url=extract_source_url(fm, body),
+        created=fm.get('created') or fm.get('date'),
+        updated=fm.get('updated'),
+        sha256=sha,
+        is_html=is_html,
+        no_ingest=no_ingest,
     )
 
 
 # ---------------------------------------------------------------------------
-# Auto-tagging: strict phrase matching, no single-word keywords
+# State management
 # ---------------------------------------------------------------------------
 
-TAG_PATTERNS: list[tuple[str, list[str]]] = [
-    # Process philosophy — must be full phrases, no single words
-    ('process-philosophy', [
-        'process philosophy', 'process and reality', 'creative evolution',
-        'philosophy of organism', 'actual occasion', 'actual occasions',
-        'élán vital', 'elan vital', 'duration (durée)', 'durée',
-        'dependent origination', 'pratītyasamutpāda',
-        'middle way', 'mulamadhyamakakarika',
-    ]),
-
-    # Postmodernism / French theory
-    ('postmodernism', [
-        'simulacra and simulation', 'hyperreality',
-        'differential and repetition', 'rhizomatic',
-        'simulacres et simulation',
-    ]),
-
-    # Lean manufacturing / TPS
-    ('lean-manufacturing', [
-        'toyota production system', 'just-in-time',
-        'heijunka', 'jidoka', 'andon',
-        'lean production', 'taichi ohno',
-        'seven wastes', 'muda', 'mura', 'muri',
-    ]),
-
-    # Software engineering
-    ('software-engineering', [
-        'continuous delivery', 'continuous deployment',
-        'spec-driven development', 'dora metrics',
-        'feature flags', 'deployment pipeline',
-    ]),
-
-    # Knowledge management / LLM wiki
-    ('knowledge-management', [
-        'knowledge base', 'llm wiki', 'second brain',
-        'knowledge graph', 'institutional memory',
-    ]),
-
-    # AI agents
-    ('ai-agents', [
-        'coding agent', 'ai agent', 'autonomous agent',
-        'agent platform', 'agent company', 'agentic',
-        'multi-agent', 'agent orchestration',
-        'context stack', 'context window',
-    ]),
-
-    # Claude / Anthropic
-    ('claude-anthropic', [
-        'claude code', 'claude opus', 'anthropic',
-    ]),
-
-    # OpenAI
-    ('openai', [
-        'openai', 'gpt-4', 'gpt-5',
-    ]),
-
-    # Security / ops
-    ('security-ops', [
-        'opsec', 'server hardening', 'prompt injection',
-        'tool provisioning', 'security crisis',
-    ]),
-]
-
-# Keywords that are too broad to use as tag triggers.
-# These appear in almost every file and are meaningless as discriminators.
-NOISE_KEYWORDS = {
-    'agent', 'system', 'agent', 'llm', 'wiki', 'knowledge',
-    'api', 'github', 'protocol', 'model', 'tool', 'platform',
-    'open', 'research', 'architecture', 'design', 'project',
-    'issue', 'memory', 'context', 'prompt',
-}
+def load_previous_hashes(state_path: Path) -> dict:
+    """Load previous run's sha256 hashes."""
+    if state_path.exists():
+        try:
+            return json.loads(state_path.read_text(encoding='utf-8'))
+        except (json.JSONDecodeError, OSError):
+            pass
+    return {}
 
 
-def auto_tag(body: str, title: str) -> list[str]:
-    """Derive tags from body text using strict phrase matching.
-    
-    Only multi-word phrases are used. Single-word keywords are ignored
-    because they're too broad and produce meaningless tags.
-    """
-    text = (title + ' ' + body).lower()
-    found = set()
-    
-    for tag, phrases in TAG_PATTERNS:
-        for phrase in phrases:
-            # Use word boundary matching for multi-word phrases
-            # This avoids "agent" matching inside "management"
-            pattern = r'\b' + re.escape(phrase) + r'\b'
-            if re.search(pattern, text, re.IGNORECASE):
-                found.add(tag)
-                break  # One match per tag is enough
-
-    if not found:
-        found.add('general')
-
-    return sorted(found)
+def save_hashes(state_path: Path, hashes: dict):
+    """Save current run's hashes for next comparison."""
+    state_path.parent.mkdir(parents=True, exist_ok=True)
+    state_path.write_text(json.dumps(hashes, indent=2, sort_keys=True), encoding='utf-8')
 
 
 # ---------------------------------------------------------------------------
-# Cross-reference discovery: wikilinks first, title mentions second
+# Orphan detection
 # ---------------------------------------------------------------------------
 
-def find_related(raw_files: list[RawFile]) -> dict[str, list[str]]:
-    """For each file, find 2+ related peers by:
-    1. Existing wikilinks in the body (primary signal)
-    2. Title mentions in body text (secondary signal)
-    
-    NO shared-tag linking — tags are too noisy and create false connections.
-    """
-    by_stem = {}
-    for rf in raw_files:
-        by_stem[rf.stem] = rf
+def find_orphaned_findings(raw_dir: Path, findings_dir: Path) -> list[Path]:
+    """Find findings whose raw source no longer exists."""
+    if not findings_dir.exists():
+        return []
 
-    wikilinks_re = re.compile(r'\[\[([^\]]+)\]\]')
+    raw_stems = {normalize_filename(p.stem) for p in raw_dir.glob('*.md')}
+    orphans = []
 
-    related_map: dict[str, list[str]] = {}
+    for finding in findings_dir.glob('*.md'):
+        stem = normalize_filename(finding.stem)
+        if stem not in raw_stems:
+            orphans.append(finding)
+
+    return orphans
+
+
+# ---------------------------------------------------------------------------
+# Digest generation
+# ---------------------------------------------------------------------------
+
+def build_digest(repo: Path, raw_files: list[RawFileDigest]) -> dict:
+    """Build the machine-readable digest."""
+    state_path = repo / STATE_DIR / STATE_FILE
+    prev_hashes = load_previous_hashes(state_path)
+
+    new_files = []
+    changed_files = []
+    unchanged_files = []
+    html_files = []
+    no_ingest_files = []
+    current_hashes = {}
 
     for rf in raw_files:
-        links = set()
+        current_hashes[rf.stem] = rf.sha256
 
-        # 1. Existing wikilinks in body (strongest signal)
-        for match in wikilinks_re.finditer(rf.body):
-            link = match.group(1).strip()
-            # Try exact match first
-            link_stem = normalize_filename(link.lower().replace(' ', '-'))
-            if link_stem in by_stem:
-                links.add(by_stem[link_stem].stem)
-            else:
-                # Try partial match — the wikilink might just be the concept name
-                for stem, other in by_stem.items():
-                    concept_name = stem.replace('-', ' ').lower()
-                    if link.lower() in concept_name or concept_name in link.lower():
-                        links.add(stem)
+        if rf.is_html:
+            html_files.append(rf.filename)
+            continue
 
-        # 2. Title mentions in body (weaker but useful for files without wikilinks)
-        if len(links) < 2:
-            candidates = []
-            for other in raw_files:
-                if other.stem == rf.stem:
-                    continue
-                concept = other.stem.replace('-', ' ').lower()
-                # Check if current file mentions this other concept
-                if concept in rf.body.lower():
-                    # Score by how many times it's mentioned (more hits = more relevant)
-                    count = rf.body.lower().count(concept)
-                    candidates.append((count, other.stem))
+        if rf.no_ingest:
+            no_ingest_files.append(rf.filename)
+            continue
 
-            # Sort by mention frequency (most relevant first), cap at 4
-            candidates.sort(reverse=True, key=lambda x: x[0])
-            for _, stem in candidates[:4]:
-                links.add(stem)
+        if rf.stem not in prev_hashes:
+            new_files.append(rf.filename)
+        elif prev_hashes[rf.stem] != rf.sha256:
+            changed_files.append(rf.filename)
+        else:
+            unchanged_files.append(rf.filename)
 
-        related_map[rf.stem] = sorted(list(links))[:4]
+    # Detect orphans
+    orphans = find_orphaned_findings(repo / RAW_DIR, repo / FINDINGS_DIR)
 
-    return related_map
+    # Save hashes
+    save_hashes(state_path, current_hashes)
 
-
-# ---------------------------------------------------------------------------
-# Orphan cleanup
-# ---------------------------------------------------------------------------
-
-def cleanup_orphans(raw_dir: Path, find_dir: Path, insights_dir: Path):
-    """Remove findings/ and insights/ files whose raw source no longer exists."""
-    raw_stems = set()
-    for p in raw_dir.glob('*.md'):
-        raw_stems.add(normalize_filename(p.stem))
-
-    removed = 0
-
-    # Clean findings/
-    if find_dir.exists():
-        for p in find_dir.glob('*.md'):
-            stem = normalize_filename(p.stem)
-            if stem not in raw_stems:
-                p.unlink()
-                removed += 1
-                print(f"  Orphan removed: {p}")
-
-    # Clean insights/
-    for subdir in ['entities', 'concepts', 'comparisons']:
-        insight_dir = insights_dir / subdir
-        if insight_dir.exists():
-            for p in insight_dir.glob('*.md'):
-                stem = normalize_filename(p.stem)
-                if stem not in raw_stems:
-                    p.unlink()
-                    removed += 1
-                    print(f"  Orphan removed: {p}")
-
-    return removed
+    return {
+        "run_id": datetime.now(timezone.utc).isoformat(),
+        "repo": str(repo),
+        "raw_scanned": len(raw_files),
+        "new_files": new_files,
+        "changed_files": changed_files,
+        "unchanged_files": unchanged_files,
+        "html_excluded": html_files,
+        "no_ingest_excluded": no_ingest_files,
+        "orphan_findings": [str(p.name) for p in orphans],
+        "files": [
+            {
+                "filename": rf.filename,
+                "stem": rf.stem,
+                "has_frontmatter": rf.has_frontmatter,
+                "title": rf.title,
+                "tags": rf.tags,
+                "source_url": rf.source_url,
+                "created": rf.created,
+                "updated": rf.updated,
+                "sha256": rf.sha256,
+                "is_html": rf.is_html,
+                "no_ingest": rf.no_ingest,
+            }
+            for rf in raw_files
+        ],
+    }
 
 
 # ---------------------------------------------------------------------------
-# Main pipeline
+# Main
 # ---------------------------------------------------------------------------
 
-def main(repo_path: str, dry_run: bool = False):
+def main(repo_path: str, output_path: Optional[str] = None):
     repo = Path(repo_path)
-    raw_dir = repo / 'research' / 'raw'
-    find_dir = repo / 'research' / 'findings'
-    insights_dir = repo / 'insights'
+    raw_dir = repo / RAW_DIR
 
     if not raw_dir.exists():
         print(f"ERROR: {raw_dir} not found", file=sys.stderr)
         sys.exit(1)
 
-    # Ensure output dirs exist
-    find_dir.mkdir(parents=True, exist_ok=True)
-    (insights_dir / 'entities').mkdir(parents=True, exist_ok=True)
-    (insights_dir / 'concepts').mkdir(parents=True, exist_ok=True)
-    (insights_dir / 'comparisons').mkdir(parents=True, exist_ok=True)
+    # Process all raw files
+    raw_files = [process_raw_file(p) for p in sorted(raw_dir.glob('*.md'))]
 
-    # 0. Orphan cleanup — remove findings without raw sources
-    if not dry_run:
-        orphans = cleanup_orphans(raw_dir, find_dir, insights_dir)
-        if orphans:
-            print(f"Removed {orphans} orphaned files")
+    # Build digest
+    digest = build_digest(repo, raw_files)
 
-    # 1. Read all raw files
-    raw_files = [read_raw_file(p) for p in sorted(raw_dir.glob('*.md'))]
+    # Output
+    digest_json = json.dumps(digest, indent=2, sort_keys=False)
 
-    print(f"Found {len(raw_files)} raw files in {raw_dir}")
+    if output_path:
+        out = Path(output_path)
+        out.parent.mkdir(parents=True, exist_ok=True)
+        out.write_text(digest_json, encoding='utf-8')
+        print(f"Digest written to: {out}")
+    else:
+        print(digest_json)
 
-    html_files = [rf for rf in raw_files if rf.is_html]
-    no_fm = [rf for rf in raw_files if not rf.has_frontmatter]
-    has_fm = [rf for rf in raw_files if rf.has_frontmatter]
+    # Summary to stderr
+    new = len(digest["new_files"])
+    changed = len(digest["changed_files"])
+    unchanged = len(digest["unchanged_files"])
+    orphans = len(digest["orphan_findings"])
+    html = len(digest["html_excluded"])
+    no_ingest = len(digest["no_ingest_excluded"])
+    total_valid = new + changed + unchanged
 
-    print(f"  - With frontmatter:        {len(has_fm)}")
-    print(f"  - Without frontmatter:     {len(no_fm)}")
-    print(f"  - HTML scrapes (skipped):  {len(html_files)}")
+    print(f"\n{'='*60}", file=sys.stderr)
+    print(f"Substrate Ingest Digest", file=sys.stderr)
+    print(f"  Raw files scanned:    {digest['raw_scanned']}", file=sys.stderr)
+    print(f"  Valid (non-HTML):     {total_valid}", file=sys.stderr)
+    print(f"  New:                  {new}", file=sys.stderr)
+    print(f"  Changed (drift):      {changed}", file=sys.stderr)
+    print(f"  Unchanged:            {unchanged}", file=sys.stderr)
+    print(f"  HTML excluded:        {html}", file=sys.stderr)
+    print(f"  no-ingest excluded:   {no_ingest}", file=sys.stderr)
+    print(f"  Orphan findings:      {orphans}", file=sys.stderr)
+    print(f"{'='*60}", file=sys.stderr)
 
-    if html_files:
-        print("\n  HTML files (excluded from pipeline):")
-        for hf in html_files:
-            print(f"    - {hf.filename}")
+    if orphans > 0:
+        print(f"\nNOTE: {orphans} orphaned finding(s) detected. Agent will decide whether to remove them.", file=sys.stderr)
 
-    valid_files = [rf for rf in raw_files if not rf.is_html]
-
-    # 2. Auto-tag files that don't already have tags
-    for rf in valid_files:
-        if not rf.tags:
-            rf.tags = auto_tag(rf.body, rf.title)
-
-    # 3. Discover cross-references
-    related_map = find_related(valid_files)
-
-    # 4. Write findings
-    findings_written = 0
-    topic_index = defaultdict(list)
-
-    for rf in valid_files:
-        fm = {
-            'title': rf.title,
-            'tags': rf.tags,
-            'related': ['[[' + slug + ']]' for slug in related_map.get(rf.stem, [])],
-            'source': f'research/raw/{rf.filename}',
-        }
-
-        output = yaml_dump(fm) + '\n\n' + rf.body.lstrip('\n')
-        out_path = find_dir / f"{rf.stem}.md"
-
-        if dry_run:
-            print(f"\n[Dry-run] Would write: {out_path}")
-            print(f"  Frontmatter: {fm}")
-            findings_written += 1
-        else:
-            out_path.write_text(output, encoding='utf-8')
-            print(f"Wrote finding: {out_path}")
-            findings_written += 1
-
-        # Track topic mentions for promotion
-        for other in valid_files:
-            if other.stem == rf.stem:
-                continue
-            other_concept = other.stem.replace('-', ' ').lower()
-            if other_concept in rf.body.lower():
-                topic_index[other.stem].append(rf.stem)
-
-    print(f"\nWrote {findings_written} findings to {find_dir}")
-
-    # 5. Promote to insights/ — when a topic appears in 2+ findings
-    promoted = 0
-    for stem, mentioned_by in topic_index.items():
-        if len(mentioned_by) >= 2:
-            canon = next((rf for rf in valid_files if rf.stem == stem), None)
-
-            if canon and find_dir.exists():
-                insight_filename = f"{canon.stem}.md"
-
-                person_indicators = {'person', 'philosopher', 'researcher', 'scientist', 'engineer', 'author', 'developer'}
-
-                is_entity = bool(person_indicators & set(canon.tags)) or any(
-                    kw in canon.title.lower() for kw in ['production system', 'philosophy', 'theorem']
-                )
-
-                if is_entity:
-                    insight_path = insights_dir / 'entities' / insight_filename
-                else:
-                    insight_path = insights_dir / 'concepts' / insight_filename
-
-                if insight_path.exists() and not dry_run:
-                    continue
-
-                related = ['[[' + s + ']]' for s in related_map.get(stem, [])[:4]]
-                insight_fm = {
-                    'title': canon.title,
-                    'tags': canon.tags,
-                    'related': related,
-                    'source': canon.source,
-                }
-
-                insight_body = yaml_dump(insight_fm) + '\n\n' + canon.body.lstrip('\n')
-
-                if dry_run:
-                    print(f"\n[Dry-run] Would promote: {insight_path}")
-                    print(f"  Mentioned in {len(mentioned_by)} findings: {', '.join(mentioned_by)}")
-                else:
-                    insight_path.write_text(insight_body, encoding='utf-8')
-                    print(f"Promoted to insight: {insight_path}")
-                promoted += 1
-
-    print(f"Promoted {promoted} files to insights/")
-
-    # 6. Summary
-    print(f"\n{'='*60}")
-    print(f"Ingest complete.")
-    print(f"  Raw files read:    {len(valid_files)}")
-    print(f"  HTML skipped:      {len(html_files)}")
-    print(f"  Findings written:  {findings_written}")
-    print(f"  Insights promoted: {promoted}")
-    print(f"{'='*60}")
+    sys.exit(0)
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='Ansible knowledge ingest pipeline')
-    parser.add_argument('--repo', default='.', help='Path to ansible repo root')
-    parser.add_argument('--dry-run', action='store_true', help='Show what would be done without writing')
+    parser = argparse.ArgumentParser(description='Substrate ingest digest generator')
+    parser.add_argument('--repo', default='.', help='Path to substrate repo root')
+    parser.add_argument('--output', default=None, help='Path to write digest JSON (default: stdout)')
     args = parser.parse_args()
 
-    main(args.repo, args.dry_run)
+    main(args.repo, args.output)
