@@ -5,6 +5,20 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-05-05] create | Kanban Doctrine
+- Source: research/raw/auftragstaktik-mission-command.md
+- File created: insights/concepts/kanban-doctrine.md (133 lines, ~5.5KB)
+- Content: Seven principles drawn from Auftragstaktik mapped to our Kanban operating model
+  1. Commander's Intent (the "Why")
+  2. Kanban vs delegate_task decision rules
+  3. Backbrief and metadata schema
+  4. Disciplined Initiative
+  5. Shared Mental Models via Substrate
+  6. Stop-the-Line Authority (kanban_block)
+  7. Speed over Perfect Coordination
+- Cross-references: [[auftragstaktik-mission-command]], [[agentic-architecture]], [[toyota-production-system]], [[research/raw/hermes-kanban-deep-dive]]
+- Commit: 37ef008 on main
+
 ## [2026-05-04] no-op | Daily synthesis — no new/changed sources
 - Ingest: 311 files scanned, 0 new, 0 changed, 0 orphan findings
 - No synthesis required. Exiting cleanly.
