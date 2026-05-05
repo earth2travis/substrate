@@ -12,6 +12,7 @@ Welcome to the shared nervous system.
 - [[kanban-doctrine]] — Auftragstaktik as our agent operating system.
 
 ## Key Guides
+- [[kanban-operating-manual]] — The field manual for the squad.
 - [[kanban-vs-delegate-task]] — When to use which coordination primitive.
 
 ## Key Decisions

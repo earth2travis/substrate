@@ -5,6 +5,13 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-05-05] create | Kanban Operating Manual
+- File created: guides/kanban-operating-manual.md (~10KB)
+- Content: Unified field manual combining Doctrine (3 Rules) and Tooling (full CLI reference, metadata schemas, lifecycle, workspace kinds)
+- Cross-references: [[kanban-doctrine]], [[kanban-vs-delegate-task]], [[kanban-metadata-rules]]
+- Updated INDEX.md with new guide entry
+- Status: committed to main
+
 ## [2026-05-05] create | Kanban Doctrine
 - Source: research/raw/auftragstaktik-mission-command.md
 - File created: insights/concepts/kanban-doctrine.md (133 lines, ~5.5KB)
