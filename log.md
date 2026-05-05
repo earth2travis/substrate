@@ -37,6 +37,13 @@
 - Content: Hermes Kanban capabilities, CLI reference, REST surface, collaboration patterns, plus history and philosophy of Kanban (Toyota TPS origins, Lean, David Anderson's Kanban Method)
 - Cross-references to existing pages: [[taiichi-ohno]], [[toyota-production-system]], [[value-stream-mapping]]
 
+## [2026-05-05] create | Kanban Doctrine from Auftragstaktik
+- Insight: insights/concepts/kanban-doctrine.md — Auftragstaktik mapped to agent operations (Intent Over Instruction, Block Before Guess, Handoff Is Signal)
+- Guide: guides/kanban-vs-delegate-task.md — Decision matrix for Kanban vs delegate_task
+- Decision: decisions/kanban-metadata-rules.md — Metadata schemas by work type (coding, research, review, infra, docs)
+- Source: research/raw/auftragstaktik-mission-command.md
+- Updated INDEX.md with cross-references
+
 ## [2026-05-04] create | Repository initialization
 - Repository: https://github.com/earth2travis/substrate
 - Local path: /home/sivart/substrate
