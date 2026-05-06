@@ -1,7 +1,7 @@
 ---
 title: "The OpenClaw Lesson: Security as Foundation"
 tags: [concept, agent, security, platform, evolution, infrastructure]
-related: [[harness-engineering]], [[dark-factory]], [[lean-software-delivery]], [[cloudflare-first-agent-factory]], [[openclaw]], [[hermes-agent]], [[clawhavoc-security-crisis]], [[nous-research]]
+related: [[harness-engineering]], [[dark-factory]], [[lean-software-delivery]], [[cloudflare-first-agent-factory]], [[openclaw]], [[hermes-agent]], [[clawhavoc-security-crisis]], [[nous-research]], [[context-stack]], [[agent-memory]]
 source: insights/concepts/the-openclaw-lesson.md
 ---
 

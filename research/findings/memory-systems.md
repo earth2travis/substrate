@@ -1,7 +1,7 @@
 ---
 title: "Agent Memory Systems: Taxonomy and Tradeoffs"
 tags: [agent, memory, architecture, infrastructure, ai]
-related: [[agent-architectures]], [[agentic-systems-synthesis]], [[llm-wiki-pattern]]
+related: [[agent-architectures]], [[agentic-systems-synthesis]], [[llm-wiki-pattern]], [[context-stack]], [[agent-memory]]
 source: research/raw/memory-systems.md
 ---
 
