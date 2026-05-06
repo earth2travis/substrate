@@ -1,3 +1,10 @@
+---
+title: "Agentic Audit Patterns — Synthesis"
+source_url: ""
+ingested: 2026-05-01
+sha256: c511707e5e318eb8144914a173ca3ddd4c42c7b83d9aafcd947f7ce689a05cec
+---
+
 # Agentic Audit Patterns — Synthesis
 
 ## The Core Problem

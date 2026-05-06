@@ -1,3 +1,10 @@
+---
+title: "Synthweave Technical Summary"
+source_url: ""
+ingested: 2026-05-01
+sha256: d3cba39f8db7dcd4c2a557bd2327a7448c2a086d5be1dd6adc5530c330e6bc4a
+---
+
 # Synthweave Technical Summary
 
 ## 1. MCP Server

@@ -1,3 +1,10 @@
+---
+title: "The Full Tutorial: 6 AI Agents That Run a Company — How I Built Them From Scratch"
+source_url: ""
+ingested: 2026-05-01
+sha256: 91d808f08950372148d2e77a21d02fed9accb4b2d5dc359ce7e4ead5b57fbb7d
+---
+
 # The Full Tutorial: 6 AI Agents That Run a Company — How I Built Them From Scratch
 
 My last post blew up — 600K views, 2,400 likes. The most common reply? "I get it, but I couldn't build it myself." So I wrote the build guide. 5,600 words, every step, nothing hidden. You don't need to know how to code — just how to talk to an AI coding assistant.

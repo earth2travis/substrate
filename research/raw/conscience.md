@@ -1,3 +1,10 @@
+---
+title: "Conscience: A Deep Research Survey"
+source_url: ""
+ingested: 2026-05-01
+sha256: 542c7e728885daeaeb7a04c4ac51366336e7a3a6296614bd4fada20f4bac1e56
+---
+
 # Conscience: A Deep Research Survey
 
 **Researched:** 2026-04-03

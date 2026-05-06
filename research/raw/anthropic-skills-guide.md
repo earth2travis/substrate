@@ -1,3 +1,10 @@
+---
+title: "The Complete Guide to Building Skills for Claude"
+source_url: ""
+ingested: 2026-05-01
+sha256: 3da300f60caf0b559c900a025ed4e1f23a11ed97daf964f07faa6f38aeddf921
+---
+
 # The Complete Guide to Building Skills for Claude
 ## Source: Anthropic (resources.anthropic.com)
 ## Extracted: 2025-07-17

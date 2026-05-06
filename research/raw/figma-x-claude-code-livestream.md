@@ -1,3 +1,10 @@
+---
+title: "Figma x Claude Code Live: Roundtrip Workflows with Figma MCP"
+source_url: ""
+ingested: 2026-05-01
+sha256: 2afd91fe6470f71f7e09078d8fcc1a2dc45389e07356118733f42aeaf095289f
+---
+
 # Figma x Claude Code Live: Roundtrip Workflows with Figma MCP
 
 **Source:** https://www.youtube.com/watch?v=R9mBpeiCMM0

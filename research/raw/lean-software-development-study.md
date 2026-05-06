@@ -1,3 +1,10 @@
+---
+title: "Deep Research: Applying Lean Manufacturing Concepts to Software Development"
+source_url: ""
+ingested: 2026-05-01
+sha256: dc27dddb8d5e19057bd8c68e5f21473aa026fc9c5234099c1886d5654d9c4018
+---
+
 # Deep Research: Applying Lean Manufacturing Concepts to Software Development
 
 ## Executive Summary

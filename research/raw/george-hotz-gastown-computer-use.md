@@ -1,3 +1,10 @@
+---
+title: "George Hotz | Programming | Welcome to Gas Town and the future of Computer Use"
+source_url: ""
+ingested: 2026-05-01
+sha256: 8e2a53c051de7fa2db9e7f55e3ccbd6cd3905fc6f33d1ef279c36aa9051055b4
+---
+
 # George Hotz | Programming | Welcome to Gas Town and the future of Computer Use
 
 **Source:** [YouTube – Agentic AI Part 1](https://www.youtube.com/watch?v=awOxxHnsiv0)  

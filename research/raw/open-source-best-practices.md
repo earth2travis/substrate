@@ -1,3 +1,10 @@
+---
+title: "Open Source: History, Philosophy, and Best Practices for Repository Management"
+source_url: ""
+ingested: 2026-05-01
+sha256: e702b3c88c1feb92ee7f1428c6838a6b2510178f7b577b686fdf3bc757c51020
+---
+
 # Open Source: History, Philosophy, and Best Practices for Repository Management
 
 A research document for the Sivart project. Written to understand where open source came from, what makes it work, and what we should adopt as a small team building something that could grow.

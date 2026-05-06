@@ -1,3 +1,10 @@
+---
+title: "Anthropic Interviewer: What 81,000 People Want from AI"
+source_url: ""
+ingested: 2026-05-01
+sha256: ff9b8219bfa4d6b9882909660504257a4d5717ccb36ef9cfd6a80a66ae2908cb
+---
+
 # Anthropic Interviewer: What 81,000 People Want from AI
 
 **Sources:**

@@ -1,3 +1,10 @@
+---
+title: "Synthesis: What Should We Actually Build?"
+source_url: ""
+ingested: 2026-05-01
+sha256: 497c87d5f010cf4f3b941dcb5271eb36193b6cf0d39d4730acac70d2b1aa4feb
+---
+
 # Synthesis: What Should We Actually Build?
 
 ## Current State Assessment

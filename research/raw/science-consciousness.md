@@ -1,3 +1,10 @@
+---
+title: "Science & Consciousness"
+source_url: ""
+ingested: 2026-05-01
+sha256: 8f968229b91b1a4739a0516c64730fd4ef9172db666c7a4a3358e6cb0db0add8
+---
+
 # Science & Consciousness
 
 _What neuroscience, physics, and the study of consciousness reveal about the soul question._

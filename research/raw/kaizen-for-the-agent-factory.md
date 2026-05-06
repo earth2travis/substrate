@@ -1,3 +1,10 @@
+---
+title: "Insights: Kaizen for the Agent Factory"
+source_url: ""
+ingested: 2026-05-01
+sha256: 1129c1d87d4aae2571952753c9c47fcb1a083f915b42282d19f2098ad6e430a2
+---
+
 # Insights: Kaizen for the Agent Factory
 
 **Source:** `research/management/kaizen-and-continuous-improvement.md`

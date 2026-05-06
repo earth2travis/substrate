@@ -1,3 +1,10 @@
+---
+title: "Alternative Organizational Structures: Spotify, Zappos, Valve"
+source_url: ""
+ingested: 2026-05-01
+sha256: 9f131908978dfd600e815085f7e8a25f00b60370089913ddd79e4a145318f2a5
+---
+
 # Alternative Organizational Structures: Spotify, Zappos, Valve
 
 **Researched:** 2026-04-08

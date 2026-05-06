@@ -1,3 +1,10 @@
+---
+title: "Browser Automation for AI Agents: Research Overview"
+source_url: ""
+ingested: 2026-05-01
+sha256: 46a856630a0f49314aa541656c1c6a28933e1c5d618e33b6410a7b75bd5a6073
+---
+
 # Browser Automation for AI Agents: Research Overview
 
 _Research for Issue #81. Last updated: 2026-02-03._

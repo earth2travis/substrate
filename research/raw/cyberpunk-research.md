@@ -1,3 +1,10 @@
+---
+title: "Cyberpunk Research"
+source_url: ""
+ingested: 2026-05-01
+sha256: 5dacc75e520939522b74d0f764dda1e72272f1ce03740967488c01c64ccadc96
+---
+
 # Cyberpunk Research
 
 Genre research and reference material for cyberpunk fiction.

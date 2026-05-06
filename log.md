@@ -5,6 +5,10 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-05-06] no-op | Daily synthesis — no new/changed sources
+- Ingest: 311 files scanned, 0 new, 0 changed, 2 orphan findings (`five-whys.md`, `28-openclaw-mistakes.md`)
+- No synthesis required. Exiting cleanly.
+
 ## [2026-05-05] no-op | Daily synthesis — no new/changed sources
 - Ingest: 311 files scanned, 0 new, 0 changed, 2 orphan findings (false positives: stem mismatch on five-whys and 28-openclaw-mistakes)
 - No synthesis required. Exiting cleanly.
@@ -27,7 +31,7 @@
   5. Shared Mental Models via Substrate
   6. Stop-the-Line Authority (kanban_block)
   7. Speed over Perfect Coordination
-- Cross-references: [[auftragstaktik-mission-command]], [[agentic-architecture]], [[toyota-production-system]], [[research/raw/hermes-kanban-deep-dive]]
+- Cross-references: [[auftragstaktik-mission-command]], [[agentic-architecture]], [[toyota-production-system]], [[hermes-kanban-deep-dive]]
 - Commit: 37ef008 on main
 
 ## [2026-05-04] no-op | Daily synthesis — no new/changed sources

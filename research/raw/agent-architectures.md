@@ -1,3 +1,10 @@
+---
+title: "Agent Architectures"
+source_url: ""
+ingested: 2026-05-01
+sha256: d604957717b455becd1b14e4617a04ec20d3599bca9c3b197594d5f2c2252e93
+---
+
 # Agent Architectures
 
 ## The Landscape

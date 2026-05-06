@@ -1,3 +1,10 @@
+---
+title: "Prompt Caching: Deep Research"
+source_url: ""
+ingested: 2026-05-01
+sha256: 0e6371715f485f2d631a800fd6c4748b4c3135fdb0c7c8a4ed6c750b293950f1
+---
+
 # Prompt Caching: Deep Research
 
 **Date:** 2026-03-01

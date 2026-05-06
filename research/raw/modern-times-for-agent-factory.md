@@ -1,3 +1,10 @@
+---
+title: "Insights: Modern Times and the Four Crises"
+source_url: ""
+ingested: 2026-05-01
+sha256: e161cb704e68ee71a66292ee154737b8cc492d65edb8c63a53e80e6ec34141bb
+---
+
 # Insights: Modern Times and the Four Crises
 
 **Source:** `research/cyberpunk/modern-times-four-crises.md`

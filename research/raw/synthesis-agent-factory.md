@@ -1,3 +1,10 @@
+---
+title: "From Toyota to The Agent Factory"
+source_url: ""
+ingested: 2026-05-01
+sha256: 9fe5edefbbabd5439a403ccce1b7e2dbc57a21fbfac8008a865395b487ab2049
+---
+
 # From Toyota to The Agent Factory
 
 _How Toyota's factory planning process maps onto building an AI agent production system._

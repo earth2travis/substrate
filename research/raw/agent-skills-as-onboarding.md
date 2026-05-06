@@ -1,3 +1,10 @@
+---
+title: "Agent Skills as Onboarding: Research and Analysis"
+source_url: ""
+ingested: 2026-05-01
+sha256: 629d1ea8b06cc6e065c7309b70013e80495678a5a15b5dec470342b885c88659
+---
+
 # Agent Skills as Onboarding: Research and Analysis
 
 ## The Pattern: Skills First, Docs Second

@@ -1,3 +1,10 @@
+---
+title: "Heijunka: Production Leveling"
+source_url: ""
+ingested: 2026-05-01
+sha256: 76e0e4f740053c8941863402aa26c5f33c065c01898ab2ae2ac5af0ddf48b07d
+---
+
 # Heijunka: Production Leveling
 
 **Researched:** 2026-04-12

@@ -1,3 +1,10 @@
+---
+title: "Insights: Clanker Agent Deployment Patterns"
+source_url: ""
+ingested: 2026-05-01
+sha256: 9755f64b87405e9198039c6b8861bdb2eeb13dc612975bf9f6cedd00aa844e9e
+---
+
 # Insights: Clanker Agent Deployment Patterns
 
 **Source:** `research/agents/clanker-event-driven-architecture.md`

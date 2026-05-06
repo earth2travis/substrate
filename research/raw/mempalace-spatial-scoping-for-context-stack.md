@@ -1,3 +1,10 @@
+---
+title: "Insights: MemPalace Spatial Scoping for the Context Stack"
+source_url: ""
+ingested: 2026-05-01
+sha256: f466ac37e5026d0b92bc53cf1a7b172f4a53cf8601ae4bb4767315adfad163a9
+---
+
 # Insights: MemPalace Spatial Scoping for the Context Stack
 
 **Source:** `research/agents/mempalace-code-analysis.md`

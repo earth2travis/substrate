@@ -1,3 +1,10 @@
+---
+title: "Memory Is an Operating System for Attention"
+source_url: ""
+ingested: 2026-05-01
+sha256: 63785beb250e70cc8edc167ab484a1ed273378080a4f5c22fd05681e7f5208d0
+---
+
 # Memory Is an Operating System for Attention
 
 _Source: @nyk_builderz on X, March 2026. Analyzed 2025-07-17._

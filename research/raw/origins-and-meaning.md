@@ -1,3 +1,10 @@
+---
+title: "Soul Music: Origins and Meaning"
+source_url: ""
+ingested: 2026-05-01
+sha256: 75435e7043761fe7d6c5b64f7e858197b0d32ea78b9c4cbe7783153bde6748ef
+---
+
 # Soul Music: Origins and Meaning
 
 ## The Name Is a Claim

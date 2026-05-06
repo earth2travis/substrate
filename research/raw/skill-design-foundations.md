@@ -1,3 +1,10 @@
+---
+title: "Skill Design Foundations"
+source_url: ""
+ingested: 2026-05-01
+sha256: 5d48fb08cebdbefdc3d994992c83804d24b956c0edc9f4a6add0dba6276a307b
+---
+
 # Skill Design Foundations
 
 _Research notes from February 14, 2026_

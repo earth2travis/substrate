@@ -1,3 +1,10 @@
+---
+title: "Insights: Production Systems for Agent Factories"
+source_url: ""
+ingested: 2026-05-01
+sha256: bf1aae8e0a201ab3240c4bd6064923d5e62b82b0fdbb942c494bd72d630f10ab
+---
+
 # Insights: Production Systems for Agent Factories
 
 **Source:** `research/operations/production-systems-compared.md`

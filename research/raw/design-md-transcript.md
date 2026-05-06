@@ -1,3 +1,10 @@
+---
+title: "design.md: The Real Story Behind Google Stitch's Update"
+source_url: ""
+ingested: 2026-05-01
+sha256: ccdda9e086771eb7c1d7e90ccc386a09b2c6f60e5898e7dca627078beab37189
+---
+
 # design.md: The Real Story Behind Google Stitch's Update
 
 _Source: https://www.youtube.com/watch?v=FWuJZaVWhxk_

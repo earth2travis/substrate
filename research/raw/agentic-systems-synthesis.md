@@ -1,3 +1,10 @@
+---
+title: "Synthesis: Agentic Systems for Synthweave/Loom (March 2026)"
+source_url: ""
+ingested: 2026-05-01
+sha256: 7f8442545bb4550504c9b73d346ac155d53019a52d1b265e4400611c0f7683a0
+---
+
 # Synthesis: Agentic Systems for Synthweave/Loom (March 2026)
 
 ## The Three Layers

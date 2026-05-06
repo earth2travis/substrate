@@ -1,5 +1,5 @@
 ---
-title: Shusa Applied to Zookooree
+title: "Shusa Applied to Zookooree (Analysis)"
 created: 2026-04-11
 updated: 2026-04-11
 type: concept

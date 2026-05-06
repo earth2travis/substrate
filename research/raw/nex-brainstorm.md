@@ -1,3 +1,10 @@
+---
+title: "Nex AI Brainstorm: Team Agent on OpenClaw"
+source_url: ""
+ingested: 2026-05-01
+sha256: 3a9b205250b3102ec1199b2f819fdf9b18486c07ac8b1287561ad83ae75d898a
+---
+
 # Nex AI Brainstorm: Team Agent on OpenClaw
 
 _February 19, 2026. Synthweave team session._

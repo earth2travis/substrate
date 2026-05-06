@@ -1,3 +1,10 @@
+---
+title: "Microsolidarity: Five Scales"
+source_url: ""
+ingested: 2026-05-01
+sha256: b231b1336510b563580e4f4a2ac2c92f8e96e3bc7b0fb6d297b193061052b599
+---
+
 # Microsolidarity: Five Scales
 
 Source: https://www.microsolidarity.cc/essays/five-scales-of-microsolidarity

@@ -1,3 +1,10 @@
+---
+title: "Open Governance Protocol: Research Notes"
+source_url: ""
+ingested: 2026-05-01
+sha256: 7b98e68a1181e0659332dc4bca54b66b47c6a681ceeec186b416fac8570ce079
+---
+
 # Open Governance Protocol: Research Notes
 
 _March 2, 2026. Source: github.com/clawmasons/open-governance, conversation with Ξ2T's friend._

@@ -1,3 +1,10 @@
+---
+title: "Scraped Primary Sources for Stitch Prompt Skill"
+source_url: ""
+ingested: 2026-05-01
+sha256: 0ee0a426d9e367716f58eece9d1dfd9e4c24feccd7efe8a336307a0b85405ee7
+---
+
 # Scraped Primary Sources for Stitch Prompt Skill
 
 ## Source 1: Google AI Developers Forum — Official Stitch Prompt Guide

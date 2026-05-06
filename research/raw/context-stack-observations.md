@@ -1,3 +1,10 @@
+---
+title: "Context Stack Observations"
+source_url: ""
+ingested: 2026-05-01
+sha256: 07ab99333bfbff2dc359bdf331b706640301fdbf17f1ec05aa48a28476ea3b82
+---
+
 # Context Stack Observations
 
 _Living log of insights, questions, and test results as we develop the spec._

@@ -1,7 +1,7 @@
 ---
 title: "Accounting and Bookkeeping for AI-Native Operations"
 tags: [operations, finance, tooling, agents]
-related: [[hledger]], [[beancount]]
+related: [[1password-integration]], [[28-openclaw-mistakes]]
 source: research/raw/accounting-bookkeeping-research.md
 ---
 

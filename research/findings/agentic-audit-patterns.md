@@ -11,7 +11,7 @@ source: research/raw/agentic-audit-patterns.md
 
 Agentic AI systems operate with autonomy. Autonomy without accountability is dangerous. Auditing is the mechanism that maintains accountability.
 
-For personal AI agents like [[Sivart]], the stakes differ from lab-scale safety evaluations, but the principles transfer:
+For personal AI agents like Sivart, the stakes differ from lab-scale safety evaluations, but the principles transfer:
 - **Process drift**: established procedures get abandoned under pressure or over time
 - **Silent failures**: things break without anyone noticing
 - **False confidence**: "it seems to be working" is not verification

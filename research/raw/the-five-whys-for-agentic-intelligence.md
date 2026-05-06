@@ -1,3 +1,10 @@
+---
+title: "Insights: The Five Whys for Agentic Intelligence"
+source_url: ""
+ingested: 2026-05-01
+sha256: 7d2f7f390e3bfa45a130e2bcc4bdf88243c9ad79844ab83767497d0a72839cd7
+---
+
 # Insights: The Five Whys for Agentic Intelligence
 
 **Source:** `research/management/the-five-whys-root-cause-analysis.md`

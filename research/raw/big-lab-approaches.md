@@ -1,3 +1,10 @@
+---
+title: "Big Lab Approaches to Agentic Auditing"
+source_url: ""
+ingested: 2026-05-01
+sha256: 4e7f6f333bfda85fd9b979553c6dcf5d93c711403e29856913cd0fafaae2ec5c
+---
+
 # Big Lab Approaches to Agentic Auditing
 
 ## Anthropic

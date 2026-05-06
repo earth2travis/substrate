@@ -1,3 +1,10 @@
+---
+title: "Paperclip Deployment & Configuration Guide"
+source_url: ""
+ingested: 2026-05-01
+sha256: deec591b64586358aa7170d5a4b6073401d9e27edacf89a12788c635d3eddad3
+---
+
 # Paperclip Deployment & Configuration Guide
 
 Deep dive from source code analysis of [github.com/paperclipai/paperclip](https://github.com/paperclipai/paperclip).

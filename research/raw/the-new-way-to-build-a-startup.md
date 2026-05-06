@@ -1,3 +1,10 @@
+---
+title: "The New Way To Build A Startup"
+source_url: ""
+ingested: 2026-05-01
+sha256: 868fdfe84cc9d99551e6fb77607aa3c4078d316a836172e5c0d14d97e8bec569
+---
+
 # The New Way To Build A Startup
 
 **Source:** [The New Way To Build A Startup](https://youtu.be/rWUWfj_PqmM?si=pUa1Wt_WV7eTPSuJ)  

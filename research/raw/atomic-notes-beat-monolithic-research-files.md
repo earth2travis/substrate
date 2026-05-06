@@ -1,3 +1,10 @@
+---
+title: "Atomic Notes Beat Monolithic Research Files"
+source_url: ""
+ingested: 2026-05-01
+sha256: 8f88f3a98e9cf6b0f4aabe57c05105a5be767caaef4caa4cb0c5b9bc28a63cc7
+---
+
 # Atomic Notes Beat Monolithic Research Files
 
 _Pattern from claude-obsidian memory stack analysis._

@@ -1,3 +1,10 @@
+---
+title: "gstack Analysis: Garry Tan's Claude Code Workflow System"
+source_url: ""
+ingested: 2026-05-01
+sha256: 80705802bbbd9967dbc792475b06f11e7f4078178bbb29ec91643c8c1d7b0a27
+---
+
 # gstack Analysis: Garry Tan's Claude Code Workflow System
 
 **Repository:** https://github.com/garrytan/gstack

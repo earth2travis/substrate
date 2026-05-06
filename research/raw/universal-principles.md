@@ -1,3 +1,10 @@
+---
+title: "Universal Principles of Great Partnerships"
+source_url: ""
+ingested: 2026-05-01
+sha256: d8f605002ef416f091326f578611f0d66003214b129041c8d3861c5a2ca9f5e6
+---
+
 # Universal Principles of Great Partnerships
 
 Across every domain — music, business, sports, science, marriage — the same patterns emerge. These are the load-bearing principles.

@@ -1,3 +1,10 @@
+---
+title: "Case Studies: Human-AI Collaboration"
+source_url: ""
+ingested: 2026-05-01
+sha256: 15e99979c251c27aa0c43f84665e31bdf999b54ae624547d36dcd62d4a4dc677
+---
+
 # Case Studies: Human-AI Collaboration
 
 This is the emerging frontier — and the one most directly relevant to us. There's less historical data but the early signals are clear.

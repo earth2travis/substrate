@@ -1,3 +1,10 @@
+---
+title: "Loom Service Specification"
+source_url: ""
+ingested: 2026-05-01
+sha256: 5ad4261e61d03d5ae71424322566f5ec2f1ad4f756b0a06a0b6db71e756dcaf3
+---
+
 # Loom Service Specification
 
 Status: Draft v1 (language agnostic)

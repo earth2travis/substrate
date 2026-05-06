@@ -1,3 +1,10 @@
+---
+title: "Muscle Shoals: The Unlikely Epicenter"
+source_url: ""
+ingested: 2026-05-01
+sha256: a97703cc411d00f02365bc8766f49451876ef91701a1e5fc8b07bbed04e205bc
+---
+
 # Muscle Shoals: The Unlikely Epicenter
 
 ## The Paradox

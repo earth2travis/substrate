@@ -1,3 +1,10 @@
+---
+title: "Sub-Agent Architecture: OpenClaw, Big Labs, and Open Source"
+source_url: ""
+ingested: 2026-05-01
+sha256: 6c11ad538d176359ce4006669156fcf9adf52076f6f155b2484bee213721bf31
+---
+
 # Sub-Agent Architecture: OpenClaw, Big Labs, and Open Source
 
 **Researched:** 2026-04-03

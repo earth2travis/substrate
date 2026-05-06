@@ -1,7 +1,7 @@
 ---
 title: "Agentic Organization: GitHub Teams and Repository Architecture"
 tags: [agent, organization, github, governance, teams, architecture]
-related: [[agentic-architecture]], [[agent-security]], [[skills-as-onboarding]]
+related: [[agentic-architecture]], [[agent-security]], [[agent-skills-as-onboarding]]
 source: research/raw/agentic-maximization.md
 ---
 

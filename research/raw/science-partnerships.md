@@ -1,3 +1,10 @@
+---
+title: "Case Studies: Science Partnerships"
+source_url: ""
+ingested: 2026-05-01
+sha256: 8698d5a89e3ad2587bf734b45a1e7cf0c30592e01377508eaaf9f09983eef02c
+---
+
 # Case Studies: Science Partnerships
 
 ## Marie & Pierre Curie (1895–1906)

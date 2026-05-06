@@ -1,3 +1,10 @@
+---
+title: "Intercom's Claude Code Plugin Architecture"
+source_url: ""
+ingested: 2026-05-01
+sha256: c92c0e8293230a3dc8dbf2db52387adfd2b0b169cf6fc26a760f5526d06761f4
+---
+
 # Intercom's Claude Code Plugin Architecture
 
 **Source:** [Brian Scanlan thread](https://x.com/brian_scanlan/status/2033978300003987527) (March 2026)

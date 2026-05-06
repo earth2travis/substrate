@@ -1,3 +1,10 @@
+---
+title: "Insights: The Context Stack as Conscience"
+source_url: ""
+ingested: 2026-05-01
+sha256: 51cb3ca9ecfc5ae286719e88ef0ee2df7f4f7be49f436b8edd15d4bff7241a62
+---
+
 # Insights: The Context Stack as Conscience
 
 **Source:** `research/souls/conscience.md`

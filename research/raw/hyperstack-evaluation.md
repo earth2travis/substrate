@@ -1,3 +1,10 @@
+---
+title: "HyperStack: Agent Provenance Graph"
+source_url: ""
+ingested: 2026-05-01
+sha256: 00f1b7fcaa0203fdcb660bf235c63dcfe46fc732067bc862f17f3041760776f1
+---
+
 # HyperStack: Agent Provenance Graph
 
 **Evaluated:** 2026-03-01

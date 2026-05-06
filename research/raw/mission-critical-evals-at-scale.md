@@ -1,3 +1,10 @@
+---
+title: "Mission Critical Evals at Scale"
+source_url: ""
+ingested: 2026-05-01
+sha256: 808ffaf6d0020e3dc166054dd5e0091d3c65f2541d98388fcd7c0ed36db26dfb
+---
+
 # Mission Critical Evals at Scale
 
 **Source:** [Mission-Critical Evals at Scale (Learnings from 100k medical decisions)](https://www.youtube.com/watch?v=cZ5ZJy19KMo)  

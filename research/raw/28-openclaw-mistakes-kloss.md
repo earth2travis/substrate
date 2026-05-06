@@ -1,3 +1,10 @@
+---
+title: "28 Painful Mistakes Building Agent Systems"
+source_url: ""
+ingested: 2026-05-01
+sha256: be551785e15217a763190eea43bf5d49ce521ba3bdac11bce248622b101f56d5
+---
+
 # 28 Painful Mistakes Building Agent Systems
 
 **Source:** [@kloss_xyz](https://x.com/kloss_xyz/status/2032011756890177552) (March 2026)

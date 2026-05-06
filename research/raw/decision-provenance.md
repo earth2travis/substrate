@@ -1,3 +1,10 @@
+---
+title: "Decision Provenance for AI Agents"
+source_url: ""
+ingested: 2026-05-01
+sha256: e8e4ef6e03ca68c86dd140aac1adba0b3e7a10c4f7f0da5e740443bce116e54b
+---
+
 # Decision Provenance for AI Agents
 
 _Research document for Sivart's decision tracking infrastructure._

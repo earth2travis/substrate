@@ -1,3 +1,10 @@
+---
+title: "Using Google Stitch design.md with Claude Code: Practical Workflow"
+source_url: ""
+ingested: 2026-05-01
+sha256: 59af27d357988dcc401312fef268500a4a37200431def758acf5d676e3a87317
+---
+
 # Using Google Stitch design.md with Claude Code: Practical Workflow
 
 _Source: https://www.youtube.com/watch?v=sZQ7lqaOGMg_

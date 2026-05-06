@@ -1,3 +1,10 @@
+---
+title: "ERC-8004: Trustless Agents"
+source_url: ""
+ingested: 2026-05-01
+sha256: adb948f02de5fb6d1d6e7db5d7e04eedb1dfa93e523fdd70018586ccf871d70e
+---
+
 # ERC-8004: Trustless Agents
 
 _Deep dive into the Ethereum standard for agent discovery, reputation, and validation._

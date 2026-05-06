@@ -1,3 +1,10 @@
+---
+title: "Lessons from Building Claude Code Skills (Thariq Shihipar, March 2026)"
+source_url: ""
+ingested: 2026-05-01
+sha256: 3b742ee61fd93f2e12c179d0759351561f9827dbe3c92832992bbcee8914e48b
+---
+
 # Lessons from Building Claude Code Skills (Thariq Shihipar, March 2026)
 
 Source: https://x.com/trq212/status/2033949937936085378

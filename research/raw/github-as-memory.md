@@ -1,3 +1,10 @@
+---
+title: "GitHub as Memory: Pushing the Concept Forward"
+source_url: ""
+ingested: 2026-05-01
+sha256: 515c5f159b3b8ed025b255af50e03ede09a5a75180dcd4b144c8982ff03d918c
+---
+
 # GitHub as Memory: Pushing the Concept Forward
 
 _Research for #432. Conducted 2026-03-31._

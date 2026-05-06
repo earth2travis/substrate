@@ -1,3 +1,10 @@
+---
+title: "Agents Need Writing for the Same Reason Humans Do"
+source_url: ""
+ingested: 2026-05-01
+sha256: 82203042979a08a5349ea82d47419d8eef87b4f9cec6f05bfb2aa99b71b2b5ed
+---
+
 # Agents Need Writing for the Same Reason Humans Do
 
 _Key quotes from @nyk_builderz analysis._

@@ -1,3 +1,10 @@
+---
+title: "OpenAI Frontier and the Rise of Harness Engineering"
+source_url: ""
+ingested: 2026-05-01
+sha256: e5efaa7f2fe0392a566be7d32cb3e36fd49956d58c6bb65323f4ac84797d211a
+---
+
 # OpenAI Frontier and the Rise of Harness Engineering
 
 **Researched:** 2026-04-08

@@ -1,3 +1,10 @@
+---
+title: "Google Stitch March 2026 Update: Full Walkthrough"
+source_url: ""
+ingested: 2026-05-01
+sha256: cc39046530868fe08f89d7c75837e0ac93adc5b46d9d148bfe5c4c718ae7e055
+---
+
 # Google Stitch March 2026 Update: Full Walkthrough
 
 _Source: https://www.youtube.com/watch?v=J7XpscQqCYw_

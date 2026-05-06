@@ -1,3 +1,10 @@
+---
+title: "1Password Integration for AI Agent Credential Management"
+source_url: ""
+ingested: 2026-05-01
+sha256: c065e32ae3c4e986c3fcc7934283c779aa46ef6eb0c7ba40cec6de81f8c74c21
+---
+
 # 1Password Integration for AI Agent Credential Management
 
 _Supporting document for the Agent OpSec research (Issue #53)._

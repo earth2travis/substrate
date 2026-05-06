@@ -1,3 +1,10 @@
+---
+title: "Case Studies: Marriages and Relationships"
+source_url: ""
+ingested: 2026-05-01
+sha256: 898d5e4765b5cc0c4b9ef2a0404ee6f01e99aa2cf6b9a2f4285485ebeb234306
+---
+
 # Case Studies: Marriages and Relationships
 
 This isn't about romance — it's about what 40+ years of relationship science tells us about how two people sustain a partnership over time. The principles apply to any enduring two-person relationship.

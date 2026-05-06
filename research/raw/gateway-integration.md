@@ -1,3 +1,10 @@
+---
+title: "Paperclip ↔ OpenClaw Gateway Integration"
+source_url: ""
+ingested: 2026-05-01
+sha256: 2506d10c01ebed40064d4f9de0525042c9c10a3e57828b9667a1da411de6da51
+---
+
 # Paperclip ↔ OpenClaw Gateway Integration
 
 ## Status: CONNECTED ✅

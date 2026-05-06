@@ -1,3 +1,10 @@
+---
+title: "Interchangeable Context: What Ford's Revolution Predicts About Agent Production"
+source_url: ""
+ingested: 2026-05-01
+sha256: bf288fe77864072d066f3c30aa5b9b473edf341c98c69a5a053e02df1c7af19d
+---
+
 # Interchangeable Context: What Ford's Revolution Predicts About Agent Production
 
 **Written:** 2026-04-03

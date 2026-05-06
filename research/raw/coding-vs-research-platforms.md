@@ -1,3 +1,10 @@
+---
+title: "Coding vs. Research: The OpenClaw vs. Hermes Divide"
+source_url: ""
+ingested: 2026-05-01
+sha256: d2b0fe6153e6be5d785b2d81b849b1c794af4c7dac7a601703ef63f72af35ed7
+---
+
 # Coding vs. Research: The OpenClaw vs. Hermes Divide
 
 **Researched:** 2026-04-11

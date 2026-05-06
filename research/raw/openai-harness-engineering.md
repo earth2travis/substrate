@@ -1,3 +1,10 @@
+---
+title: "Harness engineering: leveraging Codex in an agent-first world"
+source_url: ""
+ingested: 2026-05-01
+sha256: 45522e8c3b7bc430a722b4d82aec1693fabed6c469f2f0ad95d7403f8a6d7be4
+---
+
 # Harness engineering: leveraging Codex in an agent-first world
 **Source URL:** https://openai.com/index/harness-engineering/
 **Date:** February 11, 2026

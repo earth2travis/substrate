@@ -1,3 +1,10 @@
+---
+title: "GitHub and Open Source Best Practices"
+source_url: ""
+ingested: 2026-05-01
+sha256: cab32a56b342d8ed0a749f122c26ddd6002afb8b6fdf520ada41b8bb24f30360
+---
+
 # GitHub and Open Source Best Practices
 
 A comprehensive guide for human-AI collaborative development. This document establishes standards we believe are right for transparent, maintainable, and welcoming open source projects.

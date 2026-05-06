@@ -1,3 +1,10 @@
+---
+title: "Best Practices for Writing Effective UX Research Scenarios"
+source_url: ""
+ingested: 2026-05-01
+sha256: b27517de62eed890b0615220696c744f2197070ffa11cc603175ba6d58338b2c
+---
+
 # Best Practices for Writing Effective UX Research Scenarios
 
 ## Synthesized from Authoritative Sources

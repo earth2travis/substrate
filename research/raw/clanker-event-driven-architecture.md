@@ -1,3 +1,10 @@
+---
+title: "Clanker: Event-Driven Agent Architecture"
+source_url: ""
+ingested: 2026-05-01
+sha256: a81753e212458ab4c071760f704fded6113d4b74f1b5072c7121eb074e277d2d
+---
+
 # Clanker: Event-Driven Agent Architecture
 
 **Source:** https://x.com/JackDishman/status/2039452216730222969

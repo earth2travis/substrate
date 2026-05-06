@@ -1,3 +1,10 @@
+---
+title: "Hermes Agent Self-Evolution Framework Analysis"
+source_url: ""
+ingested: 2026-05-01
+sha256: aedb0bf91165e10706804ed75f9e0958cec710f426e5521d950467415684861c
+---
+
 # Hermes Agent Self-Evolution Framework Analysis
 
 **Repository:** [NousResearch/hermes-agent-self-evolution](https://github.com/NousResearch/hermes-agent-self-evolution)

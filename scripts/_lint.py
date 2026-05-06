@@ -257,10 +257,14 @@ def validate_file(path: Path, repo: Path, all_titles: dict[str, list[str]]) -> l
     raw = is_raw_file(path, repo)
 
     # Rule: fm-missing
+    rel = path.relative_to(repo)
     if not has_fm:
-        if structured:
+        # Root files (SCHEMA.md, INDEX.md, etc.) are exempt
+        if len(rel.parts) == 1:
+            pass
+        elif structured:
             violations.append(Violation(
-                file=str(path.relative_to(repo)),
+                file=str(rel),
                 rule="fm-missing",
                 severity="ERROR",
                 message="No YAML frontmatter block found.",
@@ -268,7 +272,7 @@ def validate_file(path: Path, repo: Path, all_titles: dict[str, list[str]]) -> l
             ))
         else:
             violations.append(Violation(
-                file=str(path.relative_to(repo)),
+                file=str(rel),
                 rule="fm-missing",
                 severity="WARNING",
                 message="No YAML frontmatter block found. Agent should add during ingest.",
@@ -298,18 +302,25 @@ def validate_file(path: Path, repo: Path, all_titles: dict[str, list[str]]) -> l
                 ))
         else:
             # Rule: duplicate-title
+            # Only flag duplicates WITHIN the same layer. Cross-layer duplicates
+            # (insights ↔ findings ↔ raw) are structurally correct.
             title_normalized = title.strip().lower()
             if title_normalized in all_titles and len(all_titles[title_normalized]) > 1:
-                # Only report once per duplicate group (lowest path first)
-                if str(path.relative_to(repo)) == min(all_titles[title_normalized]):
-                    others = [p for p in all_titles[title_normalized] if p != str(path.relative_to(repo))]
-                    violations.append(Violation(
-                        file=str(path.relative_to(repo)),
-                        rule="duplicate-title",
-                        severity="ERROR",
-                        message=f"Duplicate title with: {', '.join(others)}",
-                        fixable=False,
-                    ))
+                this_path = str(rel)
+                this_dir = Path(this_path).parent.name
+                same_layer = [
+                    p for p in all_titles[title_normalized]
+                    if p != this_path and Path(p).parent.name == this_dir
+                ]
+                if same_layer:
+                    if this_path == min(all_titles[title_normalized]):
+                        violations.append(Violation(
+                            file=this_path,
+                            rule="duplicate-title",
+                            severity="ERROR",
+                            message=f"Duplicate title with: {', '.join(same_layer)}",
+                            fixable=False,
+                        ))
 
     # Rule: fm-tags-empty
     tags = fm.get('tags', None) if has_fm else None
@@ -334,7 +345,7 @@ def validate_file(path: Path, repo: Path, all_titles: dict[str, list[str]]) -> l
 
     # Rule: fm-related-missing
     related = fm.get('related', None) if has_fm else None
-    if structured and has_fm:
+    if structured and has_fm and not str(rel).startswith(SPECS_DIR + '/'):
         if related is None:
             violations.append(Violation(
                 file=str(path.relative_to(repo)),
@@ -353,11 +364,12 @@ def validate_file(path: Path, repo: Path, all_titles: dict[str, list[str]]) -> l
             ))
 
     # Rule: naming-convention
+    # Root files are exempt from kebab-case enforcement
     filename = path.name
-    if '_' in filename or ' ' in filename or any(c.isupper() for c in filename):
+    if len(rel.parts) > 1 and ('_' in filename or ' ' in filename or any(c.isupper() for c in filename)):
         new_name = filename.replace('_', '-').replace(' ', '-').lower()
         violations.append(Violation(
-            file=str(path.relative_to(repo)),
+            file=str(rel),
             rule="naming-convention",
             severity="ERROR",
             message=f"Filename violates kebab-case. Suggest: {new_name}",
@@ -495,6 +507,10 @@ def find_broken_fm_related_links(all_files: list[Path], repo: Path) -> list[Viol
             if not item:
                 continue
 
+            # Clean up bracket artifacts from bare bracket list parsing
+            # e.g. "toyota-production-system]]" or "[[a3-thinking"
+            item = item.lstrip('[').rstrip(']')
+
             # Extract target from [[target|alias]] or bare target
             target = item
             m = re.match(r'^\[\[([^\]|\n]+)(?:\|[^\]]+)?\]\]$', item)
@@ -540,7 +556,10 @@ def find_broken_fm_related_links(all_files: list[Path], repo: Path) -> list[Viol
 # ---------------------------------------------------------------------------
 
 def find_orphan_findings(repo: Path) -> list[Violation]:
-    """Find findings whose raw source no longer exists."""
+    """Find findings whose raw source no longer exists.
+    Checks the `source:` frontmatter field first. If absent, falls back to
+    stem-based matching with prefix and numeric-normalization tolerance.
+    """
     violations = []
     raw_dir = repo / RAW_DIR
     findings_dir = repo / FINDINGS_DIR
@@ -548,18 +567,62 @@ def find_orphan_findings(repo: Path) -> list[Violation]:
     if not raw_dir.exists() or not findings_dir.exists():
         return violations
 
-    raw_stems = {p.stem.lower() for p in raw_dir.glob('*.md')}
+    raw_stems = {p.stem.lower(): p for p in raw_dir.glob('*.md')}
+
+    num_map = {
+        'one': '1', 'two': '2', 'three': '3', 'four': '4', 'five': '5',
+        'six': '6', 'seven': '7', 'eight': '8', 'nine': '9', 'ten': '10',
+    }
+
+    def normalize(s: str) -> str:
+        for word, digit in num_map.items():
+            s = s.replace(word, digit)
+        return s
 
     for finding in findings_dir.glob('*.md'):
+        text = finding.read_text(encoding='utf-8', errors='replace')
+        fm, _, has_fm = extract_frontmatter(text)
         stem = finding.stem.lower()
-        if stem not in raw_stems:
-            violations.append(Violation(
-                file=str(finding.relative_to(repo)),
-                rule="orphan-finding",
-                severity="WARNING",
-                message=f"Finding has no matching raw source ({stem}.md not found in {RAW_DIR}/)",
-                fixable=False,
-            ))
+
+        # Primary check: source: field points to existing raw file
+        if has_fm and fm and fm.get('source'):
+            source_val = fm['source']
+            sources = source_val if isinstance(source_val, list) else [source_val]
+            source_found = False
+            for src in sources:
+                source_path = repo / src
+                if source_path.exists():
+                    source_found = True
+                    break
+            if source_found:
+                continue
+
+        # Fallback: exact stem match
+        if stem in raw_stems:
+            continue
+
+        # Fallback: prefix match (e.g., 28-openclaw-mistakes matches 28-openclaw-mistakes-kloss)
+        if any(rs.startswith(stem + '-') for rs in raw_stems):
+            continue
+
+        # Fallback: reverse prefix match
+        if any(stem.startswith(rs + '-') for rs in raw_stems):
+            continue
+
+        # Fallback: numeric normalization (e.g., five-whys -> 5-whys)
+        normalized = normalize(stem)
+        if normalized in raw_stems:
+            continue
+        if any(normalize(rs) == normalized for rs in raw_stems):
+            continue
+
+        violations.append(Violation(
+            file=str(finding.relative_to(repo)),
+            rule="orphan-finding",
+            severity="WARNING",
+            message=f"Finding has no matching raw source ({stem}.md not found in {RAW_DIR}/)",
+            fixable=False,
+        ))
 
     return violations
 

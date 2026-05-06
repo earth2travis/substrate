@@ -1,3 +1,10 @@
+---
+title: "Cost And Roadmap"
+source_url: ""
+ingested: 2026-05-01
+sha256: de9bd4197d8422947cc475c30b714f1346ed67de510b5f8cd1721086e0aa4177
+---
+
 ## 4. Cost Projections
 
 ### Base Cost: Team Plan at $4/user/month

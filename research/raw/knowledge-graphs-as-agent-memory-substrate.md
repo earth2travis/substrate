@@ -1,3 +1,10 @@
+---
+title: "Typed Knowledge Graphs for AI Agents"
+source_url: ""
+ingested: 2026-05-01
+sha256: d832248d414eda7941ff512c5088227c9975caf5254cd98e3bd8f6dbac99b5c3
+---
+
 # Typed Knowledge Graphs for AI Agents
 
 _Research document for Sivart's memory architecture evolution._

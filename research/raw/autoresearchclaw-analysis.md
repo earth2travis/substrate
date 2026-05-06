@@ -1,3 +1,10 @@
+---
+title: "AutoResearchClaw: Deep Analysis for Experiment Driven Development"
+source_url: ""
+ingested: 2026-05-01
+sha256: c7d2e7b83823626d0a1c22857eb1593a883a8b364fafeda11c87828ce26eb008
+---
+
 # AutoResearchClaw: Deep Analysis for Experiment Driven Development
 
 **Repository:** [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw)

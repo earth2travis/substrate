@@ -1,3 +1,10 @@
+---
+title: "Email Management Research: AI-First Inbox Strategy"
+source_url: ""
+ingested: 2026-05-01
+sha256: e311af33c25978e37291b0df2a681fe7d04de5c9ce4d5ebfcb9c651ace955c36
+---
+
 # Email Management Research: AI-First Inbox Strategy
 
 _Research compiled February 2, 2026. For the <email> shared inbox._

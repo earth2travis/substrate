@@ -1,3 +1,10 @@
+---
+title: "Research: GitHub Project Management"
+source_url: ""
+ingested: 2026-05-01
+sha256: c1118ce07e0cdb0c600299bcd0414d85877cd515996f750d8de5956db9974ebf
+---
+
 # Research: GitHub Project Management
 
 How to use GitHub's built-in tools — Issues, Projects, Labels, Milestones — to manage work for a two-person team (Ξ2T × Sivart).

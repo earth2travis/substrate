@@ -1,3 +1,10 @@
+---
+title: "Insights: The McKinsey 7-S Framework"
+source_url: ""
+ingested: 2026-05-01
+sha256: caa4eea0dcc8aa45dd62565f18a56d84c7668e2011623819f113e170312032bf
+---
+
 # Insights: The McKinsey 7-S Framework
 
 **Source:** `research/management/mckinsey-7s-framework.md`

@@ -1,3 +1,10 @@
+---
+title: "Paperclip patterns worth adopting for Synthweave"
+source_url: ""
+ingested: 2026-05-01
+sha256: b07b33453fa3c8587810658ceb0e6ca3158a5cd00425d2d7705190838a8639c8
+---
+
 # Paperclip patterns worth adopting for Synthweave
 
 **Source:** research/paperclip/analysis.md

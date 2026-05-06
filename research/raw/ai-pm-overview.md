@@ -1,3 +1,10 @@
+---
+title: "AI Product Management Research"
+source_url: ""
+ingested: 2026-05-01
+sha256: 7b1601f3d46cf5f1bba7cca16aee6636cfc7c3de79ab9332ca6027addda216b5
+---
+
 # AI Product Management Research
 
 **Mission: Become the greatest AI PM of all time.**

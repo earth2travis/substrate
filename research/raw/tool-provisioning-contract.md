@@ -1,3 +1,10 @@
+---
+title: "Tool Provisioning Contract"
+source_url: ""
+ingested: 2026-05-01
+sha256: d4e558fac6a5f3955121985a6d003eefc0df22fdb1efe5a4d268a2534f8ef44d
+---
+
 # Tool Provisioning Contract
 
 Status: Draft v1

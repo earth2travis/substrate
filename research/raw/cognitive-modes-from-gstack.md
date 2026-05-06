@@ -1,3 +1,10 @@
+---
+title: "Cognitive Modes Pattern (from gstack)"
+source_url: ""
+ingested: 2026-05-01
+sha256: e75d8013daab3f99e2de9125d7ce8b159109a0505e594c7ab1c18c1e9ad9749f
+---
+
 # Cognitive Modes Pattern (from gstack)
 
 **Source:** [github.com/garrytan/gstack](https://github.com/garrytan/gstack) (Garry Tan, YC President)

@@ -1,3 +1,10 @@
+---
+title: "Claude Code: Complete Capabilities Guide"
+source_url: ""
+ingested: 2026-05-01
+sha256: ebb1d48b06504c20f25046e29c99bacd6cbf8981b1cf5c69459fb6e7828174dd
+---
+
 # Claude Code: Complete Capabilities Guide
 
 _Research compiled February 24, 2026 for [[Ξ2T]]'s primary development tool._

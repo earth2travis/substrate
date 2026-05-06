@@ -1,3 +1,10 @@
+---
+title: "The Context Stack"
+source_url: ""
+ingested: 2026-05-01
+sha256: 6d225908b33a54111cb3388e1ff0c1e399b6c854d757ae0d40817d9d867d4710
+---
+
 # The Context Stack
 
 _A universal specification for representing individuals and organizations as machine-readable context._

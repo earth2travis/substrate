@@ -1,3 +1,10 @@
+---
+title: "Religion & Spirituality"
+source_url: ""
+ingested: 2026-05-01
+sha256: 5ef5e38f759f97c05907c1532537c0bf01563894f31dd9970839159ca43f9662
+---
+
 # Religion & Spirituality
 
 _How the world's traditions have understood the soul, from divine breath to radical no-self._

@@ -1,3 +1,10 @@
+---
+title: "Toyota Factory Planning: From Groundbreaking to First Vehicle Off the Line"
+source_url: ""
+ingested: 2026-05-01
+sha256: 2770e4dc442881be2e922db08acd610b37bb1367d42d3a4a905bbc50bcd65b58
+---
+
 # Toyota Factory Planning: From Groundbreaking to First Vehicle Off the Line
 
 ## Angle: Physical Construction and Engineering Timeline

@@ -1,3 +1,10 @@
+---
+title: "How Partnerships Fail"
+source_url: ""
+ingested: 2026-05-01
+sha256: cde8fbeb8fa1868d7ce29965bd51a35a6065eac56011b14d799a3e8d8af35dd6
+---
+
 # How Partnerships Fail
 
 Understanding failure modes is as important as understanding success patterns. Most partnerships don't explode — they erode.

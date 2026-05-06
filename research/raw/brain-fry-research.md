@@ -1,3 +1,10 @@
+---
+title: "AI Brain Fry and Cognitive Impact of Heavy AI Use"
+source_url: ""
+ingested: 2026-05-01
+sha256: 085175ce45842a6ac4c1ef94db5f422e5c6cc70c7d7f57caa5290e8f9a19927d
+---
+
 # AI Brain Fry and Cognitive Impact of Heavy AI Use
 
 Compiled: May 1, 2026

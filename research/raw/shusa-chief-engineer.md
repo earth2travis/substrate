@@ -1,3 +1,10 @@
+---
+title: "Shusa Chief Engineer Research"
+source_url: ""
+ingested: 2026-05-01
+sha256: 176446bd85d9660eebf5fc6c3cc89a2aa1f8903c32d63d1238d091ff22418abc
+---
+
 # Shusa Chief Engineer Research
 > Compiled deep research on the Shusa/Chief Engineer system at Toyota
 > Date: 2026-04-11

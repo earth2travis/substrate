@@ -1,3 +1,10 @@
+---
+title: "Insights: Price-Minus for the Agent Factory"
+source_url: ""
+ingested: 2026-05-01
+sha256: 624edd6ca648b55c59b9036de61e70c693de6214d57338413a8cf02360f8c25a
+---
+
 # Insights: Price-Minus for the Agent Factory
 
 **Source:** `research/management/price-minus-vs-cost-plus.md`

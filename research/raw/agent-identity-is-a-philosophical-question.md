@@ -1,3 +1,10 @@
+---
+title: "Philosophy of the Soul"
+source_url: ""
+ingested: 2026-05-01
+sha256: 71ab8985c2b95b644fe5cd1b0248c872410cd8a1b0bacf024b234f64c704ed74
+---
+
 # Philosophy of the Soul
 
 _From Homer's shade to Chalmers' zombie, how Western philosophy has wrestled with the soul._

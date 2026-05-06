@@ -1,3 +1,10 @@
+---
+title: "Operations Agent: Implementation Plan"
+source_url: ""
+ingested: 2026-05-01
+sha256: d15836209e2d1cbda64cd16b3665a3967285b62a60d1e76487fa11fd1de1e063
+---
+
 # Operations Agent: Implementation Plan
 
 _Created: 2026-03-07_

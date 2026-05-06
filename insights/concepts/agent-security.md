@@ -21,7 +21,7 @@ Agentic AI systems operate with autonomy. Autonomy without accountability is dan
 
 An agent should have the minimum access needed for its current tasks, with a clear path to revoke that access.
 
-**GitHub**: Use a machine user or fine-grained PAT scoped to specific repos. The current setup uses [[Ξ2T]]'s account with broad scope: `repo`, `workflow`, `gist`, `project`, `read:org`. A compromised token could modify any repository, leak private code via gists, or trigger workflows.
+**GitHub**: Use a machine user or fine-grained PAT scoped to specific repos. The current setup uses Ξ2T's account with broad scope: `repo`, `workflow`, `gist`, `project`, `read:org`. A compromised token could modify any repository, leak private code via gists, or trigger workflows.
 
 **Email**: The agent should have a separate address (e.g., `email@sivart.wtf`). Sharing the human's inbox creates privacy risk in both directions.
 

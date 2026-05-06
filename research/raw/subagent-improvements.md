@@ -1,3 +1,10 @@
+---
+title: "Insights: How We Should Use Sub-Agents"
+source_url: ""
+ingested: 2026-05-01
+sha256: 518b6c3a51e13d746d9c1f0262433a3ef6dd219abb96f18b8ead99ae47bb28f9
+---
+
 # Insights: How We Should Use Sub-Agents
 
 **Source:** `research/agents/subagent-architecture.md`

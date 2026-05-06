@@ -1,3 +1,10 @@
+---
+title: "Figma + GitHub Projects v2 Plugin: Research Findings"
+source_url: ""
+ingested: 2026-05-01
+sha256: 8a6ad07210a02b40c2fbaceded252954ad2978f869755dc70f6b381b560c7305
+---
+
 # Figma + GitHub Projects v2 Plugin: Research Findings
 
 ## 1. Figma Plugin API Capabilities

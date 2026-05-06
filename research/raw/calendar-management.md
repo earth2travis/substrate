@@ -1,3 +1,10 @@
+---
+title: "Calendar Management Research"
+source_url: ""
+ingested: 2026-05-01
+sha256: 1df9ec7d5e35b96d60d5739d7b8ac2cedbf21811e774780e7faf615c1c91e7e6
+---
+
 # Calendar Management Research
 
 Research document for consolidating calendar visibility into the [[Sivart]] Google Calendar (<email>).

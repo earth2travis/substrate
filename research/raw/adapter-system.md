@@ -1,3 +1,10 @@
+---
+title: "Paperclip Agent Adapter System: Deep Research"
+source_url: ""
+ingested: 2026-05-01
+sha256: 98df16c0ac7169425ccead28f4becd98980df6ec6c7745b5b63c5ae0846c1353
+---
+
 # Paperclip Agent Adapter System: Deep Research
 
 Source: https://github.com/paperclipai/paperclip (cloned and read 2026-03-09)
