@@ -65,3 +65,28 @@
 - WIKI_PATH set in ~/.hermes/.env
 - Existing structure: SCHEMA.md, INDEX.md, research/raw/, insights/, decisions/, guides/, retros/, specs/, skills/
 - Note: repo already contains extensive raw sources and insights structure
+
+## [2026-05-06] create | Batch 2 findings: process-philosophy cluster
+- 11 new findings: becoming, dependent-origination, duration-duree, elan-vital, gilles-deleuze, henri-bergson, intuition-vs-intellect, nagarjuna, rhizome, sunyata-emptiness, virtual-and-actual
+- Theme: Bergson/Deleuze/Nagarjuna process philosophy mapped to AI architecture
+- Cross-references: linked to process-philosophy, actual-occasions, prehension, concrescence
+- Lint: 0 errors, 0 warnings
+
+## [2026-05-06] promote | 3 insights from Batch 2
+- insights/concepts/emptiness-and-dependent-origination.md — Nagarjuna's emptiness as computational architecture
+- insights/concepts/duration-and-living-time.md — Bergson's durée mapped to tokenization and attention
+- insights/concepts/deleuzian-becoming.md — becoming as AI design principle vs fixed identity
+- Updated process-philosophy.md with backlinks to new insights
+- Lint: 0 errors, 0 warnings
+
+## [2026-05-06] create | Batch 3 findings: manufacturing-history cluster
+- 8 new findings: craft-production, industry-4.0, mass-customization, mass-production, scientific-management, chief-engineer-system, obeya, shusa-applied-zookooree
+- Theme: production paradigms (craft → mass → lean → industry 4.0) and Toyota integration systems
+- Cross-references: linked to toyota-production-system, lean-doctrine, dark-factory, harness-engineering, symphony-orchestrator
+- Lint: 0 errors, 0 warnings
+
+## [2026-05-06] promote | 2 insights from Batch 3
+- insights/concepts/chief-engineer-system.md — Toyota Shusa as integration pattern for agent orchestration
+- insights/concepts/production-paradigms.md — craft/mass/lean/industry-4.0 arc applied to agent systems
+- Backlinked lean-doctrine.md, dark-factory.md, harness-engineering.md, toyota-production-system.md with new insights
+- Lint: 0 errors, 0 warnings
