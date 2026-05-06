@@ -107,3 +107,15 @@
 - insights/concepts/cloudflare-first-agent-factory.md — Cloudflare platform as complete substrate for agent operations: inference, queues, email, observability, versioned memory
 - Backlinked harness-engineering.md, dark-factory.md, lean-software-delivery.md with new insight
 - Lint: 0 errors, 0 warnings
+
+## [2026-05-06] create | Batch 6 findings: openclaw-hermes-agent-platform cluster
+- 10 new findings: openclaw-report, openclaw-vs-hermes, openclaw-vs-hermes-coding, openclaw-community, openclaw-platform-state-2026, hermes-agent-report, hermes-agent-platform-analysis, hermes-self-evolution, hermes-deployment-guide, autoresearchclaw-analysis
+- Theme: OpenClaw crisis, Hermes Agent secure successor, community dynamics, and auto-research tooling
+- Cross-references: linked to openclaw, hermes-agent, clawhavoc-security-crisis, nous-research
+- Lint: 0 errors, 0 warnings
+
+## [2026-05-06] promote | 1 insight from Batch 6
+- insights/concepts/the-openclaw-lesson.md — Security as foundational, not reactive, traced through pioneer-crisis-succession arc
+- Backlinked harness-engineering.md, dark-factory.md, lean-software-delivery.md, cloudflare-first-agent-factory.md with new insight
+- Backlinked openclaw.md, hermes-agent.md, clawhavoc-security-crisis.md, nous-research.md with new insight
+- Lint: 0 errors, 0 warnings
