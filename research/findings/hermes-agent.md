@@ -1,7 +1,7 @@
 ---
 title: "Hermes Agent: Open-Source Multi-Provider Agent Platform"
 tags: [agent, platform, infrastructure, open-source, nous]
-related: [[nous-research]], [[openclaw]], [[clawhavoc-security-crisis]], [[llm-wiki-pattern]], [[codex]]
+related: [[nous-research]], [[openclaw]], [[clawhavoc-security-crisis]], [[llm-wiki-pattern]], [[codex]], [[the-openclaw-lesson]]
 source: research/raw/hermes-agent.md
 ---
 

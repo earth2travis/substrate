@@ -1,7 +1,7 @@
 ---
 title: "Nous Research: Models, Agents, and Philosophy"
 tags: [company, research, ai, agent, open-source]
-related: [[hermes-agent]], [[openclaw]], [[dsjjjj-desiderata]], [[instruct-monomyth]], [[llm-wiki-pattern]]
+related: [[hermes-agent]], [[openclaw]], [[dsjjjj-desiderata]], [[instruct-monomyth]], [[llm-wiki-pattern]], [[the-openclaw-lesson]]
 source: research/raw/nous-research.md
 ---
 

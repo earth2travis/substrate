@@ -1,7 +1,7 @@
 ---
 title: "Cloudflare-First Agent Factory"
 tags: [concept, cloudflare, agents, infrastructure, factory, edge, inference]
-related: [[harness-engineering]], [[dark-factory]], [[lean-software-delivery]], [[cloudflare-ai-platform-inference-layer]], [[cloudflare-workers-ai-edge-inference]], [[cloudflare-queues-decoupling-layer]], [[cloudflare-email-service-for-agents]], [[cloudflare-ai-gateway-observability]], [[factory-architecture-cloudflare]]
+related: [[harness-engineering]], [[dark-factory]], [[lean-software-delivery]], [[cloudflare-ai-platform-inference-layer]], [[cloudflare-workers-ai-edge-inference]], [[cloudflare-queues-decoupling-layer]], [[cloudflare-email-service-for-agents]], [[cloudflare-ai-gateway-observability]], [[factory-architecture-cloudflare]], [[the-openclaw-lesson]]
 source: insights/concepts/cloudflare-first-agent-factory.md
 ---
 
