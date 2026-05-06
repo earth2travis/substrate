@@ -97,7 +97,13 @@
 - Cross-references: linked to lean-doctrine, dark-factory, harness-engineering, toyota-production-system, lean-production
 - Lint: 0 errors, 0 warnings
 
-## [2026-05-06] promote | 1 insight from Batch 4
-- insights/concepts/lean-software-delivery.md — DORA metrics, continuous delivery, and seven wastes as unified framework
-- Backlinked lean-doctrine.md, dark-factory.md, harness-engineering.md with new insight
+## [2026-05-06] create | Batch 5 findings: cloudflare-agent-factory cluster
+- 11 new findings: cloudflare-ai-platform-inference-layer, cloudflare-workers-ai-edge-inference, cloudflare-queues-decoupling-layer, cloudflare-queues-ai-batch-optimization, cloudflare-email-service-for-agents, cloudflare-ai-gateway-observability, factory-architecture-cloudflare, synthweave-harness-readiness, synthweave-mcp-analysis, ai-sdk-research, paperclip-is-an-os-for-autonomous-agent-companies
+- Theme: Cloudflare developer platform as agent factory infrastructure: inference, queues, email, observability, and architecture specs
+- Cross-references: linked to harness-engineering, dark-factory, lean-software-delivery, codex
+- Lint: 0 errors, 0 warnings
+
+## [2026-05-06] promote | 1 insight from Batch 5
+- insights/concepts/cloudflare-first-agent-factory.md — Cloudflare platform as complete substrate for agent operations: inference, queues, email, observability, versioned memory
+- Backlinked harness-engineering.md, dark-factory.md, lean-software-delivery.md with new insight
 - Lint: 0 errors, 0 warnings
