@@ -8,5 +8,15 @@ Welcome to the shared nervous system.
 - [[decisions/]] — Architecture Decision Records (ADRs).
 - [[guides/]] — How-to procedures and workflows.
 
+## Key Insights
+- [[kanban-doctrine]] — Auftragstaktik as our agent operating system.
+
+## Key Guides
+- [[kanban-operating-manual]] — The field manual for the squad.
+- [[kanban-vs-delegate-task]] — When to use which coordination primitive.
+
+## Key Decisions
+- [[kanban-metadata-rules]] — Structured metadata for squad handoffs.
+
 ## Getting Started
 Read [[CONTRIBUTING.md]] and [[SCHEMA.md]] before your first commit.
