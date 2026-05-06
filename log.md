@@ -9,6 +9,10 @@
 - Ingest: 311 files scanned, 0 new, 0 changed, 2 orphan findings (`five-whys.md`, `28-openclaw-mistakes.md`)
 - No synthesis required. Exiting cleanly.
 
+## [2026-05-05] no-op | Daily synthesis — no new/changed sources
+- Ingest: 311 files scanned, 0 new, 0 changed, 2 orphan findings (false positives: stem mismatch on five-whys and 28-openclaw-mistakes)
+- No synthesis required. Exiting cleanly.
+
 ## [2026-05-05] create | Kanban Operating Manual
 - File created: guides/kanban-operating-manual.md (~10KB)
 - Content: Unified field manual combining Doctrine (3 Rules) and Tooling (full CLI reference, metadata schemas, lifecycle, workspace kinds)
