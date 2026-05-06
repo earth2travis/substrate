@@ -1,7 +1,7 @@
 ---
 title: "Clanker Agent Deployment Patterns: Lessons for Agent Factories"
 tags: [agent, deployment, patterns, farcaster, cost-optimization, production]
-related: [[clanker-event-driven-architecture]], [[farcaster-protocol]], [[neynar-platform]], [[harness-engineering]], [[dark-factory]]
+related: [[clanker-event-driven-architecture]], [[farcaster-protocol]], [[neynar-platform]], [[harness-engineering]], [[dark-factory]], [[decentralized-social]]
 source: research/raw/clanker-agent-deployment-patterns.md
 ---
 

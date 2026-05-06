@@ -1,7 +1,7 @@
 ---
 title: "Email Management: AI-First Inbox Strategy"
 tags: [email, agent, automation, triage, gmail, operations]
-related: [[telegram-group-setup]], [[custom-tooling-opportunities]], [[github-as-memory]], [[lean-software-delivery]], [[harness-engineering]]
+related: [[telegram-group-setup]], [[custom-tooling-opportunities]], [[github-as-memory]], [[lean-software-delivery]], [[harness-engineering]], [[agent-native-operations]]
 source: research/raw/email-management.md
 ---
 

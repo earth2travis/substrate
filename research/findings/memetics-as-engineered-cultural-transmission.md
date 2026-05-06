@@ -1,7 +1,7 @@
 ---
 title: "Memetics: Origins, Evolution, and Cultural Transmission"
 tags: [memetics, culture, philosophy, agent, communication, network]
-related: [[process-philosophy]], [[deleuzian-becoming]], [[duration-and-living-time]], [[jean-baudrillard]], [[stay-on-base-proposal-genuinejack]]
+related: [[process-philosophy]], [[deleuzian-becoming]], [[duration-and-living-time]], [[jean-baudrillard]], [[stay-on-base-proposal-genuinejack]], [[farcaster-protocol]], [[decentralized-social]]
 source: research/raw/memetics-as-engineered-cultural-transmission.md
 ---
 

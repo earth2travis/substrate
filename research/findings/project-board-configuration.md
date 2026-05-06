@@ -1,7 +1,7 @@
 ---
 title: "Project Board Configuration: GitHub Projects V2 Recommendations"
 tags: [github, project-management, kanban, configuration, automation, process]
-related: [[github-as-memory]], [[kanban-doctrine]], [[lean-software-delivery]], [[harness-engineering]], [[custom-tooling-opportunities]]
+related: [[github-as-memory]], [[kanban-doctrine]], [[lean-software-delivery]], [[harness-engineering]], [[custom-tooling-opportunities]], [[agent-native-operations]]
 source: research/raw/project-board-configuration.md
 ---
 

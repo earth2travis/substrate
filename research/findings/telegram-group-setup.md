@@ -1,7 +1,7 @@
 ---
 title: "Telegram Group Setup: Forum-Based Multi-Agent Workspace"
 tags: [telegram, agent, communication, workspace, multi-agent, operations]
-related: [[openclaw]], [[hermes-agent]], [[harness-engineering]], [[dark-factory]], [[custom-tooling-opportunities]]
+related: [[openclaw]], [[hermes-agent]], [[harness-engineering]], [[dark-factory]], [[custom-tooling-opportunities]], [[agent-native-operations]]
 source: research/raw/telegram-group-setup.md
 ---
 

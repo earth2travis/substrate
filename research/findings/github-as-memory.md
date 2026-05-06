@@ -1,7 +1,7 @@
 ---
 title: "GitHub as Memory: Institutional Knowledge Graph"
 tags: [github, memory, knowledge-graph, process, agent, operations]
-related: [[llm-wiki-pattern]], [[harness-engineering]], [[dark-factory]], [[lean-software-delivery]], [[custom-tooling-opportunities]]
+related: [[llm-wiki-pattern]], [[harness-engineering]], [[dark-factory]], [[lean-software-delivery]], [[custom-tooling-opportunities]], [[agent-native-operations]]
 source: research/raw/github-as-memory.md
 ---
 

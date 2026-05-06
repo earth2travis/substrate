@@ -1,7 +1,7 @@
 ---
 title: "Farcaster: Decentralized Social Protocol"
 tags: [social, infrastructure, crypto, protocol, identity]
-related: [[nous-research]], [[hermes-agent]], [[neynar-platform]]
+related: [[nous-research]], [[hermes-agent]], [[neynar-platform]], [[decentralized-social]]
 source: research/raw/farcaster-protocol.md
 ---
 
