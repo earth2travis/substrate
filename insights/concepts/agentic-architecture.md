@@ -1,7 +1,7 @@
 ---
 title: "Agentic Architecture: Three-Layer Production Stack"
 tags: [concept, architecture, agent, mcp, skills, workflows, orchestration]
-related: [[progressive-disclosure]], [[agent-security]], [[agent-identity]]
+related: [[progressive-disclosure]], [[agent-security]], [[agent-identity]], [[dark-factory]], [[harness-engineering]]
 source: research/findings/agentic-systems-synthesis.md
 ---
 
