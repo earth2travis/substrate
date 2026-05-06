@@ -1,7 +1,7 @@
 ---
 title: "Lean Doctrine: Eliminate Waste, Maximize Flow"
 tags: [concept, lean, operations, manufacturing, tps, kaizen, just-in-time]
-related: [[toyota-production-system]], [[taiichi-ohno]], [[jidoka]], [[kaizen]], [[just-in-time]], [[kanban-doctrine]], [[a3-thinking]], [[dark-factory]]
+related: [[toyota-production-system]], [[taiichi-ohno]], [[jidoka]], [[kaizen]], [[just-in-time]], [[kanban-doctrine]], [[a3-thinking]], [[dark-factory]], [[chief-engineer-system]], [[obeya]], [[production-paradigms]]
 source: research/findings/lean-production.md
 ---
 

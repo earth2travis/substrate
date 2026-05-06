@@ -1,7 +1,7 @@
 ---
 title: "Toyota Production System"
 tags: [concept, lean, manufacturing, methodology, tps]
-related: [[taiichi-ohno]], [[five-whys]], [[a3-thinking]], [[just-in-time]], [[jidoka]], [[kaizen]], [[lean-doctrine]], [[dark-factory]]
+related: [[taiichi-ohno]], [[five-whys]], [[a3-thinking]], [[just-in-time]], [[jidoka]], [[kaizen]], [[lean-doctrine]], [[dark-factory]], [[chief-engineer-system]], [[obeya]], [[production-paradigms]], [[shusa-applied-zookooree]], [[harness-engineering]]
 source: research/raw/5-whys.md
 ---
 
