@@ -5,6 +5,10 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-05-06] no-op | Daily synthesis — no new/changed sources
+- Ingest: 311 files scanned, 0 new, 0 changed, 2 orphan findings (`five-whys.md`, `28-openclaw-mistakes.md`)
+- No synthesis required. Exiting cleanly.
+
 ## [2026-05-05] create | Kanban Operating Manual
 - File created: guides/kanban-operating-manual.md (~10KB)
 - Content: Unified field manual combining Doctrine (3 Rules) and Tooling (full CLI reference, metadata schemas, lifecycle, workspace kinds)
