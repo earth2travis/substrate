@@ -1,7 +1,7 @@
 ---
 title: "Dark Factory"
 tags: [concept, operations, automation, agent, lean, manufacturing]
-related: [[harness-engineering]], [[toyota-production-system]], [[lean-software-development]], [[codex]], [[kanban-doctrine]], [[chief-engineer-system]], [[obeya]], [[production-paradigms]], [[shusa-applied-zookooree]], [[lean-software-delivery]]
+related: [[harness-engineering]], [[toyota-production-system]], [[lean-software-development]], [[codex]], [[kanban-doctrine]], [[chief-engineer-system]], [[obeya]], [[production-paradigms]], [[shusa-applied-zookooree]], [[lean-software-delivery]], [[cloudflare-first-agent-factory]]
 source: research/findings/dark-factory.md
 ---
 

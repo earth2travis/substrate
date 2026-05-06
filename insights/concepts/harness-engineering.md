@@ -1,7 +1,7 @@
 ---
 title: "Harness Engineering"
 tags: [concept, agent, development, operations, architecture, codex, ai]
-related: [[dark-factory]], [[codex]], [[symphony-orchestrator]], [[lean-software-development]], [[kanban-doctrine]], [[chief-engineer-system]], [[obeya]], [[production-paradigms]], [[shusa-applied-zookooree]], [[lean-software-delivery]]
+related: [[dark-factory]], [[codex]], [[symphony-orchestrator]], [[lean-software-development]], [[kanban-doctrine]], [[chief-engineer-system]], [[obeya]], [[production-paradigms]], [[shusa-applied-zookooree]], [[lean-software-delivery]], [[cloudflare-first-agent-factory]]
 source: research/findings/harness-engineering.md
 ---
 

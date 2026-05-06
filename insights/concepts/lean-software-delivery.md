@@ -1,7 +1,7 @@
 ---
 title: "Lean Software Delivery"
 tags: [concept, lean, software-delivery, devops, metrics, waste]
-related: [[dora-metrics]], [[continuous-delivery]], [[devops]], [[seven-software-wastes]], [[lean-software-development]], [[lean-production]], [[lean-doctrine]], [[toyota-production-system]], [[dark-factory]]
+related: [[dora-metrics]], [[continuous-delivery]], [[devops]], [[seven-software-wastes]], [[lean-software-development]], [[lean-production]], [[lean-doctrine]], [[toyota-production-system]], [[dark-factory]], [[cloudflare-first-agent-factory]]
 source: research/findings/dora-metrics.md
 ---
 
