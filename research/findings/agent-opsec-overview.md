@@ -41,7 +41,7 @@ Security posture of Sivart, an AI agent running on a Hetzner cloud server (Ubunt
 
 ## Account Isolation
 
-**GitHub**: Currently using [[Ξ2T]]'s account (`earth2travis`) with a broad-scope token. Better approach: create a machine user or use fine-grained PAT scoped to the `sivart` repo.
+**GitHub**: Currently using Ξ2T's account (`earth2travis`) with a broad-scope token. Better approach: create a machine user or use fine-grained PAT scoped to the `sivart` repo.
 
 **Email**: When Sivart gets email, it should be a separate address (e.g., `email@sivart.wtf`). Sharing the human's inbox creates privacy risk in both directions.
 
@@ -81,7 +81,7 @@ Current blast radius if attacker gains access as `clawd`:
 - Read all agent memory, session history, workspace files
 - Read all API keys from process environment
 - Send messages as Sivart on Telegram
-- Push code to any of [[Ξ2T]]'s GitHub repositories
+- Push code to any of Ξ2T's GitHub repositories
 - Use the OpenAI API key for any purpose
 - Use the Claude OAuth token for any purpose
 

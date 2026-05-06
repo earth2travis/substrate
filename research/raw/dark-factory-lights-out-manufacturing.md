@@ -1,3 +1,10 @@
+---
+title: "Deep Research: Dark Factory / Lights-Out Manufacturing"
+source_url: ""
+ingested: 2026-05-01
+sha256: 18de3ec8e616631094d016707d86bb87a0eae582ed96828154a3f4473139029e
+---
+
 # Deep Research: Dark Factory / Lights-Out Manufacturing
 
 ## Executive Summary

@@ -1,3 +1,10 @@
+---
+title: "Case Studies: Business Co-Founders"
+source_url: ""
+ingested: 2026-05-01
+sha256: ed8370771ee1d5497b2e5dfe751d002d61c02fbb29dec978cf7c3ced3df61da1
+---
+
 # Case Studies: Business Co-Founders
 
 ## Steve Jobs & Steve Wozniak — Apple (1976)

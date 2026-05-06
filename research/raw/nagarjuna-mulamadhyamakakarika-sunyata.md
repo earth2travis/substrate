@@ -1,3 +1,10 @@
+---
+title: "Nagarjuna's Mulamadhyamakakarika: Emptiness, Dependent Origination, and the Deconstruction of Inherent Existence"
+source_url: ""
+ingested: 2026-05-01
+sha256: 0b3001ed2226a94466a8fffd18c78676aa06c373b13e3621d7ca93b3ce0a7443
+---
+
 # Nagarjuna's Mulamadhyamakakarika: Emptiness, Dependent Origination, and the Deconstruction of Inherent Existence
 
 **Date:** 2026-04-08

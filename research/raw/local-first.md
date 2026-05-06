@@ -1,3 +1,10 @@
+---
+title: "Local-First Software Architecture"
+source_url: ""
+ingested: 2026-05-01
+sha256: 41736f4dee61fb688b4c2dd378fd1fd79f713ac5464bd89bc1c6bfdc75b62dba
+---
+
 # Local-First Software Architecture
 
 _Research compiled: 2026-02-03_

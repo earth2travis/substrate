@@ -1,3 +1,10 @@
+---
+title: "Henri Bergson: Duration, Creative Evolution, and the Critique of Spatialized Time"
+source_url: ""
+ingested: 2026-05-01
+sha256: 548fb2670b0fd4699e8289ed40083f30ab5789d6f8bdab8f33c93b321c95f907
+---
+
 # Henri Bergson: Duration, Creative Evolution, and the Critique of Spatialized Time
 
 ## A Comprehensive Scholarly Research Document

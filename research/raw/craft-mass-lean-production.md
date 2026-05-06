@@ -1,3 +1,10 @@
+---
+title: "Deep Research: Craft Production, Mass Production, and Lean Production"
+source_url: ""
+ingested: 2026-05-01
+sha256: eb981f01635cba7079940e20562bd392f593ffea96ced53e5a182adae510aae3
+---
+
 # Deep Research: Craft Production, Mass Production, and Lean Production
 
 ## Executive Summary

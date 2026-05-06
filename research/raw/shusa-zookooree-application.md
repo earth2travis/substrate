@@ -1,3 +1,10 @@
+---
+title: "Shusa Applied to Zookooree"
+source_url: ""
+ingested: 2026-05-01
+sha256: 7904b2ac22fe9f0b7017771c89e5bb945e31820276c2b57395857f79e2e40821
+---
+
 # Shusa Applied to Zookooree
 > Analysis of how the Toyota Shusa (Chief Engineer) system applies to building
 > Zookooree as a lean production factory for AI agents

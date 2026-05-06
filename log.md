@@ -27,7 +27,7 @@
   5. Shared Mental Models via Substrate
   6. Stop-the-Line Authority (kanban_block)
   7. Speed over Perfect Coordination
-- Cross-references: [[auftragstaktik-mission-command]], [[agentic-architecture]], [[toyota-production-system]], [[research/raw/hermes-kanban-deep-dive]]
+- Cross-references: [[auftragstaktik-mission-command]], [[agentic-architecture]], [[toyota-production-system]], [[hermes-kanban-deep-dive]]
 - Commit: 37ef008 on main
 
 ## [2026-05-04] no-op | Daily synthesis — no new/changed sources

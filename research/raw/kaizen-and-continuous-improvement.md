@@ -1,3 +1,10 @@
+---
+title: "Kaizen and Continuous Improvement"
+source_url: ""
+ingested: 2026-05-01
+sha256: 48eed24c2736b6baaf7c6dc6dc12285618b12f4267f7a13d34fe41a8b7ae7147
+---
+
 # Kaizen and Continuous Improvement
 
 **Researched:** 2026-04-12

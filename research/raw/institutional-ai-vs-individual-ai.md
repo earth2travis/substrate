@@ -1,3 +1,10 @@
+---
+title: "Institutional AI vs Individual AI"
+source_url: ""
+ingested: 2026-05-01
+sha256: 90f5f378eb3977c955429adb8954fe27904c65114b1fdac0be29aa9d95579e30
+---
+
 # Institutional AI vs Individual AI
 
 **Source:** [a16z.news](https://www.a16z.news/p/institutional-ai-vs-individual-ai)

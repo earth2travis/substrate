@@ -1,3 +1,10 @@
+---
+title: "Current Cost Inventory"
+source_url: ""
+ingested: 2026-05-01
+sha256: 67a3d7f680e430db1ffb3b89a9ebd326bc4506ebbaa6dfcb3aa659f6d4ed0634
+---
+
 # Current Cost Inventory
 
 _Compiled 2026-02-25. To be verified with Ξ2T._

@@ -45,4 +45,4 @@ Benchmarks measure capability in controlled settings. For a real agent system, d
 
 ## The Meta-Metric
 
-The real test: does [[Ξ2T]] reach for the agent first when something needs doing? If yes, it is working. If he routes around it, something is wrong. Usage frequency is the ultimate evaluation.
+The real test: does Ξ2T reach for the agent first when something needs doing? If yes, it is working. If he routes around it, something is wrong. Usage frequency is the ultimate evaluation.

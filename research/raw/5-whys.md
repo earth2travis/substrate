@@ -1,3 +1,10 @@
+---
+title: "The 5 Whys: Root Cause Analysis for a Human-AI Partnership"
+source_url: ""
+ingested: 2026-05-01
+sha256: b4c6fa07de3de2fd376ec8e1248303b7dd0411b0e4d79172d5b9ec1c480a84b8
+---
+
 # The 5 Whys: Root Cause Analysis for a Human-AI Partnership
 
 _Research completed 2026-02-01. Related: issue #22._

@@ -1,3 +1,10 @@
+---
+title: "The Composable Primitives of AI"
+source_url: ""
+ingested: 2026-05-01
+sha256: ac0382646c13ca7ad5f7b7f77e3d1b9622426f0bc627d0448d6210b93ed413e6
+---
+
 # The Composable Primitives of AI
 
 _Research document for [[Ξ2T]]'s deep dive after 3 days at Anthropic._

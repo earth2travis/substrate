@@ -1,7 +1,7 @@
 ---
 title: "Agentic Systems: Three-Layer Architecture for Production Agents"
 tags: [agent, architecture, mcp, skills, workflows, orchestration, loom]
-related: [[agent-evaluation]], [[progressive-disclosure]], [[skills-as-onboarding]]
+related: [[agent-evaluation]], [[progressive-disclosure]], [[agent-skills-as-onboarding]]
 source: research/raw/agentic-systems-synthesis.md
 ---
 

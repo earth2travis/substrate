@@ -1,3 +1,10 @@
+---
+title: "Cyberpunk 101: Genre Origins and Core Ingredients"
+source_url: ""
+ingested: 2026-05-01
+sha256: e6112818d96d6293bc83a23f375d9775393028463a2354afc2dc44b5e186d7b5
+---
+
 # Cyberpunk 101: Genre Origins and Core Ingredients
 
 > **Source:** Video transcript (Cyberpunk 101 series, episode 1)

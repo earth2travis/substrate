@@ -1,3 +1,10 @@
+---
+title: "What Is a Protocol?"
+source_url: ""
+ingested: 2026-05-01
+sha256: a1dc904487b54feb1a2ae5af4c5f6daa2ee515279e7823a0dd8b6c46ce0a735c
+---
+
 # What Is a Protocol?
 
 _Deep research into protocols as technology, culture, and coordination mechanism._

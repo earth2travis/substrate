@@ -1,3 +1,10 @@
+---
+title: "Price-Minus vs. Cost-Plus Pricing"
+source_url: ""
+ingested: 2026-05-01
+sha256: 77f896b4e43347169b2ae88dab9a3b9b9f5676347c81da1a7c75fc0ee31b5ccf
+---
+
 # Price-Minus vs. Cost-Plus Pricing
 
 **Researched:** 2026-04-12

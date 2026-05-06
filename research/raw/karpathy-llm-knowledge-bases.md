@@ -1,3 +1,10 @@
+---
+title: "Karpathy: LLM Knowledge Bases"
+source_url: ""
+ingested: 2026-05-01
+sha256: 848a0d04c794ca717eea57330c4c09653a19ceea7e61accf0f7888922a159dab
+---
+
 # Karpathy: LLM Knowledge Bases
 
 **Source:** https://x.com/karpathy/status/2039805659525644595

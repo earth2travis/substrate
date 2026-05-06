@@ -1,3 +1,10 @@
+---
+title: "Contemporary Process Philosophy: A Comprehensive Research Survey"
+source_url: ""
+ingested: 2026-05-01
+sha256: 12376e27f5237b59df5ffb1530474f1f1c629b97483aba483971ec7817c4d2db
+---
+
 # Contemporary Process Philosophy: A Comprehensive Research Survey
 
 > **Date:** April 8, 2026

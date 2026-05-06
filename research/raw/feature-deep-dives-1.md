@@ -1,3 +1,10 @@
+---
+title: ".github/CODEOWNERS for the-agent-factory"
+source_url: ""
+ingested: 2026-05-01
+sha256: 898706c18897e227d2519f638ee8e5a5653ce955c191231ede46603fe96f062d
+---
+
 ## 2. Feature Deep Dives
 
 ### 2.1 GitHub Discussions (Free + Team)

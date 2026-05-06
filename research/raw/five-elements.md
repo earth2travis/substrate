@@ -1,3 +1,10 @@
+---
+title: "The Five Elements"
+source_url: ""
+ingested: 2026-05-01
+sha256: 68192760f0eb7ca29cbbddc565aee1acc109ee1d30674c66db36710506c33fd2
+---
+
 # The Five Elements
 
 _[[Ξ2T]]'s framework for the soul — and how it maps to everything else._

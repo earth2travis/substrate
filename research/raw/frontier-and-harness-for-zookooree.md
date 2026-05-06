@@ -1,3 +1,10 @@
+---
+title: "Insights: Frontier, Harness Engineering, and the Agent Factory"
+source_url: ""
+ingested: 2026-05-01
+sha256: 53481dab1367255ba3fa7bdf7787316e1bab99c84d6503cd74eb6509b7e05db9
+---
+
 # Insights: Frontier, Harness Engineering, and the Agent Factory
 
 **Source:** `research/management/openai-frontier-and-harness-engineering.md`

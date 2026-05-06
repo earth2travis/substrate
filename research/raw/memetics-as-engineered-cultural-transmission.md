@@ -1,3 +1,10 @@
+---
+title: "Memetics: Origins and Evolution"
+source_url: ""
+ingested: 2026-05-01
+sha256: 3b38bf004fb8ba2664f6936039966a6102ac3a572c13805e4ecf95a948840c02
+---
+
 # Memetics: Origins and Evolution
 
 *Research compiled February 28, 2026*

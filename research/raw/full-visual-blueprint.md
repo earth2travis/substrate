@@ -1,3 +1,10 @@
+---
+title: "Full Visual Blueprint"
+source_url: ""
+ingested: 2026-05-01
+sha256: 99d89ea23d3b13ef7cc581f43877d4ea92e7e595ba03313adc8ea0a6f5713909
+---
+
 # Full Visual Blueprint
 
 **Source:** [@Voxyz_ai](https://x.com/Voxyz_ai) — Feb 10, 2026 (32.5K views)

@@ -1,7 +1,7 @@
 ---
 title: "28 Painful Mistakes Building Agent Systems"
 tags: [agents, failure-modes, operations, lessons-learned]
-related: [[agent-architecture-patterns]], [[agent-memory-architecture]]
+related: [[agent-skills-as-onboarding]], [[five-whys]]
 source: research/raw/28-openclaw-mistakes-kloss.md
 ---
 

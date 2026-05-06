@@ -1,3 +1,10 @@
+---
+title: "AI Native PM Operating System Walkthrough with Mike Ball"
+source_url: ""
+ingested: 2026-05-01
+sha256: 500df0ca6cb2a82b56ebed327ceee650451da7e6586b0bb6131fd06b25a289a6
+---
+
 # AI Native PM Operating System Walkthrough with Mike Ball
 
 > **Source:** YouTube video transcript

@@ -1,3 +1,10 @@
+---
+title: "Open Graph Protocol: Research Notes"
+source_url: ""
+ingested: 2026-05-01
+sha256: 4ed1c6b2e99996cda0f0a4c2e24bf97cb2997f167f4bf7e1372150818eb160c0
+---
+
 # Open Graph Protocol: Research Notes
 
 _Consolidated from Feb 18 research session. Issues #230 and #231._

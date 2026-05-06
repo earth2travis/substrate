@@ -1,3 +1,10 @@
+---
+title: "Machine Payments Protocol (MPP)"
+source_url: ""
+ingested: 2026-05-01
+sha256: 9b26fcdda65bb1eb5b2b677152b0a7b88cf96ec6a5a2d781a7deeff1fe0ee9ce
+---
+
 # Machine Payments Protocol (MPP)
 
 **Source:** https://mpp.dev

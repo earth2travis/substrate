@@ -1,3 +1,10 @@
+---
+title: "Frederick Winslow Taylor and Scientific Management"
+source_url: ""
+ingested: 2026-05-01
+sha256: d482d9ea0617123df6050882ba5079cc287022d071c9eec4a74e773cabe3821a
+---
+
 # Frederick Winslow Taylor and Scientific Management
 
 **Researched:** 2026-04-08

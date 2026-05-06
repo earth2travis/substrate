@@ -1,3 +1,10 @@
+---
+title: "Insights: Anthropic Interviewer and the 81K Study"
+source_url: ""
+ingested: 2026-05-01
+sha256: b214ac9d594fd8e27c3941ca7cc3b0a5b5b63baca357b875536cc4ec5a6d7324
+---
+
 # Insights: Anthropic Interviewer and the 81K Study
 
 **Source:** `research/agents/anthropic-interviewer-81k-study.md`

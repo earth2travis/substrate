@@ -1,3 +1,10 @@
+---
+title: "Stay On Base Proposal Genuinejack"
+source_url: ""
+ingested: 2026-05-01
+sha256: 21a10bbf5aa5efeeb5334c43af067ff93bc824861ed2d9d47f3b94425a1e7a3f
+---
+
 **$HIGHER & the Case for Staying on Base (for Now)**  
 Prepared by: Genuine Jack | January 2026
 

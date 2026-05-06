@@ -1,3 +1,10 @@
+---
+title: "Alfred North Whitehead's *Process and Reality*: A Comprehensive Research Guide"
+source_url: ""
+ingested: 2026-05-01
+sha256: a32d222d86a6080bc0bb292ff8fd4a7a2c589b7b4010cb77fd2fcaad2ac76f44
+---
+
 # Alfred North Whitehead's *Process and Reality*: A Comprehensive Research Guide
 
 **Date:** April 8, 2026  

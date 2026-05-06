@@ -1,3 +1,10 @@
+---
+title: "The Five Whys: Root Cause Analysis"
+source_url: ""
+ingested: 2026-05-01
+sha256: 90b920b0557592e10712d1595c9a0d2530cf0f6744c4b733693f3b5ad2afd482
+---
+
 # The Five Whys: Root Cause Analysis
 
 **Researched:** 2026-04-12

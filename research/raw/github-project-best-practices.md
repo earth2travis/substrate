@@ -1,3 +1,10 @@
+---
+title: "Best Practices: GitHub Project Management"
+source_url: ""
+ingested: 2026-05-01
+sha256: 49a7a9f69bf914a7e8a66d5edc067ea9f6a5ac6209d9fc1fe13ff67f60d002f1
+---
+
 # Best Practices: GitHub Project Management
 
 ## The GitHub Toolkit

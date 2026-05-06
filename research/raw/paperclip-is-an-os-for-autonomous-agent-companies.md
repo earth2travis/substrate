@@ -1,3 +1,10 @@
+---
+title: "Paperclip is an OS for autonomous agent companies"
+source_url: ""
+ingested: 2026-05-01
+sha256: 76961d1fd5cabab78baf8c349eb8924e8d81d9bc227a7c8a54370dabeb9127fd
+---
+
 # Paperclip is an OS for autonomous agent companies
 
 **Source:** research/paperclip/analysis.md

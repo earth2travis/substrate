@@ -1,3 +1,10 @@
+---
+title: "Agent Evaluation"
+source_url: ""
+ingested: 2026-05-01
+sha256: dcdf3401809b043b4cd36ead727ae25ed5e771dfe835f6996a1617aa233c867e
+---
+
 # Agent Evaluation
 
 ## The Measurement Problem

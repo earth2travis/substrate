@@ -1,3 +1,10 @@
+---
+title: "Paperclip's atomic task checkout prevents agent collisions"
+source_url: ""
+ingested: 2026-05-01
+sha256: 6903fe7e98801ba0aff4b9dabc8a78cf54fd7ed364035b075c32d36a11a7194d
+---
+
 # Paperclip's atomic task checkout prevents agent collisions
 
 **Source:** research/paperclip/analysis.md

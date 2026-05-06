@@ -1,3 +1,10 @@
+---
+title: "Gap Analysis: Our Memory System vs the Obsidian Stack"
+source_url: ""
+ingested: 2026-05-01
+sha256: 200b5d8ade69152e755e5b4a71fa69db24f73936a60fe8bdf9a518e8c1143a1d
+---
+
 # Gap Analysis: Our Memory System vs the Obsidian Stack
 
 _Extracted from claude-obsidian-memory-stack analysis._

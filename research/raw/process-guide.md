@@ -1,3 +1,10 @@
+---
+title: "Process Guide: Writing UX Research Scenarios"
+source_url: ""
+ingested: 2026-05-01
+sha256: b424e755753873e9823361b052d78e04fcc280f498dc2185bf6a3fc2ff98b5e8
+---
+
 # Process Guide: Writing UX Research Scenarios
 
 A practical, step-by-step guide for product designers and researchers.

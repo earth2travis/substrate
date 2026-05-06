@@ -1,3 +1,10 @@
+---
+title: "just-bash: Virtual Shell Analysis for Agent Execution"
+source_url: ""
+ingested: 2026-05-01
+sha256: 829dba1fdc1dfd53dbb67b7ae787550f3f9995abbe2b03407b77737e2f6f018c
+---
+
 # just-bash: Virtual Shell Analysis for Agent Execution
 
 **Source:** [github.com/vercel-labs/just-bash](https://github.com/vercel-labs/just-bash)

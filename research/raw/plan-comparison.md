@@ -1,3 +1,10 @@
+---
+title: "GitHub Team Plan Analysis for The Agent Factory"
+source_url: ""
+ingested: 2026-05-01
+sha256: f8152a22fdddd85cc33027eba6d71b21dd5fe5dba6c4562e2e93bd28f5804dbe
+---
+
 # GitHub Team Plan Analysis for The Agent Factory
 
 **Organization:** zookooree (The Agent Factory)

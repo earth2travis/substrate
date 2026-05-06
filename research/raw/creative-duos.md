@@ -1,3 +1,10 @@
+---
+title: "Case Studies: Creative Duos"
+source_url: ""
+ingested: 2026-05-01
+sha256: d899916bacdd414075d85e375f7e15c205166377df88fafa21b085005aac7d37
+---
+
 # Case Studies: Creative Duos
 
 ## Lennon & McCartney (1957–1970)

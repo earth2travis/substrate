@@ -1,3 +1,10 @@
+---
+title: "Server Hardening Checklist"
+source_url: ""
+ingested: 2026-05-01
+sha256: fadbaa27840d3e563757168877712c484faa1faecb60968526284eb63cba1dc2
+---
+
 # Server Hardening Checklist
 
 _Supporting document for the Agent OpSec research (Issue #53)._

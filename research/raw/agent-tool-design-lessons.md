@@ -1,3 +1,10 @@
+---
+title: "Seeing Like an Agent: Lessons in Tool Design from Claude Code"
+source_url: ""
+ingested: 2026-05-01
+sha256: c26215e278903d1b0d43f4d930c4cd8603b34e1dcd5f1bb4adfb3712c9a715a8
+---
+
 # Seeing Like an Agent: Lessons in Tool Design from Claude Code
 
 _Research deep dive, March 2, 2026. Source: Thariq (@trq212) on X._

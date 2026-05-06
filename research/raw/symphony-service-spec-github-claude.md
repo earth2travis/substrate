@@ -1,3 +1,10 @@
+---
+title: "Symphony Service Specification (GitHub + Claude Code Variant)"
+source_url: ""
+ingested: 2026-05-01
+sha256: 6ccef3e538d95e17c75f8c05fc3488d49b5b601efab9a44f28c73b8d470a808b
+---
+
 # Symphony Service Specification (GitHub + Claude Code Variant)
 
 Status: Draft v1 (language-agnostic)

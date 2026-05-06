@@ -1,3 +1,10 @@
+---
+title: "Multi-Agent Coordination"
+source_url: ""
+ingested: 2026-05-01
+sha256: 73519c57664fca93ff2efc7ff6b271b7107528f8034bd532b70493baa81bfbdb
+---
+
 # Multi-Agent Coordination
 
 ## Why Multiple Agents?

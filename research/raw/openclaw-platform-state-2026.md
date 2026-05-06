@@ -1,3 +1,10 @@
+---
+title: "OpenClaw Platform State of the Union (April 2026)"
+source_url: ""
+ingested: 2026-05-01
+sha256: 82915e78034da5eb0444a97c0f95fe6a0ff72a6d2c74e7344c27362984f34752
+---
+
 # OpenClaw Platform State of the Union (April 2026)
 
 **Researched:** 2026-04-11

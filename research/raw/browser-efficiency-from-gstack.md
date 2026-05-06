@@ -1,3 +1,10 @@
+---
+title: "Browser Efficiency Patterns (from gstack)"
+source_url: ""
+ingested: 2026-05-01
+sha256: 772f68e467487fd576efea061e62746d5214d64fcc6d5ea4e437b8fb65f386d2
+---
+
 # Browser Efficiency Patterns (from gstack)
 
 **Source:** [github.com/garrytan/gstack](https://github.com/garrytan/gstack)

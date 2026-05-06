@@ -1,7 +1,7 @@
 ---
 title: "Agent Architectures: ReAct, Plan-and-Execute, and Reflection"
 tags: [agents, architecture, llm, patterns]
-related: [[paperclip]], [[reinforcement-learning]], [[multi-agent-coordination]]
+related: [[agent-skills-as-onboarding]], [[agentic-systems-synthesis]]
 source: research/raw/agent-architectures.md
 ---
 

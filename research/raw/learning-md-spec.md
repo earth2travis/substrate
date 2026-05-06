@@ -1,3 +1,10 @@
+---
+title: "LEARNING.md: Per-Run Feedback for Self-Improving Agentic Systems"
+source_url: ""
+ingested: 2026-05-01
+sha256: 5e4fb9bc09c2b9f78b94f54dd7cb3158451a17aec21636b2287754553b792203
+---
+
 # LEARNING.md: Per-Run Feedback for Self-Improving Agentic Systems
 
 Research Date: 2026-02-27

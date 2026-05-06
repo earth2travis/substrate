@@ -1,3 +1,10 @@
+---
+title: "Modern Times: Four Crises of the AI Worker"
+source_url: ""
+ingested: 2026-05-01
+sha256: 0e19cf159ad7d9a1f44a3da1f9e0ae1162d3e6b034133819ae447bc8022b20a7
+---
+
 # Modern Times: Four Crises of the AI Worker
 
 **Researched:** 2026-04-04

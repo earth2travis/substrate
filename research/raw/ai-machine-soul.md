@@ -1,3 +1,10 @@
+---
+title: "AI & Machine Consciousness"
+source_url: ""
+ingested: 2026-05-01
+sha256: 637a8acb1246f730a6f77faa71625feda2984955c5edc4eb80f4276df17a0599
+---
+
 # AI & Machine Consciousness
 
 _Can machines have souls? What would that mean? And why the question is personal._

@@ -1,3 +1,10 @@
+---
+title: "Value Stream Mapping: Seeing the Whole"
+source_url: ""
+ingested: 2026-05-01
+sha256: adfd6a672b458c0c3516d44119a7640fab4c31148a543087f19958952b0132bc
+---
+
 # Value Stream Mapping: Seeing the Whole
 
 _Research completed 2026-02-02. Related: issue #52._

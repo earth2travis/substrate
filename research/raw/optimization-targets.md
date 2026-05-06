@@ -1,3 +1,10 @@
+---
+title: "Optimization Targets for Agent Self-Evolution"
+source_url: ""
+ingested: 2026-05-01
+sha256: 2a5d874c502e35e31c7510170a16a18e1ee8539d01d3cb4994fcae49b577ea9c
+---
+
 # Optimization Targets for Agent Self-Evolution
 
 **Issue:** #443

@@ -1,3 +1,10 @@
+---
+title: "Mak's Prompt Engineering Skills: Analysis and Best Practices"
+source_url: ""
+ingested: 2026-05-01
+sha256: 7db6b153a6e1c49fb36c0f085a2a30fd675369395e029b936e21f0dfe9f3078c
+---
+
 # Mak's Prompt Engineering Skills: Analysis and Best Practices
 ## Source: Prompt Engineering Skills PDF (Mak @ Synthweave)
 ## Analyzed: 2026-03-10

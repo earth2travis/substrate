@@ -1,3 +1,10 @@
+---
+title: "Case Studies: Sports Partnerships"
+source_url: ""
+ingested: 2026-05-01
+sha256: edb083a034b5b25a2881ea5e3ed9608c89cda092df6e3b444c6434d8c42bb58e
+---
+
 # Case Studies: Sports Partnerships
 
 ## Michael Jordan & Scottie Pippen — Chicago Bulls (1987–1998)

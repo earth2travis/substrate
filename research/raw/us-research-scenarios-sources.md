@@ -1,3 +1,10 @@
+---
+title: "Sources Bibliography: UX Research Scenarios"
+source_url: ""
+ingested: 2026-05-01
+sha256: e6663acccd179b39529c630ec43ea6fcd3821f25e9135f471e677247038f00c8
+---
+
 # Sources Bibliography: UX Research Scenarios
 
 ---

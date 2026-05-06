@@ -1,3 +1,10 @@
+---
+title: "Skills Landscape for Agentic Systems (March 2026)"
+source_url: ""
+ingested: 2026-05-01
+sha256: cf25256c6bc1239f748f18b90d543939e16aae948bcf5ade3b0f1191f2d5b442
+---
+
 # Skills Landscape for Agentic Systems (March 2026)
 
 ## What Are Skills?

@@ -1,3 +1,10 @@
+---
+title: "GitHub Teams Best Practices"
+source_url: ""
+ingested: 2026-05-01
+sha256: 9f4c9438f12450c7624f60421c356223e99963a04ebce635173d54ef381097fe
+---
+
 # GitHub Teams Best Practices
 
 Research for zookooree org. Teams: Operations, Marketing, Finance, Product.

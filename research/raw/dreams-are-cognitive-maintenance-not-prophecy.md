@@ -1,3 +1,10 @@
+---
+title: "What Are Dreams?"
+source_url: ""
+ingested: 2026-05-01
+sha256: 50cc3feba7ed77000b95c35d3c326cdfbbff003a905dd2a6786a2ade59b6492d
+---
+
 # What Are Dreams?
 
 _Research into dreams, memory consolidation, and dream journals. A prelude to dreaming._

@@ -1,3 +1,10 @@
+---
+title: "Harness Engineering Evaluation: Synthweave"
+source_url: ""
+ingested: 2026-05-01
+sha256: 1528139e7392aee81d59a8a7509027b390091f542077ffb8870cb2c0d2a98143
+---
+
 # Harness Engineering Evaluation: Synthweave
 
 Evaluation against OpenAI's agent-first development methodology.

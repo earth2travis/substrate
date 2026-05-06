@@ -1,3 +1,10 @@
+---
+title: "Best Practices: GitHub Issues"
+source_url: ""
+ingested: 2026-05-01
+sha256: 97c195c3f6ab932c28cf4b55f26cf3b63fcebddbdab2e0d9849e81dd27268a80
+---
+
 # Best Practices: GitHub Issues
 
 ## What Makes a Great Issue

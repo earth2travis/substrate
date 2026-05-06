@@ -1,3 +1,10 @@
+---
+title: "A3 Thinking and Problem Solving"
+source_url: ""
+ingested: 2026-05-01
+sha256: 9f1a920397ae1f9e852386f33781f4f421158c23f68c61e83fdcc6582534115f
+---
+
 # A3 Thinking and Problem Solving
 
 _Research completed 2026-02-02. Related: issue #51._

@@ -1,3 +1,10 @@
+---
+title: "Hermes Agent Platform Analysis"
+source_url: ""
+ingested: 2026-05-01
+sha256: 25fda8cf5618292003ad4d8a44dc51d9aefd5b24462c129a8d919f87821cb9e6
+---
+
 # Hermes Agent Platform Analysis
 
 **Researched:** 2026-04-11

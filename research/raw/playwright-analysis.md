@@ -1,3 +1,10 @@
+---
+title: "Playwright Research"
+source_url: ""
+ingested: 2026-05-01
+sha256: b8e8548cca727cc796ec6ab3bde0c45c1117590543d01e259755d2460e6ab94d
+---
+
 # Playwright Research
 
 Source: https://playwright.dev/docs/intro

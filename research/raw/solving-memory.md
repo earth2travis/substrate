@@ -1,3 +1,10 @@
+---
+title: "[Solving Memory for [[OpenClaw]] & General Agents](https://x.com/sillydarket/status/2022394007448429004?s=43&t=jEKzkG7y7osog41OjAm09Q)"
+source_url: ""
+ingested: 2026-05-01
+sha256: 5646c72ffa34ac811717075089cc4661376a8b6e30bab12fe95f28901b58d4c3
+---
+
 # [Solving Memory for [[OpenClaw]] & General Agents](https://x.com/sillydarket/status/2022394007448429004?s=43&t=jEKzkG7y7osog41OjAm09Q)
 
 Every AI agent you've ever used has the same fatal flaw: **context death**.

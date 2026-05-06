@@ -1,3 +1,10 @@
+---
+title: "Create a discussion"
+source_url: ""
+ingested: 2026-05-01
+sha256: d3350a5d650bea475e07905cac0838a1abb312f72328152bacacdeabc1bf5f5b
+---
+
 ## 3. Maximizing Team Plan for Agentic Organizations
 
 ### 3.1 Organizational Structure

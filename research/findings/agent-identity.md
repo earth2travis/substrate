@@ -1,7 +1,7 @@
 ---
 title: "Agent Identity: Persona, Performance, and the SOUL.md Pattern"
 tags: [agent, identity, persona, soul, trust, memory]
-related: [[agentic-architecture]], [[agent-security]], [[skills-as-onboarding]]
+related: [[agentic-architecture]], [[agent-security]], [[agent-skills-as-onboarding]]
 source: research/raw/agent-identity.md
 ---
 

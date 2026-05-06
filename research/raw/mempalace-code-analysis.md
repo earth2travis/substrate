@@ -1,3 +1,10 @@
+---
+title: "MemPalace Code Analysis: Structure vs. Reality"
+source_url: ""
+ingested: 2026-05-01
+sha256: 89ed4ddaf929243526eedffab5be99c340cb3dfb5097039ad2b1010166bec25f
+---
+
 # MemPalace Code Analysis: Structure vs. Reality
 
 **Researched:** 2026-04-08

@@ -1,3 +1,10 @@
+---
+title: "Prose Titles Make Search Results Meaningful"
+source_url: ""
+ingested: 2026-05-01
+sha256: 966227b3e0e1cdbc48e13ef40b423aaba3cf677bc099fd328e97e8079d13499d
+---
+
 # Prose Titles Make Search Results Meaningful
 
 _Pattern from claude-obsidian memory stack analysis._

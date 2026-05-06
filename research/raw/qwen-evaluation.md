@@ -1,3 +1,10 @@
+---
+title: "Qwen 3.6 Plus Evaluation Report"
+source_url: ""
+ingested: 2026-05-01
+sha256: 73fa242dbf5978adc97d43af5f03d240a9cb4992e1a50c82cbc1085fdf5b1141
+---
+
 # Qwen 3.6 Plus Evaluation Report
 
 **Model:** Qwen 3.6 Plus (via OpenRouter)

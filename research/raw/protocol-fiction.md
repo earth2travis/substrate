@@ -1,3 +1,10 @@
+---
+title: "Protocol Fiction: Research Document"
+source_url: ""
+ingested: 2026-05-01
+sha256: 22caa0dfed8312e1de3c521dab671e5bdee5b84c22b4dea9660529deab8b4c32
+---
+
 # Protocol Fiction: Research Document
 
 *Compiled 2026-03-22 for issue #14*

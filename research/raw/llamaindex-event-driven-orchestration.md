@@ -1,3 +1,10 @@
+---
+title: "LlamaIndex Workflows: Event-Driven Agent Orchestration"
+source_url: ""
+ingested: 2026-05-01
+sha256: 78bbc398528e8892eb3b2ddca5277e44203463d97609b1bf3b35b4818aa53200
+---
+
 # LlamaIndex Workflows: Event-Driven Agent Orchestration
 ## Source: llamaindex.ai/blog/llamaagents-builder + developers.llamaindex.ai/python/llamaagents/workflows/
 ## Analyzed: 2026-03-10

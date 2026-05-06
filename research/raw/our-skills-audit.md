@@ -1,3 +1,10 @@
+---
+title: "Skills Audit Against Anthropic Guide"
+source_url: ""
+ingested: 2026-05-01
+sha256: 8531ca1aa9617b3efd4729f215bf899c4d0223daf4e62fdacf643b5a177ba25f
+---
+
 # Skills Audit Against Anthropic Guide
 ## Date: 2025-07-17
 

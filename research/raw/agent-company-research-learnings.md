@@ -1,3 +1,10 @@
+---
+title: "Proposal: Learnings from Agent Company Research"
+source_url: ""
+ingested: 2026-05-01
+sha256: d8692755a26bbd7946c78b77d70e3fa91818f61a59c221ab6b097860a2b3a9db
+---
+
 # Proposal: Learnings from Agent Company Research
 
 Based on analysis of the X articles [[Ξ2T]] shared.

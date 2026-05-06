@@ -1,3 +1,10 @@
+---
+title: "x402: The Payment Protocol for the Agentic Internet"
+source_url: ""
+ingested: 2026-05-01
+sha256: d632f4c9b205066375d14b84479911686e027e740879741e7891f0bec9c097c4
+---
+
 # x402: The Payment Protocol for the Agentic Internet
 
 _Deep dive into the open standard for HTTP-native micropayments._

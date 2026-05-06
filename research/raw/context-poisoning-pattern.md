@@ -1,3 +1,10 @@
+---
+title: "Context Poisoning: The Impulse Import Anti-Pattern"
+source_url: ""
+ingested: 2026-05-01
+sha256: 4eff3182e760302490500eb0dd2ae132b43bc2b1608e84e14eeb19606ab09b31
+---
+
 # Context Poisoning: The Impulse Import Anti-Pattern
 
 **Source:** [@kloss_xyz](https://x.com/kloss_xyz/status/2032011756890177552) (March 2026)

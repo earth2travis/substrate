@@ -1,3 +1,10 @@
+---
+title: "Production Systems Compared: Craft, Mass, and Lean"
+source_url: ""
+ingested: 2026-05-01
+sha256: 859a0e3d327f6429cefbe76bcd27e66b698bf138a0bac9a7cdd0e5d56384e838
+---
+
 # Production Systems Compared: Craft, Mass, and Lean
 
 **Researched:** 2026-04-03

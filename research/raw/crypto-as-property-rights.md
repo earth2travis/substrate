@@ -1,3 +1,10 @@
+---
+title: "Crypto Is to Agents What Property Rights Were to Capitalism"
+source_url: ""
+ingested: 2026-05-01
+sha256: c0746b5e823a743457c0ad32de90fdf0c3e8338ca0a49ae41457721a1126eb75
+---
+
 # Crypto Is to Agents What Property Rights Were to Capitalism
 
 _Seed for a longer piece. March 2, 2026._

@@ -1,3 +1,10 @@
+---
+title: "TASTE.md Standardization"
+source_url: ""
+ingested: 2026-05-01
+sha256: 7d8f02fcd11ef4a208d0d9ee6c49f146bdddce75cdb8b0bad832a52b1b05f58c
+---
+
 # TASTE.md Standardization
 
 ## Standard Format

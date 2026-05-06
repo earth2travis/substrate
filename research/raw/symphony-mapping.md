@@ -1,3 +1,10 @@
+---
+title: "Symphony Mapping: Against Our Architecture"
+source_url: ""
+ingested: 2026-05-01
+sha256: f4296952418bd1576d1526c7609045776b1212846506a37d0991877a9e547b5c
+---
+
 # Symphony Mapping: Against Our Architecture
 
 ## Our Current Setup

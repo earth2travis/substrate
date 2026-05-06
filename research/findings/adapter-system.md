@@ -1,7 +1,7 @@
 ---
 title: "Paperclip Adapter System: Three-Consumer Architecture"
 tags: [agents, architecture, adapters, paperclip]
-related: [[agent-architectures]], [[paperclip]]
+related: [[agent-architectures]], [[agent-skills-as-onboarding]]
 source: research/raw/adapter-system.md
 ---
 

@@ -1,3 +1,10 @@
+---
+title: "Loom: Autonomous Coding Agent Orchestration"
+source_url: ""
+ingested: 2026-05-01
+sha256: 311dcfdfe4a268742569a019f21f6017d1c7c73fc010fb1722edbc17f9812e26
+---
+
 # Loom: Autonomous Coding Agent Orchestration
 
 ## What Is Loom?

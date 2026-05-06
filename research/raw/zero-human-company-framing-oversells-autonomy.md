@@ -1,3 +1,10 @@
+---
+title: "Zero human company framing oversells autonomy"
+source_url: ""
+ingested: 2026-05-01
+sha256: 959e657dc6c78943bcf790c5fb24e6cfd199dd69b4d6bde76f187fc7ad99225e
+---
+
 # Zero human company framing oversells autonomy
 
 **Source:** research/paperclip/analysis.md

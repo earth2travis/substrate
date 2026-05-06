@@ -1,3 +1,10 @@
+---
+title: "Tools Landscape for Agentic Systems (March 2026)"
+source_url: ""
+ingested: 2026-05-01
+sha256: 72b1ac21d7530258a2fccd42a9ff69279d0d1498fc238e653aab84857783b8d6
+---
+
 # Tools Landscape for Agentic Systems (March 2026)
 
 ## MCP: The Protocol That Won

@@ -1,7 +1,7 @@
 ---
 title: "1Password Service Account Integration for AI Agents"
 tags: [security, operations, 1password, agents]
-related: [[agent-opsec-overview]], [[paperclip]]
+related: [[agent-opsec-overview]], [[agent-evaluation]]
 source: research/raw/1password-integration.md
 ---
 

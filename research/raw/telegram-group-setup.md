@@ -1,3 +1,10 @@
+---
+title: "Telegram Group Setup with OpenClaw"
+source_url: ""
+ingested: 2026-05-01
+sha256: e9c929316a410a5ce57da796b61552716aa7b75b647357b9b487764b16e77679
+---
+
 # Telegram Group Setup with OpenClaw
 
 **Date:** 2026-03-02

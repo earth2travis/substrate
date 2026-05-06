@@ -1,3 +1,10 @@
+---
+title: "Agentic Workflows Landscape (March 2026)"
+source_url: ""
+ingested: 2026-05-01
+sha256: 2da81ef91816eecb41dbcd0ff7c6cf1ff5a64aa6b55d8ec30561d35d13a2bc02
+---
+
 # Agentic Workflows Landscape (March 2026)
 
 ## The Field

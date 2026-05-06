@@ -1,3 +1,10 @@
+---
+title: "Handoffs Research"
+source_url: ""
+ingested: 2026-05-01
+sha256: 09f7a4cbc1c43e0def48977a67504a1348e5d834529171c0145ff950b58543c4
+---
+
 # Handoffs Research
 
 Research into preserving context across LLM conversation boundaries.

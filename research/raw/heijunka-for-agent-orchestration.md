@@ -1,3 +1,10 @@
+---
+title: "Insights: Heijunka for Agent Orchestration"
+source_url: ""
+ingested: 2026-05-01
+sha256: a42bc4fac69a96a26225602b4b587dd88be663f15853cb2616f7252501412cca
+---
+
 # Insights: Heijunka for Agent Orchestration
 
 **Source:** `research/management/heijunka-level-scheduling.md`

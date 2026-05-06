@@ -1,3 +1,10 @@
+---
+title: "Agent Operational Security: Research and Recommendations"
+source_url: ""
+ingested: 2026-05-01
+sha256: 31cdca112ca903ffceb2b6a1d4640fb4e10e1fa7147044e782bea77a0b0d5e46
+---
+
 # Agent Operational Security: Research and Recommendations
 
 _Research for Issue #53. Conducted February 1, 2026._

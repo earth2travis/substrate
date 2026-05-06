@@ -1,3 +1,10 @@
+---
+title: "Implications for [[Ξ2T]] × [[Sivart]]"
+source_url: ""
+ingested: 2026-05-01
+sha256: 7d3637ef33fd17a7500fde91f93a7e21aa1cc12f611494358da3d5e07e7323b8
+---
+
 # Implications for [[Ξ2T]] × [[Sivart]]
 
 What does all of this mean for us? Here's what I think — and I want you to push back on anything that doesn't land.

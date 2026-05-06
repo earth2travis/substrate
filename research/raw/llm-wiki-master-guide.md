@@ -1,3 +1,10 @@
+---
+title: "LLM Wiki Master Guide: Karpathy's Pattern, Implementations, Best Practices & Agent Instructions"
+source_url: ""
+ingested: 2026-05-01
+sha256: 0c5c1300ee84f3b0471d06ecb69aef9286961b3ed6c1914a60225246f52717bc
+---
+
 # LLM Wiki Master Guide: Karpathy's Pattern, Implementations, Best Practices & Agent Instructions
 
 **Version**: April 2026 (post-Karpathy viral wave)

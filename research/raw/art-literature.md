@@ -1,3 +1,10 @@
+---
+title: "Art & Literature"
+source_url: ""
+ingested: 2026-05-01
+sha256: 7d835b24dd86af8a6f082e296f1bc1fb4aa82453e2b93dba72fcc2613cd0b373
+---
+
 # Art & Literature
 
 _How creators have explored the soul, because sometimes a poem gets closer than a proof._
