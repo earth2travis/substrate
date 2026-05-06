@@ -145,3 +145,9 @@
 - Backlinked agent-identity.md, agent-native-operations.md, the-openclaw-lesson.md, memory-systems.md with new insights
 - Lint: 0 errors, 0 warnings
 
+## [2026-05-06] create | Batch 10 findings: lean-manufacturing-infrastructure (post-interrupt)
+- 4 new findings: craft-mass-lean-production, production-systems-compared, toyota-factory-planning, value-stream-mapping
+- Theme: Toyota production paradigms, greenfield factory planning, and value stream mapping as diagnostics
+- Cross-references: linked to production-paradigms, lean-doctrine, toyota-production-system, kaizen, just-in-time
+- Lint: 0 errors, 0 warnings
+
