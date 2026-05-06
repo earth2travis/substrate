@@ -119,3 +119,16 @@
 - Backlinked harness-engineering.md, dark-factory.md, lean-software-delivery.md, cloudflare-first-agent-factory.md with new insight
 - Backlinked openclaw.md, hermes-agent.md, clawhavoc-security-crisis.md, nous-research.md with new insight
 - Lint: 0 errors, 0 warnings
+
+## [2026-05-06] create | Batch 7 findings: social-layer-community-infrastructure
+- 11 new findings: clanker-event-driven-architecture, clanker-agent-deployment-patterns, neynar-platform, stay-on-base-proposal-genuinejack, memetics-as-engineered-cultural-transmission, github-as-memory, project-board-configuration, telegram-group-setup, custom-tooling-opportunities, email-management, current-costs
+- Theme: Farcaster/Neynar decentralized social layer, Clanker event-driven architecture, community governance, memetics, agent-native operations tooling
+- Cross-references: linked to farcaster-protocol, harness-engineering, dark-factory, kanban-doctrine, the-openclaw-lesson
+- Lint: 0 errors, 0 warnings
+
+## [2026-05-06] promote | 2 insights from Batch 7
+- insights/concepts/decentralized-social.md — Decentralized social protocols as agent ingestion layer: Farcaster, Neynar, Clanker architecture
+- insights/concepts/agent-native-operations.md — Agent-native operations: tools designed for AI-human partnership, session affordances, process automation
+- Backlinked harness-engineering.md, dark-factory.md, lean-software-delivery.md, kanban-doctrine.md, cloudflare-first-agent-factory.md with new insights
+- Backlinked farcaster-protocol.md, neynar-platform.md, clanker-event-driven-architecture.md, github-as-memory.md, custom-tooling-opportunities.md with new insights
+- Lint: 0 errors, 0 warnings
