@@ -132,3 +132,16 @@
 - Backlinked harness-engineering.md, dark-factory.md, lean-software-delivery.md, kanban-doctrine.md, cloudflare-first-agent-factory.md with new insights
 - Backlinked farcaster-protocol.md, neynar-platform.md, clanker-event-driven-architecture.md, github-as-memory.md, custom-tooling-opportunities.md with new insights
 - Lint: 0 errors, 0 warnings
+
+## [2026-05-06] create | Batch 9 findings: context-stack-memory-systems cluster
+- 10 new findings: the-context-stack-spec, interchangeable-context, context-stack-as-conscience, context-stack-observations, knowledge-graphs-as-agent-memory-substrate, mempalace-analysis, solving-memory, memory-is-context-not-storage-obsidian-analysis, mempalace-spatial-scoping-for-context-stack
+- Theme: Context Stack specification, interchangeable context, conscience architecture, and agent memory systems (ClawVault, MemPalace, knowledge graphs, Obsidian)
+- Cross-references: linked to agent-identity, memory-systems, agent-native-operations, the-openclaw-lesson
+- Lint: 0 errors, 0 warnings
+
+## [2026-05-06] promote | 2 insights from Batch 9
+- insights/concepts/context-stack.md — Portable identity for agents: four-layer markdown specification, interchangeable context, precondition for conscience
+- insights/concepts/agent-memory.md — From flat files to structured continuity: hybrid memory architectures, vault index pattern, intent-preserving compaction
+- Backlinked agent-identity.md, agent-native-operations.md, the-openclaw-lesson.md, memory-systems.md with new insights
+- Lint: 0 errors, 0 warnings
+
