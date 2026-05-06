@@ -151,3 +151,15 @@
 - Cross-references: linked to production-paradigms, lean-doctrine, toyota-production-system, kaizen, just-in-time
 - Lint: 0 errors, 0 warnings
 
+## [2026-05-06] create | Batch 11 findings: synthweave-skills-tools-workflows
+- 11 new findings: our-skills-audit, skills-landscape, tools-landscape, workflows-landscape, gstack-analysis, just-bash-analysis, composio-analysis, tool-provisioning-contract, paperclip-patterns-worth-adopting-for-synthweave, browser-efficiency-from-gstack, mak-prompt-engineering-skills
+- Theme: Agent skills, tools (MCP), workflows (Symphony/LangGraph/CrewAI), sandboxing, provisioning, browser efficiency, composable pipelines
+- Cross-references: linked to agent-native-operations, harness-engineering, dark-factory, the-openclaw-lesson, cloudflare-first-agent-factory, kanban-doctrine
+- Lint: 0 errors, 0 warnings
+
+## [2026-05-06] promote | 2 insights from Batch 11
+- insights/concepts/skills-as-portable-knowledge.md — Skills as the instruction set for agent systems: progressive disclosure, composability, MCP enhancement
+- insights/concepts/agent-tool-permissions.md — Permission models as the weakest link in agent tooling: least privilege, audit trails, budget enforcement
+- Backlinked skills-landscape.md, tools-landscape.md, agent-native-operations.md with new insights
+- Lint: 0 errors, 0 warnings
+
