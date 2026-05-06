@@ -90,3 +90,14 @@
 - insights/concepts/production-paradigms.md — craft/mass/lean/industry-4.0 arc applied to agent systems
 - Backlinked lean-doctrine.md, dark-factory.md, harness-engineering.md, toyota-production-system.md with new insights
 - Lint: 0 errors, 0 warnings
+
+## [2026-05-06] create | Batch 4 findings: devops-lean-software cluster
+- 6 new findings: continuous-delivery, devops, dora-metrics, lean-software-development-study, lean-startup, seven-software-wastes
+- Theme: DevOps practices, DORA metrics, continuous delivery, and lean software waste elimination
+- Cross-references: linked to lean-doctrine, dark-factory, harness-engineering, toyota-production-system, lean-production
+- Lint: 0 errors, 0 warnings
+
+## [2026-05-06] promote | 1 insight from Batch 4
+- insights/concepts/lean-software-delivery.md — DORA metrics, continuous delivery, and seven wastes as unified framework
+- Backlinked lean-doctrine.md, dark-factory.md, harness-engineering.md with new insight
+- Lint: 0 errors, 0 warnings
