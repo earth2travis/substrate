@@ -1,7 +1,7 @@
 ---
 title: "Process Philosophy"
 tags: [concept, philosophy, ontology, process-philosophy, ai, whitehead]
-related: [[alfred-north-whitehead]], [[actual-occasions]], [[prehension]], [[concrescence]], [[toyota-production-system]], [[kanban-doctrine]], [[emptiness-and-dependent-origination]], [[duration-and-living-time]], [[deleuzian-becoming]], [[nagarjuna]], [[henri-bergson]], [[gilles-deleuze]]
+related: [[alfred-north-whitehead]], [[actual-occasions]], [[prehension]], [[concrescence]], [[toyota-production-system]], [[kanban-doctrine]], [[emptiness-and-dependent-origination]], [[duration-and-living-time]], [[deleuzian-becoming]], [[nagarjuna]], [[henri-bergson]], [[gilles-deleuze]], [[simulacra-and-hyperreality]], [[critical-rationalism]]
 source: research/findings/process-without-substance.md
 ---
 
