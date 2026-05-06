@@ -66,3 +66,5 @@ Harness engineering principle #9: "Entropy and garbage collection: encode golden
 - [[lean-software-delivery]] — Continuous improvement and measurement
 - [[the-openclaw-lesson]] — Security as foundation for agent operations
 - [[current-costs]] — Partnership operating expense tracking
+- [[skills-as-portable-knowledge]] — Portable, composable skill architecture
+- [[agent-tool-permissions]] — Permission models for agent tool access
