@@ -1,7 +1,7 @@
 ---
 title: "Browser Automation for AI Agents: Research Overview"
 tags: [research, browser-automation, headless-chrome, playwright, mcp, clawdbot]
-related: [playwright-analysis, claude-code-capabilities, skills-as-portable-knowledge, agent-native-operations, the-openclaw-lesson]
+related: [playwright-analysis, claude-code-capabilities, skills-as-portable-knowledge, agent-native-operations, the-openclaw-lesson, browser-verification]
 source: "Research for Issue #81, last updated February 3, 2026"
 ---
 

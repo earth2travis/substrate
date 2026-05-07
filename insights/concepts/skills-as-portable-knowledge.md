@@ -1,7 +1,7 @@
 ---
 title: "Skills as Portable Knowledge"
 tags: [concept, skills, mcp, agent-tools, progressive-disclosure, composability]
-related: [[skills-landscape]], [[tools-landscape]], [[workflows-landscape]], [[our-skills-audit]], [[mak-prompt-engineering-skills]], [[gstack-analysis]], [[paperclip-patterns-worth-adopting-for-synthweave]], [[agent-native-operations]], [[harness-engineering]], [[the-openclaw-lesson]], [[context-stack]], [[agent-memory]], [[design-system-as-code]], [[roundtrip-workflow]]
+related: [[skills-landscape]], [[tools-landscape]], [[workflows-landscape]], [[our-skills-audit]], [[mak-prompt-engineering-skills]], [[gstack-analysis]], [[paperclip-patterns-worth-adopting-for-synthweave]], [[agent-native-operations]], [[harness-engineering]], [[the-openclaw-lesson]], [[context-stack]], [[agent-memory]], [[design-system-as-code]], [[roundtrip-workflow]], [[browser-verification]], [[agent-platform-ecosystem]]
 source: insights/concepts/skills-as-portable-knowledge.md
 ---
 

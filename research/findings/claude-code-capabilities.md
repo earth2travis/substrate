@@ -1,7 +1,7 @@
 ---
 title: "Claude Code: Complete Capabilities Guide"
 tags: [research, claude-code, capabilities, skills, memory, mcp]
-related: [openclaw, skills-as-portable-knowledge, agent-native-operations, progressive-autonomy, the-openclaw-lesson, browser-automation]
+related: [openclaw, skills-as-portable-knowledge, agent-native-operations, progressive-autonomy, the-openclaw-lesson, browser-automation, browser-verification, agent-platform-ecosystem]
 source: "https://code.claude.com/docs, compiled February 24, 2026"
 ---
 

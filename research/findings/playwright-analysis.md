@@ -1,7 +1,7 @@
 ---
 title: "Playwright Analysis"
 tags: [research, playwright, testing, browser-automation, verification]
-related: [browser-automation, claude-code-capabilities, skills-as-portable-knowledge, agent-native-operations]
+related: [browser-automation, claude-code-capabilities, skills-as-portable-knowledge, agent-native-operations, browser-verification]
 source: "https://playwright.dev/docs/intro, research notes February 2026"
 ---
 

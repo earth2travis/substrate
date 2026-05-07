@@ -1,7 +1,7 @@
 ---
 title: "Rowboat Analysis: Executive Brief"
 tags: [research, rowboat, knowledge-graph, local-first, ycombinator, competitive-analysis]
-related: [skills-as-portable-knowledge, agent-native-operations, browser-automation, the-openclaw-lesson]
+related: [skills-as-portable-knowledge, agent-native-operations, browser-automation, the-openclaw-lesson, browser-verification]
 source: "Code analysis and research, February 16-17, 2026"
 ---
 

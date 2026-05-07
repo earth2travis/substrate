@@ -1,7 +1,7 @@
 ---
 title: "Coding vs. Research: The OpenClaw vs. Hermes Divide"
 tags: [research, openclaw, hermes, agents, comparison, coding, research]
-related: [openclaw, agent-native-operations, skills-as-portable-knowledge, progressive-autonomy, the-openclaw-lesson, claude-code-capabilities]
+related: [openclaw, agent-native-operations, skills-as-portable-knowledge, progressive-autonomy, the-openclaw-lesson, claude-code-capabilities, browser-automation, agent-platform-ecosystem]
 source: "Research notes from April 11, 2026"
 ---
 
