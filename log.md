@@ -274,3 +274,14 @@
 - Cross-references: Playwright verification skills, OpenClaw/Hermes/Claude Code platform split, gateway/specialist architecture
 - Backlinks: updated [[skills-as-portable-knowledge]], [[agent-native-operations]], [[the-openclaw-lesson]], [[claude-code-capabilities]], [[browser-automation]], [[playwright-analysis]], [[coding-vs-research-platforms]], [[rowboat-analysis]]
 - Commit: c359af5 — feat: promote 2 insights from Batch 21
+
+## [2026-05-07] ingest | Batch 22: protocols (6 findings)
+- Sources: what-is-a-protocol, og-protocol, open-governance-protocol, protocol-fiction, machine-payments-protocol, x402-payment-protocol
+- Findings created (6): protocol definition and history from etymology to blockchain; Open Graph implementation research; Open Governance Protocol for constitutional agent governance; protocol fiction as literary genre; MPP for machine payments; x402 payment protocol deep dive
+- Commit: edd7e0b — feat: findings for Batch 22: protocols (6 files)
+
+## [2026-05-07] promote | Batch 22 insights (3 concepts)
+- Concepts: [[protocol-as-coordination]], [[agent-payment-infrastructure]], [[constitutional-governance]]
+- Cross-references: protocol functions across domains; x402 vs MPP payment comparison; Enlightenment governance architecture for agents
+- Backlinks: updated [[agent-native-operations]], [[agent-platform-ecosystem]], [[centaur-principle]], [[creative-partnership]], [[github-as-memory]], [[symphony-service-spec-github-claude]], [[agent-identity]], [[agent-tool-permissions]]
+- Commit: d3c4ddc — feat: promote 3 insights from Batch 22
