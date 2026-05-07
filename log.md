@@ -252,3 +252,14 @@
 - Backlinked agent-memory.md, context-stack.md, agent-native-operations.md, agent-identity.md, modern-times-for-agent-factory.md, llm-wiki-pattern.md, knowledge-graphs-as-agent-memory-substrate.md with new insights
 - Lint: 0 errors, 0 warnings
 
+
+## [2026-05-07] ingest | Batch 20: management-org (8 findings)
+- Sources: alternative-organizational-structures, alternative-organizational-structures-insights, building-the-team, business-cofounders, creative-duos, chief-of-staff-history-and-ops, frederick-taylor-scientific-management, frederick-taylor-scientific-management-insights
+- Findings created (8): Spotify/Zappos/Valve org experiments; org design insights; specialized agent team architecture; business cofounder case studies; creative duo case studies; CoS history and military SOPs; Taylor and scientific management; Taylorism insights
+- Commit: fbb6a17 — feat: findings for Batch 20: management-org (8 files)
+
+## [2026-05-07] promote | Batch 20 insights (2 concepts)
+- Concepts: [[creative-partnership]], [[chief-of-staff-model]]
+- Cross-references: Lennon-McCartney, Jobs-Wozniak, Prussian Auftragstaktik, James Baker, H.R. McMaster
+- Backlinks: updated [[building-the-team]], [[business-cofounders]], [[creative-duos]], [[chief-of-staff-history-and-ops]], [[alternative-organizational-structures]], [[progressive-autonomy]], [[agent-native-operations]]
+- Commit: 51d6b77 — feat: promote 2 insights from Batch 20
