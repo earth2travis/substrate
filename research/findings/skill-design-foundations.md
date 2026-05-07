@@ -1,7 +1,7 @@
 ---
 title: "Skill Design Foundations"
 tags: [research, skills, design, agents]
-related: [skills-as-portable-knowledge, agent-native-operations, codex, kanban-doctrine]
+related: [skills-as-portable-knowledge, agent-native-operations, design-system-as-code, workflow-as-contract]
 source: "Research notes from February 14, 2026"
 ---
 

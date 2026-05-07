@@ -1,7 +1,7 @@
 ---
 title: "Workflow as Contract"
 tags: [symphony, orchestration, workflow, agent, contract, spec]
-related: [[symphony-service-spec-github-claude]], [[symphony-orchestrator]], [[codex]], [[harness-engineering]], [[agent-native-operations]], [[cloudflare-first-agent-factory]], [[skills-as-portable-knowledge]], [[deployment-governance]]
+related: [[symphony-service-spec-github-claude]], [[symphony-orchestrator]], [[harness-engineering]], [[agent-native-operations]], [[cloudflare-first-agent-factory]], [[skills-as-portable-knowledge]], [[deployment-governance]], [[design-system-as-code]], [[roundtrip-workflow]]
 source: research/findings/symphony-service-spec-github-claude.md
 ---
 

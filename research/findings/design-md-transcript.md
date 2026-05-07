@@ -1,7 +1,7 @@
 ---
 title: "design.md: Portable Agent-Readable Design Systems"
 tags: [research, design-systems, stitch, agents, markdown]
-related: [skills-as-portable-knowledge, agent-native-operations, stitch-design-md-claude-code-workflow, llm-wiki-pattern]
+related: [skills-as-portable-knowledge, agent-native-operations, design-system-as-code, roundtrip-workflow, workflow-as-contract]
 source: "YouTube transcript, 2026-03-22"
 ---
 

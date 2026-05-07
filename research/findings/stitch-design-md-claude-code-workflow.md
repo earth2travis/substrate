@@ -1,7 +1,7 @@
 ---
 title: "Stitch design.md with Claude Code: Practical Workflow"
 tags: [research, stitch, design-systems, claude-code, mcp]
-related: [skills-as-portable-knowledge, agent-native-operations, design-md-transcript, codex]
+related: [skills-as-portable-knowledge, agent-native-operations, design-md-transcript, roundtrip-workflow, workflow-as-contract]
 source: "YouTube walkthrough by Chris, 2026-03-22"
 ---
 

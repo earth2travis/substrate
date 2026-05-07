@@ -1,7 +1,7 @@
 ---
 title: "Google Stitch March 2026 Update: Full Walkthrough"
 tags: [research, stitch, design-systems, agents, gemini]
-related: [skills-as-portable-knowledge, agent-native-operations, design-md-transcript, stitch-design-md-claude-code-workflow]
+related: [skills-as-portable-knowledge, agent-native-operations, design-system-as-code, roundtrip-workflow]
 source: "YouTube walkthrough, 2026-03-22"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Figma Dev Mode + MCP: Official Presentation"
 tags: [research, figma, mcp, dev-mode, design-systems]
-related: [skills-as-portable-knowledge, agent-native-operations, synthweave-mcp-analysis, workflow-as-contract]
+related: [skills-as-portable-knowledge, agent-native-operations, design-system-as-code, roundtrip-workflow, workflow-as-contract]
 source: "Official Figma presentation by Jake, 2026-04-01"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Figma x Claude Code Live: Roundtrip Workflows with Figma MCP"
 tags: [research, figma, mcp, claude-code, roundtrip]
-related: [skills-as-portable-knowledge, agent-native-operations, codex, workflow-as-contract]
+related: [skills-as-portable-knowledge, agent-native-operations, roundtrip-workflow, workflow-as-contract]
 source: "YouTube livestream, Brett (Figma) and Tarek (Anthropic), 2026-04-02"
 ---
 
