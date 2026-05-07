@@ -187,6 +187,18 @@
 - Cross-references: linked to agent-memory, context-stack, knowledge-graphs-as-agent-memory-substrate, llm-wiki-pattern, agent-native-operations, dark-factory
 - Lint: 0 errors, 0 warnings
 
+## [2026-05-07] create | Batch 16 findings: agent-architecture
+- 8 new findings: multi-agent-coordination, multi-agents-push-pull-patterns, llamaindex-event-driven-orchestration, subagent-architecture, subagent-improvements, openai-frontier, openai-harness-engineering, ops-agent-implementation, autonomous-video-production
+- Theme: Multi-agent orchestration patterns, sub-agent configuration, event-driven workflows, harness engineering from OpenAI Frontier, Ops agent implementation, autonomous video production stack
+- Cross-references: linked to agent-native-operations, kanban-doctrine, agent-factory-production-system, centaur-principle, agent-memory, context-stack, harness-engineering, skills-as-portable-knowledge
+- Lint: 0 errors, 0 warnings
+
+## [2026-05-07] promote | 2 insights from Batch 16
+- insights/concepts/subagent-architecture.md -- Seven design principles for spawning, configuring, and coordinating sub-agents: named specialists, model tiering, orchestrator pattern, generator-critic, rich task prompts, timeouts, context injection awareness
+- insights/concepts/multi-agent-coordination-patterns.md -- Four coordination patterns (hierarchical, blackboard, peer-to-peer, market-based) and the hybrid architecture combining hierarchy with shared workspace
+- Backlinked subagent-improvements.md, multi-agent-coordination.md, multi-agents-push-pull-patterns.md, agent-native-operations.md, agent-factory-production-system.md, kanban-doctrine.md with new insights
+- Lint: 0 errors, 0 warnings
+
 ## [2026-05-07] create | Batch 15 findings: ai-agents-systems
 - 8 new findings: ai-agents-that-run-a-company, ai-career-convergence, ai-machine-soul, ai-native-pm-operating-system, brain-fry-research, institutional-ai-vs-individual-ai, human-ai-collaboration, ai-pm-overview
 - Theme: AI agents as organizational systems: centaur collaboration, institutional AI redesign, brain fry cognitive impact, career convergence, machine consciousness
