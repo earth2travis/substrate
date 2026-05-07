@@ -1,4 +1,12 @@
-# Ansible Schema
+# Substrate Schema
+
+## Inventory
+- research/raw/ — 312 immutable source files.
+- research/findings/ — 314 synthesized findings.
+- insights/concepts/ — 74 durable concepts.
+- insights/entities/ — 3 biographical entities.
+- decisions/ — 2 ADRs.
+- guides/ — 3 field manuals.
 
 ## Frontmatter Requirements
 Every knowledge file (research, insights, decisions) must include:
@@ -29,3 +37,5 @@ The following are intentional and should not be treated as errors:
 4. **`specs/` `fm-related-missing`** — Specification documents in `specs/` are design documents, not knowledge graph pages. They do not require `related:` links. The linter still reports them as warnings for visibility but they are not treated as blockers.
 
 5. **`research/raw/` `fm-title-missing`** — Raw files are immutable sources. The linter extracts titles from H1 headings. These are reported as WARNING (not ERROR) since raw files are source material, not synthesized output.
+
+6. **`research/raw/` `broken-wikilink` as INFO** — Raw files may reference concepts not yet in Substrate. These are forward references, not errors.
