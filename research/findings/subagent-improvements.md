@@ -1,7 +1,7 @@
 ---
 title: "Insights: How We Should Use Sub-Agents"
 tags: [finding, sub-agent, orchestrator, model-tiering, generator-critic, jidoka]
-related: [[agent-native-operations]], [[subagent-architecture]], [[context-stack]], [[kanban-doctrine]]
+related: [[agent-native-operations]], [[subagent-architecture]], [[context-stack]], [[kanban-doctrine]], [[multi-agent-coordination-patterns]]
 source: research/raw/subagent-improvements.md
 ingested: 2026-05-07
 ---

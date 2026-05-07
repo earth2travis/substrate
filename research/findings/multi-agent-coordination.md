@@ -1,7 +1,7 @@
 ---
 title: "Multi-Agent Coordination"
 tags: [finding, multi-agent, orchestration, patterns, hierarchy, blackboard]
-related: [[agent-native-operations]], [[kanban-doctrine]], [[agent-factory-production-system]], [[centaur-principle]]
+related: [[agent-native-operations]], [[kanban-doctrine]], [[agent-factory-production-system]], [[centaur-principle]], [[multi-agent-coordination-patterns]]
 source: research/raw/multi-agent-coordination.md
 ingested: 2026-05-07
 ---

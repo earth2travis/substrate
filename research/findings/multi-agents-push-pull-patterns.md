@@ -1,7 +1,7 @@
 ---
 title: "Multi-Agents: The Push, The Pull, and The Practical Patterns"
 tags: [finding, multi-agent, context-engineering, smart-friend, delegation]
-related: [[agent-native-operations]], [[agent-memory]], [[context-stack]]
+related: [[agent-native-operations]], [[agent-memory]], [[context-stack]], [[subagent-architecture]]
 source: research/raw/multi-agents-push-pull-patterns.md
 ingested: 2026-05-07
 ---

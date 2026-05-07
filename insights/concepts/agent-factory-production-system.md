@@ -1,7 +1,7 @@
 ---
 title: "Agent Factory Production System"
 tags: [concept, agent-factory, lean, production-system, afps, toyota]
-related: [[toyota-production-system]], [[lean-doctrine]], [[dark-factory]], [[production-paradigms]], [[heijunka]], [[kaizen]], [[skills-as-portable-knowledge]], [[centaur-principle]], [[institutional-ai-redesign]]
+related: [[toyota-production-system]], [[lean-doctrine]], [[dark-factory]], [[production-paradigms]], [[heijunka]], [[kaizen]], [[skills-as-portable-knowledge]], [[centaur-principle]], [[institutional-ai-redesign]], [[multi-agent-coordination-patterns]]
 source: research/findings/synthesis-agent-factory.md
 ---
 
