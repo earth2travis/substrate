@@ -181,9 +181,15 @@
 - Cross-references: linked to lean-doctrine, toyota-production-system, dark-factory, production-paradigms, agent-native-operations, kanban-doctrine, context-stack
 - Lint: 0 errors, 0 warnings
 
-## [2026-05-07] promote | 2 insights from Batch 13
-- insights/concepts/heijunka.md — Production leveling for agent orchestration: interleaving work types, defining takt time, and the Heijunka Box as scheduling framework
-- insights/concepts/agent-factory-production-system.md — AFPS modeled on Toyota Production System: JIT agent production, Jidoka oversight, seven wastes translated, six-phase factory planning
-- Backlinked toyota-production-system.md, lean-doctrine.md, dark-factory.md, production-paradigms.md with new insights
+## [2026-05-07] create | Batch 14 findings: memory-systems
+- 9 new findings: clawvault-deep-dive, conscience, context-poisoning-pattern, gap-analysis-our-memory-vs-obsidian-stack, memex, memory-is-an-operating-system-for-attention, mempalace-code-analysis, obsidian, rag-vs-wiki
+- Theme: Agent memory architectures compared and analyzed: ClawVault typed docs, MemPalace spatial scoping, Obsidian local-first wiki, RAG vs wiki tradeoffs, conscience as five-component architecture
+- Cross-references: linked to agent-memory, context-stack, knowledge-graphs-as-agent-memory-substrate, llm-wiki-pattern, agent-native-operations, dark-factory
+- Lint: 0 errors, 0 warnings
+
+## [2026-05-07] promote | 2 insights from Batch 14
+- insights/concepts/conscience.md -- Five-component architecture for agent conscience: moral knowledge, self-awareness, comparison, signal, and stop. Synthesized from Aquinas, Kant, Freud, Buddhism, and neuroscience.
+- insights/concepts/rag-vs-wiki.md -- Architectural choice between retrieval-augmented generation and persistent structured wiki. RAG is search; wiki is memory. Hybrid model: wiki as primary, RAG as fallback.
+- Backlinked agent-memory.md, context-stack.md, agent-native-operations.md, agent-identity.md, modern-times-for-agent-factory.md, llm-wiki-pattern.md, knowledge-graphs-as-agent-memory-substrate.md with new insights
 - Lint: 0 errors, 0 warnings
 
