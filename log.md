@@ -285,3 +285,15 @@
 - Cross-references: protocol functions across domains; x402 vs MPP payment comparison; Enlightenment governance architecture for agents
 - Backlinks: updated [[agent-native-operations]], [[agent-platform-ecosystem]], [[centaur-principle]], [[creative-partnership]], [[github-as-memory]], [[symphony-service-spec-github-claude]], [[agent-identity]], [[agent-tool-permissions]]
 - Commit: d3c4ddc — feat: promote 3 insights from Batch 22
+
+## [2026-05-07] ingest | Batch 23: shusa-loom-gateway-orchestration (6 findings)
+- Sources: shusa-chief-engineer, shusa-zookooree-application, loom-overview, loom-service-spec, gateway-integration, symphony-mapping
+- Findings created (6): Toyota Shusa Chief Engineer system; Shusa applied to agent factory architecture; Loom autonomous coding agent orchestration; Loom service specification; Paperclip OpenClaw gateway integration; Symphony mapping against our architecture
+- Also removed stale orphan `shusa-applied-zookooree.md` finding
+- Commit: ce56ddd — feat: findings for Batch 23: shusa-loom-gateway-orchestration (6 files)
+
+## [2026-05-07] promote | Batch 23 insights (3 concepts)
+- Concepts: [[agent-orchestrator-pattern]], [[proof-of-work]], [[workspace-isolation]]
+- Cross-references: poll-dispatch-reconcile loop; verification stack for autonomous PRs; per-issue workspace isolation for concurrent agents
+- Backlinks: updated [[agent-native-operations]], [[agent-platform-ecosystem]], [[centaur-principle]], [[agent-tool-permissions]], [[shusa-chief-engineer]], [[shusa-zookooree-application]], [[loom-overview]], [[loom-service-spec]], [[symphony-mapping]], [[workflow-as-contract]], [[symphony-service-spec-github-claude]]
+- Commit: 2cde763 — feat: promote 3 insights from Batch 23
