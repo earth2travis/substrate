@@ -1,7 +1,7 @@
 ---
 title: "Case Studies: Creative Duos"
 tags: [research, creativity, partnerships, music, collaboration, ego]
-related: [business-cofounders, building-the-team, chief-of-staff-history-and-ops]
+related: [business-cofounders, building-the-team, chief-of-staff-history-and-ops, creative-partnership]
 source: "Research notes from April 2026"
 ---
 

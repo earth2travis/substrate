@@ -1,7 +1,7 @@
 ---
 title: "Insights: Alternative Organizational Structures"
 tags: [research, org-design, autonomy, alignment, hierarchy, governance]
-related: [kanban-doctrine, kaizen, progressive-autonomy, agent-factory-production-system]
+related: [kanban-doctrine, kaizen, progressive-autonomy, agent-factory-production-system, creative-partnership]
 source: "Extracted insights from alternative-organizational-structures.md, April 8, 2026"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Progressive Autonomy"
 tags: [concept, governance, feature-flags, agents]
-related: [centaur-principle, institutional-ai-redesign, agent-native-operations, kanban-doctrine, feature-flags-best-practices]
+related: [centaur-principle, institutional-ai-redesign, agent-native-operations, kanban-doctrine, feature-flags-best-practices, creative-partnership, chief-of-staff-model]
 ---
 
 # Progressive Autonomy

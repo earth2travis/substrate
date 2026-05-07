@@ -1,7 +1,7 @@
 ---
 title: "Building the Team: Specialized Agents for Sivart"
 tags: [research, agents, ops, verification, review, team-building]
-related: [agent-native-operations, symphony-orchestrator, workflow-as-contract, progressive-autonomy, kanban-doctrine]
+related: [agent-native-operations, symphony-orchestrator, workflow-as-contract, progressive-autonomy, kanban-doctrine, creative-partnership, chief-of-staff-model]
 source: "Research notes from February 13, 2026"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Case Studies: Business Co-Founders"
 tags: [research, cofounders, partnerships, business-history, apple, hp, google]
-related: [creative-duos, building-the-team, chief-of-staff-history-and-ops]
+related: [creative-duos, building-the-team, chief-of-staff-history-and-ops, creative-partnership]
 source: "Research notes from April 2026"
 ---
 

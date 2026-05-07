@@ -1,7 +1,7 @@
 ---
 title: "Chief of Staff: History, Archetypes, and Military SOPs"
 tags: [research, chief-of-staff, leadership, military, operations, management]
-related: [kanban-doctrine, agent-native-operations, symphony-orchestrator, workflow-as-contract]
+related: [kanban-doctrine, agent-native-operations, symphony-orchestrator, workflow-as-contract, chief-of-staff-model]
 source: "Wikipedia and military doctrine research, April 25, 2026"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Alternative Organizational Structures: Spotify, Zappos, Valve"
 tags: [research, org-design, squads, holacracy, flat-structure, scaling]
-related: [kanban-doctrine, kaizen, progressive-autonomy, agent-factory-production-system]
+related: [kanban-doctrine, kaizen, progressive-autonomy, agent-factory-production-system, creative-partnership]
 source: "Research notes from April 8, 2026"
 ---
 
