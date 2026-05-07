@@ -31,4 +31,4 @@ Define deployment targets with protection rules. Restrict branches, require manu
 
 ## Applications
 
-Governance infrastructure for agent factory: rulesets protect main branch, CODEOWNERS map agent domains, environment secrets isolate credentials, Secret Protection prevents accidental token commits. [[github-as-knowledge-graph]] [[agent-native-operations]]
+Governance infrastructure for agent factory: rulesets protect main branch, CODEOWNERS map agent domains, environment secrets isolate credentials, Secret Protection prevents accidental token commits. [[github-as-knowledge-graph]] [[agent-native-operations]] [[deployment-governance]]

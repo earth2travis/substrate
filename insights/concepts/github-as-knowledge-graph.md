@@ -1,7 +1,7 @@
 ---
 title: "GitHub as Knowledge Graph"
 tags: [github, knowledge-graph, institutional-memory, agent, operations]
-related: [[github-as-memory]], [[github-knowledge-graph-second-brain]], [[github-issues-best-practices]], [[github-practices]], [[github-project-best-practices]], [[agent-native-operations]], [[harness-engineering]], [[kanban-doctrine]]
+related: [[github-as-memory]], [[github-knowledge-graph-second-brain]], [[github-issues-best-practices]], [[github-practices]], [[github-project-best-practices]], [[agent-native-operations]], [[harness-engineering]], [[kanban-doctrine]], [[deployment-governance]]
 source: research/findings/github-as-memory.md
 ---
 

@@ -46,4 +46,4 @@ The "and" problem (one flag = one function), placeholder names, abandoned owners
 
 ## Applications
 
-PostHog provides boolean/multivariate flags, percentage rollouts, cohort targeting, local evaluation, bootstrapping, and experiments with statistical significance. Critical for AI systems needing instant disable capability without code deployment. [[agent-native-operations]] [[kanban-doctrine]]
+PostHog provides boolean/multivariate flags, percentage rollouts, cohort targeting, local evaluation, bootstrapping, and experiments with statistical significance. Critical for AI systems needing instant disable capability without code deployment. [[agent-native-operations]] [[kanban-doctrine]] [[progressive-autonomy]]

@@ -1,7 +1,7 @@
 ---
 title: "Agent-Native Operations: Tools for the AI-Human Partnership"
 tags: [concept, agent, operations, tooling, github, process, automation]
-related: [[custom-tooling-opportunities]], [[github-as-memory]], [[project-board-configuration]], [[telegram-group-setup]], [[email-management]], [[kanban-doctrine]], [[harness-engineering]], [[lean-software-delivery]], [[the-openclaw-lesson]], [[context-stack]], [[agent-memory]], [[conscience]], [[centaur-principle]], [[institutional-ai-redesign]], [[subagent-architecture]], [[multi-agent-coordination-patterns]]
+related: [[custom-tooling-opportunities]], [[github-as-memory]], [[project-board-configuration]], [[telegram-group-setup]], [[email-management]], [[kanban-doctrine]], [[harness-engineering]], [[lean-software-delivery]], [[the-openclaw-lesson]], [[context-stack]], [[agent-memory]], [[conscience]], [[centaur-principle]], [[institutional-ai-redesign]], [[subagent-architecture]], [[multi-agent-coordination-patterns]], [[progressive-autonomy]], [[deployment-governance]]
 source: insights/concepts/agent-native-operations.md
 ---
 

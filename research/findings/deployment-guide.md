@@ -33,4 +33,4 @@ Connects via WebSocket (not HTTP). Challenge-response handshake with Ed25519 dev
 
 ## Applications
 
-Full REST API surface for companies, agents, issues, heartbeat runs, projects, goals, approvals, secrets, labels. Auto-wakeup on issue assignment. Checkout/release flow for agent task claiming. [[agent-native-operations]] [[agent-factory-production-system]]
+Full REST API surface for companies, agents, issues, heartbeat runs, projects, goals, approvals, secrets, labels. Auto-wakeup on issue assignment. Checkout/release flow for agent task claiming. [[agent-native-operations]] [[agent-factory-production-system]] [[deployment-governance]]
