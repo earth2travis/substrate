@@ -175,3 +175,15 @@
 - Backlinked github-as-memory.md, github-knowledge-graph-second-brain.md, github-issues-best-practices.md, github-practices.md, github-project-best-practices.md, symphony-service-spec-github-claude.md with new insights
 - Lint: 0 errors, 0 warnings
 
+## [2026-05-07] create | Batch 13 findings: agent-factory-manufacturing-metaphors
+- 8 new findings: heijunka-for-agent-orchestration, heijunka-level-scheduling, kaizen-for-the-agent-factory, modern-times-for-agent-factory, price-minus-for-the-agent-factory, production-systems-for-agent-factories, dark-factory-lights-out-manufacturing, synthesis-agent-factory
+- Theme: Toyota production metaphors applied to agent factory operations: Heijunka scheduling, Kaizen improvement, Price-Minus economics, Modern Times conscience, production system evolution
+- Cross-references: linked to lean-doctrine, toyota-production-system, dark-factory, production-paradigms, agent-native-operations, kanban-doctrine, context-stack
+- Lint: 0 errors, 0 warnings
+
+## [2026-05-07] promote | 2 insights from Batch 13
+- insights/concepts/heijunka.md — Production leveling for agent orchestration: interleaving work types, defining takt time, and the Heijunka Box as scheduling framework
+- insights/concepts/agent-factory-production-system.md — AFPS modeled on Toyota Production System: JIT agent production, Jidoka oversight, seven wastes translated, six-phase factory planning
+- Backlinked toyota-production-system.md, lean-doctrine.md, dark-factory.md, production-paradigms.md with new insights
+- Lint: 0 errors, 0 warnings
+
