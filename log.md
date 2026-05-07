@@ -297,3 +297,14 @@
 - Cross-references: poll-dispatch-reconcile loop; verification stack for autonomous PRs; per-issue workspace isolation for concurrent agents
 - Backlinks: updated [[agent-native-operations]], [[agent-platform-ecosystem]], [[centaur-principle]], [[agent-tool-permissions]], [[shusa-chief-engineer]], [[shusa-zookooree-application]], [[loom-overview]], [[loom-service-spec]], [[symphony-mapping]], [[workflow-as-contract]], [[symphony-service-spec-github-claude]]
 - Commit: 2cde763 — feat: promote 3 insights from Batch 23
+
+## [2026-05-07] ingest | Batch 24: agent-infrastructure-safety (8 findings)
+- Sources: hyperstack-evaluation, mission-critical-evals-at-scale, nvidia-nemoguard-analysis, qwen-evaluation, prompt-injection-defenses, prompt-caching, better-harness-tweet, audit-replay
+- Findings created (8): HyperStack agent provenance graph; mission-critical evals at scale (Anterior case study); NVIDIA NemoGuard/OpenShell safety analysis; Qwen 3.6 Plus evaluation; prompt injection defense patterns; prompt caching deep research; harness hill-climbing with evals; audit replay infrastructure research
+- Commit: 9a35433 — feat: findings for Batch 24: agent-infrastructure-safety (8 files)
+
+## [2026-05-07] promote | Batch 24 insights (2 concepts)
+- Concepts: [[agent-provenance-graph]], [[reference-free-evaluation]]
+- Cross-references: provenance graph for multi-agent coordination; real-time reference-free evals for autonomous quality filtering
+- Backlinks: updated [[agent-security]], [[proof-of-work]], [[harness-engineering]], [[decision-provenance]], [[hyperstack-evaluation]], [[audit-replay]], [[mission-critical-evals-at-scale]], [[better-harness-tweet]]
+- Commit: 913f9f3 — feat: promote 2 insights from Batch 24
