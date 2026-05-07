@@ -8,6 +8,8 @@ related:
   - "[[toyota-production-system]]"
   - "[[harness-engineering]]"
   - "[[loom-overview]]"
+  - "[[agent-orchestrator-pattern]]"
+  - "[[workspace-isolation]]"
 ---
 
 # Shusa Applied to Zookooree

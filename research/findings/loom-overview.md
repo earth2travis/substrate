@@ -9,6 +9,9 @@ related:
   - "[[harness-engineering]]"
   - "[[loom-service-spec]]"
   - "[[symphony-mapping]]"
+  - "[[agent-orchestrator-pattern]]"
+  - "[[proof-of-work]]"
+  - "[[workspace-isolation]]"
 ---
 
 # Loom: Autonomous Coding Agent Orchestration

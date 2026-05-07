@@ -8,6 +8,8 @@ related:
   - "[[workflow-as-contract]]"
   - "[[agent-platform-ecosystem]]"
   - "[[symphony-mapping]]"
+  - "[[agent-orchestrator-pattern]]"
+  - "[[workspace-isolation]]"
 ---
 
 # Loom Service Specification

@@ -1,7 +1,7 @@
 ---
 title: "Centaur Principle"
 tags: [concept, collaboration, process, human-ai, strategy]
-related: [[agent-native-operations]], [[agent-factory-production-system]], [[human-ai-collaboration]], [[context-stack]], [[protocol-as-coordination]]
+related: [[agent-native-operations]], [[agent-factory-production-system]], [[human-ai-collaboration]], [[context-stack]], [[protocol-as-coordination]], [[agent-orchestrator-pattern]], [[proof-of-work]], [[workspace-isolation]]
 ---
 
 # Centaur Principle

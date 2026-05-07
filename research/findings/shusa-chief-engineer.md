@@ -8,6 +8,8 @@ related:
   - "[[agent-factory-production-system]]"
   - "[[kaizen]]"
   - "[[shusa-zookooree-application]]"
+  - "[[agent-orchestrator-pattern]]"
+  - "[[workspace-isolation]]"
 ---
 
 # Shusa Chief Engineer

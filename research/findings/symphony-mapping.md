@@ -10,6 +10,9 @@ related:
   - "[[loom-overview]]"
   - "[[loom-service-spec]]"
   - "[[gateway-integration]]"
+  - "[[agent-orchestrator-pattern]]"
+  - "[[proof-of-work]]"
+  - "[[workspace-isolation]]"
 ---
 
 # Symphony Mapping: Against Our Architecture
