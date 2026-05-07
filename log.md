@@ -263,3 +263,14 @@
 - Cross-references: Lennon-McCartney, Jobs-Wozniak, Prussian Auftragstaktik, James Baker, H.R. McMaster
 - Backlinks: updated [[building-the-team]], [[business-cofounders]], [[creative-duos]], [[chief-of-staff-history-and-ops]], [[alternative-organizational-structures]], [[progressive-autonomy]], [[agent-native-operations]]
 - Commit: 51d6b77 — feat: promote 2 insights from Batch 20
+
+## [2026-05-07] ingest | Batch 21: agent-coding-platforms (6 findings)
+- Sources: claude-code-capabilities, coding-vs-research-platforms, playwright-analysis, george-hotz-gastown-computer-use, browser-automation, rowboat-analysis
+- Findings created (6): Claude Code complete capabilities; OpenClaw vs Hermes platform comparison; Playwright testing framework; George Hotz Gastown and agentic coding; browser automation for AI agents; Rowboat competitive analysis
+- Commit: ed5685d — feat: findings for Batch 21: agent-coding-platforms (6 files)
+
+## [2026-05-07] promote | Batch 21 insights (2 concepts)
+- Concepts: [[browser-verification]], [[agent-platform-ecosystem]]
+- Cross-references: Playwright verification skills, OpenClaw/Hermes/Claude Code platform split, gateway/specialist architecture
+- Backlinks: updated [[skills-as-portable-knowledge]], [[agent-native-operations]], [[the-openclaw-lesson]], [[claude-code-capabilities]], [[browser-automation]], [[playwright-analysis]], [[coding-vs-research-platforms]], [[rowboat-analysis]]
+- Commit: c359af5 — feat: promote 2 insights from Batch 21
