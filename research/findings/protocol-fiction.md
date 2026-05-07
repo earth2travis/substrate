@@ -7,6 +7,7 @@ related:
   - "[[agent-native-operations]]"
   - "[[centaur-principle]]"
   - "[[what-is-a-protocol]]"
+  - "[[protocol-as-coordination]]"
 ---
 
 # Protocol Fiction

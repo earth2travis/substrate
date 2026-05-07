@@ -1,7 +1,7 @@
 ---
 title: "Symphony Service Specification (GitHub + Claude Code Variant)"
 tags: [symphony, orchestration, github, claude-code, agent-runner, spec]
-related: [symphony-orchestrator, codex, hermes-agent, agent-native-operations]
+related: [[symphony-orchestrator]], [[hermes-agent]], [[agent-native-operations]], [[protocol-as-coordination]]
 source: research/raw/symphony-service-spec-github-claude.md
 ---
 

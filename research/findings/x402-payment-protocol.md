@@ -5,7 +5,8 @@ tags: ["payments", "protocol", "http", "agents", "crypto"]
 related:
   - "[[agent-platform-ecosystem]]"
   - "[[agent-native-operations]]"
-  - "[[machine-payments-protocol]]"
+  - "[[agent-payment-infrastructure]]"
+  - "[[protocol-as-coordination]]"
 ---
 
 # x402 Payment Protocol

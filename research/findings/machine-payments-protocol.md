@@ -6,6 +6,8 @@ related:
   - "[[agent-platform-ecosystem]]"
   - "[[agent-native-operations]]"
   - "[[x402-payment-protocol]]"
+  - "[[agent-payment-infrastructure]]"
+  - "[[protocol-as-coordination]]"
 ---
 
 # Machine Payments Protocol (MPP)

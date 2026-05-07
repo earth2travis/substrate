@@ -7,6 +7,8 @@ related:
   - "[[agent-tool-permissions]]"
   - "[[agent-identity]]"
   - "[[what-is-a-protocol]]"
+  - "[[constitutional-governance]]"
+  - "[[protocol-as-coordination]]"
 ---
 
 # Open Governance Protocol

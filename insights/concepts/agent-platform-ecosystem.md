@@ -1,7 +1,7 @@
 ---
 title: "Agent Platform Ecosystem"
 tags: [concept, agents, platforms, openclaw, hermes, claude-code, gateway, specialist]
-related: [[openclaw]], [[coding-vs-research-platforms]], [[claude-code-capabilities]], [[browser-automation]], [[skills-as-portable-knowledge]], [[agent-native-operations]], [[the-openclaw-lesson]]
+related: [[openclaw]], [[coding-vs-research-platforms]], [[claude-code-capabilities]], [[browser-automation]], [[skills-as-portable-knowledge]], [[agent-native-operations]], [[the-openclaw-lesson]], [[agent-payment-infrastructure]], [[protocol-as-coordination]]
 source: insights/concepts/agent-platform-ecosystem.md
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Agent Tool Permissions"
 tags: [concept, security, permissions, mcp, agent-tools, least-privilege]
-related: [[tools-landscape]], [[just-bash-analysis]], [[composio-analysis]], [[tool-provisioning-contract]], [[the-openclaw-lesson]], [[agent-native-operations]], [[harness-engineering]], [[dark-factory]], [[cloudflare-first-agent-factory]]
+related: [[tools-landscape]], [[just-bash-analysis]], [[composio-analysis]], [[tool-provisioning-contract]], [[the-openclaw-lesson]], [[agent-native-operations]], [[harness-engineering]], [[dark-factory]], [[cloudflare-first-agent-factory]], [[constitutional-governance]], [[agent-payment-infrastructure]]
 source: insights/concepts/agent-tool-permissions.md
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Creative Partnership"
 tags: [concept, collaboration, partnership, creativity, complementarity, ego]
-related: [building-the-team, business-cofounders, creative-duos, progressive-autonomy, agent-native-operations, workflow-as-contract]
+related: [[building-the-team]], [[business-cofounders]], [[creative-duos]], [[progressive-autonomy]], [[agent-native-operations]], [[workflow-as-contract]], [[protocol-as-coordination]]
 source: insights/concepts/creative-partnership.md
 ---
 

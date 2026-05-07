@@ -6,6 +6,7 @@ related:
   - "[[agent-native-operations]]"
   - "[[agent-platform-ecosystem]]"
   - "[[centaur-principle]]"
+  - "[[protocol-as-coordination]]"
 ---
 
 # What Is a Protocol?

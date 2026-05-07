@@ -1,7 +1,7 @@
 ---
 title: "Agent Identity: Values, Trust, and the SOUL.md Pattern"
 tags: [concept, agent, identity, persona, trust, soul]
-related: [[agent-security]], [[progressive-disclosure]], [[agentic-architecture]], [[context-stack]], [[agent-memory]], [[conscience]]
+related: [[agent-security]], [[progressive-disclosure]], [[agentic-architecture]], [[context-stack]], [[agent-memory]], [[conscience]], [[constitutional-governance]]
 source: research/findings/agent-identity.md
 ---
 
