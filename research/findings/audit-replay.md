@@ -6,6 +6,7 @@ related:
   - [[decision-provenance]]
   - [[proof-of-work]]
   - [[rag-vs-wiki]]
+  - [[agent-provenance-graph]]
 source: research/raw/audit-replay.md
 ---
 

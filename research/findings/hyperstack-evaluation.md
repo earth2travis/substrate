@@ -5,6 +5,7 @@ related:
   - [[agent-native-operations]]
   - [[proof-of-work]]
   - [[decision-provenance]]
+  - [[agent-provenance-graph]]
 source: research/raw/hyperstack-evaluation.md
 ---
 

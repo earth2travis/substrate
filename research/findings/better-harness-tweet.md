@@ -5,6 +5,7 @@ related:
   - [[harness-engineering]]
   - [[proof-of-work]]
   - [[agent-native-operations]]
+  - [[reference-free-evaluation]]
 source: research/raw/better-harness-tweet.md
 ---
 

@@ -5,6 +5,7 @@ related:
   - [[proof-of-work]]
   - [[agent-native-operations]]
   - [[harness-engineering]]
+  - [[reference-free-evaluation]]
 source: research/raw/mission-critical-evals-at-scale.md
 ---
 

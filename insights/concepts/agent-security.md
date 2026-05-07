@@ -1,7 +1,7 @@
 ---
 title: "Agent Security: Least Privilege for Autonomous Systems"
 tags: [concept, agent, security, opsec, credentials, server]
-related: [[agentic-architecture]], [[agent-identity]], [[toyota-production-system]]
+related: [[agentic-architecture]], [[agent-identity]], [[toyota-production-system]], [[agent-provenance-graph]], [[prompt-injection-defenses]]
 source: research/findings/agent-opsec-overview.md
 ---
 

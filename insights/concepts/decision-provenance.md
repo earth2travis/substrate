@@ -1,7 +1,7 @@
 ---
 title: "Decision Provenance"
 tags: [concept, provenance, decision-tracking, observability, accountability]
-related: [[agent-memory]], [[context-stack]], [[agent-native-operations]], [[subagent-architecture]]
+related: [[agent-memory]], [[context-stack]], [[agent-native-operations]], [[subagent-architecture]], [[agent-provenance-graph]]
 ---
 
 # Decision Provenance
