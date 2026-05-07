@@ -7,6 +7,7 @@ related:
   - [[institutional-ai-redesign]]
   - [[harness-engineering]]
   - [[creative-partnership]]
+  - [[automation-leverage]]
 source: research/raw/the-new-way-to-build-a-startup.md
 ---
 

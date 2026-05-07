@@ -8,6 +8,7 @@ related:
   - [[toyota-production-system]]
   - [[proof-of-work]]
   - [[agent-native-operations]]
+  - [[feedback-loop-discipline]]
 source: research/raw/continuous-improvement-plan.md
 ---
 
