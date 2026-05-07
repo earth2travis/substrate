@@ -1,7 +1,7 @@
 ---
 title: "AI Product Management Overview"
 tags: [finding, product-management, ai-pm, strategy, centaur]
-related: [[agent-native-operations]], [[ai-native-pm-operating-system]], [[human-ai-collaboration]]
+related: [[agent-native-operations]], [[ai-native-pm-operating-system]], [[human-ai-collaboration]], [[centaur-principle]]
 source: research/raw/ai-pm-overview.md
 ingested: 2026-05-07
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Human-AI Collaboration"
 tags: [finding, collaboration, centaur, human-ai-partnership, process]
-related: [[agent-native-operations]], [[ai-career-convergence]], [[agent-identity]]
+related: [[agent-native-operations]], [[ai-career-convergence]], [[agent-identity]], [[centaur-principle]]
 source: research/raw/human-ai-collaboration.md
 ingested: 2026-05-07
 ---

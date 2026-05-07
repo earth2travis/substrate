@@ -1,7 +1,7 @@
 ---
 title: "AI Native PM Operating System"
 tags: [finding, product-management, ai-native, mcp, cursor, claude]
-related: [[agent-native-operations]], [[skills-as-portable-knowledge]], [[agent-tool-permissions]]
+related: [[agent-native-operations]], [[skills-as-portable-knowledge]], [[agent-tool-permissions]], [[centaur-principle]]
 source: research/raw/ai-native-pm-operating-system.md
 ingested: 2026-05-07
 ---

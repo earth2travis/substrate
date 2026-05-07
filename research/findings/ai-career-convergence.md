@@ -1,7 +1,7 @@
 ---
 title: "AI Career Convergence"
 tags: [finding, ai, career, convergence, future-of-work]
-related: [[agent-native-operations]], [[human-ai-collaboration]], [[skills-as-portable-knowledge]]
+related: [[agent-native-operations]], [[human-ai-collaboration]], [[skills-as-portable-knowledge]], [[centaur-principle]]
 source: research/raw/ai-career-convergence.md
 ingested: 2026-05-07
 ---

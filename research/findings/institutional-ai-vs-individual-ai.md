@@ -1,7 +1,7 @@
 ---
 title: "Institutional AI vs Individual AI"
 tags: [finding, ai, enterprise, institutional-ai, process-engineering]
-related: [[agent-factory-production-system]], [[agent-native-operations]], [[kanban-doctrine]]
+related: [[agent-factory-production-system]], [[agent-native-operations]], [[kanban-doctrine]], [[institutional-ai-redesign]]
 source: research/raw/institutional-ai-vs-individual-ai.md
 ingested: 2026-05-07
 ---
