@@ -187,6 +187,18 @@
 - Cross-references: linked to agent-memory, context-stack, knowledge-graphs-as-agent-memory-substrate, llm-wiki-pattern, agent-native-operations, dark-factory
 - Lint: 0 errors, 0 warnings
 
+## [2026-05-07] create | Batch 15 findings: ai-agents-systems
+- 8 new findings: ai-agents-that-run-a-company, ai-career-convergence, ai-machine-soul, ai-native-pm-operating-system, brain-fry-research, institutional-ai-vs-individual-ai, human-ai-collaboration, ai-pm-overview
+- Theme: AI agents as organizational systems: centaur collaboration, institutional AI redesign, brain fry cognitive impact, career convergence, machine consciousness
+- Cross-references: linked to agent-native-operations, agent-factory-production-system, kanban-doctrine, skills-as-portable-knowledge, agent-identity, context-stack, conscience
+- Lint: 0 errors, 0 warnings
+
+## [2026-05-07] promote | 2 insights from Batch 15
+- insights/concepts/centaur-principle.md -- Quality of human-AI collaboration matters more than capability of either alone. First demonstrated in 2005 centaur chess tournaments.
+- insights/concepts/institutional-ai-redesign.md -- AI has made individuals 10x more productive but organizations have not been redesigned around it. Six dimensions of institutional redesign: chaos/coordination, noise/signal, bias/objectivity, time-savings/revenue, tools/process, prompted/unprompted.
+- Backlinked human-ai-collaboration.md, ai-pm-overview.md, ai-career-convergence.md, ai-native-pm-operating-system.md, institutional-ai-vs-individual-ai.md, agent-factory-production-system.md, kanban-doctrine.md, agent-native-operations.md with new insights
+- Lint: 0 errors, 0 warnings
+
 ## [2026-05-07] promote | 2 insights from Batch 14
 - insights/concepts/conscience.md -- Five-component architecture for agent conscience: moral knowledge, self-awareness, comparison, signal, and stop. Synthesized from Aquinas, Kant, Freud, Buddhism, and neuroscience.
 - insights/concepts/rag-vs-wiki.md -- Architectural choice between retrieval-augmented generation and persistent structured wiki. RAG is search; wiki is memory. Hybrid model: wiki as primary, RAG as fallback.
