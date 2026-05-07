@@ -187,6 +187,18 @@
 - Cross-references: linked to agent-memory, context-stack, knowledge-graphs-as-agent-memory-substrate, llm-wiki-pattern, agent-native-operations, dark-factory
 - Lint: 0 errors, 0 warnings
 
+## [2026-05-07] create | Batch 17 findings: ai-agents-continued
+- 10 new findings: openai-frontier-and-harness-engineering, herdr-agent-multiplexer, the-five-whys-for-agentic-intelligence, ai-cognitive-prosthetic-equanimity, factory-ai-droid-session, erc-8004-trustless-agents, paperclip-atomic-task-checkout-prevents-agent-collisions, pinata-agent-storage, decision-provenance, frontier-and-harness-for-zookooree
+- Theme: Agent architecture continued: context compression, decision provenance, ERC-8004 trust layer, atomic task checkout, IPFS storage, harness engineering insights, cognitive prosthetics
+- Cross-references: linked to harness-engineering, agent-native-operations, agent-factory-production-system, dark-factory, agent-memory, context-stack, subagent-architecture
+- Lint: 0 errors, 0 warnings
+
+## [2026-05-07] promote | 2 insights from Batch 17
+- insights/concepts/context-compression.md -- Techniques for preserving agent coherence when context windows exceed thresholds: anchored compression, rolling anchors, append-only constraint
+- insights/concepts/decision-provenance.md -- Discipline and infrastructure for tracing agent decisions back to inputs, reasoning, and alternatives: hybrid storage, query patterns, multi-agent attribution
+- Backlinked factory-ai-droid-session.md, decision-provenance.md, openai-frontier-and-harness-engineering.md, frontier-and-harness-for-zookooree.md, the-five-whys-for-agentic-intelligence.md, context-stack.md, agent-memory.md, agent-native-operations.md, subagent-architecture.md with new insights
+- Lint: 0 errors, 0 warnings
+
 ## [2026-05-07] create | Batch 16 findings: agent-architecture
 - 8 new findings: multi-agent-coordination, multi-agents-push-pull-patterns, llamaindex-event-driven-orchestration, subagent-architecture, subagent-improvements, openai-frontier, openai-harness-engineering, ops-agent-implementation, autonomous-video-production
 - Theme: Multi-agent orchestration patterns, sub-agent configuration, event-driven workflows, harness engineering from OpenAI Frontier, Ops agent implementation, autonomous video production stack
