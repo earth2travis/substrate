@@ -1,7 +1,7 @@
 ---
 title: "RAG vs Wiki"
 tags: [concept, memory, knowledge-management, rag, wiki, agent-design]
-related: [[agent-memory]], [[context-stack]], [[llm-wiki-pattern]], [[knowledge-graphs-as-agent-memory-substrate]]
+related: [[agent-memory]], [[context-stack]], [[llm-wiki-pattern]], [[knowledge-graphs-as-agent-memory-substrate]], [[synthesis-over-retrieval]], [[per-run-learning]]
 source: research/findings/rag-vs-wiki.md
 ---
 

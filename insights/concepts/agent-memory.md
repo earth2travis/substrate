@@ -10,6 +10,8 @@ related:
   - [[rag-vs-wiki]]
   - [[the-openclaw-lesson]]
   - [[process-philosophy]]
+  - [[synthesis-over-retrieval]]
+  - [[per-run-learning]]
 source: research/findings/memory-systems.md
 ---
 

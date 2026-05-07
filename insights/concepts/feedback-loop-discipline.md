@@ -9,6 +9,7 @@ related:
   - [[proof-of-work]]
   - [[reference-free-evaluation]]
   - [[agent-native-operations]]
+  - [[per-run-learning]]
 source: research/findings/continuous-improvement-plan.md
 ---
 

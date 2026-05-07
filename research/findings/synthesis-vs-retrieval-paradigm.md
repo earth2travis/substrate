@@ -6,6 +6,7 @@ related:
   - [[agent-memory]]
   - [[karpathy-llm-knowledge-bases]]
   - [[automation-leverage]]
+  - [[synthesis-over-retrieval]]
 source: research/raw/synthesis-vs-retrieval-paradigm.md
 ---
 

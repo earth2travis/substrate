@@ -1,30 +1,26 @@
 ---
-title: "LEARNING.md: Per-Run Feedback for Self-Improving Agentic Systems"
+title: "Per-Run Learning"
 tags: [agents, learning, self-improvement, feedback-loops, workflows, memory]
 related:
   - [[feedback-loop-discipline]]
   - [[agent-memory]]
   - [[harness-engineering]]
   - [[proof-of-work]]
-  - [[per-run-learning]]
-source: research/raw/learning-md-spec.md
+  - [[synthesis-over-retrieval]]
+source: research/findings/learning-md-spec.md
 ---
 
-# LEARNING.md: Per-Run Feedback for Self-Improving Agentic Systems
+# Per-Run Learning
 
-**Status:** Early concept, February 2026
+A pattern for agent self-improvement: one learning file per workflow run, capturing what happened, what went wrong, and what to do differently. Atomic, scoped, diffable.
 
 ## The Problem
 
-Agentic systems run workflows repeatedly but do not systematically capture what they learn from each execution. Existing conventions (CLAUDE.md, AGENTS.md, .cursorrules) handle project context and identity. Memory files handle episodic and semantic recall. Nothing occupies the space of **structured feedback from a specific workflow run** that feeds back into the next run.
+Agentic systems run workflows repeatedly but do not systematically capture what they learn from each execution. Existing conventions (CLAUDE.md, AGENTS.md, .cursorrules) handle project context. Memory files handle episodic and semantic recall. Nothing occupies the space of **structured feedback from a specific workflow run** that feeds back into the next run.
 
 The "reflect" pattern is emerging but everyone names the output differently and most conflate reflection with journaling. The feedback signal gets lost in narrative.
 
-## The Idea
-
-One learning file per workflow run. The workflow produces its output AND its reflection as a pair. The file captures what happened, what went wrong, and what to do differently. Atomic, scoped, diffable.
-
-## Structure
+## The Pattern
 
 ```
 learning/
@@ -36,11 +32,11 @@ Each file is a snapshot of one execution. The directory becomes the workflow's i
 
 ## Pre-Run Behavior
 
-Before executing, the agent reads the last N learning files for that workflow. Recent feedback informs the current run. Recency handles pruning naturally.
+Before executing, the agent reads the last N learning files for that workflow. Recent feedback informs the current run. Recency handles pruning naturally: you only look back a window.
 
 ## Graduation
 
-When the same lesson appears across multiple run files, that is the signal to bake it into the workflow itself. The learning files become evidence for the change. After graduation, old files can be archived or deleted.
+When the same lesson appears across multiple run files, that is the signal to bake it into the workflow itself (update the script, the prompt, the skill). The learning files become evidence for the change. After graduation, old files can be archived or deleted.
 
 ## Diffing as Audit
 
