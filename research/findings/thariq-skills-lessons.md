@@ -6,7 +6,7 @@ related:
   - [[harness-engineering]]
   - [[agent-native-operations]]
   - [[the-openclaw-lesson]]
-source: research/raw/thariq-skills-lessons.md
+source: research/findings/thariq-skills-lessons.md
 ---
 
 # Lessons from Building Claude Code Skills (Thariq Shihipar)
