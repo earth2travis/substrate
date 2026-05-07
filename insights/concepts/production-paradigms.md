@@ -1,7 +1,7 @@
 ---
 title: "Production Paradigms"
 tags: [concept, manufacturing, history, production, lean]
-related: [[craft-production]], [[mass-production]], [[mass-customization]], [[lean-production]], [[industry-4.0]], [[toyota-production-system]], [[scientific-management]]
+related: [[craft-production]], [[mass-production]], [[mass-customization]], [[lean-production]], [[industry-4.0]], [[toyota-production-system]], [[scientific-management]], [[agent-factory-production-system]]
 source: research/findings/mass-production.md
 ---
 
