@@ -163,3 +163,15 @@
 - Backlinked skills-landscape.md, tools-landscape.md, agent-native-operations.md with new insights
 - Lint: 0 errors, 0 warnings
 
+## [2026-05-06] create | Batch 12 findings: github-project-management
+- 8 new findings: figma-github-projects-plugin, github-capabilities-audit, github-issues-best-practices, github-knowledge-graph-second-brain, github-practices, github-project-best-practices, github-project-management-overview, symphony-service-spec-github-claude
+- Theme: GitHub as knowledge graph, issue best practices, project management, Figma plugin architecture, Symphony workflow-as-contract spec
+- Cross-references: linked to github-as-memory, project-board-configuration, symphony-orchestrator, agent-native-operations, kanban-doctrine
+- Lint: 0 errors, 0 warnings
+
+## [2026-05-06] promote | 2 insights from Batch 12
+- insights/concepts/github-as-knowledge-graph.md — GitHub Issues as nodes in an institutional knowledge graph: the memory quality problem and the closure discipline
+- insights/concepts/workflow-as-contract.md — Agent behavior versioned in-repo via WORKFLOW.md: separation of policy from orchestration
+- Backlinked github-as-memory.md, github-knowledge-graph-second-brain.md, github-issues-best-practices.md, github-practices.md, github-project-best-practices.md, symphony-service-spec-github-claude.md with new insights
+- Lint: 0 errors, 0 warnings
+
