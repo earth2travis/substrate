@@ -1,10 +1,13 @@
 ---
 title: "AutoResearchClaw: Experiment-Driven Development Analysis"
 tags: [autoresearchclaw, agents, research, experiment, pipeline, science]
-related: [[hermes-agent]], [[harness-engineering]], [[lean-software-delivery]], [[dark-factory]]
+related:
+- hermes-agent
+- harness-engineering
+- lean-software-delivery
+- dark-factory
 source: research/raw/autoresearchclaw-analysis.md
 ---
-
 # AutoResearchClaw: Experiment-Driven Development Analysis
 
 ## Summary

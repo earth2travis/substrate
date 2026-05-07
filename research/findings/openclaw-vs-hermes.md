@@ -1,10 +1,13 @@
 ---
 title: "OpenClaw vs Hermes: Coding vs Research Agent Analysis"
 tags: [openclaw, hermes-agent, comparison, coding, research, agents]
-related: [[openclaw]], [[hermes-agent]], [[clawhavoc-security-crisis]], [[harness-engineering]]
+related:
+- openclaw
+- hermes-agent
+- clawhavoc-security-crisis
+- harness-engineering
 source: research/raw/openclaw-vs-hermes.md
 ---
-
 # OpenClaw vs Hermes: Coding vs Research Agent Analysis
 
 ## Summary

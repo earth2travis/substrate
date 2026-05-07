@@ -1,10 +1,17 @@
 ---
 title: "Mission Command"
 tags: [concept, mission-command, auftragstaktik, decentralization, autonomy, intent]
-related: [[intelligence-graph-organization]], [[creative-partnership]], [[protocol-as-coordination]], [[progressive-autonomy]], [[kanban-doctrine]], [[microsolidarity-five-scales]], [[block-hierarchy-to-intelligence]], [[auftragstaktik-mission-command]]
+related:
+- intelligence-graph-organization
+- creative-partnership
+- protocol-as-coordination
+- progressive-autonomy
+- kanban-doctrine
+- microsolidarity-five-scales
+- block-hierarchy-to-intelligence
+- auftragstaktik-mission-command
 source: insights/concepts/mission-command.md
 ---
-
 # Mission Command
 
 ## Thesis
@@ -50,3 +57,16 @@ Without these, mission command becomes chaos. With them, it becomes the most ada
 Jack Dorsey's "intelligence graph" is mission command applied to AI-native organizations. The world model provides context that managers used to provide. DRIs own outcomes with full authority. Player-coaches develop people. There is no permanent middle management because there is no need for information routers when the system itself holds the context.
 
 The Agent Factory is built on this principle. The Substrate is the General Staff — the shared training and knowledge base. The agents are the distributed commanders, each with intent, each with initiative, each accountable to outcome.
+
+
+# Related
+
+- [[auftragstaktik-mission-command]]
+- [[alternative-organizational-structures]]
+- [[alternative-organizational-structures-insights]]
+- [[jack-dorsey-from-hierarchy-to-intelligence]]
+- [[block-hierarchy-to-intelligence]]
+
+- [[microsolidarity-five-scales]]
+
+- [[mckinsey-7s-framework-insights]]

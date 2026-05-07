@@ -1,7 +1,19 @@
 ---
 title: "The OpenClaw Lesson: Security as Foundation"
 tags: [concept, agent, security, platform, evolution, infrastructure]
-related: [[harness-engineering]], [[dark-factory]], [[lean-software-delivery]], [[cloudflare-first-agent-factory]], [[openclaw]], [[hermes-agent]], [[clawhavoc-security-crisis]], [[nous-research]], [[context-stack]], [[agent-memory]], [[browser-verification]], [[agent-platform-ecosystem]]
+related:
+- harness-engineering
+- dark-factory
+- lean-software-delivery
+- cloudflare-first-agent-factory
+- openclaw
+- hermes-agent
+- clawhavoc-security-crisis
+- nous-research
+- context-stack
+- agent-memory
+- browser-verification
+- agent-platform-ecosystem
 source: insights/concepts/the-openclaw-lesson.md
 ---
 
@@ -68,3 +80,13 @@ Harness engineering's principle #9 is "Entropy and garbage collection: encode go
 - [[dark-factory]] — Lights-out operation requiring security foundations
 - [[lean-software-delivery]] — Quality gates and continuous monitoring
 - [[cloudflare-first-agent-factory]] — Infrastructure with zero-secrets architecture
+
+- [[openclaw-vs-hermes-coding]]
+- [[openclaw-report]]
+- [[28-openclaw-mistakes]]
+- [[agent-evaluation]]
+
+- [[28-openclaw-mistakes-kloss]]
+- [[openclaw-platform-state-2026]]
+- [[openclaw-community]]
+- [[openclaw-vs-hermes]]

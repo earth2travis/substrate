@@ -1,10 +1,12 @@
 ---
 title: "Agent Operational Security: Server Hardening and Credential Management"
 tags: [agent, security, opsec, credentials, server, hardening]
-related: [[agentic-architecture]], [[agent-identity]], [[agent-evaluation]]
+related:
+- agentic-architecture
+- agent-identity
+- agent-evaluation
 source: research/raw/agent-opsec-overview.md
 ---
-
 # Agent Operational Security: Server Hardening and Credential Management
 
 ## Summary

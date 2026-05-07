@@ -1,10 +1,15 @@
 ---
 title: "Agentic Architecture: Three-Layer Production Stack"
 tags: [concept, architecture, agent, mcp, skills, workflows, orchestration]
-related: [[progressive-disclosure]], [[agent-security]], [[agent-identity]], [[dark-factory]], [[harness-engineering]], [[ai-composable-primitives]]
+related:
+- progressive-disclosure
+- agent-security
+- agent-identity
+- dark-factory
+- harness-engineering
+- ai-composable-primitives
 source: research/findings/agentic-systems-synthesis.md
 ---
-
 # Agentic Architecture: Three-Layer Production Stack
 
 ## Overview
@@ -51,3 +56,19 @@ The architecture maps to Toyota Production System principles:
 - **Stop the line**: When an agent produces garbage, halt and diagnose
 - **Small improvements**: Agent capabilities compound through incremental refinement
 - **Problems as signals**: Every failure is information about where the system needs to improve
+
+
+# Related
+
+- [[agent-company-articles]]
+- [[agent-company-research-learnings]]
+- [[ai-agents-that-run-a-company]]
+- [[institutional-ai-vs-individual-ai]]
+- [[zero-human-company-framing-oversells-autonomy]]
+
+- [[subagent-improvements]]
+- [[nex-brainstorm]]
+- [[symphony-mapping]]
+- [[what-should-we-actually-build]]
+
+- [[george-hotz-gastown-computer-use]]

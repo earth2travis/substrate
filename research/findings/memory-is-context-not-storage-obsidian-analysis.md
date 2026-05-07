@@ -1,14 +1,22 @@
 ---
-title: "Claude + Obsidian Memory Stack: Context Amnesia as the Real Bottleneck"
-tags: [agent-memory, obsidian, context-engineering, knowledge-graphs, memory-systems]
+title: 'Claude + Obsidian Memory Stack: Context Amnesia as the Real Bottleneck'
+tags:
+- agent-memory
+- obsidian
+- context-engineering
+- knowledge-graphs
+- memory-systems
 related:
-  - [[solving-memory]]
-  - [[knowledge-graphs-as-agent-memory-substrate]]
-  - [[the-context-stack-spec]]
-  - [[memory-systems]]
-  - [[agent-identity]]
+- solving-memory
+- knowledge-graphs-as-agent-memory-substrate
+- the-context-stack-spec
+- memory-systems
+- agent-identity
 source: research/raw/memory-is-context-not-storage-obsidian-analysis.md
 ---
+
+
+
 
 # Claude + Obsidian Memory Stack: Context Amnesia as the Real Bottleneck
 

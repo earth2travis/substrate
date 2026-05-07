@@ -5,6 +5,7 @@ related: [chief-of-staff-history-and-ops, kanban-doctrine, agent-native-operatio
 source: insights/concepts/chief-of-staff-model.md
 ---
 
+
 # Chief of Staff Model
 
 ## Thesis

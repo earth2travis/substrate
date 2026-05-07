@@ -1,15 +1,25 @@
 ---
-title: "Shusa Role Applied to Zookooree (Lean AI Agent Factory)"
-tags: [lean, shusa, chief-engineer, agent-factory, integration, toyota, dark-factory]
+title: Shusa Role Applied to Zookooree (Lean AI Agent Factory)
+tags:
+- lean
+- shusa
+- chief-engineer
+- agent-factory
+- integration
+- toyota
+- dark-factory
 related:
-  - [[chief-engineer-system]]
-  - [[agent-factory-production-system]]
-  - [[toyota-production-system]]
-  - [[lean-doctrine]]
-  - [[dark-factory]]
-  - [[harness-engineering]]
-source: "Analysis compiled 2026-04-11"
+- chief-engineer-system
+- agent-factory-production-system
+- toyota-production-system
+- lean-doctrine
+- dark-factory
+- harness-engineering
+source: Analysis compiled 2026-04-11
 ---
+
+
+
 
 # Shusa Role Applied to Zookooree (Lean AI Agent Factory)
 

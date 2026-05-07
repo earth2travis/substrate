@@ -1,19 +1,26 @@
 ---
-title: "Symphony Mapping: Against Our Architecture"
-source: "research/raw/symphony-mapping.md"
-tags: ["symphony", "orchestration", "openclaw", "architecture", "comparison"]
+title: 'Symphony Mapping: Against Our Architecture'
+source: research/raw/symphony-mapping.md
+tags:
+- symphony
+- orchestration
+- openclaw
+- architecture
+- comparison
 related:
-  - "[[agent-native-operations]]"
-  - "[[workflow-as-contract]]"
-  - "[[agent-platform-ecosystem]]"
-  - "[[the-openclaw-lesson]]"
-  - "[[loom-overview]]"
-  - "[[loom-service-spec]]"
-  - "[[gateway-integration]]"
-  - "[[agent-orchestrator-pattern]]"
-  - "[[proof-of-work]]"
-  - "[[workspace-isolation]]"
+- agent-native-operations
+- workflow-as-contract
+- agent-platform-ecosystem
+- the-openclaw-lesson
+- loom-overview
+- loom-service-spec
+- gateway-integration
+- agent-orchestrator-pattern
+- proof-of-work
+- workspace-isolation
 ---
+
+
 
 # Symphony Mapping: Against Our Architecture
 

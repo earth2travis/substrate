@@ -1,15 +1,23 @@
 ---
-title: "The New Way To Build a Startup: 20x Companies"
-tags: [agents, startups, automation, compound-startup, operations]
+title: 'The New Way To Build a Startup: 20x Companies'
+tags:
+- agents
+- startups
+- automation
+- compound-startup
+- operations
 related:
-  - [[agent-native-operations]]
-  - [[centaur-principle]]
-  - [[institutional-ai-redesign]]
-  - [[harness-engineering]]
-  - [[creative-partnership]]
-  - [[automation-leverage]]
+- agent-native-operations
+- centaur-principle
+- institutional-ai-redesign
+- harness-engineering
+- creative-partnership
+- automation-leverage
 source: research/raw/the-new-way-to-build-a-startup.md
 ---
+
+
+
 
 # The New Way To Build a Startup: 20x Companies
 

@@ -1,10 +1,13 @@
 ---
 title: "Kanban: Visual Signaling for Flow Control"
 tags: [lean, tps, operations, tools, project-management]
-related: [[toyota-production-system]], [[just-in-time]], [[lean-production]], [[kanban-doctrine]]
+related:
+- toyota-production-system
+- just-in-time
+- lean-production
+- kanban-doctrine
 source: research/raw/kanban.md
 ---
-
 # Kanban: Visual Signaling for Flow Control
 
 ## Summary

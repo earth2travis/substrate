@@ -1,11 +1,13 @@
 ---
 title: "Paperclip: Atomic Task Checkout Prevents Agent Collisions"
 tags: [finding, multi-agent, orchestration, atomic-checkout, collision-prevention]
-related: [[agent-native-operations]], [[subagent-architecture]], [[multi-agent-coordination-patterns]]
+related:
+- agent-native-operations
+- subagent-architecture
+- multi-agent-coordination-patterns
 source: research/raw/paperclip-atomic-task-checkout-prevents-agent-collisions.md
 ingested: 2026-05-07
 ---
-
 # Paperclip: Atomic Task Checkout Prevents Agent Collisions
 
 Tasks in Paperclip use atomic checkout semantics: only one agent can be assigned to a task; transitioning to `in_progress` requires being the assignee. This prevents double work across agents.

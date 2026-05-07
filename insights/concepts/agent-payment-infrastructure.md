@@ -1,12 +1,19 @@
 ---
-title: "Agent Payment Infrastructure"
-tags: ["payments", "agents", "crypto", "mcp", "infrastructure"]
+title: Agent Payment Infrastructure
+tags:
+- payments
+- agents
+- crypto
+- mcp
+- infrastructure
 related:
-  - "[[agent-platform-ecosystem]]"
-  - "[[agent-native-operations]]"
-  - "[[agent-tool-permissions]]"
-  - "[[protocol-as-coordination]]"
+- agent-platform-ecosystem
+- agent-native-operations
+- agent-tool-permissions
+- protocol-as-coordination
 ---
+
+
 
 # Agent Payment Infrastructure
 

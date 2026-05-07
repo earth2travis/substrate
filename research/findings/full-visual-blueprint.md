@@ -1,10 +1,13 @@
 ---
 title: "Full Visual Blueprint"
 tags: [multi-agent, blueprint, voxyz, openclaw, autonomous, orchestration]
-related: [[agent-orchestrator-pattern]], [[multi-agent-coordination-patterns]], [[nex-brainstorm]], [[single-player-vs-multiplayer]]
+related:
+- agent-orchestrator-pattern
+- multi-agent-coordination-patterns
+- nex-brainstorm
+- single-player-vs-multiplayer
 source: research/raw/full-visual-blueprint.md
 ---
-
 # Full Visual Blueprint
 
 **Source:** @Voxyz_ai (Feb 10, 2026) — a visual blueprint of wiring 6 AI agents into an autonomous system.

@@ -5,6 +5,7 @@ related: [kaizen, toyota-production-system, agent-factory-production-system, dar
 source: "Research notes from April 8, 2026"
 ---
 
+
 # Frederick Winslow Taylor and Scientific Management
 
 ## Summary

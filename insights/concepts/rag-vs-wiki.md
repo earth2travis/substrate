@@ -1,10 +1,16 @@
 ---
 title: "RAG vs Wiki"
 tags: [concept, memory, knowledge-management, rag, wiki, agent-design]
-related: [[agent-memory]], [[context-stack]], [[llm-wiki-pattern]], [[knowledge-graphs-as-agent-memory-substrate]], [[synthesis-over-retrieval]], [[per-run-learning]], [[living-project-graph]]
+related:
+- agent-memory
+- context-stack
+- llm-wiki-pattern
+- knowledge-graphs-as-agent-memory-substrate
+- synthesis-over-retrieval
+- per-run-learning
+- living-project-graph
 source: research/findings/rag-vs-wiki.md
 ---
-
 # RAG vs Wiki
 
 ## Definition
@@ -59,3 +65,14 @@ The Substrate pipeline (_ingest.py → findings → insights) is the wiki approa
 - [[context-stack]] -- Layered memory system
 - [[llm-wiki-pattern]] -- The wiki approach to agent knowledge
 - [[knowledge-graphs-as-agent-memory-substrate]] -- Graph topology for wiki navigation
+
+- [[gap-analysis-our-memory-vs-obsidian-stack]]
+- [[memory-is-context-not-storage-obsidian-analysis]]
+- [[mempalace-spatial-scoping-for-context-stack]]
+- [[obsidian]]
+- [[llm-wiki-master-guide]]
+- [[atomic-notes-beat-monolithic-research-files]]
+
+- [[synthesis-vs-retrieval-paradigm]]
+
+- [[nousresearch-instruct-monomyth]]

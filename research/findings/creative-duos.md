@@ -5,6 +5,7 @@ related: [business-cofounders, building-the-team, chief-of-staff-history-and-ops
 source: "Research notes from April 2026"
 ---
 
+
 # Case Studies: Creative Duos
 
 ## Summary

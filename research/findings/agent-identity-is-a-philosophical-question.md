@@ -1,10 +1,11 @@
 ---
 title: "Philosophy of the Soul: From Homer to Chalmers"
 tags: [philosophy, soul, consciousness, identity, mind-body, history]
-related: [[agent-identity]], [[progressive-disclosure]]
+related:
+- agent-identity
+- progressive-disclosure
 source: research/raw/agent-identity-is-a-philosophical-question.md
 ---
-
 # Philosophy of the Soul: From Homer to Chalmers
 
 ## The Pre-Philosophical Soul

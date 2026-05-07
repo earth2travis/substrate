@@ -1,10 +1,15 @@
 ---
 title: "Harness Engineering: Designing Environments for Coding Agents"
 tags: [agent, development, operations, ai, codex, architecture]
-related: [[codex]], [[ryan-lopopolo]], [[symphony-orchestrator]], [[dark-factory]], [[lean-software-development]], [[llm-wiki-pattern]]
+related:
+- codex
+- ryan-lopopolo
+- symphony-orchestrator
+- dark-factory
+- lean-software-development
+- llm-wiki-pattern
 source: research/raw/harness-engineering.md
 ---
-
 # Harness Engineering: Designing Environments for Coding Agents
 
 ## Summary

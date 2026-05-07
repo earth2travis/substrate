@@ -5,6 +5,7 @@ related: [github-as-memory, github-issues-best-practices, agent-native-operation
 source: research/raw/github-practices.md
 ---
 
+
 # GitHub and Open Source Best Practices
 
 ## Summary

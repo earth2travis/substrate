@@ -1,10 +1,12 @@
 ---
 title: "Actual Occasions: Whitehead's Process Ontology"
 tags: [philosophy, process-philosophy, whitehead, ontology]
-related: [[alfred-north-whitehead]], [[concrescence]], [[prehension]]
+related:
+- alfred-north-whitehead
+- concrescence
+- prehension
 source: research/raw/actual-occasions.md
 ---
-
 # Actual Occasions: Whitehead's Process Ontology
 
 ## Summary

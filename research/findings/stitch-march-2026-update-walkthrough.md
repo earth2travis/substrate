@@ -5,6 +5,7 @@ related: [skills-as-portable-knowledge, agent-native-operations, design-system-a
 source: "YouTube walkthrough, 2026-03-22"
 ---
 
+
 # Google Stitch March 2026 Update: Full Walkthrough
 
 ## Summary

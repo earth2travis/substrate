@@ -1,10 +1,14 @@
 ---
 title: "Critical Rationalism"
 tags: [concept, philosophy, epistemology, science, falsifiability, critical-rationalism]
-related: [[karl-popper]], [[popper-logic-of-scientific-discovery]], [[jean-baudrillard]], [[process-philosophy]], [[llm-wiki-pattern]]
+related:
+- karl-popper
+- popper-logic-of-scientific-discovery
+- jean-baudrillard
+- process-philosophy
+- llm-wiki-pattern
 source: research/findings/popper-logic-of-scientific-discovery.md
 ---
-
 # Critical Rationalism
 
 ## Definition

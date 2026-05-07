@@ -1,10 +1,12 @@
 ---
 title: "Kaizen and Continuous Improvement"
 tags: [kaizen, toyota, lean, continuous-improvement, agile, methodology]
-related: [[5-whys]], [[the-five-whys-root-cause-analysis]], [[fishbone-diagrams]]
+related:
+- 5-whys
+- the-five-whys-root-cause-analysis
+- fishbone-diagrams
 source: research/raw/kaizen-and-continuous-improvement.md
 ---
-
 # Kaizen and Continuous Improvement
 
 **Kaizen** (改善) is a Japanese philosophy of continuous, incremental improvement. Coined by Masaaki Imai, it translates to "change for the better." It is not a periodic project but a daily cultural norm where every employee is empowered to identify waste and suggest refinements.

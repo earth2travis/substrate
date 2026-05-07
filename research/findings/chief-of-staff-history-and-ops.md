@@ -5,6 +5,7 @@ related: [kanban-doctrine, agent-native-operations, symphony-orchestrator, workf
 source: "Wikipedia and military doctrine research, April 25, 2026"
 ---
 
+
 # Chief of Staff: History, Archetypes, and Military SOPs
 
 ## Summary

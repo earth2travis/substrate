@@ -1,10 +1,13 @@
 ---
 title: "A3 Thinking"
 tags: [concept, lean, problem-solving, methodology, toyota]
-related: [[toyota-production-system]], [[taiichi-ohno]], [[five-whys]], [[pdca-cycle]]
+related:
+- toyota-production-system
+- taiichi-ohno
+- five-whys
+- pdca-cycle
 source: research/raw/a3-thinking.md
 ---
-
 # A3 Thinking
 
 ## Definition

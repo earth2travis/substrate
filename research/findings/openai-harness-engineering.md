@@ -1,11 +1,15 @@
 ---
 title: "Harness Engineering: Leveraging Codex in an Agent-First World"
 tags: [finding, harness-engineering, codex, agent-first, openai, ralph-wiggum-loop]
-related: [[harness-engineering]], [[dark-factory]], [[agent-native-operations]], [[agent-factory-production-system]], [[centaur-principle]]
+related:
+- harness-engineering
+- dark-factory
+- agent-native-operations
+- agent-factory-production-system
+- centaur-principle
 source: research/raw/openai-harness-engineering.md
 ingested: 2026-05-07
 ---
-
 # Harness Engineering: Leveraging Codex in an Agent-First World
 
 Ryan Lopopolo's account of building an internal beta with 0 lines of manually-written code, processing 1B+ tokens/day, and achieving 3.5 PRs/engineer/day throughput.

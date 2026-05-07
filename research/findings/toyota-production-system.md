@@ -1,10 +1,14 @@
 ---
 title: "Toyota Production System: The Foundation of Lean"
 tags: [lean, tps, operations, manufacturing, systems]
-related: [[taiichi-ohno]], [[just-in-time]], [[jidoka]], [[kaizen]], [[lean-production]]
+related:
+- taiichi-ohno
+- just-in-time
+- jidoka
+- kaizen
+- lean-production
 source: research/raw/toyota-production-system.md
 ---
-
 # Toyota Production System: The Foundation of Lean
 
 ## Summary

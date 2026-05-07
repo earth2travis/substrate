@@ -1,14 +1,22 @@
 ---
-title: "Optimization Targets for Agent Self-Evolution"
-tags: [agents, optimization, evaluation, self-improvement, metrics]
+title: Optimization Targets for Agent Self-Evolution
+tags:
+- agents
+- optimization
+- evaluation
+- self-improvement
+- metrics
 related:
-  - [[harness-engineering]]
-  - [[proof-of-work]]
-  - [[reference-free-evaluation]]
-  - [[agent-native-operations]]
-  - [[skills-as-portable-knowledge]]
+- harness-engineering
+- proof-of-work
+- reference-free-evaluation
+- agent-native-operations
+- skills-as-portable-knowledge
 source: research/raw/optimization-targets.md
 ---
+
+
+
 
 # Optimization Targets for Agent Self-Evolution
 

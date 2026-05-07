@@ -1,11 +1,14 @@
 ---
 title: "Multi-Agents: The Push, The Pull, and The Practical Patterns"
 tags: [finding, multi-agent, context-engineering, smart-friend, delegation]
-related: [[agent-native-operations]], [[agent-memory]], [[context-stack]], [[subagent-architecture]]
+related:
+- agent-native-operations
+- agent-memory
+- context-stack
+- subagent-architecture
 source: research/raw/multi-agents-push-pull-patterns.md
 ingested: 2026-05-07
 ---
-
 # Multi-Agents: The Push, The Pull, and The Practical Patterns
 
 Walden Yan's analysis of multi-agent evolution driven by a "push" from increased agent usage (management bottlenecks) and a "pull" from rising costs (needing cheaper, smarter architectures).

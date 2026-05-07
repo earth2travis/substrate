@@ -1,14 +1,23 @@
 ---
-title: "Synthesis Over Retrieval"
-tags: [agents, knowledge, synthesis, retrieval, memory, rag]
+title: Synthesis Over Retrieval
+tags:
+- agents
+- knowledge
+- synthesis
+- retrieval
+- memory
+- rag
 related:
-  - [[rag-vs-wiki]]
-  - [[agent-memory]]
-  - [[karpathy-llm-knowledge-bases]]
-  - [[automation-leverage]]
-  - [[context-stack]]
+- rag-vs-wiki
+- agent-memory
+- karpathy-llm-knowledge-bases
+- automation-leverage
+- context-stack
 source: research/findings/synthesis-vs-retrieval-paradigm.md
 ---
+
+
+
 
 # Synthesis Over Retrieval
 

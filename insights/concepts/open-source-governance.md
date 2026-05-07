@@ -1,10 +1,13 @@
 ---
 title: "Open Source Governance"
 tags: [open-source, governance, philosophy, repository, community, history]
-related: [[open-source-best-practices]], [[github-as-knowledge-graph]], [[toyota-production-system]], [[lean-doctrine]]
+related:
+- open-source-best-practices
+- github-as-knowledge-graph
+- toyota-production-system
+- lean-doctrine
 updated: 2026-05-07
 ---
-
 # Open Source Governance
 
 Open source is not just a development methodology. It is a philosophy, a political act, and a governance experiment. Understanding its history and models is essential for anyone building in the open.
@@ -76,3 +79,9 @@ React (Meta), Angular (Google). Well-funded, well-maintained, but creates depend
 - Start simple, add complexity only when you feel the pain
 - Governance is transparency, not bureaucracy
 - The founder must be separable from the project
+
+
+# Related
+
+- [[open-source-best-practices]]
+- [[open-governance-protocol]]

@@ -1,10 +1,12 @@
 ---
 title: "Factory Architecture: Cloudflare-First Specification"
 tags: [cloudflare, architecture, agents, factory, infrastructure, specification]
-related: [[harness-engineering]], [[dark-factory]], [[lean-software-delivery]]
+related:
+- harness-engineering
+- dark-factory
+- lean-software-delivery
 source: research/raw/factory-architecture-cloudflare.md
 ---
-
 # Factory Architecture: Cloudflare-First Specification
 
 ## Summary

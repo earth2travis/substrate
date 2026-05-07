@@ -1,10 +1,12 @@
 ---
 title: "Vercel AI SDK Research and Evaluation"
 tags: [vercel, ai-sdk, typescript, agents, tools, infrastructure]
-related: [[harness-engineering]], [[lean-software-delivery]], [[codex]]
+related:
+- harness-engineering
+- lean-software-delivery
+- codex
 source: research/raw/ai-sdk-research.md
 ---
-
 # Vercel AI SDK Research and Evaluation
 
 ## Summary

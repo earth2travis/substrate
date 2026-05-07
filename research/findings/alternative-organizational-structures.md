@@ -5,6 +5,7 @@ related: [kanban-doctrine, kaizen, progressive-autonomy, agent-factory-productio
 source: "Research notes from April 8, 2026"
 ---
 
+
 # Alternative Organizational Structures: Spotify, Zappos, Valve
 
 ## Summary

@@ -1,10 +1,17 @@
 ---
 title: "Production Paradigms"
 tags: [concept, manufacturing, history, production, lean]
-related: [[craft-production]], [[mass-production]], [[mass-customization]], [[lean-production]], [[industry-4.0]], [[toyota-production-system]], [[scientific-management]], [[agent-factory-production-system]]
+related:
+- craft-production
+- mass-production
+- mass-customization
+- lean-production
+- industry-4.0
+- toyota-production-system
+- scientific-management
+- agent-factory-production-system
 source: research/findings/mass-production.md
 ---
-
 # Production Paradigms
 
 ## Definition
@@ -46,3 +53,5 @@ The organizations that understand this arc will not repeat the mistakes of indus
 - [[industry-4.0]] — cyber-physical smart manufacturing
 - [[toyota-production-system]] — the system that demonstrated mass production's limitations
 - [[scientific-management]] — Taylorism, the analytical foundation of mass production
+
+- [[frederick-taylor-scientific-management-insights]]

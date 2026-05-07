@@ -1,13 +1,20 @@
 ---
-title: "x402 Payment Protocol"
-source: "research/raw/x402-payment-protocol.md"
-tags: ["payments", "protocol", "http", "agents", "crypto"]
+title: x402 Payment Protocol
+source: research/raw/x402-payment-protocol.md
+tags:
+- payments
+- protocol
+- http
+- agents
+- crypto
 related:
-  - "[[agent-platform-ecosystem]]"
-  - "[[agent-native-operations]]"
-  - "[[agent-payment-infrastructure]]"
-  - "[[protocol-as-coordination]]"
+- agent-platform-ecosystem
+- agent-native-operations
+- agent-payment-infrastructure
+- protocol-as-coordination
 ---
+
+
 
 # x402 Payment Protocol
 

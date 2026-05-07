@@ -1,10 +1,14 @@
 ---
 title: "Taiichi Ohno"
 tags: [entity, person, toyota, lean, tps]
-related: [[toyota-production-system]], [[five-whys]], [[a3-thinking]], [[just-in-time]], [[jidoka]]
+related:
+- toyota-production-system
+- five-whys
+- a3-thinking
+- just-in-time
+- jidoka
 source: research/raw/5-whys.md
 ---
-
 # Taiichi Ohno
 
 ## Overview

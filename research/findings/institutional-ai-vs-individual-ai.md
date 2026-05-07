@@ -1,11 +1,14 @@
 ---
 title: "Institutional AI vs Individual AI"
 tags: [finding, ai, enterprise, institutional-ai, process-engineering]
-related: [[agent-factory-production-system]], [[agent-native-operations]], [[kanban-doctrine]], [[institutional-ai-redesign]]
+related:
+- agent-factory-production-system
+- agent-native-operations
+- kanban-doctrine
+- institutional-ai-redesign
 source: research/raw/institutional-ai-vs-individual-ai.md
 ingested: 2026-05-07
 ---
-
 # Institutional AI vs Individual AI
 
 George Sivulka (Hebbia CEO, a16z) argues that AI has made individuals 10x more productive but no company became 10x more valuable because organizations have not been redesigned around AI. The historical parallel: electricity took 30 years to produce factory returns because mills swapped steam motors for electric ones without redesigning the floor.

@@ -1,10 +1,13 @@
 ---
 title: "Handoffs Research"
 tags: [handoffs, context, memory, llm, compaction, session, persistence]
-related: [[context-compression]], [[context-stack]], [[agent-memory]], [[context-persistence]]
+related:
+- context-compression
+- context-stack
+- agent-memory
+- context-persistence
 source: research/raw/handoffs.md
 ---
-
 # Handoffs Research
 
 Research into preserving context across LLM conversation boundaries.

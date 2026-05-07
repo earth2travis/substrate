@@ -1,13 +1,22 @@
 ---
-title: "Brain Fry"
-tags: [concept, agents, psychology, work, overload, health]
+title: Brain Fry
+tags:
+- concept
+- agents
+- psychology
+- work
+- overload
+- health
 related:
-  - [[creative-partnership]]
-  - [[centaur-principle]]
-  - [[agent-native-operations]]
-  - [[automation-leverage]]
+- creative-partnership
+- centaur-principle
+- agent-native-operations
+- automation-leverage
 source: research/findings/modern-times-four-crises.md
 ---
+
+
+
 
 # Brain Fry
 
@@ -34,3 +43,9 @@ AI didn't reduce workload. It expanded the **sphere of accountability.** Workers
 The Billows Feeding Machine doesn't eliminate lunch. It eliminates the pause. Brain fry is the nervous breakdown on the assembly line: not a bug, but the inevitable result of a system that treats human capacity as infinitely expandable.
 
 The answer is not more AI tools. It is fewer, better-integrated tools with clear boundaries. The centaur principle applied to tool selection: one well-integrated human-agent pair beats five agents that don't talk to each other.
+
+
+# Related
+
+- [[brain-fry-research]]
+- [[cognitive-modes-from-gstack]]

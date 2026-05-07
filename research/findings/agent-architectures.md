@@ -1,10 +1,11 @@
 ---
 title: "Agent Architectures: ReAct, Plan-and-Execute, and Reflection"
 tags: [agents, architecture, llm, patterns]
-related: [[agent-skills-as-onboarding]], [[agentic-systems-synthesis]]
+related:
+- agent-skills-as-onboarding
+- agentic-systems-synthesis
 source: research/raw/agent-architectures.md
 ---
-
 # Agent Architectures: ReAct, Plan-and-Execute, and Reflection
 
 ## Summary

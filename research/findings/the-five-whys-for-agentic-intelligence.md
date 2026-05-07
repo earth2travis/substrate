@@ -1,11 +1,13 @@
 ---
 title: "The Five Whys for Agentic Intelligence"
 tags: [finding, root-cause, five-whys, learning, agent-ops]
-related: [[agent-native-operations]], [[agent-factory-production-system]], [[kanban-doctrine]]
+related:
+- agent-native-operations
+- agent-factory-production-system
+- kanban-doctrine
 source: research/raw/the-five-whys-for-agentic-intelligence.md
 ingested: 2026-05-07
 ---
-
 # The Five Whys for Agentic Intelligence
 
 Applying root cause analysis to agent failures: if an agent gives a bad answer, it's not because it's "dumb." It's because the Context Stack was incomplete or the Prompt was misaligned.

@@ -1,13 +1,20 @@
 ---
-title: "Better Harness: A Recipe for Harness Hill-Climbing with Evals"
-tags: [agents, harness, evals, ai-engineering]
+title: 'Better Harness: A Recipe for Harness Hill-Climbing with Evals'
+tags:
+- agents
+- harness
+- evals
+- ai-engineering
 related:
-  - [[harness-engineering]]
-  - [[proof-of-work]]
-  - [[agent-native-operations]]
-  - [[reference-free-evaluation]]
+- harness-engineering
+- proof-of-work
+- agent-native-operations
+- reference-free-evaluation
 source: research/raw/better-harness-tweet.md
 ---
+
+
+
 
 # Better Harness: A Recipe for Harness Hill-Climbing with Evals
 

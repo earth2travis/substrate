@@ -1,11 +1,13 @@
 ---
 title: "Gap Analysis: Our Memory System vs the Obsidian Stack"
 tags: [finding, memory, obsidian, comparison, agent-memory]
-related: [[agent-memory]], [[context-stack]], [[knowledge-graphs-as-agent-memory-substrate]]
+related:
+- agent-memory
+- context-stack
+- knowledge-graphs-as-agent-memory-substrate
 source: research/raw/gap-analysis-our-memory-vs-obsidian-stack.md
 ingested: 2026-05-07
 ---
-
 # Gap Analysis: Our Memory System vs the Obsidian Stack
 
 A structured comparison between the Substrate Context Stack and the Claude+Obsidian agent memory stack popularized by community practitioners.

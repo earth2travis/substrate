@@ -1,10 +1,13 @@
 ---
 title: "OpenClaw Community Audit Practices"
 tags: [openclaw, audit, agents, community, governance, security]
-related: [[openclaw]], [[clawhavoc-security-crisis]], [[harness-engineering]], [[dark-factory]]
+related:
+- openclaw
+- clawhavoc-security-crisis
+- harness-engineering
+- dark-factory
 source: research/raw/openclaw-community.md
 ---
-
 # OpenClaw Community Audit Practices
 
 ## Summary

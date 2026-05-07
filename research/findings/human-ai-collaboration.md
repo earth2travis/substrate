@@ -1,11 +1,14 @@
 ---
 title: "Human-AI Collaboration"
 tags: [finding, collaboration, centaur, human-ai-partnership, process]
-related: [[agent-native-operations]], [[ai-career-convergence]], [[agent-identity]], [[centaur-principle]]
+related:
+- agent-native-operations
+- ai-career-convergence
+- agent-identity
+- centaur-principle
 source: research/raw/human-ai-collaboration.md
 ingested: 2026-05-07
 ---
-
 # Human-AI Collaboration
 
 The emerging frontier of human-AI partnership. Historical data is limited but early signals are clear: the quality of the collaboration matters more than the quality of either participant alone.

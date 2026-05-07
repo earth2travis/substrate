@@ -5,6 +5,7 @@ related: [playwright-analysis, claude-code-capabilities, skills-as-portable-know
 source: "Research for Issue #81, last updated February 3, 2026"
 ---
 
+
 # Browser Automation for AI Agents: Research Overview
 
 ## Summary

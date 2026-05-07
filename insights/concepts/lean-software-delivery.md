@@ -1,10 +1,21 @@
 ---
 title: "Lean Software Delivery"
 tags: [concept, lean, software-delivery, devops, metrics, waste]
-related: [[dora-metrics]], [[continuous-delivery]], [[devops]], [[seven-software-wastes]], [[lean-software-development]], [[lean-production]], [[lean-doctrine]], [[toyota-production-system]], [[dark-factory]], [[cloudflare-first-agent-factory]], [[the-openclaw-lesson]], [[agent-native-operations]]
+related:
+- dora-metrics
+- continuous-delivery
+- devops
+- seven-software-wastes
+- lean-software-development
+- lean-production
+- lean-doctrine
+- toyota-production-system
+- dark-factory
+- cloudflare-first-agent-factory
+- the-openclaw-lesson
+- agent-native-operations
 source: research/findings/dora-metrics.md
 ---
-
 # Lean Software Delivery
 
 ## Definition
@@ -63,3 +74,6 @@ This mathematically proves what lean advocates argue: reducing WIP reduces lead 
 - [[lean-doctrine]] — the philosophical foundation of lean operations
 - [[toyota-production-system]] — the system that demonstrated lean at industrial scale
 - [[dark-factory]] — the endpoint where lean software delivery becomes fully autonomous
+
+- [[openai-harness-engineering]]
+- [[frontier-and-harness-for-zookooree]]

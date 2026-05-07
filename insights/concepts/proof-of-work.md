@@ -1,13 +1,20 @@
 ---
-title: "Proof of Work"
-tags: ["agents", "verification", "quality", "automation", "harness"]
+title: Proof of Work
+tags:
+- agents
+- verification
+- quality
+- automation
+- harness
 related:
-  - "[[agent-native-operations]]"
-  - "[[harness-engineering]]"
-  - "[[browser-verification]]"
-  - "[[agent-orchestrator-pattern]]"
-  - "[[reference-free-evaluation]]"
+- agent-native-operations
+- harness-engineering
+- browser-verification
+- agent-orchestrator-pattern
+- reference-free-evaluation
 ---
+
+
 
 # Proof of Work
 

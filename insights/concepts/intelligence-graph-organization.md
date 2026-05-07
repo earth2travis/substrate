@@ -1,10 +1,17 @@
 ---
 title: "Intelligence Graph Organization"
 tags: [concept, organization, ai-coordination, hierarchy, intelligence-graph, context]
-related: [[mission-command]], [[agent-native-operations]], [[context-stack]], [[creative-partnership]], [[protocol-as-coordination]], [[progressive-autonomy]], [[block-hierarchy-to-intelligence]], [[mckinsey-7s-framework-insights]]
+related:
+- mission-command
+- agent-native-operations
+- context-stack
+- creative-partnership
+- protocol-as-coordination
+- progressive-autonomy
+- block-hierarchy-to-intelligence
+- mckinsey-7s-framework-insights
 source: insights/concepts/intelligence-graph-organization.md
 ---
-
 # Intelligence Graph Organization
 
 ## Thesis
@@ -69,3 +76,11 @@ Auftragstaktik and the intelligence graph are the same principle applied at diff
 - Mission command: decentralized execution within a military unit
 - Intelligence graph: decentralized execution within an entire organization
 Both rely on shared context, clear intent, and trust in local judgment. Both eliminate the information bottleneck. Both require the same thing: a system that holds the context so humans don't have to.
+
+
+# Related
+
+- [[local-first]]
+- [[pinata-agent-storage]]
+- [[rowboat-analysis]]
+- [[stitch-design-md-claude-code-workflow]]

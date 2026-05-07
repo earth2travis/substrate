@@ -1,11 +1,14 @@
 ---
 title: "Insights: Frontier, Harness Engineering, and the Agent Factory"
 tags: [finding, openai, frontier, harness-engineering, insights, token-hygiene]
-related: [[harness-engineering]], [[agent-native-operations]], [[agent-factory-production-system]], [[agent-memory]]
+related:
+- harness-engineering
+- agent-native-operations
+- agent-factory-production-system
+- agent-memory
 source: research/raw/frontier-and-harness-for-zookooree.md
 ingested: 2026-05-07
 ---
-
 # Insights: Frontier, Harness Engineering, and the Agent Factory
 
 Five insights extracted from OpenAI Frontier research, mapped directly to Agent Factory design.

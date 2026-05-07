@@ -1,11 +1,12 @@
 ---
 title: "Autonomous Video Production Research"
 tags: [finding, video, creative, automation, remotion, runway]
-related: [[agent-native-operations]], [[skills-as-portable-knowledge]]
+related:
+- agent-native-operations
+- skills-as-portable-knowledge
 source: research/raw/autonomous-video-production.md
 ingested: 2026-05-07
 ---
-
 # Autonomous Video Production Research
 
 Tool stack analysis for enabling Sivart to complete demo videos without human-in-the-loop.

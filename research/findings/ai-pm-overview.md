@@ -1,11 +1,14 @@
 ---
 title: "AI Product Management Overview"
 tags: [finding, product-management, ai-pm, strategy, centaur]
-related: [[agent-native-operations]], [[ai-native-pm-operating-system]], [[human-ai-collaboration]], [[centaur-principle]]
+related:
+- agent-native-operations
+- ai-native-pm-operating-system
+- human-ai-collaboration
+- centaur-principle
 source: research/raw/ai-pm-overview.md
 ingested: 2026-05-07
 ---
-
 # AI Product Management Overview
 
 The gap between "uses AI tools" and "genuine human-AI partnership" is the defining challenge for AI-native product management. Most AI PM workflows are tool stacks (Claude + Cursor + MCPs). The next level is a centaur partnership with persistent identity, continuous memory, and self-documenting process.

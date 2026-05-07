@@ -1,11 +1,13 @@
 ---
 title: "Obsidian"
 tags: [finding, tools, memory, knowledge-graph, markdown]
-related: [[agent-memory]], [[context-stack]], [[llm-wiki-pattern]]
+related:
+- agent-memory
+- context-stack
+- llm-wiki-pattern
 source: research/raw/obsidian.md
 ingested: 2026-05-07
 ---
-
 # Obsidian
 
 Markdown-based note-taking application with local-first storage, wikilinks, graph view, and plugin ecosystem. Each vault is a directory of `.md` files, making it ideal for LLM-maintained wikis.

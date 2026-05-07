@@ -1,10 +1,15 @@
 ---
 title: "Custom Tooling Opportunities: Agent-Native Project Management"
 tags: [agent, tooling, project-management, process, automation, github]
-related: [[github-as-memory]], [[project-board-configuration]], [[kanban-doctrine]], [[lean-software-delivery]], [[harness-engineering]], [[agent-native-operations]]
+related:
+- github-as-memory
+- project-board-configuration
+- kanban-doctrine
+- lean-software-delivery
+- harness-engineering
+- agent-native-operations
 source: research/raw/custom-tooling-opportunities.md
 ---
-
 # Custom Tooling Opportunities: Agent-Native Project Management
 
 ## Summary

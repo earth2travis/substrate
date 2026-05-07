@@ -1,15 +1,22 @@
 ---
-title: "Open Governance Protocol"
-source: "research/raw/open-governance-protocol.md"
-tags: ["governance", "crypto", "agents", "attestation", "ethereum"]
+title: Open Governance Protocol
+source: research/raw/open-governance-protocol.md
+tags:
+- governance
+- crypto
+- agents
+- attestation
+- ethereum
 related:
-  - "[[agent-native-operations]]"
-  - "[[agent-tool-permissions]]"
-  - "[[agent-identity]]"
-  - "[[what-is-a-protocol]]"
-  - "[[constitutional-governance]]"
-  - "[[protocol-as-coordination]]"
+- agent-native-operations
+- agent-tool-permissions
+- agent-identity
+- what-is-a-protocol
+- constitutional-governance
+- protocol-as-coordination
 ---
+
+
 
 # Open Governance Protocol
 

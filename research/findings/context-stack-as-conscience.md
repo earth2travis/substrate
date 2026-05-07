@@ -1,14 +1,22 @@
 ---
-title: "The Context Stack as Conscience: Moral Architecture for Agents"
-tags: [agent-identity, ethics, context-engineering, jidoka, conscience]
+title: 'The Context Stack as Conscience: Moral Architecture for Agents'
+tags:
+- agent-identity
+- ethics
+- context-engineering
+- jidoka
+- conscience
 related:
-  - [[the-context-stack-spec]]
-  - [[interchangeable-context]]
-  - [[context-stack-observations]]
-  - [[memory-systems]]
-  - [[agent-identity]]
+- the-context-stack-spec
+- interchangeable-context
+- context-stack-observations
+- memory-systems
+- agent-identity
 source: research/raw/context-stack-as-conscience.md
 ---
+
+
+
 
 # The Context Stack as Conscience: Moral Architecture for Agents
 

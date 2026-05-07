@@ -1,10 +1,11 @@
 ---
 title: "Big Lab Approaches to Agentic Auditing"
 tags: [evaluation, auditing, safety, anthropic, openai, deepmind, metr, agentic-ai]
-related: [[block-hierarchy-to-intelligence]], [[jack-dorsey-from-hierarchy-to-intelligence]]
+related:
+- block-hierarchy-to-intelligence
+- jack-dorsey-from-hierarchy-to-intelligence
 source: research/raw/big-lab-approaches.md
 ---
-
 # Big Lab Approaches to Agentic Auditing
 
 How Anthropic, OpenAI, Google DeepMind, and METR approach evaluating and governing agentic AI systems.

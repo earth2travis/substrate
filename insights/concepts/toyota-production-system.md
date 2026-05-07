@@ -1,7 +1,29 @@
 ---
 title: "Toyota Production System"
+related:
+- frederick-taylor-scientific-management
+- frederick-taylor-scientific-management-insights
+---
+
+---
+title: "Toyota Production System"
 tags: [concept, lean, manufacturing, methodology, tps]
-related: [[taiichi-ohno]], [[five-whys]], [[a3-thinking]], [[just-in-time]], [[jidoka]], [[kaizen]], [[lean-doctrine]], [[dark-factory]], [[chief-engineer-system]], [[obeya]], [[production-paradigms]], [[shusa-applied-zookooree]], [[harness-engineering]], [[heijunka]], [[agent-factory-production-system]]
+related:
+- taiichi-ohno
+- five-whys
+- a3-thinking
+- just-in-time
+- jidoka
+- kaizen
+- lean-doctrine
+- dark-factory
+- chief-engineer-system
+- obeya
+- production-paradigms
+- shusa-applied-zookooree
+- harness-engineering
+- heijunka
+- agent-factory-production-system
 source: research/raw/5-whys.md
 ---
 
@@ -37,3 +59,18 @@ TPS maps cleanly to agent operations:
 - **Stop the line**: When an agent produces garbage, halt and diagnose rather than letting errors propagate
 - **Small improvements**: Agent capabilities compound through incremental refinement, not revolutions
 - **Problems as signals**: Every agent failure is information about where the system needs to improve
+
+
+# Related
+
+- [[toyota-factory-planning]]
+- [[production-systems-compared]]
+- [[value-stream-mapping]]
+- [[craft-mass-lean-production]]
+- [[heijunka-for-agent-orchestration]]
+- [[lean-software-development-study]]
+- [[frederick-taylor-scientific-management]]
+- [[kaizen]]
+- [[lean-production]]
+- [[just-in-time]]
+- [[jidoka]]

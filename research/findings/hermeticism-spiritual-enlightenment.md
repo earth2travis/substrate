@@ -1,10 +1,11 @@
 ---
 title: "Hermeticism and the Path to Spiritual Enlightenment"
 tags: [hermeticism, gnosis, spirituality, consciousness, philosophy]
-related: [[religion-spirituality]], [[science-consciousness]]
+related:
+- religion-spirituality
+- science-consciousness
 source: research/raw/hermeticism-spiritual-enlightenment.md
 ---
-
 # Hermeticism and the Path to Spiritual Enlightenment
 
 Hermeticism offers a world-affirming alternative to Gnosticism: the material cosmos is a beautiful creation of the One, and the goal is not to escape the body but to embody the divine while alive.

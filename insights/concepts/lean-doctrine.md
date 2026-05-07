@@ -1,10 +1,23 @@
 ---
 title: "Lean Doctrine: Eliminate Waste, Maximize Flow"
 tags: [concept, lean, operations, manufacturing, tps, kaizen, just-in-time]
-related: [[toyota-production-system]], [[taiichi-ohno]], [[jidoka]], [[kaizen]], [[just-in-time]], [[kanban-doctrine]], [[a3-thinking]], [[dark-factory]], [[chief-engineer-system]], [[obeya]], [[production-paradigms]], [[lean-software-delivery]], [[heijunka]], [[agent-factory-production-system]]
+related:
+- toyota-production-system
+- taiichi-ohno
+- jidoka
+- kaizen
+- just-in-time
+- kanban-doctrine
+- a3-thinking
+- dark-factory
+- chief-engineer-system
+- obeya
+- production-paradigms
+- lean-software-delivery
+- heijunka
+- agent-factory-production-system
 source: research/findings/lean-production.md
 ---
-
 # Lean Doctrine: Eliminate Waste, Maximize Flow
 
 ## Definition
@@ -72,3 +85,12 @@ The dark factory is the logical endpoint of lean. JIT becomes just-in-time with 
 - [[kanban-doctrine]] -- Auftragstaktik as operating system
 - [[a3-thinking]] -- Structured problem solving
 - [[dark-factory]] -- Lean's endpoint in agent operations
+
+- [[heijunka-for-agent-orchestration]]
+- [[value-stream-mapping]]
+- [[lean-production]]
+- [[five-whys]]
+
+- [[continuous-improvement-plan]]
+- [[kaizen-for-the-agent-factory]]
+- [[kaizen-and-continuous-improvement]]

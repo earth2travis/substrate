@@ -1,11 +1,13 @@
 ---
 title: "MemPalace Code Analysis: Structure vs. Reality"
 tags: [finding, memory, mempalace, vector-search, spatial-scoping]
-related: [[agent-memory]], [[context-stack]], [[knowledge-graphs-as-agent-memory-substrate]]
+related:
+- agent-memory
+- context-stack
+- knowledge-graphs-as-agent-memory-substrate
 source: research/raw/mempalace-code-analysis.md
 ingested: 2026-05-07
 ---
-
 # MemPalace Code Analysis: Structure vs. Reality
 
 MemPalace is a dual-system agent memory architecture using ChromaDB for verbatim conversations and SQLite for structured facts as entity-relationship triples. Its "spatial" organization (wings, rooms, halls) is metadata filtering over standard vector search.

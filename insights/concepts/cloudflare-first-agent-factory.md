@@ -1,10 +1,19 @@
 ---
 title: "Cloudflare-First Agent Factory"
 tags: [concept, cloudflare, agents, infrastructure, factory, edge, inference]
-related: [[harness-engineering]], [[dark-factory]], [[lean-software-delivery]], [[cloudflare-ai-platform-inference-layer]], [[cloudflare-workers-ai-edge-inference]], [[cloudflare-queues-decoupling-layer]], [[cloudflare-email-service-for-agents]], [[cloudflare-ai-gateway-observability]], [[factory-architecture-cloudflare]], [[the-openclaw-lesson]]
+related:
+- harness-engineering
+- dark-factory
+- lean-software-delivery
+- cloudflare-ai-platform-inference-layer
+- cloudflare-workers-ai-edge-inference
+- cloudflare-queues-decoupling-layer
+- cloudflare-email-service-for-agents
+- cloudflare-ai-gateway-observability
+- factory-architecture-cloudflare
+- the-openclaw-lesson
 source: insights/concepts/cloudflare-first-agent-factory.md
 ---
-
 # Cloudflare-First Agent Factory
 
 ## Definition
@@ -69,3 +78,11 @@ The Cloudflare stack enables lights-out operation: edge inference runs without h
 - [[cloudflare-queues-decoupling-layer]] -- Asynchronous batch processing
 - [[cloudflare-email-service-for-agents]] -- Email transport layer
 - [[cloudflare-ai-gateway-observability]] -- Observability and cost control
+
+- [[hermes-agent-platform-analysis]]
+- [[hermes-agent-report]]
+- [[hermes-deployment-guide]]
+- [[hermes-self-evolution]]
+- [[ops-agent-implementation]]
+
+- [[gstack-analysis]]

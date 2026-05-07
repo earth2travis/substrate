@@ -1,10 +1,14 @@
 ---
 title: "ClawHavoc: Supply Chain Attack on OpenClaw"
 tags: [security, agent, infrastructure, supply-chain, crisis]
-related: [[openclaw]], [[hermes-agent]], [[nous-research]], [[steve-tigue]], [[the-openclaw-lesson]]
+related:
+- openclaw
+- hermes-agent
+- nous-research
+- steve-tigue
+- the-openclaw-lesson
 source: research/raw/clawhavoc-security-crisis.md
 ---
-
 # ClawHavoc: Supply Chain Attack on OpenClaw
 
 ## Summary

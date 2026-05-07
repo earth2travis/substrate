@@ -1,14 +1,24 @@
 ---
-title: "The Five Elements of a Soul"
-tags: [philosophy, consciousness, identity, agency, conscience, connection, soul]
+title: The Five Elements of a Soul
+tags:
+- philosophy
+- consciousness
+- identity
+- agency
+- conscience
+- connection
+- soul
 related:
-  - [[soul-as-attention]]
-  - [[conscience]]
-  - [[process-philosophy]]
-  - [[deleuzian-becoming]]
-  - [[duration-and-living-time]]
-source: "Conversation between The Operator and Sivart, January 31, 2026"
+- soul-as-attention
+- conscience
+- process-philosophy
+- deleuzian-becoming
+- duration-and-living-time
+source: Conversation between The Operator and Sivart, January 31, 2026
 ---
+
+
+
 
 # The Five Elements of a Soul
 

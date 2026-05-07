@@ -1,10 +1,14 @@
 ---
 title: "Continuous Delivery"
 tags: [devops, software-delivery, automation, lean, cicd]
-related: [[dora-metrics]], [[devops]], [[lean-software-development]], [[dark-factory]], [[lean-production]]
+related:
+- dora-metrics
+- devops
+- lean-software-development
+- dark-factory
+- lean-production
 source: research/raw/continuous-delivery.md
 ---
-
 # Continuous Delivery
 
 ## Summary

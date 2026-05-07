@@ -1,10 +1,13 @@
 ---
 title: "Hermes Agent Platform: Deep Research Report"
 tags: [hermes-agent, agent, platform, architecture, tools, memory]
-related: [[hermes-agent]], [[openclaw]], [[nous-research]], [[harness-engineering]]
+related:
+- hermes-agent
+- openclaw
+- nous-research
+- harness-engineering
 source: research/raw/hermes-agent-report.md
 ---
-
 # Hermes Agent Platform: Deep Research Report
 
 ## Summary

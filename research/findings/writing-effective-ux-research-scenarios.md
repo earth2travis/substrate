@@ -1,11 +1,20 @@
 ---
-title: "Best Practices for Writing Effective UX Research Scenarios"
-tags: [ux, research, scenarios, usability, testing, design]
+title: Best Practices for Writing Effective UX Research Scenarios
+tags:
+- ux
+- research
+- scenarios
+- usability
+- testing
+- design
 related:
-  - [[design-system-as-code]]
-  - [[creative-partnership]]
+- design-system-as-code
+- creative-partnership
 source: research/raw/writing-effective-ux-research-scenarios.md
 ---
+
+
+
 
 # Best Practices for Writing Effective UX Research Scenarios
 

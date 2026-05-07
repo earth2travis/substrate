@@ -1,13 +1,21 @@
 ---
-title: "Interchangeable Context: Ford's Revolution Predicts Agent Production"
-tags: [context-engineering, agent-production, history-of-technology, standardization, cost-collapse]
+title: 'Interchangeable Context: Ford''s Revolution Predicts Agent Production'
+tags:
+- context-engineering
+- agent-production
+- history-of-technology
+- standardization
+- cost-collapse
 related:
-  - [[the-context-stack-spec]]
-  - [[context-stack-as-conscience]]
-  - [[memory-systems]]
-  - [[agent-identity]]
+- the-context-stack-spec
+- context-stack-as-conscience
+- memory-systems
+- agent-identity
 source: research/raw/interchangeable-context.md
 ---
+
+
+
 
 # Interchangeable Context: Ford's Revolution Predicts Agent Production
 

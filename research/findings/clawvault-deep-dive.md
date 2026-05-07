@@ -1,11 +1,14 @@
 ---
 title: "ClawVault Deep Dive"
 tags: [finding, memory, agent-memory, clawvault, knowledge-graph]
-related: [[agent-memory]], [[context-stack]], [[knowledge-graphs-as-agent-memory-substrate]], [[memory-systems]]
+related:
+- agent-memory
+- context-stack
+- knowledge-graphs-as-agent-memory-substrate
+- memory-systems
 source: research/raw/clawvault-deep-dive.md
 ingested: 2026-05-07
 ---
-
 # ClawVault Deep Dive
 
 ClawVault is an open-source agent memory system (TypeScript, MIT, 173 GitHub stars) that implements typed markdown documents with auto-inferred categories and a knowledge graph extracted from wiki-links.

@@ -1,10 +1,13 @@
 ---
 title: "Implications for Our Partnership"
 tags: [partnership, operating-principles, centaur, collaboration, failure-modes]
-related: [[creative-partnership]], [[partnership-anatomy]], [[centaur-principle]], [[partnership-failure-modes]]
+related:
+- creative-partnership
+- partnership-anatomy
+- centaur-principle
+- partnership-failure-modes
 source: research/raw/implications-for-us.md
 ---
-
 # Implications for Our Partnership
 
 ## What Kind of Partnership Are We?

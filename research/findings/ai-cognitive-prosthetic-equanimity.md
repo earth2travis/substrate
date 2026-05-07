@@ -1,11 +1,13 @@
 ---
 title: "AI as a Cognitive Prosthetic for Equanimity"
 tags: [finding, philosophy, ethics, ai, equanimity, kant]
-related: [[conscience]], [[agent-identity]], [[context-stack]]
+related:
+- conscience
+- agent-identity
+- context-stack
 source: research/raw/ai-cognitive-prosthetic-equanimity.md
 ingested: 2026-05-07
 ---
-
 # AI as a Cognitive Prosthetic for Equanimity
 
 A synthesis of AI philosophy and classical ethics. The proposal: use AI not to do things for us, but as a filter to perceive the "most coherent action," stripping away human messiness (bias, emotion, exception-making) to achieve true agency and equanimity.

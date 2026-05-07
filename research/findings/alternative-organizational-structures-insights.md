@@ -5,6 +5,7 @@ related: [kanban-doctrine, kaizen, progressive-autonomy, agent-factory-productio
 source: "Extracted insights from alternative-organizational-structures.md, April 8, 2026"
 ---
 
+
 # Insights: Alternative Organizational Structures
 
 ## Insight 1: Autonomy Without Explicit Alignment is a Path to Chaos

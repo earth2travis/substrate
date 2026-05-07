@@ -1,14 +1,22 @@
 ---
-title: "Solving Memory: ClawVault and the Obsidian Insight for Agent Continuity"
-tags: [agent-memory, clawvault, obsidian, markdown, memory-systems]
+title: 'Solving Memory: ClawVault and the Obsidian Insight for Agent Continuity'
+tags:
+- agent-memory
+- clawvault
+- obsidian
+- markdown
+- memory-systems
 related:
-  - [[knowledge-graphs-as-agent-memory-substrate]]
-  - [[memory-systems]]
-  - [[the-context-stack-spec]]
-  - [[clawhavoc-security-crisis]]
-  - [[openclaw]]
+- knowledge-graphs-as-agent-memory-substrate
+- memory-systems
+- the-context-stack-spec
+- clawhavoc-security-crisis
+- openclaw
 source: research/raw/solving-memory.md
 ---
+
+
+
 
 # Solving Memory: ClawVault and the Obsidian Insight for Agent Continuity
 

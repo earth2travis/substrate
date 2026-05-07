@@ -1,16 +1,24 @@
 ---
-title: "Contemporary Process Philosophy: Deleuze, Stengers, Rescher, and the Process Turn"
-tags: [philosophy, process-philosophy, ontology, metaphysics]
+title: 'Contemporary Process Philosophy: Deleuze, Stengers, Rescher, and the Process
+  Turn'
+tags:
+- philosophy
+- process-philosophy
+- ontology
+- metaphysics
 related:
-  - [[process-philosophy]]
-  - [[gilles-deleuze]]
-  - [[alfred-north-whitehead]]
-  - [[nagarjuna]]
-  - [[becoming]]
-  - [[rhizome]]
-  - [[virtual-and-actual]]
+- process-philosophy
+- gilles-deleuze
+- alfred-north-whitehead
+- nagarjuna
+- becoming
+- rhizome
+- virtual-and-actual
 source: research/raw/contemporary-process-philosophy.md
 ---
+
+
+
 
 # Contemporary Process Philosophy: Deleuze, Stengers, Rescher, and the Process Turn
 

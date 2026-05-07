@@ -1,16 +1,24 @@
 ---
-title: "Continuous Improvement Plan: Getting Better at Getting Better"
-tags: [improvement, kaizen, process, metrics, feedback-loops]
+title: 'Continuous Improvement Plan: Getting Better at Getting Better'
+tags:
+- improvement
+- kaizen
+- process
+- metrics
+- feedback-loops
 related:
-  - [[kanban-doctrine]]
-  - [[lean-doctrine]]
-  - [[kaizen]]
-  - [[toyota-production-system]]
-  - [[proof-of-work]]
-  - [[agent-native-operations]]
-  - [[feedback-loop-discipline]]
+- kanban-doctrine
+- lean-doctrine
+- kaizen
+- toyota-production-system
+- proof-of-work
+- agent-native-operations
+- feedback-loop-discipline
 source: research/raw/continuous-improvement-plan.md
 ---
+
+
+
 
 # Continuous Improvement Plan: Getting Better at Getting Better
 

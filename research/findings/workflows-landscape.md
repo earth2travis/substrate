@@ -1,10 +1,14 @@
 ---
 title: "Agentic Workflows Landscape: Orchestration Frameworks Compared"
 tags: [workflows, orchestration, agent-frameworks, symphony, langgraph, production]
-related: [[skills-landscape]], [[tools-landscape]], [[dark-factory]], [[harness-engineering]], [[kanban-doctrine]]
+related:
+- skills-landscape
+- tools-landscape
+- dark-factory
+- harness-engineering
+- kanban-doctrine
 source: research/raw/workflows-landscape.md
 ---
-
 # Agentic Workflows Landscape: Orchestration Frameworks Compared
 
 ## Summary

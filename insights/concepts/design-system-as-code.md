@@ -1,9 +1,28 @@
 ---
-title: "Design System as Code"
-tags: [concept, design-systems, markdown, infrastructure, agents]
-related: [skills-as-portable-knowledge, agent-native-operations, roundtrip-workflow, workflow-as-contract, progressive-autonomy]
-source: "Synthesized from Batch 19: design-md-transcript, figma-dev-mode-presentation, stitch-workflow, skill-design-foundations"
+title: Design System as Code
+tags:
+- concept
+- design-systems
+- markdown
+- infrastructure
+- agents
+related:
+- skills-as-portable-knowledge
+- agent-native-operations
+- roundtrip-workflow
+- workflow-as-contract
+- progressive-autonomy
+- figma-dev-mode-presentation
+- figma-github-projects-plugin
+- figma-x-claude-code-livestream
+- stitch-design-md-claude-code-workflow
+- stitch-march-2026-update-walkthrough
+- premium-results-strategy
+source: 'Synthesized from Batch 19: design-md-transcript, figma-dev-mode-presentation,
+  stitch-workflow, skill-design-foundations'
 ---
+
+
 
 # Design System as Code
 
@@ -67,3 +86,13 @@ The unopinionated platform access + opinionated community skills on top maps dir
 - [[codex]]: the coding agent that consumes these design systems
 - [[workflow-as-contract]]: executable process definitions in markdown
 - [[progressive-autonomy]]: graduated trust for agent design capabilities
+
+- [[prose-titles-make-search-results-meaningful]]
+- [[writing-effective-ux-research-scenarios]]
+- [[taste-md-standard]]
+- [[learning-md-spec]]
+
+- [[stitch-march-2026-update-walkthrough]]
+- [[scraped-sources]]
+- [[process-guide]]
+- [[us-research-scenarios-sources]]

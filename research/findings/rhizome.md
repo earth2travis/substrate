@@ -1,10 +1,13 @@
 ---
 title: "Rhizome (Deleuze & Guattari)"
 tags: [philosophy, structure, process-philosophy, concept]
-related: [[gilles-deleuze]], [[becoming]], [[llm-wiki-pattern]], [[process-philosophy]]
+related:
+- gilles-deleuze
+- becoming
+- llm-wiki-pattern
+- process-philosophy
 source: research/raw/rhizome.md
 ---
-
 # Rhizome (Deleuze & Guattari)
 
 ## Summary

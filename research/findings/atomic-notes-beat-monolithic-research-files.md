@@ -1,13 +1,21 @@
 ---
-title: "Atomic Notes Beat Monolithic Research Files"
-tags: [note-taking, knowledge-management, atomicity, writing, agents]
+title: Atomic Notes Beat Monolithic Research Files
+tags:
+- note-taking
+- knowledge-management
+- atomicity
+- writing
+- agents
 related:
-  - [[prose-titles-make-search-results-meaningful]]
-  - [[rag-vs-wiki]]
-  - [[agent-memory]]
-  - [[karpathy-llm-knowledge-bases]]
+- prose-titles-make-search-results-meaningful
+- rag-vs-wiki
+- agent-memory
+- karpathy-llm-knowledge-bases
 source: research/raw/atomic-notes-beat-monolithic-research-files.md
 ---
+
+
+
 
 # Atomic Notes Beat Monolithic Research Files
 

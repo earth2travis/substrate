@@ -1,13 +1,22 @@
 ---
-title: "TASTE.md: Standardizing Agent Taste Documents"
-tags: [agents, taste, quality, context-stack, standards, conventions]
+title: 'TASTE.md: Standardizing Agent Taste Documents'
+tags:
+- agents
+- taste
+- quality
+- context-stack
+- standards
+- conventions
 related:
-  - [[context-stack]]
-  - [[agent-identity]]
-  - [[workflow-as-contract]]
-  - [[agent-native-operations]]
+- context-stack
+- agent-identity
+- workflow-as-contract
+- agent-native-operations
 source: research/raw/taste-md-standard.md
 ---
+
+
+
 
 # TASTE.md: Standardizing Agent Taste Documents
 

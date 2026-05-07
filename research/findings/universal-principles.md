@@ -1,14 +1,22 @@
 ---
-title: "Universal Principles of Great Partnerships"
-tags: [partnerships, collaboration, culture, relationships, teams]
+title: Universal Principles of Great Partnerships
+tags:
+- partnerships
+- collaboration
+- culture
+- relationships
+- teams
 related:
-  - [[creative-partnership]]
-  - [[centaur-principle]]
-  - [[muscle-shoals]]
-  - [[origins-and-meaning]]
-  - [[partnership-anatomy]]
+- creative-partnership
+- centaur-principle
+- muscle-shoals
+- origins-and-meaning
+- partnership-anatomy
 source: research/raw/universal-principles.md
 ---
+
+
+
 
 # Universal Principles of Great Partnerships
 

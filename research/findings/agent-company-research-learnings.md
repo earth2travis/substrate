@@ -1,10 +1,11 @@
 ---
 title: "Agent Company Research: Recommended Actions"
 tags: [agents, memory, operations, recommendations]
-related: [[agent-company-articles]], [[memory-systems]]
+related:
+- agent-company-articles
+- memory-systems
 source: research/raw/agent-company-research-learnings.md
 ---
-
 # Agent Company Research: Recommended Actions
 
 ## Summary

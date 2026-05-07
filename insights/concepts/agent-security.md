@@ -1,7 +1,22 @@
 ---
 title: "Agent Security: Least Privilege for Autonomous Systems"
+related:
+- audit-replay
+- erc-8004-trustless-agents
+- herdr-agent-multiplexer
+- nvidia-nemoguard-analysis
+- server-hardening
+---
+
+---
+title: "Agent Security: Least Privilege for Autonomous Systems"
 tags: [concept, agent, security, opsec, credentials, server]
-related: [[agentic-architecture]], [[agent-identity]], [[toyota-production-system]], [[agent-provenance-graph]], [[prompt-injection-defenses]]
+related:
+- agentic-architecture
+- agent-identity
+- toyota-production-system
+- agent-provenance-graph
+- prompt-injection-defenses
 source: research/findings/agent-opsec-overview.md
 ---
 
@@ -64,3 +79,14 @@ Recommended priority order:
 ## Connection to Jidoka
 
 Toyota's jidoka principle, automation with a human touch, applies directly: when something goes wrong, production stops. For agent systems: when a security boundary is breached or anomalous behavior detected, halt and investigate rather than letting the agent continue operating.
+
+
+# Related
+
+- [[agent-opsec-overview]]
+- [[clawvault-deep-dive]]
+- [[server-hardening]]
+- [[prompt-injection-defenses]]
+- [[nvidia-nemoguard-analysis]]
+
+- [[provider-assessment]]

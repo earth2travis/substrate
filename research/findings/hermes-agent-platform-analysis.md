@@ -1,10 +1,13 @@
 ---
 title: "Hermes Agent v0.7.0 Resilience Release Analysis"
 tags: [hermes-agent, agent, platform, memory, learning, security]
-related: [[hermes-agent]], [[openclaw]], [[nous-research]], [[harness-engineering]]
+related:
+- hermes-agent
+- openclaw
+- nous-research
+- harness-engineering
 source: research/raw/hermes-agent-platform-analysis.md
 ---
-
 # Hermes Agent v0.7.0 Resilience Release Analysis
 
 ## Summary

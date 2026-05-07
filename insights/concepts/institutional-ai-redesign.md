@@ -1,9 +1,12 @@
 ---
 title: "Institutional AI Redesign"
 tags: [concept, enterprise, strategy, process-engineering, agent-factory]
-related: [[agent-factory-production-system]], [[agent-native-operations]], [[kanban-doctrine]], [[centaur-principle]]
+related:
+- agent-factory-production-system
+- agent-native-operations
+- kanban-doctrine
+- centaur-principle
 ---
-
 # Institutional AI Redesign
 
 AI has made individuals 10x more productive, but no company has become 10x more valuable. The gap is organizational design.

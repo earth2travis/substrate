@@ -1,11 +1,14 @@
 ---
 title: "AI Native PM Operating System"
 tags: [finding, product-management, ai-native, mcp, cursor, claude]
-related: [[agent-native-operations]], [[skills-as-portable-knowledge]], [[agent-tool-permissions]], [[centaur-principle]]
+related:
+- agent-native-operations
+- skills-as-portable-knowledge
+- agent-tool-permissions
+- centaur-principle
 source: research/raw/ai-native-pm-operating-system.md
 ingested: 2026-05-07
 ---
-
 # AI Native PM Operating System
 
 Mike Ball (Head of Product at David's Bridal) demonstrates an AI-native PM stack built around Claude Desktop/Cursor as the central hub, connected via MCP to Jira, GitHub, Figma, Sanity, Supabase, Gmail, and Calendar.

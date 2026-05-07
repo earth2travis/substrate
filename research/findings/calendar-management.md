@@ -1,11 +1,19 @@
 ---
-title: "Calendar Management Frameworks and Consolidation"
-tags: [productivity, time-management, google-calendar, agents, scheduling]
+title: Calendar Management Frameworks and Consolidation
+tags:
+- productivity
+- time-management
+- google-calendar
+- agents
+- scheduling
 related:
-  - [[agent-native-operations]]
-  - [[github-as-knowledge-graph]]
-source: "Compiled 2026-02-03"
+- agent-native-operations
+- github-as-knowledge-graph
+source: Compiled 2026-02-03
 ---
+
+
+
 
 # Calendar Management Frameworks and Consolidation
 

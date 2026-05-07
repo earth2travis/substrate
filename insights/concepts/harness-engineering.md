@@ -1,7 +1,31 @@
 ---
 title: "Harness Engineering"
+related:
+- openai-harness-engineering
+- openai-frontier-and-harness-engineering
+---
+
+---
+title: "Harness Engineering"
 tags: [concept, agent, development, operations, architecture, codex, ai]
-related: [[dark-factory]], [[codex]], [[symphony-orchestrator]], [[lean-software-development]], [[kanban-doctrine]], [[chief-engineer-system]], [[obeya]], [[production-paradigms]], [[shusa-applied-zookooree]], [[lean-software-delivery]], [[cloudflare-first-agent-factory]], [[the-openclaw-lesson]], [[agent-native-operations]], [[reference-free-evaluation]], [[better-harness-tweet]], [[automation-leverage]], [[feedback-loop-discipline]]
+related:
+- dark-factory
+- codex
+- symphony-orchestrator
+- lean-software-development
+- kanban-doctrine
+- chief-engineer-system
+- obeya
+- production-paradigms
+- shusa-applied-zookooree
+- lean-software-delivery
+- cloudflare-first-agent-factory
+- the-openclaw-lesson
+- agent-native-operations
+- reference-free-evaluation
+- better-harness-tweet
+- automation-leverage
+- feedback-loop-discipline
 source: research/findings/harness-engineering.md
 ---
 

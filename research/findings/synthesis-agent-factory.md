@@ -1,11 +1,14 @@
 ---
 title: "From Toyota to The Agent Factory"
 tags: [finding, lean, agent-factory, toyota, production-system, afps]
-related: [[toyota-production-system]], [[lean-doctrine]], [[dark-factory]], [[production-paradigms]]
+related:
+- toyota-production-system
+- lean-doctrine
+- dark-factory
+- production-paradigms
 source: research/raw/synthesis-agent-factory.md
 ingested: 2026-05-07
 ---
-
 # From Toyota to The Agent Factory
 
 Toyota does not build cars; Toyota builds the system that builds cars. The Agent Factory does not build agents; it builds the system that builds agents. Toyota's 40-year factory planning arc maps directly onto agent production system design.

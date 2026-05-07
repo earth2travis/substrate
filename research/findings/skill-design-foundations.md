@@ -5,6 +5,7 @@ related: [skills-as-portable-knowledge, agent-native-operations, design-system-a
 source: "Research notes from February 14, 2026"
 ---
 
+
 # Skill Design Foundations
 
 ## Summary

@@ -1,14 +1,23 @@
 ---
-title: "LEARNING.md: Per-Run Feedback for Self-Improving Agentic Systems"
-tags: [agents, learning, self-improvement, feedback-loops, workflows, memory]
+title: 'LEARNING.md: Per-Run Feedback for Self-Improving Agentic Systems'
+tags:
+- agents
+- learning
+- self-improvement
+- feedback-loops
+- workflows
+- memory
 related:
-  - [[feedback-loop-discipline]]
-  - [[agent-memory]]
-  - [[harness-engineering]]
-  - [[proof-of-work]]
-  - [[per-run-learning]]
+- feedback-loop-discipline
+- agent-memory
+- harness-engineering
+- proof-of-work
+- per-run-learning
 source: research/raw/learning-md-spec.md
 ---
+
+
+
 
 # LEARNING.md: Per-Run Feedback for Self-Improving Agentic Systems
 

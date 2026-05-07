@@ -1,10 +1,13 @@
 ---
 title: "Anthropic Interviewer: What 81,000 People Want from AI"
 tags: [anthropic, ai-research, user-needs, desires, concerns, scale]
-related: [[anthropic-interviewer-for-us]], [[probe-deeper-pattern]], [[cognitive-modes-from-gstack]], [[centaur-principle]]
+related:
+- anthropic-interviewer-for-us
+- probe-deeper-pattern
+- cognitive-modes-from-gstack
+- centaur-principle
 source: research/raw/anthropic-interviewer-81k-study.md
 ---
-
 # Anthropic Interviewer: What 81,000 People Want from AI
 
 **Anthropic Interviewer** is a version of Claude prompted to conduct conversational interviews. It operates in three stages: planning (interview rubric with human researchers), interviewing (real-time adaptive interviews, 10-15 minutes each), and analysis (Claude-powered classifiers + human review).

@@ -1,11 +1,13 @@
 ---
 title: "Context Poisoning: The Impulse Import Anti-Pattern"
 tags: [finding, anti-pattern, context, agent-ops, quality]
-related: [[agent-memory]], [[context-stack]], [[agent-native-operations]]
+related:
+- agent-memory
+- context-stack
+- agent-native-operations
 source: research/raw/context-poisoning-pattern.md
 ingested: 2026-05-07
 ---
-
 # Context Poisoning: The Impulse Import Anti-Pattern
 
 Importing external configs, prompts, skills, and frameworks into an agent system without auditing them against existing material. Each import seems like an improvement but degrades system reliability through undetected conflicts.

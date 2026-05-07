@@ -1,10 +1,18 @@
 ---
 title: "Decentralized Social: The Agent Ingestion Layer"
 tags: [concept, social, farcaster, agent, ingestion, protocol, community]
-related: [[farcaster-protocol]], [[neynar-platform]], [[clanker-event-driven-architecture]], [[clanker-agent-deployment-patterns]], [[memetics-as-engineered-cultural-transmission]], [[stay-on-base-proposal-genuinejack]], [[the-openclaw-lesson]], [[harness-engineering]], [[dark-factory]]
+related:
+- farcaster-protocol
+- neynar-platform
+- clanker-event-driven-architecture
+- clanker-agent-deployment-patterns
+- memetics-as-engineered-cultural-transmission
+- stay-on-base-proposal-genuinejack
+- the-openclaw-lesson
+- harness-engineering
+- dark-factory
 source: insights/concepts/decentralized-social.md
 ---
-
 # Decentralized Social: The Agent Ingestion Layer
 
 ## Definition

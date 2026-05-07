@@ -1,10 +1,13 @@
 ---
 title: "OpenClaw vs Hermes: Coding and Research Capabilities Compared"
 tags: [openclaw, hermes-agent, comparison, coding, research, ecosystem]
-related: [[openclaw]], [[hermes-agent]], [[harness-engineering]], [[lean-software-delivery]]
+related:
+- openclaw
+- hermes-agent
+- harness-engineering
+- lean-software-delivery
 source: research/raw/openclaw-vs-hermes-coding.md
 ---
-
 # OpenClaw vs Hermes: Coding and Research Capabilities Compared
 
 ## Summary

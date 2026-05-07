@@ -1,10 +1,13 @@
 ---
 title: "Mass Customization"
 tags: [manufacturing, product, customization, production]
-related: [[craft-production]], [[mass-production]], [[industry-4.0]], [[lean-production]]
+related:
+- craft-production
+- mass-production
+- industry-4.0
+- lean-production
 source: research/raw/mass-customization.md
 ---
-
 # Mass Customization
 
 ## Summary

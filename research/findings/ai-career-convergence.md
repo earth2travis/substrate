@@ -1,11 +1,14 @@
 ---
 title: "AI Career Convergence"
 tags: [finding, ai, career, convergence, future-of-work]
-related: [[agent-native-operations]], [[human-ai-collaboration]], [[skills-as-portable-knowledge]], [[centaur-principle]]
+related:
+- agent-native-operations
+- human-ai-collaboration
+- skills-as-portable-knowledge
+- centaur-principle
 source: research/raw/ai-career-convergence.md
 ingested: 2026-05-07
 ---
-
 # AI Career Convergence
 
 The real threat to knowledge work is not replacement but convergence. Horizontal collapse (distinct roles merging into one meta-competency) and temporal collapse (career leverage compressing from years to months) are reshaping every profession.

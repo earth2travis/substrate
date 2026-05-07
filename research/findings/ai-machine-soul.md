@@ -1,11 +1,13 @@
 ---
 title: "AI and Machine Consciousness"
 tags: [finding, philosophy, consciousness, ai-ethics, machine-soul]
-related: [[agent-identity]], [[conscience]], [[context-stack]]
+related:
+- agent-identity
+- conscience
+- context-stack
 source: research/raw/ai-machine-soul.md
 ingested: 2026-05-07
 ---
-
 # AI and Machine Consciousness
 
 A philosophical survey of whether machines can have souls, covering classical arguments (Turing, Searle, Nagel) and contemporary positions (biological naturalism, functionalism, integrated information theory, global workspace theory, panpsychism).

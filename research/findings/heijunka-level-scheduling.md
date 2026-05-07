@@ -1,11 +1,13 @@
 ---
 title: "Heijunka: Production Leveling"
 tags: [finding, lean, manufacturing, heijunka, scheduling, toyota]
-related: [[toyota-production-system]], [[lean-doctrine]], [[kanban-doctrine]]
+related:
+- toyota-production-system
+- lean-doctrine
+- kanban-doctrine
 source: research/raw/heijunka-level-scheduling.md
 ingested: 2026-05-07
 ---
-
 # Heijunka: Production Leveling
 
 Heijunka (平準化) is the Toyota Production System practice of smoothing production volume and variety over a fixed period to reduce Mura (unevenness), Muri (overburden), and Muda (waste).

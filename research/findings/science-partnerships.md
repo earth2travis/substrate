@@ -1,10 +1,12 @@
 ---
 title: "Case Studies: Science Partnerships"
 tags: [partnership, science, collaboration, case-study]
-related: [[sports-partnerships]], [[marriages-and-relationships]], [[universal-principles]]
+related:
+- sports-partnerships
+- marriages-and-relationships
+- universal-principles
 source: research/raw/science-partnerships.md
 ---
-
 # Case Studies: Science Partnerships
 
 ## Marie & Pierre Curie (1895–1906)

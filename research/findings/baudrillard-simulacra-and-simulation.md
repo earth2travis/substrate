@@ -1,14 +1,22 @@
 ---
-title: "Baudrillard's Simulacra and Simulation: The Map Precedes the Territory"
-tags: [philosophy, simulation, hyperreality, postmodernism, media-theory]
+title: 'Baudrillard''s Simulacra and Simulation: The Map Precedes the Territory'
+tags:
+- philosophy
+- simulation
+- hyperreality
+- postmodernism
+- media-theory
 related:
-  - [[jean-baudrillard]]
-  - [[simulacra-hyperreality]]
-  - [[dsjjjj-desiderata]]
-  - [[process-philosophy]]
-  - [[llm-wiki-pattern]]
+- jean-baudrillard
+- simulacra-hyperreality
+- dsjjjj-desiderata
+- process-philosophy
+- llm-wiki-pattern
 source: research/raw/baudrillard-simulacra-and-simulation.md
 ---
+
+
+
 
 # Baudrillard's Simulacra and Simulation: The Map Precedes the Territory
 

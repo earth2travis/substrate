@@ -303,6 +303,18 @@
 - Findings created (8): HyperStack agent provenance graph; mission-critical evals at scale (Anterior case study); NVIDIA NemoGuard/OpenShell safety analysis; Qwen 3.6 Plus evaluation; prompt injection defense patterns; prompt caching deep research; harness hill-climbing with evals; audit replay infrastructure research
 - Commit: 9a35433 — feat: findings for Batch 24: agent-infrastructure-safety (8 files)
 
+## [2026-05-07] promote | Connectivity campaign + concept promotion audit (8 concepts)
+- Phase 1: 58 links via 10 bridge concepts
+- Phase 2: 92 links via 21 bridge concepts
+- Phase 3: 64 links via 29 bridge concepts
+- All 313 findings now have at least 1 incoming link from a non-raw file. Zero orphans remain.
+- Concept promotion audit identified 8 high-centrality findings elevated to concepts:
+  [[openclaw]], [[hermes-agent]], [[kaizen]], [[llm-wiki-pattern]], [[github-as-memory]], [[process-without-substance]], [[browser-automation]], [[tools-landscape]]
+- Fixed duplicate frontmatter in insights/concepts/the-openclaw-lesson.md
+- Updated INDEX.md and SCHEMA.md with corrected counts
+- Lint: 0 errors, 0 warnings
+- Commits: b4baca2, 35684d1, cfa88ae (INDEX/SCHEMA), [this commit]
+
 ## [2026-05-07] promote | Batch 24 insights (2 concepts)
 - Concepts: [[agent-provenance-graph]], [[reference-free-evaluation]]
 - Cross-references: provenance graph for multi-agent coordination; real-time reference-free evals for autonomous quality filtering

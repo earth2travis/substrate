@@ -1,16 +1,23 @@
 ---
-title: "Loom Service Specification"
-source: "research/raw/loom-service-spec.md"
-tags: ["loom", "specification", "orchestration", "agents", "github"]
+title: Loom Service Specification
+source: research/raw/loom-service-spec.md
+tags:
+- loom
+- specification
+- orchestration
+- agents
+- github
 related:
-  - "[[loom-overview]]"
-  - "[[agent-native-operations]]"
-  - "[[workflow-as-contract]]"
-  - "[[agent-platform-ecosystem]]"
-  - "[[symphony-mapping]]"
-  - "[[agent-orchestrator-pattern]]"
-  - "[[workspace-isolation]]"
+- loom-overview
+- agent-native-operations
+- workflow-as-contract
+- agent-platform-ecosystem
+- symphony-mapping
+- agent-orchestrator-pattern
+- workspace-isolation
 ---
+
+
 
 # Loom Service Specification
 

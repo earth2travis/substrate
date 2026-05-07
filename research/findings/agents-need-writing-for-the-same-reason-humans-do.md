@@ -1,10 +1,12 @@
 ---
 title: "Agents Need Writing: Externalized Knowledge as Competitive Advantage"
 tags: [agent, memory, knowledge, writing, externalized-cognition, substrate]
-related: [[agentic-architecture]], [[progressive-disclosure]], [[agent-skills-as-onboarding]]
+related:
+- agentic-architecture
+- progressive-disclosure
+- agent-skills-as-onboarding
 source: research/raw/agents-need-writing-for-the-same-reason-humans-do.md
 ---
-
 # Agents Need Writing: Externalized Knowledge as Competitive Advantage
 
 ## Core Thesis

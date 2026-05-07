@@ -1,18 +1,31 @@
 ---
-title: "The Context Stack: Portable Identity for Agents"
-tags: [concept, context-engineering, agent-identity, specification, conscience, standardization]
+title: 'The Context Stack: Portable Identity for Agents'
+tags:
+- concept
+- context-engineering
+- agent-identity
+- specification
+- conscience
+- standardization
 related:
-  - [[agent-identity]]
-  - [[agent-memory]]
-  - [[agent-native-operations]]
-  - [[conscience]]
-  - [[rag-vs-wiki]]
-  - [[agentic-architecture]]
-  - [[memory-systems]]
-  - [[interchangeable-context]]
-  - [[the-openclaw-lesson]]
+- agent-identity
+- agent-memory
+- agent-native-operations
+- conscience
+- rag-vs-wiki
+- agentic-architecture
+- memory-systems
+- interchangeable-context
+- the-openclaw-lesson
+- context-poisoning-pattern
+- memory-is-context-not-storage-obsidian-analysis
+- mempalace-spatial-scoping-for-context-stack
 source: research/findings/the-context-stack-spec.md
 ---
+
+
+
+
 
 # The Context Stack: Portable Identity for Agents
 
@@ -60,3 +73,6 @@ Our own Substrate IS a Context Stack. SOUL.md, AGENTS.md, SCHEMA.md, and the kno
 - [[agentic-architecture]] — System design for autonomous agents
 - [[memory-systems]] — Memory architectures supporting agent continuity
 - [[interchangeable-context]] — Ford's revolution as structural parallel
+
+- [[context-poisoning-pattern]]
+- [[browser-efficiency-from-gstack]]

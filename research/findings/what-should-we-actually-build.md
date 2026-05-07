@@ -1,15 +1,23 @@
 ---
-title: "What Should We Actually Build? Synthesis of Agent Stack"
-tags: [agents, architecture, strategy, evaluation, synthesis]
+title: What Should We Actually Build? Synthesis of Agent Stack
+tags:
+- agents
+- architecture
+- strategy
+- evaluation
+- synthesis
 related:
-  - [[agent-native-operations]]
-  - [[harness-engineering]]
-  - [[context-stack]]
-  - [[agent-memory]]
-  - [[rag-vs-wiki]]
-  - [[centaur-principle]]
+- agent-native-operations
+- harness-engineering
+- context-stack
+- agent-memory
+- rag-vs-wiki
+- centaur-principle
 source: research/raw/what-should-we-actually-build.md
 ---
+
+
+
 
 # What Should We Actually Build? Synthesis of Agent Stack
 

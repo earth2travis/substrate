@@ -1,14 +1,22 @@
 ---
-title: "Zero Human Company Framing Oversells Autonomy"
-tags: [agents, marketing, autonomy, reality-check, strategy]
+title: Zero Human Company Framing Oversells Autonomy
+tags:
+- agents
+- marketing
+- autonomy
+- reality-check
+- strategy
 related:
-  - [[agent-native-operations]]
-  - [[institutional-ai-redesign]]
-  - [[centaur-principle]]
-  - [[creative-partnership]]
-  - [[the-openclaw-lesson]]
+- agent-native-operations
+- institutional-ai-redesign
+- centaur-principle
+- creative-partnership
+- the-openclaw-lesson
 source: research/raw/zero-human-company-framing-oversells-autonomy.md
 ---
+
+
+
 
 # Zero Human Company Framing Oversells Autonomy
 

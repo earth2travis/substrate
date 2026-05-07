@@ -1,10 +1,13 @@
 ---
 title: "The Instruct Monomyth: Why Base Models Matter"
 tags: [base-models, instruct-tuning, nousresearch, alignment, censorship, philosophy]
-related: [[context-compression]], [[context-stack]], [[agent-memory]], [[context-persistence]]
+related:
+- context-compression
+- context-stack
+- agent-memory
+- context-persistence
 source: research/raw/nousresearch-instruct-monomyth.md
 ---
-
 # The Instruct Monomyth: Why Base Models Matter
 
 **Source:** NOUS RESEARCH, 2024. A philosophical manifesto against homogenization through instruct tuning.

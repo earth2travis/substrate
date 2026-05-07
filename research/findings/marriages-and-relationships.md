@@ -1,10 +1,12 @@
 ---
 title: "Case Studies: Marriages and Relationships"
 tags: [partnership, relationships, psychology, collaboration, case-study]
-related: [[science-partnerships]], [[sports-partnerships]], [[universal-principles]]
+related:
+- science-partnerships
+- sports-partnerships
+- universal-principles
 source: research/raw/marriages-and-relationships.md
 ---
-
 # Case Studies: Marriages and Relationships
 
 What 40+ years of relationship science tells us about how two people sustain a partnership over time.

@@ -1,10 +1,12 @@
 ---
 title: "A3 Thinking: Structured Problem Solving on One Page"
 tags: [lean, toyota, problem-solving, methodology, tps]
-related: [[toyota-production-system]], [[taiichi-ohno]], [[five-whys]]
+related:
+- toyota-production-system
+- taiichi-ohno
+- five-whys
 source: research/raw/a3-thinking.md
 ---
-
 # A3 Thinking: Structured Problem Solving on One Page
 
 ## Summary

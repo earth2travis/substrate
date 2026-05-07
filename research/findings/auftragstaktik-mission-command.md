@@ -1,10 +1,14 @@
 ---
 title: "Auftragstaktik: The Philosophy of Mission Command"
 tags: [auftragstaktik, mission-command, leadership, decentralized, prussian, organization]
-related: [[block-hierarchy-to-intelligence]], [[jack-dorsey-from-hierarchy-to-intelligence]], [[microsolidarity-five-scales]], [[teams-best-practices-1]], [[mission-command]]
+related:
+- block-hierarchy-to-intelligence
+- jack-dorsey-from-hierarchy-to-intelligence
+- microsolidarity-five-scales
+- teams-best-practices-1
+- mission-command
 source: research/raw/auftragstaktik-mission-command.md
 ---
-
 # Auftragstaktik: The Philosophy of Mission Command
 
 A German military leadership philosophy that prioritizes decentralized decision-making and individual initiative. Instead of rigid top-down control, commanders provide a clear objective and intent, leaving the method of execution to subordinates.

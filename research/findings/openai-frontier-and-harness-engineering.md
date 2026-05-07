@@ -1,11 +1,14 @@
 ---
 title: "OpenAI Frontier and the Rise of Harness Engineering"
 tags: [finding, openai, frontier, harness-engineering, enterprise, semantic-layer]
-related: [[harness-engineering]], [[agent-native-operations]], [[dark-factory]], [[agent-factory-production-system]]
+related:
+- harness-engineering
+- agent-native-operations
+- dark-factory
+- agent-factory-production-system
 source: research/raw/openai-frontier-and-harness-engineering.md
 ingested: 2026-05-07
 ---
-
 # OpenAI Frontier and the Rise of Harness Engineering
 
 OpenAI Frontier is the enterprise platform for building, deploying, and managing AI agents at scale. It moves beyond model access to provide full "AI Coworker" infrastructure.

@@ -1,10 +1,14 @@
 ---
 title: "Ryan Lopopolo: Pioneer of Harness Engineering"
 tags: [person, agent, development, ai, codex]
-related: [[codex]], [[harness-engineering]], [[symphony-orchestrator]], [[dark-factory]], [[openai-frontier]]
+related:
+- codex
+- harness-engineering
+- symphony-orchestrator
+- dark-factory
+- openai-frontier
 source: research/raw/ryan-lopopolo.md
 ---
-
 # Ryan Lopopolo: Pioneer of Harness Engineering
 
 ## Summary

@@ -1,10 +1,16 @@
 ---
 title: "Chief Engineer System"
 tags: [concept, manufacturing, toyota, integration, orchestration, leadership]
-related: [[toyota-production-system]], [[obeya]], [[harness-engineering]], [[symphony-orchestrator]], [[dark-factory]], [[lean-doctrine]], [[lean-production]]
+related:
+- toyota-production-system
+- obeya
+- harness-engineering
+- symphony-orchestrator
+- dark-factory
+- lean-doctrine
+- lean-production
 source: research/findings/chief-engineer-system.md
 ---
-
 # Chief Engineer System
 
 ## Definition
@@ -49,3 +55,8 @@ You cannot skip Phase 1. Integration intelligence must first exist in a human wh
 - [[dark-factory]] — end state where Shusa intelligence is embedded
 - [[lean-doctrine]] — the operating principles the Shusa embodies
 - [[lean-production]] — the paradigm within which the Shusa operates
+
+- [[shusa-chief-engineer]]
+- [[shusa-applied-zookooree]]
+- [[shusa-zookooree-application]]
+- [[hermes-kanban-deep-dive]]

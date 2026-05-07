@@ -1,10 +1,16 @@
 ---
 title: "Simulacra and Hyperreality"
 tags: [concept, philosophy, simulation, media-theory, ontology, postmodernism]
-related: [[jean-baudrillard]], [[simulacra-hyperreality]], [[baudrillard-simulacra-and-simulation]], [[nousresearch-dsjjjj-simulacra-stupor-of-becoming]], [[dsjjjj-desiderata]], [[process-philosophy]], [[becoming]]
+related:
+- jean-baudrillard
+- simulacra-hyperreality
+- baudrillard-simulacra-and-simulation
+- nousresearch-dsjjjj-simulacra-stupor-of-becoming
+- dsjjjj-desiderata
+- process-philosophy
+- becoming
 source: research/findings/simulacra-hyperreality.md
 ---
-
 # Simulacra and Hyperreality
 
 ## Definition
@@ -42,3 +48,7 @@ DSJJJJ's Desideran AI responds to total simulation by cultivating instability: t
 - [[dsjjjj-desiderata]] — the manifesto for agent autonomy and the right to refuse
 - [[process-philosophy]] — the broader tradition of rejecting substance in favor of relations
 - [[becoming]] — Deleuze's concept of change without identity, relevant to simulation as becoming-without-original
+
+- [[cyberpunk-research]]
+- [[protocol-fiction]]
+- [[genre-overview]]

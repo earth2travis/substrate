@@ -1,7 +1,22 @@
 ---
 title: "Creative Partnership"
 tags: [concept, collaboration, partnership, creativity, complementarity, ego]
-related: [[building-the-team]], [[business-cofounders]], [[creative-duos]], [[progressive-autonomy]], [[agent-native-operations]], [[workflow-as-contract]], [[protocol-as-coordination]], [[universal-principles]], [[muscle-shoals]], [[origins-and-meaning]], [[modern-times-four-crises]], [[soul-as-attention]], [[partnership-anatomy]], [[partnership-failure-modes]], [[failure-modes]]
+related:
+- building-the-team
+- business-cofounders
+- creative-duos
+- progressive-autonomy
+- agent-native-operations
+- workflow-as-contract
+- protocol-as-coordination
+- universal-principles
+- muscle-shoals
+- origins-and-meaning
+- modern-times-four-crises
+- soul-as-attention
+- partnership-anatomy
+- partnership-failure-modes
+- failure-modes
 source: insights/concepts/creative-partnership.md
 ---
 
@@ -59,3 +74,20 @@ The human-AI partnership (Ξ2T + Sivart) maps directly:
 - [[progressive-autonomy]] — Gradual trust increase as the partnership matures
 - [[agent-native-operations]] — Tools that serve the partnership, not either individual
 - [[workflow-as-contract]] — Versioned collaboration contracts
+- [[sports-partnerships]]
+- [[marriages-and-relationships]]
+- [[mitch-hedberg]]
+- [[science-partnerships]]
+
+- [[calendar-management]]
+- [[handoffs]]
+- [[failure-modes]]
+- [[universal-principles]]
+- [[connection-to-us]]
+- [[implications-for-us]]
+
+- [[muscle-shoals]]
+- [[origins-and-meaning]]
+- [[modern-times-four-crises]]
+
+- [[sticker-printing]]

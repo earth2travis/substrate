@@ -1,13 +1,19 @@
 ---
-title: "What Is a Protocol?"
-source: "research/raw/what-is-a-protocol.md"
-tags: ["protocol", "coordination", "infrastructure", "history"]
+title: What Is a Protocol?
+source: research/raw/what-is-a-protocol.md
+tags:
+- protocol
+- coordination
+- infrastructure
+- history
 related:
-  - "[[agent-native-operations]]"
-  - "[[agent-platform-ecosystem]]"
-  - "[[centaur-principle]]"
-  - "[[protocol-as-coordination]]"
+- agent-native-operations
+- agent-platform-ecosystem
+- centaur-principle
+- protocol-as-coordination
 ---
+
+
 
 # What Is a Protocol?
 

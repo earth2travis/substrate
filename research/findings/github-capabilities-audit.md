@@ -5,6 +5,7 @@ related: [github-as-memory, project-board-configuration, github-practices]
 source: research/raw/github-capabilities-audit.md
 ---
 
+
 # GitHub Capabilities Audit
 
 ## Summary

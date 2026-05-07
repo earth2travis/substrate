@@ -1,10 +1,14 @@
 ---
 title: "Heijunka"
 tags: [concept, lean, scheduling, toyota, agent-factory, mura]
-related: [[toyota-production-system]], [[lean-doctrine]], [[kanban-doctrine]], [[just-in-time]], [[agent-native-operations]]
+related:
+- toyota-production-system
+- lean-doctrine
+- kanban-doctrine
+- just-in-time
+- agent-native-operations
 source: research/findings/heijunka-for-agent-orchestration.md
 ---
-
 # Heijunka
 
 ## Definition
@@ -47,3 +51,5 @@ Heijunka is the scheduling complement to Just-in-Time (make what is needed) and 
 - [[kanban-doctrine]] -- Pull-based work management
 - [[just-in-time]] -- Demand-triggered production
 - [[agent-native-operations]] -- Human-AI workflow design
+
+- [[heijunka-level-scheduling]]

@@ -1,13 +1,21 @@
 ---
-title: "NVIDIA NemoGuard / OpenShell: Agent Safety Analysis"
-tags: [agents, security, sandbox, infrastructure, evaluation]
+title: 'NVIDIA NemoGuard / OpenShell: Agent Safety Analysis'
+tags:
+- agents
+- security
+- sandbox
+- infrastructure
+- evaluation
 related:
-  - [[agent-native-operations]]
-  - [[agent-security]]
-  - [[workspace-isolation]]
-  - [[agent-orchestrator-pattern]]
+- agent-native-operations
+- agent-security
+- workspace-isolation
+- agent-orchestrator-pattern
 source: research/raw/nvidia-nemoguard-analysis.md
 ---
+
+
+
 
 # NVIDIA NemoGuard / OpenShell: Agent Safety Analysis
 

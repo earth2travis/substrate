@@ -1,14 +1,24 @@
 ---
-title: "Intercom's Claude Code Plugin Architecture"
-tags: [plugin-architecture, agent-platform, hooks, skills, observability, feedback-loop]
+title: Intercom's Claude Code Plugin Architecture
+tags:
+- plugin-architecture
+- agent-platform
+- hooks
+- skills
+- observability
+- feedback-loop
 related:
-  - [[agent-platform-ecosystem]]
-  - [[skills-as-portable-knowledge]]
-  - [[feedback-loop-discipline]]
-  - [[agent-native-operations]]
-  - [[context-persistence]]
-source: "[Brian Scanlan thread](https://x.com/brian_scanlan/status/2033978300003987527) March 2026"
+- agent-platform-ecosystem
+- skills-as-portable-knowledge
+- feedback-loop-discipline
+- agent-native-operations
+- context-persistence
+source: '[Brian Scanlan thread](https://x.com/brian_scanlan/status/2033978300003987527)
+  March 2026'
 ---
+
+
+
 
 # Intercom's Claude Code Plugin Architecture
 

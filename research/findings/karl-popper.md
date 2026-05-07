@@ -1,12 +1,20 @@
 ---
-title: "Karl Popper: Philosopher of Falsifiability"
-tags: [philosophy, person, epistemology, science, critical-rationalism]
+title: 'Karl Popper: Philosopher of Falsifiability'
+tags:
+- philosophy
+- person
+- epistemology
+- science
+- critical-rationalism
 related:
-  - [[jean-baudrillard]]
-  - [[process-philosophy]]
-  - [[llm-wiki-pattern]]
+- jean-baudrillard
+- process-philosophy
+- llm-wiki-pattern
 source: research/raw/karl-popper.md
 ---
+
+
+
 
 # Karl Popper: Philosopher of Falsifiability
 

@@ -5,6 +5,7 @@ related: [kaizen, toyota-production-system, agent-factory-production-system, pro
 source: "Extracted insights from frederick-taylor-scientific-management.md, April 8, 2026"
 ---
 
+
 # Insights: Frederick Winslow Taylor and Scientific Management
 
 ## Insight 1: Taylorism's "One Best Way" Echoes in AI's Algorithmic Control

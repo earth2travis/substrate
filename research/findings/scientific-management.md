@@ -1,10 +1,13 @@
 ---
 title: "Scientific Management (Taylorism)"
 tags: [management, history, manufacturing, taylorism]
-related: [[mass-production]], [[lean-production]], [[henry-ford]], [[toyota-production-system]]
+related:
+- mass-production
+- lean-production
+- henry-ford
+- toyota-production-system
 source: research/raw/scientific-management.md
 ---
-
 # Scientific Management (Taylorism)
 
 ## Summary

@@ -1,10 +1,13 @@
 ---
 title: "Mak's Prompt Engineering Skills: Composable Skill Pipeline"
 tags: [skills, prompt-engineering, composability, testing, cost-optimization]
-related: [[skills-landscape]], [[our-skills-audit]], [[tools-landscape]], [[agent-native-operations]]
+related:
+- skills-landscape
+- our-skills-audit
+- tools-landscape
+- agent-native-operations
 source: research/raw/mak-prompt-engineering-skills.md
 ---
-
 # Mak's Prompt Engineering Skills: Composable Skill Pipeline
 
 ## Summary

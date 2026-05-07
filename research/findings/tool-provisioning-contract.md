@@ -1,10 +1,13 @@
 ---
 title: "Tool Provisioning Contract for Agent Workspaces"
 tags: [tools, provisioning, mcp, agent-workspaces, contracts, loom]
-related: [[tools-landscape]], [[workflows-landscape]], [[just-bash-analysis]], [[agent-native-operations]]
+related:
+- tools-landscape
+- workflows-landscape
+- just-bash-analysis
+- agent-native-operations
 source: research/raw/tool-provisioning-contract.md
 ---
-
 # Tool Provisioning Contract for Agent Workspaces
 
 ## Summary

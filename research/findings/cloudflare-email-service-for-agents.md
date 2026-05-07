@@ -1,10 +1,12 @@
 ---
 title: "Cloudflare Email Service: The Inbox as Agent Interface"
 tags: [cloudflare, email, agents, interface, communication, asynchronous]
-related: [[cloudflare-ai-platform-inference-layer]], [[harness-engineering]], [[lean-software-delivery]]
+related:
+- cloudflare-ai-platform-inference-layer
+- harness-engineering
+- lean-software-delivery
 source: research/raw/cloudflare-email-service-for-agents.md
 ---
-
 # Cloudflare Email Service: The Inbox as Agent Interface
 
 ## Summary

@@ -1,18 +1,25 @@
 ---
-title: "Loom: Autonomous Coding Agent Orchestration"
-source: "research/raw/loom-overview.md"
-tags: ["loom", "agents", "orchestration", "github", "claude-code"]
+title: 'Loom: Autonomous Coding Agent Orchestration'
+source: research/raw/loom-overview.md
+tags:
+- loom
+- agents
+- orchestration
+- github
+- claude-code
 related:
-  - "[[agent-native-operations]]"
-  - "[[workflow-as-contract]]"
-  - "[[agent-platform-ecosystem]]"
-  - "[[harness-engineering]]"
-  - "[[loom-service-spec]]"
-  - "[[symphony-mapping]]"
-  - "[[agent-orchestrator-pattern]]"
-  - "[[proof-of-work]]"
-  - "[[workspace-isolation]]"
+- agent-native-operations
+- workflow-as-contract
+- agent-platform-ecosystem
+- harness-engineering
+- loom-service-spec
+- symphony-mapping
+- agent-orchestrator-pattern
+- proof-of-work
+- workspace-isolation
 ---
+
+
 
 # Loom: Autonomous Coding Agent Orchestration
 

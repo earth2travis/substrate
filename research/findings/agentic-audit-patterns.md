@@ -1,10 +1,12 @@
 ---
 title: "Agentic Audit Patterns"
 tags: [agent, audit, security, process, compliance, governance]
-related: [[agent-security]], [[agent-evaluation]], [[agentic-architecture]]
+related:
+- agent-security
+- agent-evaluation
+- agentic-architecture
 source: research/raw/agentic-audit-patterns.md
 ---
-
 # Agentic Audit Patterns
 
 ## The Core Problem

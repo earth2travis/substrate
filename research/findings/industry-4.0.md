@@ -1,10 +1,13 @@
 ---
 title: "Industry 4.0"
 tags: [manufacturing, technology, automation, industry-4.0]
-related: [[mass-customization]], [[dark-factory]], [[lean-production]], [[mass-production]]
+related:
+- mass-customization
+- dark-factory
+- lean-production
+- mass-production
 source: research/raw/industry-4.0.md
 ---
-
 # Industry 4.0
 
 ## Summary

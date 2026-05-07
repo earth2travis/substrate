@@ -1,10 +1,12 @@
 ---
 title: "Sources Bibliography: UX Research Scenarios"
 tags: [ux-research, bibliography, sources, methodology, usability, scenarios]
-related: [[lean-doctrine]], [[agent-native-operations]], [[github-as-knowledge-graph]]
+related:
+- lean-doctrine
+- agent-native-operations
+- github-as-knowledge-graph
 source: research/raw/us-research-scenarios-sources.md
 ---
-
 # Sources Bibliography: UX Research Scenarios
 
 ## Nielsen Norman Group (NNG)

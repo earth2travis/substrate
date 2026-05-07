@@ -1,13 +1,21 @@
 ---
-title: "Lessons from Building Claude Code Skills (Thariq Shihipar)"
-tags: [agents, skills, claude-code, best-practices, anthropic]
+title: Lessons from Building Claude Code Skills (Thariq Shihipar)
+tags:
+- agents
+- skills
+- claude-code
+- best-practices
+- anthropic
 related:
-  - [[skills-as-portable-knowledge]]
-  - [[harness-engineering]]
-  - [[agent-native-operations]]
-  - [[the-openclaw-lesson]]
+- skills-as-portable-knowledge
+- harness-engineering
+- agent-native-operations
+- the-openclaw-lesson
 source: research/findings/thariq-skills-lessons.md
 ---
+
+
+
 
 # Lessons from Building Claude Code Skills (Thariq Shihipar)
 

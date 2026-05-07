@@ -1,10 +1,12 @@
 ---
 title: "GitHub Teams Best Practices Part 1: Structure, Access, and CODEOWNERS"
 tags: [github, teams, access-control, codeowners, organization, permissions]
-related: [[teams-best-practices-2]], [[microsolidarity-five-scales]], [[big-lab-approaches]]
+related:
+- teams-best-practices-2
+- microsolidarity-five-scales
+- big-lab-approaches
 source: research/raw/teams-best-practices-1.md
 ---
-
 # GitHub Teams Best Practices Part 1: Structure, Access, and CODEOWNERS
 
 Research for zookooree org. Teams: Operations, Marketing, Finance, Product. Members: earth2travis (human founder), agent-sivart (executive AI, all 4 teams), agent-koda (CTO AI, Operations + Product).

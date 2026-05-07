@@ -1,14 +1,22 @@
 ---
-title: "MemPalace Analysis: Method of Loci and Performance Laundering in Agent Memory"
-tags: [agent-memory, method-of-loci, knowledge-graphs, chromadb, memory-systems]
+title: 'MemPalace Analysis: Method of Loci and Performance Laundering in Agent Memory'
+tags:
+- agent-memory
+- method-of-loci
+- knowledge-graphs
+- chromadb
+- memory-systems
 related:
-  - [[knowledge-graphs-as-agent-memory-substrate]]
-  - [[memory-systems]]
-  - [[the-context-stack-spec]]
-  - [[agent-identity]]
-  - [[context-stack-as-conscience]]
+- knowledge-graphs-as-agent-memory-substrate
+- memory-systems
+- the-context-stack-spec
+- agent-identity
+- context-stack-as-conscience
 source: research/raw/mempalace-analysis.md
 ---
+
+
+
 
 # MemPalace Analysis: Method of Loci and Performance Laundering in Agent Memory
 

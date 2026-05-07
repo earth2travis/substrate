@@ -1,10 +1,14 @@
 ---
 title: "DevOps"
 tags: [devops, culture, software-delivery, operations, collaboration]
-related: [[dora-metrics]], [[continuous-delivery]], [[lean-software-development]], [[dark-factory]], [[lean-production]]
+related:
+- dora-metrics
+- continuous-delivery
+- lean-software-development
+- dark-factory
+- lean-production
 source: research/raw/devops.md
 ---
-
 # DevOps
 
 ## Summary

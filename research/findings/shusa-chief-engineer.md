@@ -1,16 +1,23 @@
 ---
-title: "Shusa Chief Engineer"
-source: "research/raw/shusa-chief-engineer.md"
-tags: ["toyota", "leadership", "engineering", "shusa", "product-development"]
+title: Shusa Chief Engineer
+source: research/raw/shusa-chief-engineer.md
+tags:
+- toyota
+- leadership
+- engineering
+- shusa
+- product-development
 related:
-  - "[[toyota-production-system]]"
-  - "[[chief-engineer-system]]"
-  - "[[agent-factory-production-system]]"
-  - "[[kaizen]]"
-  - "[[shusa-zookooree-application]]"
-  - "[[agent-orchestrator-pattern]]"
-  - "[[workspace-isolation]]"
+- toyota-production-system
+- chief-engineer-system
+- agent-factory-production-system
+- kaizen
+- shusa-zookooree-application
+- agent-orchestrator-pattern
+- workspace-isolation
 ---
+
+
 
 # Shusa Chief Engineer
 

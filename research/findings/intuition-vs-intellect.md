@@ -1,10 +1,14 @@
 ---
 title: "Intuition vs. Intellect (Bergson)"
 tags: [philosophy, epistemology, process-philosophy, concept, bergson]
-related: [[henri-bergson]], [[duration-duree]], [[elan-vital]], [[process-philosophy]], [[becoming]]
+related:
+- henri-bergson
+- duration-duree
+- elan-vital
+- process-philosophy
+- becoming
 source: research/raw/intuition-vs-intellect.md
 ---
-
 # Intuition vs. Intellect (Bergson)
 
 ## Summary

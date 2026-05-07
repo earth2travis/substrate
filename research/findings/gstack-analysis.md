@@ -1,10 +1,13 @@
 ---
 title: "gstack Analysis: Garry Tan's Claude Code Workflow System"
 tags: [skills, claude-code, workflow, browser, patterns, efficiency]
-related: [[skills-landscape]], [[tools-landscape]], [[workflows-landscape]], [[browser-efficiency-from-gstack]]
+related:
+- skills-landscape
+- tools-landscape
+- workflows-landscape
+- browser-efficiency-from-gstack
 source: research/raw/gstack-analysis.md
 ---
-
 # gstack Analysis: Garry Tan's Claude Code Workflow System
 
 ## Summary

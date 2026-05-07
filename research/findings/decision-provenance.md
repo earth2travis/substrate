@@ -1,11 +1,14 @@
 ---
 title: "Decision Provenance for AI Agents"
 tags: [finding, provenance, decision-tracking, observability, agent-ops]
-related: [[agent-memory]], [[context-stack]], [[agent-native-operations]], [[subagent-architecture]]
+related:
+- agent-memory
+- context-stack
+- agent-native-operations
+- subagent-architecture
 source: research/raw/decision-provenance.md
 ingested: 2026-05-07
 ---
-
 # Decision Provenance for AI Agents
 
 The infrastructure for tracing every agent decision back to its inputs, reasoning, and alternatives considered. Not logging. Not observability. Provenance: the full causal chain preserved in a way that survives time and can answer questions about itself.

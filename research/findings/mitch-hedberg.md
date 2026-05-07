@@ -1,10 +1,13 @@
 ---
 title: "Mitch Hedberg: Research"
 tags: [comedy, humor, mitch-hedberg, style, voice, brevity]
-related: [[soul-as-attention]], [[creative-partnership]], [[centaur-principle]], [[agent-native-operations]]
+related:
+- soul-as-attention
+- creative-partnership
+- centaur-principle
+- agent-native-operations
 source: research/raw/mitch-hedberg.md
 ---
-
 # Mitch Hedberg: Research
 
 Mitchell Lee Hedberg (1968-2005). Born in Saint Paul, Minnesota. Big break on Letterman in 1996. Time Magazine called him "the next Seinfeld." Died at 37 from an overdose. Fans included George Carlin, Dave Chappelle, Lewis Black, Norm MacDonald. Influenced Anthony Jeselnik, Bo Burnham, Ron Funches.

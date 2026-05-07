@@ -5,6 +5,7 @@ related: [skills-as-portable-knowledge, agent-native-operations, synthweave-mcp-
 source: "resources.anthropic.com, extracted 2025-07-17"
 ---
 
+
 # Anthropic Skills Guide: Building Skills for Claude
 
 ## Summary

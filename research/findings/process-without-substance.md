@@ -1,10 +1,16 @@
 ---
 title: "Process Without Substance: Process Philosophy Meets AI Architecture"
 tags: [philosophy, process-philosophy, ontology, ai, whitehead, nagarjuna, bergson, deleuze]
-related: [[alfred-north-whitehead]], [[actual-occasions]], [[prehension]], [[concrescence]], [[sunyata-emptiness]], [[duration-duree]], [[gilles-deleuze]]
+related:
+- alfred-north-whitehead
+- actual-occasions
+- prehension
+- concrescence
+- sunyata-emptiness
+- duration-duree
+- gilles-deleuze
 source: research/raw/process-without-substance.md
 ---
-
 # Process Without Substance: Process Philosophy Meets AI Architecture
 
 ## Summary

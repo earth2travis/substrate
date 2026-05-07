@@ -1,11 +1,14 @@
 ---
 title: "Sub-Agent Architecture: OpenClaw, Big Labs, and Open Source"
 tags: [finding, sub-agent, multi-agent, orchestrator, context-injection]
-related: [[agent-native-operations]], [[agent-memory]], [[context-stack]], [[skills-as-portable-knowledge]]
+related:
+- agent-native-operations
+- agent-memory
+- context-stack
+- skills-as-portable-knowledge
 source: research/raw/subagent-architecture.md
 ingested: 2026-05-07
 ---
-
 # Sub-Agent Architecture: OpenClaw, Big Labs, and Open Source
 
 A survey of sub-agent patterns across OpenClaw (our platform), Anthropic, Google, and OpenAI, with practical recommendations for configuration and use.

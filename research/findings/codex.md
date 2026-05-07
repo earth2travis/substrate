@@ -1,10 +1,13 @@
 ---
 title: "OpenAI Codex: The Coding Agent Workhorse"
 tags: [agent, model, tools, codex, openai]
-related: [[harness-engineering]], [[ryan-lopopolo]], [[dark-factory]], [[symphony-orchestrator]]
+related:
+- harness-engineering
+- ryan-lopopolo
+- dark-factory
+- symphony-orchestrator
 source: research/raw/codex.md
 ---
-
 # OpenAI Codex: The Coding Agent Workhorse
 
 ## Summary

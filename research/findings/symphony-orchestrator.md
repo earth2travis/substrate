@@ -1,10 +1,15 @@
 ---
 title: "Symphony Orchestrator: Multi-Agent Coding Pipeline"
 tags: [agent, development, operations, elixir, orchestration]
-related: [[harness-engineering]], [[codex]], [[elixir-beam]], [[spec-driven-development]], [[ryan-lopopolo]], [[dark-factory]]
+related:
+- harness-engineering
+- codex
+- elixir-beam
+- spec-driven-development
+- ryan-lopopolo
+- dark-factory
 source: research/raw/symphony-orchestrator.md
 ---
-
 # Symphony Orchestrator: Multi-Agent Coding Pipeline
 
 ## Summary

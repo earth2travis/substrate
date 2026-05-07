@@ -1,10 +1,12 @@
 ---
 title: "Paperclip: An OS for Autonomous Agent Companies"
 tags: [paperclip, agents, os, company, coordination, governance]
-related: [[harness-engineering]], [[dark-factory]], [[lean-software-delivery]]
+related:
+- harness-engineering
+- dark-factory
+- lean-software-delivery
 source: research/raw/paperclip-is-an-os-for-autonomous-agent-companies.md
 ---
-
 # Paperclip: An OS for Autonomous Agent Companies
 
 ## Summary

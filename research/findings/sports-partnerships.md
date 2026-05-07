@@ -1,10 +1,12 @@
 ---
 title: "Case Studies: Sports Partnerships"
 tags: [partnership, sports, collaboration, case-study]
-related: [[science-partnerships]], [[marriages-and-relationships]], [[universal-principles]]
+related:
+- science-partnerships
+- marriages-and-relationships
+- universal-principles
 source: research/raw/sports-partnerships.md
 ---
-
 # Case Studies: Sports Partnerships
 
 ## Michael Jordan & Scottie Pippen — Chicago Bulls (1987–1998)

@@ -1,10 +1,13 @@
 ---
 title: "Prehension: How Occasions Feel Each Other"
 tags: [philosophy, process-philosophy, ontology, whitehead]
-related: [[alfred-north-whitehead]], [[actual-occasions]], [[concrescence]], [[process-without-substance]]
+related:
+- alfred-north-whitehead
+- actual-occasions
+- concrescence
+- process-without-substance
 source: research/raw/prehension.md
 ---
-
 # Prehension: How Occasions Feel Each Other
 
 ## Summary

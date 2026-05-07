@@ -1,7 +1,29 @@
 ---
 title: "Dark Factory"
+related:
+- dark-factory-lights-out-manufacturing
+- factory-ai-droid-session
+- autonomous-video-production
+---
+
+---
+title: "Dark Factory"
 tags: [concept, operations, automation, agent, lean, manufacturing]
-related: [[harness-engineering]], [[toyota-production-system]], [[lean-software-development]], [[codex]], [[kanban-doctrine]], [[chief-engineer-system]], [[obeya]], [[production-paradigms]], [[shusa-applied-zookooree]], [[lean-software-delivery]], [[cloudflare-first-agent-factory]], [[the-openclaw-lesson]], [[agent-native-operations]], [[agent-factory-production-system]]
+related:
+- harness-engineering
+- toyota-production-system
+- lean-software-development
+- codex
+- kanban-doctrine
+- chief-engineer-system
+- obeya
+- production-paradigms
+- shusa-applied-zookooree
+- lean-software-delivery
+- cloudflare-first-agent-factory
+- the-openclaw-lesson
+- agent-native-operations
+- agent-factory-production-system
 source: research/findings/dark-factory.md
 ---
 
@@ -68,3 +90,10 @@ The dark factory is the logical endpoint of lean:
 - [[toyota-production-system]] -- Historical lineage
 - [[ryan-lopopolo]] -- Popularized the term in software
 - [[henry-ford]] -- Pre-computing analog
+
+- [[toyota-factory-planning]]
+- [[agentic-maximization]]
+- [[modern-times-for-agent-factory]]
+- [[autonomous-video-production]]
+
+- [[dark-factory-lights-out-manufacturing]]

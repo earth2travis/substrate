@@ -1,12 +1,18 @@
 ---
-title: "Steve Tigue"
-tags: [entity, person, agents, openclaw]
+title: Steve Tigue
+tags:
+- entity
+- person
+- agents
+- openclaw
 related:
-  - [[the-openclaw-lesson]]
-  - [[agent-native-operations]]
-  - [[skills-as-portable-knowledge]]
+- the-openclaw-lesson
+- agent-native-operations
+- skills-as-portable-knowledge
 source: research/findings/steve-tigue.md
 ---
+
+
 
 # Steve Tigue
 

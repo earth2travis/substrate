@@ -1,13 +1,22 @@
 ---
-title: "Local-First Software Architecture"
-tags: [local-first, crdt, architecture, privacy, data-ownership, collaboration]
+title: Local-First Software Architecture
+tags:
+- local-first
+- crdt
+- architecture
+- privacy
+- data-ownership
+- collaboration
 related:
-  - [[github-as-knowledge-graph]]
-  - [[rag-vs-wiki]]
-  - [[agent-native-operations]]
-  - [[context-persistence]]
-source: "Ink and Switch, Automerge, Yjs. Compiled 2026-02-03"
+- github-as-knowledge-graph
+- rag-vs-wiki
+- agent-native-operations
+- context-persistence
+source: Ink and Switch, Automerge, Yjs. Compiled 2026-02-03
 ---
+
+
+
 
 # Local-First Software Architecture
 

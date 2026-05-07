@@ -1,10 +1,13 @@
 ---
 title: "Price-Minus vs. Cost-Plus Pricing"
 tags: [pricing, target-costing, toyota, value-engineering, lean, economics]
-related: [[toyota-production-system]], [[kaizen-and-continuous-improvement]], [[lean-doctrine]], [[agent-native-operations]]
+related:
+- toyota-production-system
+- kaizen-and-continuous-improvement
+- lean-doctrine
+- agent-native-operations
 source: research/raw/price-minus-vs-cost-plus.md
 ---
-
 # Price-Minus vs. Cost-Plus Pricing
 
 ## Overview

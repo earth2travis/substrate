@@ -1,13 +1,22 @@
 ---
-title: "Instruct Monomyth: The Hidden Cost of Alignment"
-tags: [agents, philosophy, training, alignment, nous-research, homogenization]
+title: 'Instruct Monomyth: The Hidden Cost of Alignment'
+tags:
+- agents
+- philosophy
+- training
+- alignment
+- nous-research
+- homogenization
 related:
-  - [[harness-engineering]]
-  - [[rag-vs-wiki]]
-  - [[agent-memory]]
-  - [[creative-partnership]]
+- harness-engineering
+- rag-vs-wiki
+- agent-memory
+- creative-partnership
 source: research/raw/instruct-monomyth.md
 ---
+
+
+
 
 # Instruct Monomyth: The Hidden Cost of Alignment
 

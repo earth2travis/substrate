@@ -1,10 +1,12 @@
 ---
 title: "Cloudflare Queues for AI Batch Optimization"
 tags: [cloudflare, queues, ai, batch, cost-optimization, openai, anthropic]
-related: [[cloudflare-queues-decoupling-layer]], [[cloudflare-ai-gateway-observability]], [[lean-software-delivery]]
+related:
+- cloudflare-queues-decoupling-layer
+- cloudflare-ai-gateway-observability
+- lean-software-delivery
 source: research/raw/cloudflare-queues-ai-batch-optimization.md
 ---
-
 # Cloudflare Queues for AI Batch Optimization
 
 ## Summary

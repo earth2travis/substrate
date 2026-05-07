@@ -1,7 +1,48 @@
 ---
 title: "Agent-Native Operations: Tools for the AI-Human Partnership"
+related:
+- accounting-bookkeeping-research
+- adapter-system
+- ai-agents-that-run-a-company
+- ai-pm-overview
+- api-first-interfaces
+- brain-fry
+---
+
+---
+title: "Agent-Native Operations: Tools for the AI-Human Partnership"
 tags: [concept, agent, operations, tooling, github, process, automation]
-related: [[custom-tooling-opportunities]], [[github-as-memory]], [[project-board-configuration]], [[telegram-group-setup]], [[email-management]], [[kanban-doctrine]], [[harness-engineering]], [[lean-software-delivery]], [[the-openclaw-lesson]], [[context-stack]], [[agent-memory]], [[conscience]], [[centaur-principle]], [[institutional-ai-redesign]], [[subagent-architecture]], [[multi-agent-coordination-patterns]], [[progressive-autonomy]], [[deployment-governance]], [[creative-partnership]], [[chief-of-staff-model]], [[browser-verification]], [[agent-platform-ecosystem]], [[protocol-as-coordination]], [[agent-payment-infrastructure]], [[constitutional-governance]], [[agent-orchestrator-pattern]], [[proof-of-work]], [[workspace-isolation]], [[mission-command]], [[intelligence-graph-organization]]
+related:
+- custom-tooling-opportunities
+- github-as-memory
+- project-board-configuration
+- telegram-group-setup
+- email-management
+- kanban-doctrine
+- harness-engineering
+- lean-software-delivery
+- the-openclaw-lesson
+- context-stack
+- agent-memory
+- conscience
+- centaur-principle
+- institutional-ai-redesign
+- subagent-architecture
+- multi-agent-coordination-patterns
+- progressive-autonomy
+- deployment-governance
+- creative-partnership
+- chief-of-staff-model
+- browser-verification
+- agent-platform-ecosystem
+- protocol-as-coordination
+- agent-payment-infrastructure
+- constitutional-governance
+- agent-orchestrator-pattern
+- proof-of-work
+- workspace-isolation
+- mission-command
+- intelligence-graph-organization
 source: insights/concepts/agent-native-operations.md
 ---
 
@@ -68,3 +109,14 @@ Harness engineering principle #9: "Entropy and garbage collection: encode golden
 - [[current-costs]] — Partnership operating expense tracking
 - [[skills-as-portable-knowledge]] — Portable, composable skill architecture
 - [[agent-tool-permissions]] — Permission models for agent tool access
+
+- [[composio-analysis]]
+- [[tools-landscape]]
+- [[agent-evaluation]]
+- [[skills-landscape]]
+
+- [[agents-need-writing-for-the-same-reason-humans-do]]
+- [[api-first-interfaces]]
+- [[1password-integration]]
+
+- [[intercom-plugin-architecture]]

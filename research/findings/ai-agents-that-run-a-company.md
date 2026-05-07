@@ -1,11 +1,14 @@
 ---
 title: "6 AI Agents That Run a Company"
 tags: [finding, agent-factory, multi-agent, orchestration, proposal-system]
-related: [[agent-factory-production-system]], [[agent-native-operations]], [[kanban-doctrine]], [[skills-as-portable-knowledge]]
+related:
+- agent-factory-production-system
+- agent-native-operations
+- kanban-doctrine
+- skills-as-portable-knowledge
 source: research/raw/ai-agents-that-run-a-company.md
 ingested: 2026-05-07
 ---
-
 # 6 AI Agents That Run a Company
 
 A build guide for running a company with 6 AI agents performing real work: scanning intelligence, writing content, posting tweets, and running analyses. Tech stack: Next.js + Supabase + VPS. Monthly cost: $8 fixed + LLM usage.

@@ -1,10 +1,12 @@
 ---
 title: "Progressive Disclosure: Context as Architecture"
 tags: [concept, agent, context, skills, design, cognition]
-related: [[agentic-architecture]], [[agent-skills-as-onboarding]], [[agent-identity]]
+related:
+- agentic-architecture
+- agent-skills-as-onboarding
+- agent-identity
 source: research/findings/agent-tool-design-lessons.md
 ---
-
 # Progressive Disclosure: Context as Architecture
 
 ## Overview
@@ -52,3 +54,13 @@ Our entire architecture is already a progressive disclosure system:
 - Research directories are navigated on demand
 
 The question is whether we are doing it well. Are there places where we front-load too much? Are there places where a layer of indirection would improve performance?
+
+
+# Related
+
+- [[anthropic-skills-guide]]
+- [[skill-design-foundations]]
+- [[mak-prompt-engineering-skills]]
+- [[our-skills-audit]]
+- [[thariq-skills-lessons]]
+- [[agent-skills-as-onboarding]]

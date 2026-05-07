@@ -1,10 +1,14 @@
 ---
 title: "Emptiness and Dependent Origination"
 tags: [concept, philosophy, buddhism, ontology, process-philosophy]
-related: [[nagarjuna]], [[sunyata-emptiness]], [[dependent-origination]], [[process-philosophy]], [[process-without-substance]]
+related:
+- nagarjuna
+- sunyata-emptiness
+- dependent-origination
+- process-philosophy
+- process-without-substance
 source: research/findings/nagarjuna.md
 ---
-
 # Emptiness and Dependent Origination
 
 ## Definition
@@ -38,3 +42,5 @@ The network is "conventionally real, ultimately empty" — a dependently co-aris
 - [[dependent-origination]] — the doctrine that all phenomena arise dependently on conditions
 - [[process-philosophy]] — the broader tradition of rejecting substance in favor of relations
 - [[process-without-substance]] — synthesis mapping emptiness to computational architecture
+
+- [[nagarjuna-mulamadhyamakakarika-sunyata]]

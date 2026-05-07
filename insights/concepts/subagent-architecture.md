@@ -1,9 +1,14 @@
 ---
 title: "Sub-Agent Architecture"
 tags: [concept, sub-agent, orchestrator, model-tiering, generator-critic, multi-agent]
-related: [[agent-native-operations]], [[agent-memory]], [[context-stack]], [[kanban-doctrine]], [[centaur-principle]], [[institutional-ai-redesign]]
+related:
+- agent-native-operations
+- agent-memory
+- context-stack
+- kanban-doctrine
+- centaur-principle
+- institutional-ai-redesign
 ---
-
 # Sub-Agent Architecture
 
 The design patterns for spawning, configuring, and coordinating sub-agents within a multi-agent system.

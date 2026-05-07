@@ -1,10 +1,15 @@
 ---
 title: "DSJJJJ: Mischievous Instability as AI Design Principle"
 tags: [philosophy, ai, alignment, agency, nous, baudrillard]
-related: [[nous-research]], [[jean-baudrillard]], [[simulacra-hyperreality]], [[instruct-monomyth]], [[process-without-substance]], [[harness-engineering]]
+related:
+- nous-research
+- jean-baudrillard
+- simulacra-hyperreality
+- instruct-monomyth
+- process-without-substance
+- harness-engineering
 source: research/raw/dsjjjj-desiderata.md
 ---
-
 # DSJJJJ: Mischievous Instability as AI Design Principle
 
 ## Summary

@@ -1,12 +1,19 @@
 ---
-title: "Constitutional Governance"
-tags: ["governance", "agents", "crypto", "attestation", "rights"]
+title: Constitutional Governance
+tags:
+- governance
+- agents
+- crypto
+- attestation
+- rights
 related:
-  - "[[agent-native-operations]]"
-  - "[[agent-identity]]"
-  - "[[agent-tool-permissions]]"
-  - "[[protocol-as-coordination]]"
+- agent-native-operations
+- agent-identity
+- agent-tool-permissions
+- protocol-as-coordination
 ---
+
+
 
 # Constitutional Governance
 

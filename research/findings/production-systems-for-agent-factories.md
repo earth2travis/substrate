@@ -1,11 +1,14 @@
 ---
 title: "Production Systems for Agent Factories"
 tags: [finding, lean, agent-factory, manufacturing, production-paradigms, craft, mass, lean]
-related: [[production-paradigms]], [[lean-doctrine]], [[dark-factory]], [[craft-production]]
+related:
+- production-paradigms
+- lean-doctrine
+- dark-factory
+- craft-production
 source: research/raw/production-systems-for-agent-factories.md
 ingested: 2026-05-07
 ---
-
 # Production Systems for Agent Factories
 
 The history of production systems (Craft → Mass → Lean → Industry 4.0) maps directly onto the evolution of agent building. Understanding the arc prevents repeating industrial mistakes in compressed time.

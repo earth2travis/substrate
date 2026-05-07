@@ -1,15 +1,24 @@
 ---
-title: "Knowledge Graphs as Agent Memory Substrate: From Flat Files to Structured Relationships"
-tags: [agent-memory, knowledge-graphs, graphrag, agentic-architecture, memory-systems]
+title: 'Knowledge Graphs as Agent Memory Substrate: From Flat Files to Structured
+  Relationships'
+tags:
+- agent-memory
+- knowledge-graphs
+- graphrag
+- agentic-architecture
+- memory-systems
 related:
-  - [[memory-systems]]
-  - [[the-context-stack-spec]]
-  - [[mempalace-analysis]]
-  - [[rag-vs-wiki]]
-  - [[agent-identity]]
-  - [[context-stack-as-conscience]]
+- memory-systems
+- the-context-stack-spec
+- mempalace-analysis
+- rag-vs-wiki
+- agent-identity
+- context-stack-as-conscience
 source: research/raw/knowledge-graphs-as-agent-memory-substrate.md
 ---
+
+
+
 
 # Knowledge Graphs as Agent Memory Substrate: From Flat Files to Structured Relationships
 

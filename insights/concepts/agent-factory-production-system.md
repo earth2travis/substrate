@@ -1,7 +1,25 @@
 ---
 title: "Agent Factory Production System"
+related:
+- alternative-organizational-structures
+- alternative-organizational-structures-insights
+- institutional-ai-vs-individual-ai
+---
+
+---
+title: "Agent Factory Production System"
 tags: [concept, agent-factory, lean, production-system, afps, toyota]
-related: [[toyota-production-system]], [[lean-doctrine]], [[dark-factory]], [[production-paradigms]], [[heijunka]], [[kaizen]], [[skills-as-portable-knowledge]], [[centaur-principle]], [[institutional-ai-redesign]], [[multi-agent-coordination-patterns]]
+related:
+- toyota-production-system
+- lean-doctrine
+- dark-factory
+- production-paradigms
+- heijunka
+- kaizen
+- skills-as-portable-knowledge
+- centaur-principle
+- institutional-ai-redesign
+- multi-agent-coordination-patterns
 source: research/findings/synthesis-agent-factory.md
 ---
 
@@ -61,3 +79,28 @@ Manufacturing history progressed through Craft → Mass → Lean → Industry 4.
 - [[heijunka]] -- Production leveling for agent orchestration
 - [[kaizen]] -- Continuous improvement culture
 - [[skills-as-portable-knowledge]] -- Modular capability system
+
+- [[factory-ai-droid-session]]
+- [[openclaw-vs-hermes-coding]]
+- [[paperclip-patterns-worth-adopting-for-synthweave]]
+- [[ai-sdk-research]]
+- [[production-systems-compared]]
+- [[price-minus-for-the-agent-factory]]
+- [[synthweave-mcp-analysis]]
+- [[harness-engineering]]
+- [[openai-frontier-and-harness-engineering]]
+- [[multi-agent-coordination]]
+- [[agentic-maximization]]
+
+- [[accounting-bookkeeping-research]]
+- [[price-minus-vs-cost-plus]]
+- [[deployment-guide]]
+- [[gateway-integration]]
+- [[paperclip-is-an-os-for-autonomous-agent-companies]]
+- [[paperclip-atomic-task-checkout-prevents-agent-collisions]]
+
+- [[production-systems-for-agent-factories]]
+- [[synthesis-agent-factory]]
+
+- [[adapter-system]]
+- [[tool-provisioning-contract]]

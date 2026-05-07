@@ -1,10 +1,14 @@
 ---
 title: "Block: From Hierarchy to Intelligence — The Full Thesis"
 tags: [organizational-design, ai-coordination, agent-factory, context-stack, jack-dorsey]
-related: [[jack-dorsey-from-hierarchy-to-intelligence]], [[auftragstaktik-mission-command]], [[mckinsey-7s-framework-insights]], [[mission-command]], [[intelligence-graph-organization]]
+related:
+- jack-dorsey-from-hierarchy-to-intelligence
+- auftragstaktik-mission-command
+- mckinsey-7s-framework-insights
+- mission-command
+- intelligence-graph-organization
 source: research/raw/block-hierarchy-to-intelligence.md
 ---
-
 # Block: From Hierarchy to Intelligence — The Full Thesis
 
 Jack Dorsey and Sequoia Capital published a thesis for replacing organizational hierarchy with AI coordination. The argument: hierarchy exists because humans are bottlenecked information routers (span of control: 3 to 8 people, unchanged since Rome).

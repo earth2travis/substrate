@@ -5,6 +5,7 @@ related: [browser-automation, claude-code-capabilities, skills-as-portable-knowl
 source: "https://playwright.dev/docs/intro, research notes February 2026"
 ---
 
+
 # Playwright Analysis
 
 ## Summary

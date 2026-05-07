@@ -1,14 +1,22 @@
 ---
-title: "Jean Baudrillard: Sociologist of the Simulacrum"
-tags: [philosophy, person, postmodernism, simulation, media-theory]
+title: 'Jean Baudrillard: Sociologist of the Simulacrum'
+tags:
+- philosophy
+- person
+- postmodernism
+- simulation
+- media-theory
 related:
-  - [[simulacra-hyperreality]]
-  - [[karl-popper]]
-  - [[dsjjjj-desiderata]]
-  - [[process-philosophy]]
-  - [[llm-wiki-pattern]]
+- simulacra-hyperreality
+- karl-popper
+- dsjjjj-desiderata
+- process-philosophy
+- llm-wiki-pattern
 source: research/raw/jean-baudrillard.md
 ---
+
+
+
 
 # Jean Baudrillard: Sociologist of the Simulacrum
 

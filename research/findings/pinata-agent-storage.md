@@ -1,11 +1,13 @@
 ---
 title: "Pinata Agent Storage and IPFS Integration"
 tags: [finding, ipfs, storage, pinata, agent-hosting, content-addressing]
-related: [[agent-native-operations]], [[skills-as-portable-knowledge]], [[agent-identity]]
+related:
+- agent-native-operations
+- skills-as-portable-knowledge
+- agent-identity
 source: research/raw/pinata-agent-storage.md
 ingested: 2026-05-07
 ---
-
 # Pinata Agent Storage and IPFS Integration
 
 Pinata evolved from an IPFS pinning service into an agent hosting platform built on OpenClaw, with IPFS-backed storage for skills and files.

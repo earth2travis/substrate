@@ -1,10 +1,15 @@
 ---
 title: "Craft, Mass, and Lean Production: Three Paradigms Compared"
 tags: [lean, manufacturing, history, production, tps, craft, ford]
-related: [[production-systems-compared]], [[production-paradigms]], [[lean-doctrine]], [[toyota-production-system]], [[henry-ford]], [[taiichi-ohno]]
+related:
+- production-systems-compared
+- production-paradigms
+- lean-doctrine
+- toyota-production-system
+- henry-ford
+- taiichi-ohno
 source: research/raw/craft-mass-lean-production.md
 ---
-
 # Craft, Mass, and Lean Production: Three Paradigms Compared
 
 ## Summary

@@ -1,10 +1,13 @@
 ---
 title: "Synthweave Harness Engineering Evaluation"
 tags: [synthweave, harness-engineering, evaluation, agent, assessment, quality]
-related: [[harness-engineering]], [[codex]], [[lean-software-delivery]], [[dark-factory]]
+related:
+- harness-engineering
+- codex
+- lean-software-delivery
+- dark-factory
 source: research/raw/synthweave-harness-readiness.md
 ---
-
 # Synthweave Harness Engineering Evaluation
 
 ## Summary

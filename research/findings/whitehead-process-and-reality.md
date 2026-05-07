@@ -1,14 +1,21 @@
 ---
-title: "Whitehead's Process and Reality: The Philosophy of Organism"
-tags: [philosophy, process-philosophy, ontology, metaphysics]
+title: 'Whitehead''s Process and Reality: The Philosophy of Organism'
+tags:
+- philosophy
+- process-philosophy
+- ontology
+- metaphysics
 related:
-  - [[alfred-north-whitehead]]
-  - [[actual-occasions]]
-  - [[prehension]]
-  - [[concrescence]]
-  - [[process-philosophy]]
+- alfred-north-whitehead
+- actual-occasions
+- prehension
+- concrescence
+- process-philosophy
 source: research/raw/whitehead-process-and-reality.md
 ---
+
+
+
 
 # Whitehead's Process and Reality: The Philosophy of Organism
 

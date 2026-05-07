@@ -1,10 +1,15 @@
 ---
 title: "Clanker: Five-Layer Event-Driven Agent Architecture"
 tags: [agent, architecture, event-driven, farcaster, deployment, production]
-related: [[farcaster-protocol]], [[neynar-platform]], [[harness-engineering]], [[dark-factory]], [[the-openclaw-lesson]], [[decentralized-social]]
+related:
+- farcaster-protocol
+- neynar-platform
+- harness-engineering
+- dark-factory
+- the-openclaw-lesson
+- decentralized-social
 source: research/raw/clanker-event-driven-architecture.md
 ---
-
 # Clanker: Five-Layer Event-Driven Agent Architecture
 
 ## Summary

@@ -1,10 +1,15 @@
 ---
 title: "Skills Landscape for Agentic Systems"
 tags: [skills, agent-tools, mcp, anthropic, orchestration, patterns]
-related: [[tools-landscape]], [[workflows-landscape]], [[our-skills-audit]], [[codex]], [[hermes-agent]], [[skills-as-portable-knowledge]]
+related:
+- tools-landscape
+- workflows-landscape
+- our-skills-audit
+- codex
+- hermes-agent
+- skills-as-portable-knowledge
 source: research/raw/skills-landscape.md
 ---
-
 # Skills Landscape for Agentic Systems
 
 ## Summary

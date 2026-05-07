@@ -1,10 +1,15 @@
 ---
 title: "Deleuzian Becoming"
 tags: [concept, philosophy, ontology, process-philosophy, deleuze]
-related: [[gilles-deleuze]], [[becoming]], [[rhizome]], [[virtual-and-actual]], [[process-philosophy]], [[duration-duree]]
+related:
+- gilles-deleuze
+- becoming
+- rhizome
+- virtual-and-actual
+- process-philosophy
+- duration-duree
 source: research/findings/becoming.md
 ---
-
 # Deleuzian Becoming
 
 ## Definition

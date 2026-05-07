@@ -1,7 +1,30 @@
 ---
 title: "Process Philosophy"
+related:
+- bergson-duration-creative-evolution
+- contemporary-process-philosophy
+- nagarjuna-mulamadhyamakakarika-sunyata
+- whitehead-process-and-reality
+---
+
+---
+title: "Process Philosophy"
 tags: [concept, philosophy, ontology, process-philosophy, ai, whitehead]
-related: [[alfred-north-whitehead]], [[actual-occasions]], [[prehension]], [[concrescence]], [[toyota-production-system]], [[kanban-doctrine]], [[emptiness-and-dependent-origination]], [[duration-and-living-time]], [[deleuzian-becoming]], [[nagarjuna]], [[henri-bergson]], [[gilles-deleuze]], [[simulacra-and-hyperreality]], [[critical-rationalism]]
+related:
+- alfred-north-whitehead
+- actual-occasions
+- prehension
+- concrescence
+- toyota-production-system
+- kanban-doctrine
+- emptiness-and-dependent-origination
+- duration-and-living-time
+- deleuzian-becoming
+- nagarjuna
+- henri-bergson
+- gilles-deleuze
+- simulacra-and-hyperreality
+- critical-rationalism
 source: research/findings/process-without-substance.md
 ---
 
@@ -75,3 +98,12 @@ TPS is also a process philosophy. Ohno's rejection of "economies of scale" in fa
 - [[duration-duree]] -- Bergson's lived time
 - [[gilles-deleuze]] -- Difference and becoming
 - [[toyota-production-system]] -- Process philosophy in manufacturing
+
+- [[whitehead-process-and-reality]]
+- [[bergson-duration-creative-evolution]]
+- [[dreams-are-cognitive-maintenance-not-prophecy]]
+- [[process-without-substance]]
+
+- [[contemporary-process-philosophy]]
+
+- [[the-new-way-to-build-a-startup]]

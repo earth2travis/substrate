@@ -1,14 +1,23 @@
 ---
-title: "Karpathy: LLM Knowledge Bases"
-tags: [agents, knowledge-management, wiki, obsidian, automation, llm]
+title: 'Karpathy: LLM Knowledge Bases'
+tags:
+- agents
+- knowledge-management
+- wiki
+- obsidian
+- automation
+- llm
 related:
-  - [[rag-vs-wiki]]
-  - [[agent-memory]]
-  - [[context-stack]]
-  - [[automation-leverage]]
-  - [[synthesis-vs-retrieval-paradigm]]
+- rag-vs-wiki
+- agent-memory
+- context-stack
+- automation-leverage
+- synthesis-vs-retrieval-paradigm
 source: research/raw/karpathy-llm-knowledge-bases.md
 ---
+
+
+
 
 # Karpathy: LLM Knowledge Bases
 

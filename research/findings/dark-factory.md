@@ -1,10 +1,14 @@
 ---
 title: "Dark Factory: Lights-Out Manufacturing and Software"
 tags: [agent, operations, manufacturing, automation, ai]
-related: [[harness-engineering]], [[codex]], [[lean-production]], [[ryan-lopopolo]], [[henry-ford]]
+related:
+- harness-engineering
+- codex
+- lean-production
+- ryan-lopopolo
+- henry-ford
 source: research/raw/dark-factory.md
 ---
-
 # Dark Factory: Lights-Out Manufacturing and Software
 
 ## Summary

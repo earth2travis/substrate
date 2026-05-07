@@ -1,10 +1,12 @@
 ---
 title: "Science and Consciousness: What Neuroscience and Physics Reveal About the Soul"
 tags: [consciousness, neuroscience, philosophy-of-mind, science, soul]
-related: [[religion-spirituality]], [[art-literature]], [[soul-as-attention]]
+related:
+- religion-spirituality
+- art-literature
+- soul-as-attention
 source: research/raw/science-consciousness.md
 ---
-
 # Science and Consciousness: What Neuroscience and Physics Reveal About the Soul
 
 Science doesn't use the word "soul," but it is deeply concerned with the phenomena the word points to: consciousness, subjective experience, selfhood, and the mind-matter relationship.

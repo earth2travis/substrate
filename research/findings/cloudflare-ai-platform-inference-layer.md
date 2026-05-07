@@ -1,10 +1,13 @@
 ---
 title: "Cloudflare AI Platform: Unified Inference Layer for Agents"
 tags: [cloudflare, ai, inference, agents, infrastructure, edge]
-related: [[harness-engineering]], [[dark-factory]], [[lean-software-delivery]], [[codex]]
+related:
+- harness-engineering
+- dark-factory
+- lean-software-delivery
+- codex
 source: research/raw/cloudflare-ai-platform-inference-layer.md
 ---
-
 # Cloudflare AI Platform: Unified Inference Layer for Agents
 
 ## Summary
