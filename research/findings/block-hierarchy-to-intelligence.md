@@ -1,7 +1,7 @@
 ---
 title: "Block: From Hierarchy to Intelligence — The Full Thesis"
 tags: [organizational-design, ai-coordination, agent-factory, context-stack, jack-dorsey]
-related: [[jack-dorsey-from-hierarchy-to-intelligence]], [[auftragstaktik-mission-command]], [[mckinsey-7s-framework-insights]]
+related: [[jack-dorsey-from-hierarchy-to-intelligence]], [[auftragstaktik-mission-command]], [[mckinsey-7s-framework-insights]], [[mission-command]], [[intelligence-graph-organization]]
 source: research/raw/block-hierarchy-to-intelligence.md
 ---
 

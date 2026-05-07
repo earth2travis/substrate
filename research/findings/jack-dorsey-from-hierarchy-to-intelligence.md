@@ -1,7 +1,7 @@
 ---
 title: "Jack Dorsey: From Hierarchy to Intelligence"
 tags: [organization, ai, management, jack-dorsey, block, hierarchy, intelligence-graph]
-related: [[block-hierarchy-to-intelligence]], [[auftragstaktik-mission-command]], [[mckinsey-7s-framework-insights]]
+related: [[block-hierarchy-to-intelligence]], [[auftragstaktik-mission-command]], [[mckinsey-7s-framework-insights]], [[mission-command]], [[intelligence-graph-organization]]
 source: research/raw/jack-dorsey-from-hierarchy-to-intelligence.md
 ---
 

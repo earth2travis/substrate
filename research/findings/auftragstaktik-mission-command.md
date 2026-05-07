@@ -1,7 +1,7 @@
 ---
 title: "Auftragstaktik: The Philosophy of Mission Command"
 tags: [auftragstaktik, mission-command, leadership, decentralized, prussian, organization]
-related: [[block-hierarchy-to-intelligence]], [[jack-dorsey-from-hierarchy-to-intelligence]], [[microsolidarity-five-scales]], [[teams-best-practices-1]]
+related: [[block-hierarchy-to-intelligence]], [[jack-dorsey-from-hierarchy-to-intelligence]], [[microsolidarity-five-scales]], [[teams-best-practices-1]], [[mission-command]]
 source: research/raw/auftragstaktik-mission-command.md
 ---
 

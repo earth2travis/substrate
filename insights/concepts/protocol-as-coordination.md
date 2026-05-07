@@ -7,6 +7,8 @@ related:
   - "[[creative-partnership]]"
   - "[[github-as-knowledge-graph]]"
   - "[[workflow-as-contract]]"
+  - "[[mission-command]]"
+  - "[[intelligence-graph-organization]]"
 ---
 
 # Protocol as Coordination
