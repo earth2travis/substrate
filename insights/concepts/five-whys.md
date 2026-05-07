@@ -1,7 +1,7 @@
 ---
 title: "The 5 Whys"
 tags: [concept, lean, problem-solving, methodology, root-cause]
-related: [[toyota-production-system]], [[taiichi-ohno]], [[a3-thinking]], [[pdca-cycle]]
+related: [[toyota-production-system]], [[taiichi-ohno]], [[a3-thinking]], [[pdca-cycle]], [[kaizen-and-continuous-improvement]], [[lean-doctrine]], [[fishbone-diagrams]]
 source: research/raw/5-whys.md
 ---
 

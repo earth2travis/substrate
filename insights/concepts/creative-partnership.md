@@ -1,7 +1,7 @@
 ---
 title: "Creative Partnership"
 tags: [concept, collaboration, partnership, creativity, complementarity, ego]
-related: [[building-the-team]], [[business-cofounders]], [[creative-duos]], [[progressive-autonomy]], [[agent-native-operations]], [[workflow-as-contract]], [[protocol-as-coordination]], [[universal-principles]], [[muscle-shoals]], [[origins-and-meaning]], [[modern-times-four-crises]], [[soul-as-attention]], [[partnership-anatomy]]
+related: [[building-the-team]], [[business-cofounders]], [[creative-duos]], [[progressive-autonomy]], [[agent-native-operations]], [[workflow-as-contract]], [[protocol-as-coordination]], [[universal-principles]], [[muscle-shoals]], [[origins-and-meaning]], [[modern-times-four-crises]], [[soul-as-attention]], [[partnership-anatomy]], [[partnership-failure-modes]], [[failure-modes]]
 source: insights/concepts/creative-partnership.md
 ---
 

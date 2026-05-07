@@ -1,7 +1,7 @@
 ---
 title: "Partnership Anatomy"
 tags: [concept, partnership, collaboration, complementarity, infrastructure, case-study]
-related: [[science-partnerships]], [[sports-partnerships]], [[marriages-and-relationships]], [[creative-partnership]], [[creative-duos]], [[building-the-team]], [[universal-principles]]
+related: [[science-partnerships]], [[sports-partnerships]], [[marriages-and-relationships]], [[creative-partnership]], [[creative-duos]], [[building-the-team]], [[universal-principles]], [[partnership-failure-modes]], [[failure-modes]]
 source: insights/concepts/partnership-anatomy.md
 ---
 
