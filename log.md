@@ -187,6 +187,18 @@
 - Cross-references: linked to agent-memory, context-stack, knowledge-graphs-as-agent-memory-substrate, llm-wiki-pattern, agent-native-operations, dark-factory
 - Lint: 0 errors, 0 warnings
 
+## [2026-05-07] create | Batch 18 findings: features-deployment
+- 7 new findings: anthropic-skills-guide, deployment-guide, feature-deep-dives-1, feature-deep-dives-2, feature-flags-best-practices, llm-wiki-master-guide, process-guide
+- Theme: Agent deployment and governance: Anthropic skills architecture, Paperclip deployment patterns, GitHub feature deep dives, feature flags best practices, LLM wiki master guide, UX scenario writing
+- Cross-references: linked to agent-native-operations, skills-as-portable-knowledge, github-as-knowledge-graph, workflow-as-contract, kanban-doctrine, clanker-agent-deployment-patterns, hermes-deployment-guide, rag-vs-wiki, llm-wiki-pattern
+- Lint: 0 errors, 0 warnings
+
+## [2026-05-07] promote | 2 insights from Batch 18
+- insights/concepts/progressive-autonomy.md -- Graduated trust mechanism using feature flags to expand or contract agent autonomous scope based on demonstrated reliability. Kill switches, canary releases, and environment-specific capability tiers.
+- insights/concepts/deployment-governance.md -- Layered rules, approvals, and environmental controls for releasing agent capabilities: repository rulesets, CODEOWNERS, environment branches, required reviews, secret protection.
+- Backlinked feature-flags-best-practices.md, feature-deep-dives-2.md, deployment-guide.md, github-as-knowledge-graph.md, workflow-as-contract.md, agent-native-operations.md, kanban-doctrine.md with new insights
+- Lint: 0 errors, 0 warnings
+
 ## [2026-05-07] create | Batch 17 findings: ai-agents-continued
 - 10 new findings: openai-frontier-and-harness-engineering, herdr-agent-multiplexer, the-five-whys-for-agentic-intelligence, ai-cognitive-prosthetic-equanimity, factory-ai-droid-session, erc-8004-trustless-agents, paperclip-atomic-task-checkout-prevents-agent-collisions, pinata-agent-storage, decision-provenance, frontier-and-harness-for-zookooree
 - Theme: Agent architecture continued: context compression, decision provenance, ERC-8004 trust layer, atomic task checkout, IPFS storage, harness engineering insights, cognitive prosthetics
