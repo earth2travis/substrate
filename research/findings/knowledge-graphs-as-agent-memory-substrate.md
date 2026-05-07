@@ -5,6 +5,7 @@ related:
   - [[memory-systems]]
   - [[the-context-stack-spec]]
   - [[mempalace-analysis]]
+  - [[rag-vs-wiki]]
   - [[agent-identity]]
   - [[context-stack-as-conscience]]
 source: research/raw/knowledge-graphs-as-agent-memory-substrate.md

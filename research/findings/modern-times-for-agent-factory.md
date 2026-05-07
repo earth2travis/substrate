@@ -1,7 +1,7 @@
 ---
 title: "Modern Times and the Agent Factory"
 tags: [finding, agent-factory, brain-fry, conscience, 996, automation]
-related: [[agent-native-operations]], [[context-stack]], [[dark-factory]]
+related: [[agent-native-operations]], [[context-stack]], [[dark-factory]], [[conscience]]
 source: research/raw/modern-times-for-agent-factory.md
 ingested: 2026-05-07
 ---

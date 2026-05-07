@@ -5,6 +5,8 @@ related:
   - [[agent-identity]]
   - [[agent-memory]]
   - [[agent-native-operations]]
+  - [[conscience]]
+  - [[rag-vs-wiki]]
   - [[agentic-architecture]]
   - [[memory-systems]]
   - [[interchangeable-context]]

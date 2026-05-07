@@ -6,6 +6,8 @@ related:
   - [[agent-identity]]
   - [[agent-native-operations]]
   - [[agentic-architecture]]
+  - [[conscience]]
+  - [[rag-vs-wiki]]
   - [[the-openclaw-lesson]]
   - [[process-philosophy]]
 source: research/findings/memory-systems.md
