@@ -4,6 +4,17 @@
 > Format: `## [YYYY-MM-DD] action | subject`
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
+>
+## [2026-05-07] ingest | Batch 19: figma-design (6 findings)
+- Sources: design-md-transcript, figma-dev-mode-presentation, figma-x-claude-code-livestream, skill-design-foundations, stitch-design-md-claude-code-workflow, stitch-march-2026-update-walkthrough
+- Findings created (6): design.md as portable design system; Figma MCP native tooling; live roundtrip workflow; skill design foundations; Stitch design.md practical workflow; Stitch March 2026 update
+- Commit: 64a34b7 — feat: findings for Batch 19: figma-design (6 files)
+
+## [2026-05-07] promote | Batch 19 insights (2 concepts)
+- Concepts: [[design-system-as-code]], [[roundtrip-workflow]]
+- Cross-references: design.md portability, Figma MCP, Stitch roundtrip, Code Connect
+- Backlinks: updated [[skills-as-portable-knowledge]], [[workflow-as-contract]]
+- Commit: 64a34b7 — feat: promote 2 insights from Batch 19
 
 ## [2026-05-06] no-op | Daily synthesis — no new/changed sources
 - Ingest: 311 files scanned, 0 new, 0 changed, 2 orphan findings (`five-whys.md`, `28-openclaw-mistakes.md`)
