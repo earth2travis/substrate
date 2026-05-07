@@ -1,17 +1,5 @@
 ---
 title: "The OpenClaw Lesson: Security as Foundation"
-related:
-- 28-openclaw-mistakes-kloss
-- clawvault-deep-dive
-- openclaw-community
-- openclaw-platform-state-2026
-- openclaw-report
-- openclaw-vs-hermes
-- openclaw-vs-hermes-coding
----
-
----
-title: "The OpenClaw Lesson: Security as Foundation"
 tags: [concept, agent, security, platform, evolution, infrastructure]
 related:
 - harness-engineering

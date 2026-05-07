@@ -1,6 +1,6 @@
 # Substrate Index
 
-The shared nervous system. Current inventory: 314 findings, 74 concepts, 3 entities, 312 raw sources.
+The shared nervous system. Current inventory: 313 findings, 81 concepts, 2 entities, 311 raw sources.
 
 ## Core Directories
 - [[research/]] — Incoming work. Raw sources in `raw/`; synthesized findings in `findings/`.
@@ -15,18 +15,33 @@ Agent operating model and design:
 - [[agent-native-operations]] — Tools and workflows designed for AI-human partnership.
 - [[context-stack]] — Portable identity: four-layer markdown specification for agents.
 - [[agent-memory]] — From flat files to structured continuity.
+- [[llm-wiki-pattern]] — Compounding knowledge base maintained by LLMs.
 
 Infrastructure and factory metaphors:
 - [[dark-factory]] — Lights-out manufacturing as pattern for autonomous agent systems.
 - [[cloudflare-first-agent-factory]] — Cloudflare platform as complete substrate for agent operations.
 - [[harness-engineering]] — Evaluation and safety infrastructure for agent systems.
 - [[production-paradigms]] — Craft, mass, lean, and Industry 4.0 arcs applied to agent systems.
+- [[openclaw]] — Pioneer agent platform: rise, crisis, and lessons.
+- [[hermes-agent]] — Secure multi-provider successor platform.
 
 Coordination and governance:
 - [[workflow-as-contract]] — Agent behavior versioned in-repo via policy files.
 - [[protocol-as-coordination]] — Protocols as coordination mechanisms across domains.
 - [[progressive-autonomy]] — Graduated trust via feature flags and capability tiers.
 - [[proof-of-work]] — Verification stack for autonomous agent output.
+- [[github-as-memory]] — Institutional knowledge graph via Issues and PRs.
+
+Process and philosophy:
+- [[lean-doctrine]] — Eliminate waste, maximize flow.
+- [[kaizen]] — Continuous improvement as daily operating principle.
+- [[process-philosophy]] — Process ontology meets AI architecture.
+- [[process-without-substance]] — Whitehead, Nagarjuna, Bergson, Deleuze converge on AI structure.
+
+Tools and capabilities:
+- [[browser-automation]] — Agent control of the web as operational sense.
+- [[tools-landscape]] — MCP ecosystem and the universal tool loop.
+- [[skills-as-portable-knowledge]] — Skills as instruction sets for agent systems.
 
 ## Key Guides
 - [[kanban-operating-manual]] — The field manual for the squad.
