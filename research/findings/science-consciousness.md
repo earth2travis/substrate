@@ -1,7 +1,7 @@
 ---
 title: "Science and Consciousness: What Neuroscience and Physics Reveal About the Soul"
 tags: [consciousness, neuroscience, philosophy-of-mind, science, soul]
-related: [[religion-spirituality]], [[art-literature]]
+related: [[religion-spirituality]], [[art-literature]], [[soul-as-attention]]
 source: research/raw/science-consciousness.md
 ---
 

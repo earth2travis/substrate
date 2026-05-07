@@ -6,6 +6,7 @@ related:
   - [[centaur-principle]]
   - [[muscle-shoals]]
   - [[origins-and-meaning]]
+  - [[partnership-anatomy]]
 source: research/raw/universal-principles.md
 ---
 
