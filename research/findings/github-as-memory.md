@@ -53,5 +53,9 @@ Loomrunner (the-agent-factory #37) needs to understand project context from GitH
 - [[harness-engineering]] — Agent-first development methodology
 - [[dark-factory]] — Lights-out operation requiring institutional memory
 - [[lean-software-delivery]] — Continuous improvement and documentation
+- [[github-as-knowledge-graph]] — The promoted insight on GitHub as knowledge graph
+- [[github-knowledge-graph-second-brain]] — Synthesis of knowledge graph and second brain framing
+- [[github-issues-best-practices]] — Anatomy, types, sizing, and lifecycle
+- [[github-practices]] — Branching, commits, PRs, labels, CI/CD
 - [[custom-tooling-opportunities]] — Agent-native tooling for process compliance
 - [[project-board-configuration]] — GitHub Projects configuration for visibility

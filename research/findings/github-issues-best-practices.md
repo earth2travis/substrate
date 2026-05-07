@@ -70,3 +70,9 @@ GitHub now supports sub-issues for L-sized work. Parent tracks overall progress;
 ## Synthesis
 
 Issues are the atomic unit of memory. The discipline is in the closure: every issue must end with a clear outcome, artifact reference, and cross-link. Without this, the knowledge graph has dangling nodes.
+
+## Related
+
+- [[github-as-knowledge-graph]] — The promoted insight on GitHub as knowledge graph
+- [[github-as-memory]] — The flagship document on GitHub as institutional memory
+- [[github-project-best-practices]] — Issues, labels, milestones, projects

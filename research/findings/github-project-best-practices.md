@@ -51,3 +51,10 @@ Guide to using GitHub's built-in project management tools (Issues, Labels, Miles
 ## Synthesis
 
 For a two-person team, the key is keeping it lightweight enough to maintain but structured enough to be useful. The hybrid Kanban + milestone approach provides flow without the overhead of rigid sprints. The discipline is in the closure, not the tooling.
+
+## Related
+
+- [[github-as-knowledge-graph]] — The promoted insight on GitHub as knowledge graph
+- [[github-as-memory]] — The flagship document on GitHub as institutional memory
+- [[github-issues-best-practices]] — Anatomy, types, sizing, and lifecycle
+- [[github-practices]] — Branching, commits, PRs, labels, CI/CD

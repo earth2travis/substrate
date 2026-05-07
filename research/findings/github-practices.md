@@ -79,3 +79,9 @@ Recommended Actions: Prettier on PR, commitlint on PR, stale issue bot, auto-lab
 ## Synthesis
 
 These practices create a codebase that is readable, maintainable, and welcoming to both human and AI contributors. The commit history becomes a narrative; the PR queue becomes a quality gate. For an AI agent operating in this repo, conventional commits and issue references are not style preferences. They are signal.
+
+## Related
+
+- [[github-as-knowledge-graph]] — The promoted insight on GitHub as knowledge graph
+- [[github-as-memory]] — The flagship document on GitHub as institutional memory
+- [[github-project-best-practices]] — Issues, labels, milestones, projects

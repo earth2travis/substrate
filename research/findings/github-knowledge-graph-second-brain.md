@@ -56,3 +56,10 @@ Primary sources in repo: GOALS.md, AGENTS.md, CLAUDE.md, patterns/our-flow-map.m
 ## Synthesis
 
 GitHub is both the operating system and the memory substrate. The gap is not in the tool but in the discipline: writing issues for the reader six months later, closing with context, and cross-referencing relentlessly. Agents that consume this graph downstream depend on the data quality we create today.
+
+## Related
+
+- [[github-as-knowledge-graph]] — The promoted insight on GitHub as knowledge graph
+- [[github-as-memory]] — The flagship document on GitHub as institutional memory
+- [[github-issues-best-practices]] — Anatomy, types, sizing, and lifecycle
+- [[github-practices]] — Branching, commits, PRs, labels, CI/CD

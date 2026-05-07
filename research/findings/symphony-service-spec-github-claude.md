@@ -61,3 +61,9 @@ Markdown file with optional YAML front matter. Front matter schema covers tracke
 ## Synthesis
 
 This specification defines the architecture for an autonomous coding agent harness that treats GitHub Issues as the work queue and Claude Code as the executor. The WORKFLOW.md contract allows teams to version agent behavior with their code. The key design decision is separation of concerns: orchestrator reads and dispatches; agent writes and executes.
+
+## Related
+
+- [[workflow-as-contract]] — The promoted insight on versioning agent behavior in-repo
+- [[symphony-orchestrator]] — OpenAI Frontier's internal Elixir/BEAM implementation
+- [[codex]] — The coding agent that Symphony dispatches
