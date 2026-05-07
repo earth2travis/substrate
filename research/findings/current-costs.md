@@ -1,10 +1,16 @@
 ---
 title: "Current Cost Inventory: Partnership Operating Expenses"
 tags: [cost, infrastructure, finance, operations, inventory]
-related: [[email-management]], [[telegram-group-setup]], [[custom-tooling-opportunities]], [[github-as-memory]], [[lean-software-delivery]], [[cloudflare-first-agent-factory]], [[agent-native-operations]]
+related:
+- email-management
+- telegram-group-setup
+- custom-tooling-opportunities
+- github-as-memory
+- lean-software-delivery
+- cloudflare-first-agent-factory
+- agent-native-operations
 source: research/raw/current-costs.md
 ---
-
 # Current Cost Inventory: Partnership Operating Expenses
 
 ## Summary

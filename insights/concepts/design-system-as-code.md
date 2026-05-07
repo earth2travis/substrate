@@ -1,9 +1,28 @@
 ---
-title: "Design System as Code"
-tags: [concept, design-systems, markdown, infrastructure, agents]
-related: [skills-as-portable-knowledge, agent-native-operations, roundtrip-workflow, workflow-as-contract, progressive-autonomy]
-source: "Synthesized from Batch 19: design-md-transcript, figma-dev-mode-presentation, stitch-workflow, skill-design-foundations"
+title: Design System as Code
+tags:
+- concept
+- design-systems
+- markdown
+- infrastructure
+- agents
+related:
+- skills-as-portable-knowledge
+- agent-native-operations
+- roundtrip-workflow
+- workflow-as-contract
+- progressive-autonomy
+- figma-dev-mode-presentation
+- figma-github-projects-plugin
+- figma-x-claude-code-livestream
+- stitch-design-md-claude-code-workflow
+- stitch-march-2026-update-walkthrough
+- premium-results-strategy
+source: 'Synthesized from Batch 19: design-md-transcript, figma-dev-mode-presentation,
+  stitch-workflow, skill-design-foundations'
 ---
+
+
 
 # Design System as Code
 

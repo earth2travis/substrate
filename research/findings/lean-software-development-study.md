@@ -1,10 +1,15 @@
 ---
 title: "Lean Software Development: Deep Research"
 tags: [lean, software-development, manufacturing, research, waste]
-related: [[lean-production]], [[toyota-production-system]], [[dora-metrics]], [[seven-software-wastes]], [[continuous-delivery]], [[devops]]
+related:
+- lean-production
+- toyota-production-system
+- dora-metrics
+- seven-software-wastes
+- continuous-delivery
+- devops
 source: research/raw/lean-software-development-study.md
 ---
-
 # Lean Software Development: Deep Research
 
 ## Summary

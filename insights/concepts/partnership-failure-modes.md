@@ -1,10 +1,12 @@
 ---
 title: "Partnership Failure Modes"
 tags: [partnership, failure, communication, gottman, relationships, erosion]
-related: [[partnership-anatomy]], [[creative-partnership]], [[failure-modes]]
+related:
+- partnership-anatomy
+- creative-partnership
+- failure-modes
 updated: 2026-05-07
 ---
-
 # Partnership Failure Modes
 
 Most partnerships don't explode — they erode. Understanding failure patterns is as important as understanding success patterns, because the damage is silent and cumulative.

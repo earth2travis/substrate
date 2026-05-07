@@ -1,10 +1,14 @@
 ---
 title: "PDCA: The Scientific Method in Organizational Clothing"
 tags: [lean, operations, methodology, systems-thinking, improvement]
-related: [[kaizen]], [[toyota-production-system]], [[five-whys]], [[a3-thinking]], [[kanban-doctrine]]
+related:
+- kaizen
+- toyota-production-system
+- five-whys
+- a3-thinking
+- kanban-doctrine
 source: research/raw/pdca-cycle.md
 ---
-
 # PDCA: The Scientific Method in Organizational Clothing
 
 ## Summary

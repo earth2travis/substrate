@@ -1,11 +1,13 @@
 ---
 title: "Herdr: The Agent Multiplexer"
 tags: [finding, herdr, tmux, agent-orchestration, terminal, cli]
-related: [[agent-native-operations]], [[subagent-architecture]], [[multi-agent-coordination-patterns]]
+related:
+- agent-native-operations
+- subagent-architecture
+- multi-agent-coordination-patterns
 source: research/raw/herdr-agent-multiplexer.md
 ingested: 2026-05-07
 ---
-
 # Herdr: The Agent Multiplexer
 
 Herdr is a lightweight, Rust-based agent multiplexer that provides "tmux for agents": persistent sessions, workspaces, and agent-aware state management without GUI or Electron overhead.

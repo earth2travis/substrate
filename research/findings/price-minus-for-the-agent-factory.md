@@ -1,11 +1,13 @@
 ---
 title: "Price-Minus for the Agent Factory"
 tags: [finding, lean, agent-factory, pricing, value-engineering, economics]
-related: [[lean-doctrine]], [[skills-as-portable-knowledge]], [[production-paradigms]]
+related:
+- lean-doctrine
+- skills-as-portable-knowledge
+- production-paradigms
 source: research/raw/price-minus-for-the-agent-factory.md
 ingested: 2026-05-07
 ---
-
 # Price-Minus for the Agent Factory
 
 Price-Minus (starting from market value and working backward to cost) versus Cost-Plus (adding up costs and hoping for margin) is the difference between lean and bloated AI service design.

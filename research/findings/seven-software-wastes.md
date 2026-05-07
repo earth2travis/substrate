@@ -1,10 +1,14 @@
 ---
 title: "Seven Software Wastes"
 tags: [lean, waste, software-development, efficiency, process]
-related: [[lean-production]], [[lean-software-development]], [[dora-metrics]], [[lean-startup]], [[llm-wiki-pattern]]
+related:
+- lean-production
+- lean-software-development
+- dora-metrics
+- lean-startup
+- llm-wiki-pattern
 source: research/raw/seven-software-wastes.md
 ---
-
 # Seven Software Wastes
 
 ## Summary

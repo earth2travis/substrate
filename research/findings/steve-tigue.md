@@ -1,12 +1,20 @@
 ---
-title: "Steve Tigue: OpenClaw Creator and Agent Pioneer"
-tags: [person, agents, openclaw, hermes-agent, skills]
+title: 'Steve Tigue: OpenClaw Creator and Agent Pioneer'
+tags:
+- person
+- agents
+- openclaw
+- hermes-agent
+- skills
 related:
-  - [[the-openclaw-lesson]]
-  - [[agent-native-operations]]
-  - [[skills-as-portable-knowledge]]
+- the-openclaw-lesson
+- agent-native-operations
+- skills-as-portable-knowledge
 source: research/raw/steve-tigue.md
 ---
+
+
+
 
 # Steve Tigue: OpenClaw Creator and Agent Pioneer
 

@@ -1,10 +1,14 @@
 ---
 title: "Heijunka"
 tags: [concept, lean, scheduling, toyota, agent-factory, mura]
-related: [[toyota-production-system]], [[lean-doctrine]], [[kanban-doctrine]], [[just-in-time]], [[agent-native-operations]]
+related:
+- toyota-production-system
+- lean-doctrine
+- kanban-doctrine
+- just-in-time
+- agent-native-operations
 source: research/findings/heijunka-for-agent-orchestration.md
 ---
-
 # Heijunka
 
 ## Definition

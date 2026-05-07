@@ -1,7 +1,26 @@
 ---
 title: "Centaur Principle"
+related:
+- brain-fry-research
+- genre-overview
+- george-hotz-gastown-computer-use
+- mitch-hedberg
+- brain-fry
+---
+
+---
+title: "Centaur Principle"
 tags: [concept, collaboration, process, human-ai, strategy]
-related: [[agent-native-operations]], [[agent-factory-production-system]], [[human-ai-collaboration]], [[context-stack]], [[protocol-as-coordination]], [[agent-orchestrator-pattern]], [[proof-of-work]], [[workspace-isolation]], [[automation-leverage]]
+related:
+- agent-native-operations
+- agent-factory-production-system
+- human-ai-collaboration
+- context-stack
+- protocol-as-coordination
+- agent-orchestrator-pattern
+- proof-of-work
+- workspace-isolation
+- automation-leverage
 ---
 
 # Centaur Principle

@@ -1,10 +1,13 @@
 ---
 title: "Paperclip Patterns Worth Adopting for Synthweave"
 tags: [patterns, agent-ops, paperclip, synthweave, orchestration]
-related: [[workflows-landscape]], [[agent-native-operations]], [[dark-factory]], [[harness-engineering]]
+related:
+- workflows-landscape
+- agent-native-operations
+- dark-factory
+- harness-engineering
 source: research/raw/paperclip-patterns-worth-adopting-for-synthweave.md
 ---
-
 # Paperclip Patterns Worth Adopting for Synthweave
 
 ## Summary

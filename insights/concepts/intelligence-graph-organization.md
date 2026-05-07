@@ -1,10 +1,17 @@
 ---
 title: "Intelligence Graph Organization"
 tags: [concept, organization, ai-coordination, hierarchy, intelligence-graph, context]
-related: [[mission-command]], [[agent-native-operations]], [[context-stack]], [[creative-partnership]], [[protocol-as-coordination]], [[progressive-autonomy]], [[block-hierarchy-to-intelligence]], [[mckinsey-7s-framework-insights]]
+related:
+- mission-command
+- agent-native-operations
+- context-stack
+- creative-partnership
+- protocol-as-coordination
+- progressive-autonomy
+- block-hierarchy-to-intelligence
+- mckinsey-7s-framework-insights
 source: insights/concepts/intelligence-graph-organization.md
 ---
-
 # Intelligence Graph Organization
 
 ## Thesis

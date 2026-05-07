@@ -1,14 +1,23 @@
 ---
-title: "Synthesis vs. Retrieval: The Scavenger Hunt vs. The Library"
-tags: [agents, knowledge, rag, synthesis, context, memory]
+title: 'Synthesis vs. Retrieval: The Scavenger Hunt vs. The Library'
+tags:
+- agents
+- knowledge
+- rag
+- synthesis
+- context
+- memory
 related:
-  - [[rag-vs-wiki]]
-  - [[agent-memory]]
-  - [[karpathy-llm-knowledge-bases]]
-  - [[automation-leverage]]
-  - [[synthesis-over-retrieval]]
+- rag-vs-wiki
+- agent-memory
+- karpathy-llm-knowledge-bases
+- automation-leverage
+- synthesis-over-retrieval
 source: research/raw/synthesis-vs-retrieval-paradigm.md
 ---
+
+
+
 
 # Synthesis vs. Retrieval: The Scavenger Hunt vs. The Library
 

@@ -1,10 +1,13 @@
 ---
 title: "Anthropic Interviewer: Insights for Us"
 tags: [anthropic, ai-research, context-stack, agent-factory, conscience, partnership]
-related: [[anthropic-interviewer-81k-study]], [[probe-deeper-pattern]], [[agent-native-operations]], [[partnership-anatomy]]
+related:
+- anthropic-interviewer-81k-study
+- probe-deeper-pattern
+- agent-native-operations
+- partnership-anatomy
 source: research/raw/anthropic-interviewer-for-us.md
 ---
-
 # Anthropic Interviewer: Insights for Us
 
 ## Insight 1: The Interviewer IS a Context Stack Product

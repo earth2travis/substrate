@@ -1,12 +1,20 @@
 ---
-title: "Prompt Caching: Deep Research"
-tags: [agents, performance, cost, caching, infrastructure]
+title: 'Prompt Caching: Deep Research'
+tags:
+- agents
+- performance
+- cost
+- caching
+- infrastructure
 related:
-  - [[agent-native-operations]]
-  - [[harness-engineering]]
-  - [[proof-of-work]]
+- agent-native-operations
+- harness-engineering
+- proof-of-work
 source: research/raw/prompt-caching.md
 ---
+
+
+
 
 # Prompt Caching: Deep Research
 

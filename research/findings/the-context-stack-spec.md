@@ -1,14 +1,22 @@
 ---
-title: "The Context Stack: A Universal Specification for Agent Identity"
-tags: [context-engineering, agent-identity, knowledge-architecture, agentic-architecture, specification]
+title: 'The Context Stack: A Universal Specification for Agent Identity'
+tags:
+- context-engineering
+- agent-identity
+- knowledge-architecture
+- agentic-architecture
+- specification
 related:
-  - [[interchangeable-context]]
-  - [[context-stack-as-conscience]]
-  - [[context-stack-observations]]
-  - [[memory-systems]]
-  - [[agent-identity]]
+- interchangeable-context
+- context-stack-as-conscience
+- context-stack-observations
+- memory-systems
+- agent-identity
 source: research/raw/the-context-stack-spec.md
 ---
+
+
+
 
 # The Context Stack: A Universal Specification for Agent Identity
 

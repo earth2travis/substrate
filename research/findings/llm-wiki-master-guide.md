@@ -5,6 +5,7 @@ related: [rag-vs-wiki, llm-wiki-pattern, knowledge-graphs-as-agent-memory-substr
 source: "Community compilation, April 2026"
 ---
 
+
 # LLM Wiki Master Guide: Karpathy's Pattern and Implementations
 
 ## Summary

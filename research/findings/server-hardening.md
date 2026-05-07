@@ -1,10 +1,13 @@
 ---
 title: "Server Hardening Checklist"
 tags: [security, server, hardening, ssh, firewall, docker, systemd, ops]
-related: [[agent-security]], [[open-source-governance]], [[github-as-knowledge-graph]], [[lean-doctrine]]
+related:
+- agent-security
+- open-source-governance
+- github-as-knowledge-graph
+- lean-doctrine
 source: research/raw/server-hardening.md
 ---
-
 # Server Hardening Checklist
 
 Server: Hetzner CPX11, Ubuntu 24.04, Ashburn VA.

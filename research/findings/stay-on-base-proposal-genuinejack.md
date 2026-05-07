@@ -1,10 +1,15 @@
 ---
 title: "Stay On Base: Community Governance and Cultural Substrate"
 tags: [community, governance, farcaster, base, culture, dao, token]
-related: [[farcaster-protocol]], [[neynar-platform]], [[memetics-as-engineered-cultural-transmission]], [[process-philosophy]], [[lean-doctrine]], [[decentralized-social]]
+related:
+- farcaster-protocol
+- neynar-platform
+- memetics-as-engineered-cultural-transmission
+- process-philosophy
+- lean-doctrine
+- decentralized-social
 source: research/raw/stay-on-base-proposal-genuinejack.md
 ---
-
 # Stay On Base: Community Governance and Cultural Substrate
 
 ## Summary

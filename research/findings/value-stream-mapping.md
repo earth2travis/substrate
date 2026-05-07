@@ -1,10 +1,14 @@
 ---
 title: "Value Stream Mapping: Seeing the Whole"
 tags: [lean, vsm, process-improvement, waste, toyota, diagnostics]
-related: [[lean-doctrine]], [[toyota-production-system]], [[kaizen]], [[production-systems-compared]], [[just-in-time]]
+related:
+- lean-doctrine
+- toyota-production-system
+- kaizen
+- production-systems-compared
+- just-in-time
 source: research/raw/value-stream-mapping.md
 ---
-
 # Value Stream Mapping: Seeing the Whole
 
 ## Summary

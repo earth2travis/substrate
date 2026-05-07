@@ -1,10 +1,13 @@
 ---
 title: "Alfred North Whitehead: Mathematician of Process"
 tags: [philosophy, process-philosophy, ontology, person]
-related: [[actual-occasions]], [[prehension]], [[concrescence]], [[process-without-substance]]
+related:
+- actual-occasions
+- prehension
+- concrescence
+- process-without-substance
 source: research/raw/alfred-north-whitehead.md
 ---
-
 # Alfred North Whitehead: Mathematician of Process
 
 ## Summary

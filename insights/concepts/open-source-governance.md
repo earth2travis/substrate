@@ -1,10 +1,13 @@
 ---
 title: "Open Source Governance"
 tags: [open-source, governance, philosophy, repository, community, history]
-related: [[open-source-best-practices]], [[github-as-knowledge-graph]], [[toyota-production-system]], [[lean-doctrine]]
+related:
+- open-source-best-practices
+- github-as-knowledge-graph
+- toyota-production-system
+- lean-doctrine
 updated: 2026-05-07
 ---
-
 # Open Source Governance
 
 Open source is not just a development methodology. It is a philosophy, a political act, and a governance experiment. Understanding its history and models is essential for anyone building in the open.

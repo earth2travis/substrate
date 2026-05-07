@@ -5,6 +5,7 @@ related: [github-as-memory, project-board-configuration, github-capabilities-aud
 source: research/raw/figma-github-projects-plugin.md
 ---
 
+
 # Figma + GitHub Projects v2 Plugin: Research Findings
 
 ## Summary

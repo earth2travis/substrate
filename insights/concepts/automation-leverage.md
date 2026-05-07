@@ -1,15 +1,23 @@
 ---
-title: "Automation Leverage"
-tags: [agents, startups, automation, compound-startup, operations]
+title: Automation Leverage
+tags:
+- agents
+- startups
+- automation
+- compound-startup
+- operations
 related:
-  - [[centaur-principle]]
-  - [[institutional-ai-redesign]]
-  - [[agent-native-operations]]
-  - [[harness-engineering]]
-  - [[creative-partnership]]
-  - [[the-openclaw-lesson]]
+- centaur-principle
+- institutional-ai-redesign
+- agent-native-operations
+- harness-engineering
+- creative-partnership
+- the-openclaw-lesson
 source: research/findings/the-new-way-to-build-a-startup.md
 ---
+
+
+
 
 # Automation Leverage
 

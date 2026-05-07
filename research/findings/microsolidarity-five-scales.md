@@ -1,10 +1,12 @@
 ---
 title: "Microsolidarity: Five Scales of Group Organization"
 tags: [microsolidarity, organization, community, crew, belonging, social-physics]
-related: [[auftragstaktik-mission-command]], [[teams-best-practices-1]], [[jack-dorsey-from-hierarchy-to-intelligence]]
+related:
+- auftragstaktik-mission-command
+- teams-best-practices-1
+- jack-dorsey-from-hierarchy-to-intelligence
 source: research/raw/microsolidarity-five-scales.md
 ---
-
 # Microsolidarity: Five Scales of Group Organization
 
 Source: Richard D. Bartlett's microsolidarity framework. Provides academic/practitioner backing for the intuition that small, tight units outperform large hierarchical ones for creative and coordination work.

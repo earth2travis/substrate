@@ -1,10 +1,14 @@
 ---
 title: "Gilles Deleuze (1925–1995)"
 tags: [philosophy, person, process-philosophy, ontology]
-related: [[henri-bergson]], [[becoming]], [[rhizome]], [[virtual-and-actual]], [[process-philosophy]]
+related:
+- henri-bergson
+- becoming
+- rhizome
+- virtual-and-actual
+- process-philosophy
 source: research/raw/gilles-deleuze.md
 ---
-
 # Gilles Deleuze (1925–1995)
 
 ## Summary

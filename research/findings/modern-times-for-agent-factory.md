@@ -1,11 +1,14 @@
 ---
 title: "Modern Times and the Agent Factory"
 tags: [finding, agent-factory, brain-fry, conscience, 996, automation]
-related: [[agent-native-operations]], [[context-stack]], [[dark-factory]], [[conscience]]
+related:
+- agent-native-operations
+- context-stack
+- dark-factory
+- conscience
 source: research/raw/modern-times-for-agent-factory.md
 ingested: 2026-05-07
 ---
-
 # Modern Times and the Agent Factory
 
 Chaplin's Modern Times (1936) and the contemporary "Four Crises" (brain fry, 996 work culture, AI-related dread, permanent underclass anxiety) illuminate a structural problem that agent architectures must solve: systems that optimize for output without accounting for human cost.

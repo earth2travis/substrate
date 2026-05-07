@@ -1,10 +1,16 @@
 ---
 title: "Chief Engineer System"
 tags: [concept, manufacturing, toyota, integration, orchestration, leadership]
-related: [[toyota-production-system]], [[obeya]], [[harness-engineering]], [[symphony-orchestrator]], [[dark-factory]], [[lean-doctrine]], [[lean-production]]
+related:
+- toyota-production-system
+- obeya
+- harness-engineering
+- symphony-orchestrator
+- dark-factory
+- lean-doctrine
+- lean-production
 source: research/findings/chief-engineer-system.md
 ---
-
 # Chief Engineer System
 
 ## Definition

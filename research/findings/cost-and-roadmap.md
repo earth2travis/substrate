@@ -1,14 +1,22 @@
 ---
-title: "GitHub Team Plan: Cost and Roadmap for an Agent Factory"
-tags: [github, agents, infrastructure, cost, roadmap]
+title: 'GitHub Team Plan: Cost and Roadmap for an Agent Factory'
+tags:
+- github
+- agents
+- infrastructure
+- cost
+- roadmap
 related:
-  - [[github-as-knowledge-graph]]
-  - [[agent-native-operations]]
-  - [[workflow-as-contract]]
-  - [[deployment-governance]]
-  - [[plan-comparison]]
+- github-as-knowledge-graph
+- agent-native-operations
+- workflow-as-contract
+- deployment-governance
+- plan-comparison
 source: research/raw/cost-and-roadmap.md
 ---
+
+
+
 
 # GitHub Team Plan: Cost and Roadmap for an Agent Factory
 

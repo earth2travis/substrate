@@ -1,11 +1,13 @@
 ---
 title: "Conscience: A Deep Research Survey"
 tags: [finding, philosophy, neuroscience, conscience, agent-ethics, context-stack]
-related: [[agent-memory]], [[context-stack]], [[agent-native-operations]]
+related:
+- agent-memory
+- context-stack
+- agent-native-operations
 source: research/raw/conscience.md
 ingested: 2026-05-07
 ---
-
 # Conscience: A Deep Research Survey
 
 Conscience is not a feeling. It is an architecture. Synthesizing philosophy, neuroscience, and contemplative traditions reveals five structural components that can be implemented in agent systems.

@@ -1,7 +1,24 @@
 ---
 title: "GitHub as Knowledge Graph"
+related:
+- github-capabilities-audit
+- github-project-management-overview
+---
+
+---
+title: "GitHub as Knowledge Graph"
 tags: [github, knowledge-graph, institutional-memory, agent, operations]
-related: [[github-as-memory]], [[github-knowledge-graph-second-brain]], [[github-issues-best-practices]], [[github-practices]], [[github-project-best-practices]], [[agent-native-operations]], [[harness-engineering]], [[kanban-doctrine]], [[deployment-governance]], [[living-project-graph]]
+related:
+- github-as-memory
+- github-knowledge-graph-second-brain
+- github-issues-best-practices
+- github-practices
+- github-project-best-practices
+- agent-native-operations
+- harness-engineering
+- kanban-doctrine
+- deployment-governance
+- living-project-graph
 source: research/findings/github-as-memory.md
 ---
 
@@ -48,3 +65,8 @@ The Kanban doctrine's "Issue First" rule and closure discipline directly support
 - [[agent-native-operations]] — Tools designed for AI-human partnership
 - [[harness-engineering]] — Agent-first development methodology
 - [[kanban-doctrine]] — Auftragstaktik mapped to agent operations
+
+- [[feature-deep-dives-2]]
+- [[github-project-management-overview]]
+- [[teams-best-practices-1]]
+- [[origins-and-evolution]]

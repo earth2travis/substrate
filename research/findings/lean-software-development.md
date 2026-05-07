@@ -1,10 +1,15 @@
 ---
 title: "Lean Software Development: From Factory Floor to Codebase"
 tags: [lean, development, operations, agile, software]
-related: [[lean-production]], [[toyota-production-system]], [[continuous-delivery]], [[dora-metrics]], [[seven-software-wastes]], [[llm-wiki-pattern]]
+related:
+- lean-production
+- toyota-production-system
+- continuous-delivery
+- dora-metrics
+- seven-software-wastes
+- llm-wiki-pattern
 source: research/raw/lean-software-development.md
 ---
-
 # Lean Software Development: From Factory Floor to Codebase
 
 ## Summary

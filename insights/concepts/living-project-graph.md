@@ -1,19 +1,31 @@
 ---
-title: "Living Project Graph"
+title: Living Project Graph
 created: 2026-05-01
 updated: 2026-05-07
 type: concept
-tags: [project-graph, knowledge-graph, event-sourcing, digital-twin, observed-state, synthweave]
+tags:
+- project-graph
+- knowledge-graph
+- event-sourcing
+- digital-twin
+- observed-state
+- synthweave
 related:
-  - [[github-as-knowledge-graph]]
-  - [[rag-vs-wiki]]
-  - [[agent-orchestrator-pattern]]
-  - [[context-persistence]]
-  - [[duration-and-living-time]]
-source: |
-  Derived from research for Synthweave planning tool exploration, February 2026.
+- github-as-knowledge-graph
+- rag-vs-wiki
+- agent-orchestrator-pattern
+- context-persistence
+- duration-and-living-time
+source: 'Derived from research for Synthweave planning tool exploration, February
+  2026.
+
   See research/findings/living-project-graph.md for full detail.
+
+  '
 ---
+
+
+
 
 # Living Project Graph
 

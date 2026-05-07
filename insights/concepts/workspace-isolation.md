@@ -1,12 +1,19 @@
 ---
-title: "Workspace Isolation"
-tags: ["agents", "concurrency", "infrastructure", "git", "safety"]
+title: Workspace Isolation
+tags:
+- agents
+- concurrency
+- infrastructure
+- git
+- safety
 related:
-  - "[[agent-native-operations]]"
-  - "[[agent-orchestrator-pattern]]"
-  - "[[agent-factory-production-system]]"
-  - "[[agent-platform-ecosystem]]"
+- agent-native-operations
+- agent-orchestrator-pattern
+- agent-factory-production-system
+- agent-platform-ecosystem
 ---
+
+
 
 # Workspace Isolation
 

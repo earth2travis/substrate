@@ -1,14 +1,23 @@
 ---
-title: "Per-Run Learning"
-tags: [agents, learning, self-improvement, feedback-loops, workflows, memory]
+title: Per-Run Learning
+tags:
+- agents
+- learning
+- self-improvement
+- feedback-loops
+- workflows
+- memory
 related:
-  - [[feedback-loop-discipline]]
-  - [[agent-memory]]
-  - [[harness-engineering]]
-  - [[proof-of-work]]
-  - [[synthesis-over-retrieval]]
+- feedback-loop-discipline
+- agent-memory
+- harness-engineering
+- proof-of-work
+- synthesis-over-retrieval
 source: research/findings/learning-md-spec.md
 ---
+
+
+
 
 # Per-Run Learning
 

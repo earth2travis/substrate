@@ -1,10 +1,13 @@
 ---
 title: "OpenClaw Platform: Deep Research Report"
 tags: [openclaw, agent, platform, history, security, migration]
-related: [[openclaw]], [[hermes-agent]], [[clawhavoc-security-crisis]], [[nous-research]]
+related:
+- openclaw
+- hermes-agent
+- clawhavoc-security-crisis
+- nous-research
 source: research/raw/openclaw-report.md
 ---
-
 # OpenClaw Platform: Deep Research Report
 
 ## Summary

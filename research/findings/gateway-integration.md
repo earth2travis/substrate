@@ -1,14 +1,21 @@
 ---
-title: "Paperclip ↔ OpenClaw Gateway Integration"
-source: "research/raw/gateway-integration.md"
-tags: ["openclaw", "paperclip", "gateway", "integration", "mcp"]
+title: Paperclip ↔ OpenClaw Gateway Integration
+source: research/raw/gateway-integration.md
+tags:
+- openclaw
+- paperclip
+- gateway
+- integration
+- mcp
 related:
-  - "[[agent-native-operations]]"
-  - "[[agent-platform-ecosystem]]"
-  - "[[the-openclaw-lesson]]"
-  - "[[loom-overview]]"
-  - "[[symphony-mapping]]"
+- agent-native-operations
+- agent-platform-ecosystem
+- the-openclaw-lesson
+- loom-overview
+- symphony-mapping
 ---
+
+
 
 # Paperclip ↔ OpenClaw Gateway Integration
 

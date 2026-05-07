@@ -1,10 +1,14 @@
 ---
 title: "Chief Engineer System (Shusa)"
 tags: [manufacturing, leadership, organizational, toyota, integration]
-related: [[toyota-production-system]], [[obeya]], [[harness-engineering]], [[symphony-orchestrator]], [[dark-factory]]
+related:
+- toyota-production-system
+- obeya
+- harness-engineering
+- symphony-orchestrator
+- dark-factory
 source: research/raw/chief-engineer-system.md
 ---
-
 # Chief Engineer System (Shusa)
 
 ## Summary

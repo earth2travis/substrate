@@ -1,10 +1,11 @@
 ---
 title: "Religion and Spirituality: How the World's Traditions Understand the Soul"
 tags: [religion, soul, spirituality, consciousness, comparative-religion]
-related: [[science-consciousness]], [[art-literature]]
+related:
+- science-consciousness
+- art-literature
 source: research/raw/religion-spirituality.md
 ---
-
 # Religion and Spirituality: How the World's Traditions Understand the Soul
 
 A survey of how major world traditions have understood the soul, from divine breath to radical no-self.

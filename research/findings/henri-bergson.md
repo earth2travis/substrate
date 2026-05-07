@@ -1,10 +1,14 @@
 ---
 title: "Henri Bergson (1859–1941)"
 tags: [philosophy, person, process-philosophy, ontology]
-related: [[duration-duree]], [[elan-vital]], [[intuition-vs-intellect]], [[gilles-deleuze]], [[process-philosophy]]
+related:
+- duration-duree
+- elan-vital
+- intuition-vs-intellect
+- gilles-deleuze
+- process-philosophy
 source: research/raw/henri-bergson.md
 ---
-
 # Henri Bergson (1859–1941)
 
 ## Summary

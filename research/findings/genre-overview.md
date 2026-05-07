@@ -1,12 +1,21 @@
 ---
-title: "Cyberpunk 101: Genre Origins and Core Ingredients"
-tags: [cyberpunk, genre, science-fiction, culture, technology, critique]
+title: 'Cyberpunk 101: Genre Origins and Core Ingredients'
+tags:
+- cyberpunk
+- genre
+- science-fiction
+- culture
+- technology
+- critique
 related:
-  - [[simulacra-and-hyperreality]]
-  - [[protocol-as-coordination]]
-  - [[deleuzian-becoming]]
-source: "Video transcript, Cyberpunk 101 series episode 1"
+- simulacra-and-hyperreality
+- protocol-as-coordination
+- deleuzian-becoming
+source: Video transcript, Cyberpunk 101 series episode 1
 ---
+
+
+
 
 # Cyberpunk 101: Genre Origins and Core Ingredients
 

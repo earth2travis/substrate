@@ -1,11 +1,13 @@
 ---
 title: "RAG vs LLM Wiki"
 tags: [finding, comparison, memory, rag, wiki, knowledge-management]
-related: [[agent-memory]], [[context-stack]], [[llm-wiki-pattern]]
+related:
+- agent-memory
+- context-stack
+- llm-wiki-pattern
 source: research/raw/rag-vs-wiki.md
 ingested: 2026-05-07
 ---
-
 # RAG vs LLM Wiki
 
 Comparison between traditional retrieval-augmented generation (RAG) and the persistent wiki approach to knowledge management for agents.

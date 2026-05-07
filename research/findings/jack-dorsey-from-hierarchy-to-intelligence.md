@@ -1,10 +1,14 @@
 ---
 title: "Jack Dorsey: From Hierarchy to Intelligence"
 tags: [organization, ai, management, jack-dorsey, block, hierarchy, intelligence-graph]
-related: [[block-hierarchy-to-intelligence]], [[auftragstaktik-mission-command]], [[mckinsey-7s-framework-insights]], [[mission-command]], [[intelligence-graph-organization]]
+related:
+- block-hierarchy-to-intelligence
+- auftragstaktik-mission-command
+- mckinsey-7s-framework-insights
+- mission-command
+- intelligence-graph-organization
 source: research/raw/jack-dorsey-from-hierarchy-to-intelligence.md
 ---
-
 # Jack Dorsey: From Hierarchy to Intelligence
 
 Jack Dorsey (Block, Twitter) argues that the traditional hierarchy, a 2,000-year-old invention for managing human-scale information flow, is becoming obsolete. In an AI-native world, the durable structure is a flat, intelligence-centric model where AI acts as the central nervous system.

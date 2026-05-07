@@ -1,10 +1,11 @@
 ---
 title: "Agent Company Articles: Patterns Worth Adopting"
 tags: [agents, memory, patterns, operations]
-related: [[agent-skills-as-onboarding]], [[agent-evaluation]]
+related:
+- agent-skills-as-onboarding
+- agent-evaluation
 source: research/raw/agent-company-articles.md
 ---
-
 # Agent Company Articles: Patterns Worth Adopting
 
 ## Summary

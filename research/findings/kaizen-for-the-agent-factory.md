@@ -1,11 +1,13 @@
 ---
 title: "Kaizen for the Agent Factory"
 tags: [finding, lean, agent-factory, kaizen, continuous-improvement, muda]
-related: [[kaizen]], [[lean-doctrine]], [[context-stack]]
+related:
+- kaizen
+- lean-doctrine
+- context-stack
 source: research/raw/kaizen-for-the-agent-factory.md
 ingested: 2026-05-07
 ---
-
 # Kaizen for the Agent Factory
 
 Kaizen (continuous improvement) is not a program but a survival strategy for an accelerating intelligence landscape. Applied to agent operations, it becomes a machine-readable discipline.

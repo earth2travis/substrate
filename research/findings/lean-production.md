@@ -1,10 +1,15 @@
 ---
 title: "Lean Production: Eliminating Waste, Maximizing Value"
 tags: [lean, manufacturing, operations, tps, systems]
-related: [[toyota-production-system]], [[just-in-time]], [[jidoka]], [[kaizen]], [[mass-production]], [[craft-production]]
+related:
+- toyota-production-system
+- just-in-time
+- jidoka
+- kaizen
+- mass-production
+- craft-production
 source: research/raw/lean-production.md
 ---
-
 # Lean Production: Eliminating Waste, Maximizing Value
 
 ## Summary

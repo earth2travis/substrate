@@ -5,6 +5,7 @@ related: [openclaw, agent-native-operations, skills-as-portable-knowledge, progr
 source: "Research notes from April 11, 2026"
 ---
 
+
 # Coding vs. Research: The OpenClaw vs. Hermes Divide
 
 ## Summary

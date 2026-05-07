@@ -1,11 +1,19 @@
 ---
-title: "Sticker Printing Research"
-tags: [creative, printing, stickers, vendors, design]
+title: Sticker Printing Research
+tags:
+- creative
+- printing
+- stickers
+- vendors
+- design
 related:
-  - [[creative-partnership]]
-  - [[agent-native-operations]]
-source: "Research compiled February 8, 2026"
+- creative-partnership
+- agent-native-operations
+source: Research compiled February 8, 2026
 ---
+
+
+
 
 # Sticker Printing Research
 

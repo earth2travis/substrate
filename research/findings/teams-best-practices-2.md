@@ -1,10 +1,12 @@
 ---
 title: "GitHub Teams Best Practices Part 2: Security, Scaling, and Agentic Patterns"
 tags: [github, teams, security, agents, scaling, automation, permissions]
-related: [[teams-best-practices-1]], [[microsolidarity-five-scales]], [[big-lab-approaches]]
+related:
+- teams-best-practices-1
+- microsolidarity-five-scales
+- big-lab-approaches
 source: research/raw/teams-best-practices-2.md
 ---
-
 # GitHub Teams Best Practices Part 2: Security, Scaling, and Agentic Patterns
 
 ## Team Maintainers vs Members

@@ -1,10 +1,13 @@
 ---
 title: "Jidoka: Autonomation as Quality Stop-Line"
 tags: [lean, tps, quality, operations, manufacturing]
-related: [[toyota-production-system]], [[just-in-time]], [[taiichi-ohno]], [[dark-factory]]
+related:
+- toyota-production-system
+- just-in-time
+- taiichi-ohno
+- dark-factory
 source: research/raw/jidoka.md
 ---
-
 # Jidoka: Autonomation as Quality Stop-Line
 
 ## Summary

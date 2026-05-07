@@ -1,10 +1,15 @@
 ---
 title: "Duration and Living Time"
 tags: [concept, philosophy, time, process-philosophy, bergson]
-related: [[henri-bergson]], [[duration-duree]], [[elan-vital]], [[intuition-vs-intellect]], [[process-philosophy]], [[becoming]]
+related:
+- henri-bergson
+- duration-duree
+- elan-vital
+- intuition-vs-intellect
+- process-philosophy
+- becoming
 source: research/findings/duration-duree.md
 ---
-
 # Duration and Living Time
 
 ## Definition

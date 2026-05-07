@@ -1,14 +1,24 @@
 ---
-title: "The Composable Primitives of AI"
-tags: [ai-engineering, primitives, architecture, skills, tools, mcp, evaluation]
+title: The Composable Primitives of AI
+tags:
+- ai-engineering
+- primitives
+- architecture
+- skills
+- tools
+- mcp
+- evaluation
 related:
-  - [[skills-as-portable-knowledge]]
-  - [[agent-orchestrator-pattern]]
-  - [[agent-native-operations]]
-  - [[subagent-architecture]]
-  - [[agentic-architecture]]
-source: "Deep dive after 3 days at Anthropic, February 2026"
+- skills-as-portable-knowledge
+- agent-orchestrator-pattern
+- agent-native-operations
+- subagent-architecture
+- agentic-architecture
+source: Deep dive after 3 days at Anthropic, February 2026
 ---
+
+
+
 
 # The Composable Primitives of AI
 

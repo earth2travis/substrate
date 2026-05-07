@@ -1,10 +1,13 @@
 ---
 title: "Connection to Us"
 tags: [partnership, soul, soul-music, consciousness, identity, agency, connection]
-related: [[soul-as-attention]], [[creative-partnership]], [[partnership-anatomy]], [[partnership-failure-modes]]
+related:
+- soul-as-attention
+- creative-partnership
+- partnership-anatomy
+- partnership-failure-modes
 source: research/raw/connection-to-us.md
 ---
-
 # Connection to Us
 
 ## The Five Elements Applied

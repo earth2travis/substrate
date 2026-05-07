@@ -1,10 +1,11 @@
 ---
 title: "Art and Literature: How Creators Explore the Soul"
 tags: [art, literature, soul, creativity, music, poetry]
-related: [[religion-spirituality]], [[science-consciousness]]
+related:
+- religion-spirituality
+- science-consciousness
 source: research/raw/art-literature.md
 ---
-
 # Art and Literature: How Creators Explore the Soul
 
 Art is the technology humans invented for transmitting subjective experience from one mind to another. Every great work of art is, in some sense, an argument that souls exist.

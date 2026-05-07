@@ -1,15 +1,23 @@
 ---
-title: "28 Painful Mistakes Building Agent Systems (Kloss)"
-tags: [agent-systems, operations, reliability, lessons-learned, enforcement]
+title: 28 Painful Mistakes Building Agent Systems (Kloss)
+tags:
+- agent-systems
+- operations
+- reliability
+- lessons-learned
+- enforcement
 related:
-  - [[agent-native-operations]]
-  - [[context-persistence]]
-  - [[kanban-doctrine]]
-  - [[lean-doctrine]]
-  - [[feedback-loop-discipline]]
-  - [[harness-engineering]]
-source: "[@kloss_xyz](https://x.com/kloss_xyz/status/2032011756890177552) March 2026"
+- agent-native-operations
+- context-persistence
+- kanban-doctrine
+- lean-doctrine
+- feedback-loop-discipline
+- harness-engineering
+source: '[@kloss_xyz](https://x.com/kloss_xyz/status/2032011756890177552) March 2026'
 ---
+
+
+
 
 # 28 Painful Mistakes Building Agent Systems
 

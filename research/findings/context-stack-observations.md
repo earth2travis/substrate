@@ -1,14 +1,22 @@
 ---
-title: "Context Stack Observations: Spec Development Log"
-tags: [context-engineering, agent-identity, specification, development-log, knowledge-architecture]
+title: 'Context Stack Observations: Spec Development Log'
+tags:
+- context-engineering
+- agent-identity
+- specification
+- development-log
+- knowledge-architecture
 related:
-  - [[the-context-stack-spec]]
-  - [[interchangeable-context]]
-  - [[context-stack-as-conscience]]
-  - [[memory-systems]]
-  - [[agent-identity]]
+- the-context-stack-spec
+- interchangeable-context
+- context-stack-as-conscience
+- memory-systems
+- agent-identity
 source: research/raw/context-stack-observations.md
 ---
+
+
+
 
 # Context Stack Observations: Spec Development Log
 

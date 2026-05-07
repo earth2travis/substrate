@@ -1,10 +1,14 @@
 ---
 title: "DORA Metrics"
 tags: [devops, metrics, measurement, software-delivery, lean]
-related: [[continuous-delivery]], [[devops]], [[lean-software-development]], [[lean-production]], [[seven-software-wastes]]
+related:
+- continuous-delivery
+- devops
+- lean-software-development
+- lean-production
+- seven-software-wastes
 source: research/raw/dora-metrics.md
 ---
-
 # DORA Metrics
 
 ## Summary

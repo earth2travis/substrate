@@ -4,6 +4,7 @@ tags: [concept, governance, deployment, github]
 related: [github-as-knowledge-graph, workflow-as-contract, agent-native-operations, agent-factory-production-system, kanban-doctrine]
 ---
 
+
 # Deployment Governance
 
 ## Definition

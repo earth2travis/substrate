@@ -1,10 +1,13 @@
 ---
 title: "Craft Production"
 tags: [manufacturing, history, production, craft]
-related: [[mass-production]], [[lean-production]], [[mass-customization]], [[toyota-production-system]]
+related:
+- mass-production
+- lean-production
+- mass-customization
+- toyota-production-system
 source: research/raw/craft-production.md
 ---
-
 # Craft Production
 
 ## Summary

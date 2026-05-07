@@ -1,10 +1,13 @@
 ---
 title: "Hermes Agent Deployment Guide"
 tags: [hermes-agent, deployment, infrastructure, configuration, migration]
-related: [[hermes-agent]], [[openclaw]], [[nous-research]], [[cloudflare-first-agent-factory]]
+related:
+- hermes-agent
+- openclaw
+- nous-research
+- cloudflare-first-agent-factory
 source: research/raw/hermes-deployment-guide.md
 ---
-
 # Hermes Agent Deployment Guide
 
 ## Summary

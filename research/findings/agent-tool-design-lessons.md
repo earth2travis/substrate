@@ -1,10 +1,12 @@
 ---
 title: "Tool Design Lessons from Claude Code: Cognitive Ergonomics for Agents"
 tags: [agent, tools, design, claude-code, progressive-disclosure, ergonomics]
-related: [[agentic-architecture]], [[agent-identity]], [[agent-skills-as-onboarding]]
+related:
+- agentic-architecture
+- agent-identity
+- agent-skills-as-onboarding
 source: research/raw/agent-tool-design-lessons.md
 ---
-
 # Tool Design Lessons from Claude Code: Cognitive Ergonomics for Agents
 
 ## Core Thesis

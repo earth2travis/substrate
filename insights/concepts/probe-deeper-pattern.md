@@ -1,10 +1,13 @@
 ---
 title: "Probe Deeper Pattern"
 tags: [concept, methodology, user-research, anthropic, agent, interview, needs]
-related: [[anthropic-interviewer-81k-study]], [[cognitive-modes-from-gstack]], [[agent-native-operations]], [[centaur-principle]]
+related:
+- anthropic-interviewer-81k-study
+- cognitive-modes-from-gstack
+- agent-native-operations
+- centaur-principle
 updated: 2026-05-07
 ---
-
 # Probe Deeper Pattern
 
 The most revealing finding from Anthropic's 81K study wasn't any single data point. It was the interview technique: when someone said "I want AI for productivity," the Interviewer asked what that would enable. Productivity dissolved into time with family, financial freedom, personal growth. The surface answer was never the real answer.

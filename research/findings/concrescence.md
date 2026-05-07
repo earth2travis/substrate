@@ -1,10 +1,13 @@
 ---
 title: "Concrescence: The Process of Becoming"
 tags: [philosophy, process-philosophy, ontology, whitehead]
-related: [[alfred-north-whitehead]], [[actual-occasions]], [[prehension]], [[process-without-substance]]
+related:
+- alfred-north-whitehead
+- actual-occasions
+- prehension
+- process-without-substance
 source: research/raw/concrescence.md
 ---
-
 # Concrescence: The Process of Becoming
 
 ## Summary

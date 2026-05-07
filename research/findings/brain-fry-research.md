@@ -1,11 +1,13 @@
 ---
 title: "AI Brain Fry and Cognitive Impact"
 tags: [finding, cognition, brain-fry, ai-health, cognitive-debt]
-related: [[agent-native-operations]], [[conscience]], [[context-stack]]
+related:
+- agent-native-operations
+- conscience
+- context-stack
 source: research/raw/brain-fry-research.md
 ingested: 2026-05-07
 ---
-
 # AI Brain Fry and Cognitive Impact
 
 A 2026 BCG survey of 1,488 US workers found that 14% of AI-using workers report acute cognitive overload ("brain fry"). Three major studies converge on a consistent finding: AI changes the nature of knowledge work in ways that demand intentional workflow design.

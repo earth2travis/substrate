@@ -1,10 +1,14 @@
 ---
 title: "Emptiness and Dependent Origination"
 tags: [concept, philosophy, buddhism, ontology, process-philosophy]
-related: [[nagarjuna]], [[sunyata-emptiness]], [[dependent-origination]], [[process-philosophy]], [[process-without-substance]]
+related:
+- nagarjuna
+- sunyata-emptiness
+- dependent-origination
+- process-philosophy
+- process-without-substance
 source: research/findings/nagarjuna.md
 ---
-
 # Emptiness and Dependent Origination
 
 ## Definition

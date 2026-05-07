@@ -1,10 +1,12 @@
 ---
 title: "Fishbone Diagrams: Cause and Effect Made Visible"
 tags: [fishbone, ishikawa, root-cause-analysis, quality, visualization, methodology]
-related: [[5-whys]], [[kaizen-and-continuous-improvement]], [[the-five-whys-root-cause-analysis]]
+related:
+- 5-whys
+- kaizen-and-continuous-improvement
+- the-five-whys-root-cause-analysis
 source: research/raw/fishbone-diagrams.md
 ---
-
 # Fishbone Diagrams: Cause and Effect Made Visible
 
 Created by Kaoru Ishikawa in the 1960s at Kawasaki shipyards, the fishbone diagram maps potential causes of a problem across categories. It became one of the Seven Basic Tools of Quality — selected because they are visual, practical, and usable without advanced statistical training.

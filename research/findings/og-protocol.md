@@ -1,11 +1,17 @@
 ---
-title: "Open Graph Protocol Implementation Research"
-source: "research/raw/og-protocol.md"
-tags: ["open-graph", "meta-tags", "social-sharing", "web"]
+title: Open Graph Protocol Implementation Research
+source: research/raw/og-protocol.md
+tags:
+- open-graph
+- meta-tags
+- social-sharing
+- web
 related:
-  - "[[design-system-as-code]]"
-  - "[[roundtrip-workflow]]"
+- design-system-as-code
+- roundtrip-workflow
 ---
+
+
 
 # Open Graph Protocol Implementation Research
 

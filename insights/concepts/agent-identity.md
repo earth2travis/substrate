@@ -1,7 +1,24 @@
 ---
 title: "Agent Identity: Values, Trust, and the SOUL.md Pattern"
+related:
+- agent-identity-is-a-philosophical-question
+- ai-machine-soul
+- five-elements
+- implications-for-us
+- connection-to-us
+---
+
+---
+title: "Agent Identity: Values, Trust, and the SOUL.md Pattern"
 tags: [concept, agent, identity, persona, trust, soul]
-related: [[agent-security]], [[progressive-disclosure]], [[agentic-architecture]], [[context-stack]], [[agent-memory]], [[conscience]], [[constitutional-governance]]
+related:
+- agent-security
+- progressive-disclosure
+- agentic-architecture
+- context-stack
+- agent-memory
+- conscience
+- constitutional-governance
 source: research/findings/agent-identity.md
 ---
 

@@ -1,10 +1,13 @@
 ---
 title: "Mass Production"
 tags: [manufacturing, history, production, fordism]
-related: [[craft-production]], [[lean-production]], [[henry-ford]], [[scientific-management]]
+related:
+- craft-production
+- lean-production
+- henry-ford
+- scientific-management
 source: research/raw/mass-production.md
 ---
-
 # Mass Production
 
 ## Summary

@@ -1,10 +1,13 @@
 ---
 title: "Composio Analysis: Auth Management and Tool Integration"
 tags: [tools, auth, oauth, integrations, agent-platform]
-related: [[tools-landscape]], [[agent-native-operations]], [[the-openclaw-lesson]], [[cloudflare-first-agent-factory]]
+related:
+- tools-landscape
+- agent-native-operations
+- the-openclaw-lesson
+- cloudflare-first-agent-factory
 source: research/raw/composio-analysis.md
 ---
-
 # Composio Analysis: Auth Management and Tool Integration
 
 ## Summary

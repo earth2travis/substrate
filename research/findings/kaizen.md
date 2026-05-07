@@ -1,10 +1,13 @@
 ---
 title: "Kaizen: Continuous Improvement as Culture"
 tags: [lean, tps, operations, culture, manufacturing]
-related: [[toyota-production-system]], [[lean-production]], [[taiichi-ohno]], [[pdca-cycle]]
+related:
+- toyota-production-system
+- lean-production
+- taiichi-ohno
+- pdca-cycle
 source: research/raw/kaizen.md
 ---
-
 # Kaizen: Continuous Improvement as Culture
 
 ## Summary

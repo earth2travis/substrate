@@ -1,11 +1,14 @@
 ---
 title: "Operations Agent: Implementation Plan"
 tags: [finding, ops-agent, implementation, multi-agent, cron, monitoring]
-related: [[agent-native-operations]], [[agent-memory]], [[context-stack]], [[subagent-architecture]]
+related:
+- agent-native-operations
+- agent-memory
+- context-stack
+- subagent-architecture
 source: research/raw/ops-agent-implementation.md
 ingested: 2026-05-07
 ---
-
 # Operations Agent: Implementation Plan
 
 The decision to create the first specialist agent (Ops), based on six weeks of operational data showing a pattern: Sivart is strong at vision and weak at operational follow-through.

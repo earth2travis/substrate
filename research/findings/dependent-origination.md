@@ -1,10 +1,13 @@
 ---
 title: "Dependent Origination (Pratityasamutpada)"
 tags: [philosophy, buddhism, ontology, process-philosophy]
-related: [[nagarjuna]], [[sunyata-emptiness]], [[process-philosophy]], [[process-without-substance]]
+related:
+- nagarjuna
+- sunyata-emptiness
+- process-philosophy
+- process-without-substance
 source: research/raw/dependent-origination.md
 ---
-
 # Dependent Origination (Pratityasamutpada)
 
 ## Summary

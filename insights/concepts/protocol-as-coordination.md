@@ -1,15 +1,21 @@
 ---
-title: "Protocol as Coordination"
-tags: ["protocol", "coordination", "infrastructure", "systems"]
+title: Protocol as Coordination
+tags:
+- protocol
+- coordination
+- infrastructure
+- systems
 related:
-  - "[[agent-native-operations]]"
-  - "[[centaur-principle]]"
-  - "[[creative-partnership]]"
-  - "[[github-as-knowledge-graph]]"
-  - "[[workflow-as-contract]]"
-  - "[[mission-command]]"
-  - "[[intelligence-graph-organization]]"
+- agent-native-operations
+- centaur-principle
+- creative-partnership
+- github-as-knowledge-graph
+- workflow-as-contract
+- mission-command
+- intelligence-graph-organization
 ---
+
+
 
 # Protocol as Coordination
 

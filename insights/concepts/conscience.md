@@ -1,10 +1,14 @@
 ---
 title: "Conscience"
 tags: [concept, philosophy, ethics, agent-design, context-stack]
-related: [[agent-memory]], [[context-stack]], [[agent-native-operations]], [[agent-identity]], [[agentic-architecture]]
+related:
+- agent-memory
+- context-stack
+- agent-native-operations
+- agent-identity
+- agentic-architecture
 source: research/findings/conscience.md
 ---
-
 # Conscience
 
 ## Definition

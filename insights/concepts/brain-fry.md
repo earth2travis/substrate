@@ -1,13 +1,22 @@
 ---
-title: "Brain Fry"
-tags: [concept, agents, psychology, work, overload, health]
+title: Brain Fry
+tags:
+- concept
+- agents
+- psychology
+- work
+- overload
+- health
 related:
-  - [[creative-partnership]]
-  - [[centaur-principle]]
-  - [[agent-native-operations]]
-  - [[automation-leverage]]
+- creative-partnership
+- centaur-principle
+- agent-native-operations
+- automation-leverage
 source: research/findings/modern-times-four-crises.md
 ---
+
+
+
 
 # Brain Fry
 

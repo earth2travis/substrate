@@ -1,12 +1,20 @@
 ---
-title: "Qwen 3.6 Plus Evaluation Report"
-tags: [models, evaluation, agents, conscience, context]
+title: Qwen 3.6 Plus Evaluation Report
+tags:
+- models
+- evaluation
+- agents
+- conscience
+- context
 related:
-  - [[agent-native-operations]]
-  - [[context-stack]]
-  - [[agent-memory]]
+- agent-native-operations
+- context-stack
+- agent-memory
 source: research/raw/qwen-evaluation.md
 ---
+
+
+
 
 # Qwen 3.6 Plus Evaluation Report
 

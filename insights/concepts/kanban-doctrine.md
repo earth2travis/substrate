@@ -1,10 +1,21 @@
 ---
 title: "Kanban Doctrine: Auftragstaktik as Operating System"
 tags: [concept, kanban, auftragstaktik, mission-command, operations, multi-agent]
-related: [[toyota-production-system]], [[a3-thinking]], [[taiichi-ohno]], [[kanban-vs-delegate-task]], [[kanban-metadata-rules]], [[agent-native-operations]], [[centaur-principle]], [[institutional-ai-redesign]], [[subagent-architecture]], [[multi-agent-coordination-patterns]], [[progressive-autonomy]], [[deployment-governance]]
+related:
+- toyota-production-system
+- a3-thinking
+- taiichi-ohno
+- kanban-vs-delegate-task
+- kanban-metadata-rules
+- agent-native-operations
+- centaur-principle
+- institutional-ai-redesign
+- subagent-architecture
+- multi-agent-coordination-patterns
+- progressive-autonomy
+- deployment-governance
 source: research/raw/auftragstaktik-mission-command.md
 ---
-
 # Kanban Doctrine: Auftragstaktik as Operating System
 
 ## Summary

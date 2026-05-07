@@ -1,10 +1,12 @@
 ---
 title: "Agent Evaluation: Beyond Benchmarks"
 tags: [agent, evaluation, metrics, benchmark, measurement]
-related: [[agentic-architecture]], [[agent-security]], [[progressive-disclosure]]
+related:
+- agentic-architecture
+- agent-security
+- progressive-disclosure
 source: research/raw/agent-evaluation.md
 ---
-
 # Agent Evaluation: Beyond Benchmarks
 
 ## The Measurement Problem

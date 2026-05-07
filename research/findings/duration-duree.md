@@ -1,10 +1,14 @@
 ---
 title: "Duration (Durée)"
 tags: [philosophy, time, process-philosophy, concept, bergson]
-related: [[henri-bergson]], [[intuition-vs-intellect]], [[elan-vital]], [[process-philosophy]], [[becoming]]
+related:
+- henri-bergson
+- intuition-vs-intellect
+- elan-vital
+- process-philosophy
+- becoming
 source: research/raw/duration-duree.md
 ---
-
 # Duration (Durée)
 
 ## Summary

@@ -1,12 +1,19 @@
 ---
-title: "Prompt Injection Defenses"
-tags: [security, agents, prompt-injection, llm]
+title: Prompt Injection Defenses
+tags:
+- security
+- agents
+- prompt-injection
+- llm
 related:
-  - [[agent-security]]
-  - [[agent-native-operations]]
-  - [[agent-tool-permissions]]
+- agent-security
+- agent-native-operations
+- agent-tool-permissions
 source: research/raw/prompt-injection-defenses.md
 ---
+
+
+
 
 # Prompt Injection Defenses
 

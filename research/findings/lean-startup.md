@@ -1,10 +1,14 @@
 ---
 title: "Lean Startup"
 tags: [startup, product, validation, lean, experimentation]
-related: [[lean-production]], [[lean-software-development]], [[seven-software-wastes]], [[kaizen]], [[just-in-time]]
+related:
+- lean-production
+- lean-software-development
+- seven-software-wastes
+- kaizen
+- just-in-time
 source: research/raw/lean-startup.md
 ---
-
 # Lean Startup
 
 ## Summary

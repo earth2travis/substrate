@@ -1,14 +1,22 @@
 ---
-title: "Nagarjuna's Mulamadhyamakakarika: Emptiness as Dependent Origination"
-tags: [philosophy, buddhism, ontology, emptiness, madhyamaka]
+title: 'Nagarjuna''s Mulamadhyamakakarika: Emptiness as Dependent Origination'
+tags:
+- philosophy
+- buddhism
+- ontology
+- emptiness
+- madhyamaka
 related:
-  - [[nagarjuna]]
-  - [[sunyata-emptiness]]
-  - [[dependent-origination]]
-  - [[process-philosophy]]
-  - [[process-without-substance]]
+- nagarjuna
+- sunyata-emptiness
+- dependent-origination
+- process-philosophy
+- process-without-substance
 source: research/raw/nagarjuna-mulamadhyamakakarika-sunyata.md
 ---
+
+
+
 
 # Nagarjuna's Mulamadhyamakakarika: Emptiness as Dependent Origination
 

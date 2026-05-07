@@ -1,12 +1,21 @@
 ---
-title: "Modern Times: Four Crises of the AI Worker"
-tags: [agents, work, psychology, burnout, society, culture]
+title: 'Modern Times: Four Crises of the AI Worker'
+tags:
+- agents
+- work
+- psychology
+- burnout
+- society
+- culture
 related:
-  - [[creative-partnership]]
-  - [[centaur-principle]]
-  - [[agent-native-operations]]
+- creative-partnership
+- centaur-principle
+- agent-native-operations
 source: research/raw/modern-times-four-crises.md
 ---
+
+
+
 
 # Modern Times: Four Crises of the AI Worker
 

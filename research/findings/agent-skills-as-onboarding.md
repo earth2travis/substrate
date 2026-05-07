@@ -1,10 +1,12 @@
 ---
 title: "Skills as Onboarding: The Workspace Meta-Skill"
 tags: [agent, skills, onboarding, workspace, productivity, loom]
-related: [[agentic-architecture]], [[agent-identity]], [[progressive-disclosure]]
+related:
+- agentic-architecture
+- agent-identity
+- progressive-disclosure
 source: research/raw/agent-skills-as-onboarding.md
 ---
-
 # Skills as Onboarding: The Workspace Meta-Skill
 
 ## The Pattern: Skills First, Docs Second

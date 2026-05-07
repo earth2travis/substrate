@@ -1,10 +1,13 @@
 ---
 title: "Spec-Driven Development"
 tags: [spec-driven, development, agent, contract, harness-engineering, dark-factory]
-related: [[harness-engineering]], [[lean-software-delivery]], [[dark-factory]], [[github-as-knowledge-graph]]
+related:
+- harness-engineering
+- lean-software-delivery
+- dark-factory
+- github-as-knowledge-graph
 source: research/raw/spec-driven-development.md
 ---
-
 # Spec-Driven Development
 
 Distribution and assembly of software via specifications that coding agents can interpret and reassemble. The spec becomes the contract, and agents iteratively close the gap between spec and implementation.

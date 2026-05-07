@@ -1,10 +1,13 @@
 ---
 title: "Karpathy: makemore and Neural Networks from Scratch"
 tags: [neural-networks, karpathy, backpropagation, micrograd, deep-learning, education]
-related: [[agent-memory]], [[context-stack]], [[per-run-learning]], [[synthesis-over-retrieval]]
+related:
+- agent-memory
+- context-stack
+- per-run-learning
+- synthesis-over-retrieval
 source: research/raw/karpathy-makemore-neural-networks-from-scratch.md
 ---
-
 # Karpathy: makemore and Neural Networks from Scratch
 
 Andrej Karpathy's "makemore" series builds neural networks from a blank Jupyter notebook. Starting with `micrograd` — a tiny automatic differentiation engine — he constructs and trains multi-layer perceptrons.

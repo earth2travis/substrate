@@ -1,10 +1,13 @@
 ---
 title: "Open Source: History, Philosophy, and Best Practices"
 tags: [open-source, governance, github, history, philosophy, repository-management]
-related: [[open-source-governance]], [[github-as-knowledge-graph]], [[toyota-production-system]], [[lean-doctrine]]
+related:
+- open-source-governance
+- github-as-knowledge-graph
+- toyota-production-system
+- lean-doctrine
 source: research/raw/open-source-best-practices.md
 ---
-
 # Open Source: History, Philosophy, and Best Practices
 
 ## Part 1: History

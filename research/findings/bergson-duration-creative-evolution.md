@@ -1,14 +1,22 @@
 ---
-title: "Bergson's Duration and Creative Evolution: Time as Living Process"
-tags: [philosophy, process-philosophy, duration, time, creativity]
+title: 'Bergson''s Duration and Creative Evolution: Time as Living Process'
+tags:
+- philosophy
+- process-philosophy
+- duration
+- time
+- creativity
 related:
-  - [[henri-bergson]]
-  - [[duration-duree]]
-  - [[elan-vital]]
-  - [[process-philosophy]]
-  - [[intuition-vs-intellect]]
+- henri-bergson
+- duration-duree
+- elan-vital
+- process-philosophy
+- intuition-vs-intellect
 source: research/raw/bergson-duration-creative-evolution.md
 ---
+
+
+
 
 # Bergson's Duration and Creative Evolution: Time as Living Process
 

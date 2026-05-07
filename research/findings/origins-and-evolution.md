@@ -1,17 +1,27 @@
 ---
-title: "Origins and Evolution of Project Management and Issue Tracking"
-tags: [project-management, history, kanban, agile, lean, waterfall, github]
+title: Origins and Evolution of Project Management and Issue Tracking
+tags:
+- project-management
+- history
+- kanban
+- agile
+- lean
+- waterfall
+- github
 related:
-  - [[kanban-doctrine]]
-  - [[toyota-production-system]]
-  - [[lean-doctrine]]
-  - [[pdca-cycle]]
-  - [[value-stream-mapping]]
-  - [[five-whys]]
-  - [[fishbone-diagrams]]
-  - [[a3-thinking]]
-source: "Capstone research, completed 2026-02-28"
+- kanban-doctrine
+- toyota-production-system
+- lean-doctrine
+- pdca-cycle
+- value-stream-mapping
+- five-whys
+- fishbone-diagrams
+- a3-thinking
+source: Capstone research, completed 2026-02-28
 ---
+
+
+
 
 # Origins and Evolution of Project Management and Issue Tracking
 

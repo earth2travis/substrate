@@ -1,10 +1,12 @@
 ---
 title: "Cloudflare Queues: Decoupling Layer for Agent Systems"
 tags: [cloudflare, queues, agents, architecture, reliability, cost-optimization]
-related: [[cloudflare-ai-gateway-observability]], [[cloudflare-workers-ai-edge-inference]], [[lean-doctrine]]
+related:
+- cloudflare-ai-gateway-observability
+- cloudflare-workers-ai-edge-inference
+- lean-doctrine
 source: research/raw/cloudflare-queues-decoupling-layer.md
 ---
-
 # Cloudflare Queues: Decoupling Layer for Agent Systems
 
 ## Summary

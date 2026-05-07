@@ -1,10 +1,14 @@
 ---
 title: "Toyota Factory Planning: From Groundbreaking to First Vehicle"
 tags: [lean, toyota, manufacturing, tps, construction, pilot-production]
-related: [[toyota-production-system]], [[lean-doctrine]], [[craft-mass-lean-production]], [[production-systems-compared]], [[kaizen]]
+related:
+- toyota-production-system
+- lean-doctrine
+- craft-mass-lean-production
+- production-systems-compared
+- kaizen
 source: research/raw/toyota-factory-planning.md
 ---
-
 # Toyota Factory Planning: From Groundbreaking to First Vehicle
 
 ## Summary

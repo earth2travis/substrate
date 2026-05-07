@@ -1,10 +1,12 @@
 ---
 title: "Synthweave MCP Server and Data Model Analysis"
 tags: [synthweave, mcp, agents, data-model, architecture, api]
-related: [[harness-engineering]], [[lean-software-delivery]], [[codex]]
+related:
+- harness-engineering
+- lean-software-delivery
+- codex
 source: research/raw/synthweave-mcp-analysis.md
 ---
-
 # Synthweave MCP Server and Data Model Analysis
 
 ## Summary

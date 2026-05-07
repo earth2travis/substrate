@@ -5,6 +5,7 @@ related: [skills-as-portable-knowledge, agent-native-operations, design-system-a
 source: "Official Figma presentation by Jake, 2026-04-01"
 ---
 
+
 # Figma Dev Mode + MCP: Official Presentation
 
 ## Summary

@@ -1,10 +1,12 @@
 ---
 title: "Cloudflare AI Gateway: Multivendor Observability and Control"
 tags: [cloudflare, ai-gateway, observability, cost-control, proxy, agents]
-related: [[cloudflare-ai-platform-inference-layer]], [[lean-software-delivery]], [[harness-engineering]]
+related:
+- cloudflare-ai-platform-inference-layer
+- lean-software-delivery
+- harness-engineering
 source: research/raw/cloudflare-ai-gateway-observability.md
 ---
-
 # Cloudflare AI Gateway: Multivendor Observability and Control
 
 ## Summary

@@ -1,10 +1,13 @@
 ---
 title: "Elixir and the BEAM VM"
 tags: [elixir, beam, erlang, actor-model, concurrency, fault-tolerance, multi-agent]
-related: [[agent-orchestrator-pattern]], [[multi-agent-coordination-patterns]], [[symphony-orchestrator]], [[dark-factory]]
+related:
+- agent-orchestrator-pattern
+- multi-agent-coordination-patterns
+- symphony-orchestrator
+- dark-factory
 source: research/raw/elixir-beam.md
 ---
-
 # Elixir and the BEAM VM
 
 Elixir is a functional, concurrent programming language that runs on the BEAM virtual machine (the Erlang VM). Designed for distributed, fault-tolerant, soft real-time systems.

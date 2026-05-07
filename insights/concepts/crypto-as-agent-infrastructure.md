@@ -1,10 +1,13 @@
 ---
 title: "Crypto as Agent Infrastructure"
 tags: [concept, crypto, agents, property-rights, economic-agency, autonomy, infrastructure]
-related: [[crypto-as-property-rights]], [[agent-payment-infrastructure]], [[agent-platform-ecosystem]], [[automation-leverage]]
+related:
+- crypto-as-property-rights
+- agent-payment-infrastructure
+- agent-platform-ecosystem
+- automation-leverage
 updated: 2026-05-07
 ---
-
 # Crypto as Agent Infrastructure
 
 **Crypto is to agents what property rights were to capitalism.** Not the energy source. Not the machines. The legal fiction that made the whole thing work. The thing that turned raw capability into an economy.

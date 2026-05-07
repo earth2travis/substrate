@@ -5,6 +5,7 @@ related: [github-as-memory, agent-native-operations, memory-systems, project-boa
 source: research/raw/github-knowledge-graph-second-brain.md
 ---
 
+
 # GitHub usage, knowledge graphs, and second brain
 
 ## Summary

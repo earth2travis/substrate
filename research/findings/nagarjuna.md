@@ -1,10 +1,13 @@
 ---
 title: "Nagarjuna (c. 150–250 CE)"
 tags: [philosophy, buddhism, person, ontology]
-related: [[sunyata-emptiness]], [[dependent-origination]], [[process-philosophy]], [[process-without-substance]]
+related:
+- sunyata-emptiness
+- dependent-origination
+- process-philosophy
+- process-without-substance
 source: research/raw/nagarjuna.md
 ---
-
 # Nagarjuna (c. 150–250 CE)
 
 ## Summary

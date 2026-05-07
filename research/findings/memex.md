@@ -1,11 +1,13 @@
 ---
 title: "Memex"
 tags: [finding, history, memory, hypertext, knowledge-graph]
-related: [[agent-memory]], [[knowledge-graphs-as-agent-memory-substrate]], [[llm-wiki-pattern]]
+related:
+- agent-memory
+- knowledge-graphs-as-agent-memory-substrate
+- llm-wiki-pattern
 source: research/raw/memex.md
 ingested: 2026-05-07
 ---
-
 # Memex
 
 Vannevar Bush's 1945 concept of a mechanized personal library: a desk-like device storing all books, records, and communications, linking related items through associative trails.

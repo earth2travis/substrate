@@ -1,13 +1,21 @@
 ---
-title: "Mission Critical Evals at Scale"
-tags: [evals, agents, healthcare, safety, scaling]
+title: Mission Critical Evals at Scale
+tags:
+- evals
+- agents
+- healthcare
+- safety
+- scaling
 related:
-  - [[proof-of-work]]
-  - [[agent-native-operations]]
-  - [[harness-engineering]]
-  - [[reference-free-evaluation]]
+- proof-of-work
+- agent-native-operations
+- harness-engineering
+- reference-free-evaluation
 source: research/raw/mission-critical-evals-at-scale.md
 ---
+
+
+
 
 # Mission Critical Evals at Scale
 

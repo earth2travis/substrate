@@ -1,13 +1,21 @@
 ---
-title: "Google Stitch: Premium Results Strategy"
-tags: [design, agents, stitch, design-systems, creative-direction]
+title: 'Google Stitch: Premium Results Strategy'
+tags:
+- design
+- agents
+- stitch
+- design-systems
+- creative-direction
 related:
-  - [[design-system-as-code]]
-  - [[roundtrip-workflow]]
-  - [[skills-as-portable-knowledge]]
-  - [[creative-partnership]]
+- design-system-as-code
+- roundtrip-workflow
+- skills-as-portable-knowledge
+- creative-partnership
 source: research/raw/premium-results-strategy.md
 ---
+
+
+
 
 # Google Stitch: Premium Results Strategy
 

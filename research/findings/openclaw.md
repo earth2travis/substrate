@@ -1,10 +1,14 @@
 ---
 title: "OpenClaw: Rise, Crisis, and Migration to Hermes"
 tags: [agent, platform, security, history, tooling]
-related: [[hermes-agent]], [[clawhavoc-security-crisis]], [[steve-tigue]], [[nous-research]], [[the-openclaw-lesson]]
+related:
+- hermes-agent
+- clawhavoc-security-crisis
+- steve-tigue
+- nous-research
+- the-openclaw-lesson
 source: research/raw/openclaw.md
 ---
-
 # OpenClaw: Rise, Crisis, and Migration to Hermes
 
 ## Summary

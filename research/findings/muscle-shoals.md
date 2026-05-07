@@ -1,12 +1,21 @@
 ---
-title: "Muscle Shoals: The Unlikely Epicenter of Soul Music"
-tags: [music, culture, soul, history, partnerships, creativity]
+title: 'Muscle Shoals: The Unlikely Epicenter of Soul Music'
+tags:
+- music
+- culture
+- soul
+- history
+- partnerships
+- creativity
 related:
-  - [[origins-and-meaning]]
-  - [[creative-partnership]]
-  - [[universal-principles]]
+- origins-and-meaning
+- creative-partnership
+- universal-principles
 source: research/raw/muscle-shoals.md
 ---
+
+
+
 
 # Muscle Shoals: The Unlikely Epicenter of Soul Music
 

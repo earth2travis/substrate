@@ -1,10 +1,13 @@
 ---
 title: "Cyberpunk Research"
 tags: [cyberpunk, genre, fiction, culture, technology, critique]
-related: [[simulacra-and-hyperreality]], [[decentralized-social]], [[dark-factory]], [[protocol-fiction]]
+related:
+- simulacra-and-hyperreality
+- decentralized-social
+- dark-factory
+- protocol-fiction
 source: research/raw/cyberpunk-research.md
 ---
-
 # Cyberpunk Research
 
 **Cyberpunk is foundational, not adjacent.** This genre defines how the Operator sees the world. Neuromancer is his all-time favorite novel. Blade Runner and Snow Crash were formative. Akira and Ghost in the Shell were eye-opening as a teenager.

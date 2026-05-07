@@ -1,11 +1,13 @@
 ---
 title: "OpenAI Frontier"
 tags: [finding, openai, frontier, entity, harness-engineering, dark-factory]
-related: [[harness-engineering]], [[codex]], [[dark-factory]]
+related:
+- harness-engineering
+- codex
+- dark-factory
 source: research/raw/openai-frontier.md
 ingested: 2026-05-07
 ---
-
 # OpenAI Frontier
 
 The Frontier team at OpenAI, led by Ryan Lopopolo, working on the most advanced applications of AI agents. Responsible for harness engineering and dark factory research.

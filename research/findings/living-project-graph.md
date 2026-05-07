@@ -1,13 +1,21 @@
 ---
-title: "Living Project Graph: Dynamic Interconnected Project Structure"
-tags: [project-graph, knowledge-graph, event-sourcing, digital-twin, synthweave]
+title: 'Living Project Graph: Dynamic Interconnected Project Structure'
+tags:
+- project-graph
+- knowledge-graph
+- event-sourcing
+- digital-twin
+- synthweave
 related:
-  - [[github-as-knowledge-graph]]
-  - [[rag-vs-wiki]]
-  - [[agent-orchestrator-pattern]]
-  - [[context-persistence]]
-source: "Research for Synthweave planning tool exploration, February 2026"
+- github-as-knowledge-graph
+- rag-vs-wiki
+- agent-orchestrator-pattern
+- context-persistence
+source: Research for Synthweave planning tool exploration, February 2026
 ---
+
+
+
 
 # Living Project Graph: Dynamic Interconnected Project Structure
 

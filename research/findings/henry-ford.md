@@ -1,10 +1,12 @@
 ---
 title: "Henry Ford: Mass Production Pioneer"
 tags: [person, manufacturing, history, operations]
-related: [[mass-production]], [[lean-production]], [[toyota-production-system]]
+related:
+- mass-production
+- lean-production
+- toyota-production-system
 source: research/raw/henry-ford.md
 ---
-
 # Henry Ford: Mass Production Pioneer
 
 ## Summary

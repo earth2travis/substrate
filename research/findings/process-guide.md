@@ -5,6 +5,7 @@ related: [process-philosophy, a3-thinking, agent-native-operations, centaur-prin
 source: "Practical guide for product designers and researchers"
 ---
 
+
 # Process Guide: Writing UX Research Scenarios
 
 ## Summary

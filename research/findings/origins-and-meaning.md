@@ -1,12 +1,21 @@
 ---
-title: "Soul Music: Origins and Meaning"
-tags: [music, culture, soul, history, authenticity, identity]
+title: 'Soul Music: Origins and Meaning'
+tags:
+- music
+- culture
+- soul
+- history
+- authenticity
+- identity
 related:
-  - [[muscle-shoals]]
-  - [[creative-partnership]]
-  - [[universal-principles]]
+- muscle-shoals
+- creative-partnership
+- universal-principles
 source: research/raw/origins-and-meaning.md
 ---
+
+
+
 
 # Soul Music: Origins and Meaning
 

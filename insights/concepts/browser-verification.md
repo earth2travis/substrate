@@ -1,10 +1,14 @@
 ---
 title: "Browser Verification"
 tags: [concept, verification, browser-automation, testing, skills, agents]
-related: [[playwright-analysis]], [[browser-automation]], [[skills-as-portable-knowledge]], [[agent-native-operations]], [[claude-code-capabilities]]
+related:
+- playwright-analysis
+- browser-automation
+- skills-as-portable-knowledge
+- agent-native-operations
+- claude-code-capabilities
 source: insights/concepts/browser-verification.md
 ---
-
 # Browser Verification
 
 ## Thesis

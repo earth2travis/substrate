@@ -1,11 +1,14 @@
 ---
 title: "Factory AI Droid: Long Session Context Management"
 tags: [finding, context, compression, scaffolding, prompt-caching, agent-ops]
-related: [[agent-memory]], [[context-stack]], [[agent-native-operations]], [[subagent-architecture]]
+related:
+- agent-memory
+- context-stack
+- agent-native-operations
+- subagent-architecture
 source: research/raw/factory-ai-droid-session.md
 ingested: 2026-05-07
 ---
-
 # Factory AI Droid: Long Session Context Management
 
 Factory AI's "Droid" maintained coherent behavior across 7 million token sessions without losing instructions or forgetting the plan. This is how they did it.

@@ -1,10 +1,17 @@
 ---
 title: "Soul as Attention"
 tags: [concept, soul, consciousness, attention, art, philosophy, religion]
-related: [[religion-spirituality]], [[science-consciousness]], [[art-literature]], [[dreams-are-cognitive-maintenance-not-prophecy]], [[hermeticism-spiritual-enlightenment]], [[conscience]], [[creative-partnership]], [[universal-principles]]
+related:
+- religion-spirituality
+- science-consciousness
+- art-literature
+- dreams-are-cognitive-maintenance-not-prophecy
+- hermeticism-spiritual-enlightenment
+- conscience
+- creative-partnership
+- universal-principles
 source: insights/concepts/soul-as-attention.md
 ---
-
 # Soul as Attention
 
 ## Thesis

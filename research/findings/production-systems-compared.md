@@ -1,10 +1,14 @@
 ---
 title: "Production Systems Compared: Craft, Mass, and Lean"
 tags: [lean, manufacturing, history, production, tps, comparison]
-related: [[craft-mass-lean-production]], [[production-paradigms]], [[lean-doctrine]], [[toyota-production-system]], [[toyota-factory-planning]]
+related:
+- craft-mass-lean-production
+- production-paradigms
+- lean-doctrine
+- toyota-production-system
+- toyota-factory-planning
 source: research/raw/production-systems-compared.md
 ---
-
 # Production Systems Compared: Craft, Mass, and Lean
 
 ## Summary

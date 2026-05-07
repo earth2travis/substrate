@@ -1,19 +1,32 @@
 ---
-title: "Agent Memory: From Flat Files to Structured Continuity"
-tags: [concept, agent-memory, knowledge-graphs, context-engineering, memory-systems]
+title: 'Agent Memory: From Flat Files to Structured Continuity'
+tags:
+- concept
+- agent-memory
+- knowledge-graphs
+- context-engineering
+- memory-systems
 related:
-  - [[context-stack]]
-  - [[agent-identity]]
-  - [[agent-native-operations]]
-  - [[agentic-architecture]]
-  - [[conscience]]
-  - [[rag-vs-wiki]]
-  - [[the-openclaw-lesson]]
-  - [[process-philosophy]]
-  - [[synthesis-over-retrieval]]
-  - [[per-run-learning]]
+- context-stack
+- agent-identity
+- agent-native-operations
+- agentic-architecture
+- conscience
+- rag-vs-wiki
+- the-openclaw-lesson
+- process-philosophy
+- synthesis-over-retrieval
+- per-run-learning
+- gap-analysis-our-memory-vs-obsidian-stack
+- llm-wiki-master-guide
+- memory-is-an-operating-system-for-attention
+- mempalace-code-analysis
 source: research/findings/memory-systems.md
 ---
+
+
+
+
 
 # Agent Memory: From Flat Files to Structured Continuity
 
@@ -73,3 +86,12 @@ The Context Stack IS the memory architecture. SOUL.md is the identity anchor. Th
 - [[agentic-architecture]] — System design for autonomous agents
 - [[the-openclaw-lesson]] — Security as foundational to memory integrity
 - [[process-philosophy]] — Reality as process, not substance
+
+- [[factory-ai-droid-session]]
+- [[ai-sdk-research]]
+- [[agent-evaluation]]
+- [[decision-provenance]]
+- [[memory-systems]]
+- [[mempalace-code-analysis]]
+- [[memory-is-an-operating-system-for-attention]]
+- [[rag-vs-wiki]]

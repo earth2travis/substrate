@@ -1,10 +1,13 @@
 ---
 title: "Taiichi Ohno: Father of Lean Manufacturing"
 tags: [lean, tps, person, operations, manufacturing]
-related: [[toyota-production-system]], [[lean-production]], [[jidoka]], [[kaizen]]
+related:
+- toyota-production-system
+- lean-production
+- jidoka
+- kaizen
 source: research/raw/taiichi-ohno.md
 ---
-
 # Taiichi Ohno: Father of Lean Manufacturing
 
 ## Summary

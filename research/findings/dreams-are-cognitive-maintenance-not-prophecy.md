@@ -1,10 +1,11 @@
 ---
 title: "Dreams as Cognitive Maintenance, Not Prophecy"
 tags: [neuroscience, memory, cognition, sleep, dreams]
-related: [[science-consciousness]], [[religion-spirituality]]
+related:
+- science-consciousness
+- religion-spirituality
 source: research/raw/dreams-are-cognitive-maintenance-not-prophecy.md
 ---
-
 # Dreams as Cognitive Maintenance, Not Prophecy
 
 The sleeping brain is not idle. It processes new memories, consolidates them into long-term storage, and integrates recent information with past experience.

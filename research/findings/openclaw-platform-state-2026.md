@@ -1,10 +1,13 @@
 ---
 title: "OpenClaw Platform State of the Union (April 2026)"
 tags: [openclaw, agents, platform, dreaming, memory, roadmap]
-related: [[openclaw]], [[hermes-agent]], [[clawhavoc-security-crisis]], [[harness-engineering]]
+related:
+- openclaw
+- hermes-agent
+- clawhavoc-security-crisis
+- harness-engineering
 source: research/raw/openclaw-platform-state-2026.md
 ---
-
 # OpenClaw Platform State of the Union (April 2026)
 
 ## Summary

@@ -1,14 +1,20 @@
 ---
-title: "Protocol Fiction"
-source: "research/raw/protocol-fiction.md"
-tags: ["fiction", "protocol", "design-fiction", "narrative"]
+title: Protocol Fiction
+source: research/raw/protocol-fiction.md
+tags:
+- fiction
+- protocol
+- design-fiction
+- narrative
 related:
-  - "[[creative-partnership]]"
-  - "[[agent-native-operations]]"
-  - "[[centaur-principle]]"
-  - "[[what-is-a-protocol]]"
-  - "[[protocol-as-coordination]]"
+- creative-partnership
+- agent-native-operations
+- centaur-principle
+- what-is-a-protocol
+- protocol-as-coordination
 ---
+
+
 
 # Protocol Fiction
 

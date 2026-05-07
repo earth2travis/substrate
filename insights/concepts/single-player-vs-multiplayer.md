@@ -1,10 +1,13 @@
 ---
 title: "Single-Player vs. Multiplayer Agent Architecture"
 tags: [concept, multi-agent, architecture, openclaw, team, collaboration, multiplayer]
-related: [[multi-agent-coordination-patterns]], [[agent-orchestrator-pattern]], [[nex-brainstorm]], [[open-source-governance]]
+related:
+- multi-agent-coordination-patterns
+- agent-orchestrator-pattern
+- nex-brainstorm
+- open-source-governance
 updated: 2026-05-07
 ---
-
 # Single-Player vs. Multiplayer Agent Architecture
 
 Most agent systems are built for one human and one agent. The gap between single-player and multiplayer is structural, not additive.

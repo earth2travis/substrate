@@ -1,10 +1,13 @@
 ---
 title: "Just-in-Time: Pull Production and Its Limits"
 tags: [lean, tps, operations, manufacturing, supply-chain]
-related: [[toyota-production-system]], [[kanban]], [[lean-production]], [[jidoka]]
+related:
+- toyota-production-system
+- kanban
+- lean-production
+- jidoka
 source: research/raw/just-in-time.md
 ---
-
 # Just-in-Time: Pull Production and Its Limits
 
 ## Summary

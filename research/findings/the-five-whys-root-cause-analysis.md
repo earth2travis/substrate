@@ -1,10 +1,12 @@
 ---
 title: "The Five Whys: Compact Root Cause Analysis"
 tags: [root-cause-analysis, five-whys, toyota, lean, methodology]
-related: [[5-whys]], [[kaizen-and-continuous-improvement]], [[fishbone-diagrams]]
+related:
+- 5-whys
+- kaizen-and-continuous-improvement
+- fishbone-diagrams
 source: research/raw/the-five-whys-root-cause-analysis.md
 ---
-
 # The Five Whys: Compact Root Cause Analysis
 
 The Five Whys is a root cause analysis technique developed by Sakichi Toyoda in the 1930s and refined by Taiichi Ohno as a cornerstone of the Toyota Production System. The method involves asking "Why?" repeatedly — typically five times — to move past symptoms and identify the underlying systemic flaw.

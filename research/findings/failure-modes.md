@@ -1,10 +1,12 @@
 ---
 title: "How Partnerships Fail"
 tags: [partnership, failure-modes, communication, gottman, relationships]
-related: [[partnership-anatomy]], [[creative-partnership]], [[marriages-and-relationships]]
+related:
+- partnership-anatomy
+- creative-partnership
+- marriages-and-relationships
 source: research/raw/failure-modes.md
 ---
-
 # How Partnerships Fail
 
 Most partnerships don't explode — they erode. Understanding failure modes is as important as understanding success patterns.

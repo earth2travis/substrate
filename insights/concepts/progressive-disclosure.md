@@ -1,10 +1,12 @@
 ---
 title: "Progressive Disclosure: Context as Architecture"
 tags: [concept, agent, context, skills, design, cognition]
-related: [[agentic-architecture]], [[agent-skills-as-onboarding]], [[agent-identity]]
+related:
+- agentic-architecture
+- agent-skills-as-onboarding
+- agent-identity
 source: research/findings/agent-tool-design-lessons.md
 ---
-
 # Progressive Disclosure: Context as Architecture
 
 ## Overview

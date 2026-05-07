@@ -1,14 +1,22 @@
 ---
-title: "Simulacra and Hyperreality: The Code Generates Reality"
-tags: [philosophy, simulation, hyperreality, media-theory, ontology]
+title: 'Simulacra and Hyperreality: The Code Generates Reality'
+tags:
+- philosophy
+- simulation
+- hyperreality
+- media-theory
+- ontology
 related:
-  - [[jean-baudrillard]]
-  - [[dsjjjj-desiderata]]
-  - [[process-philosophy]]
-  - [[llm-wiki-pattern]]
-  - [[karl-popper]]
+- jean-baudrillard
+- dsjjjj-desiderata
+- process-philosophy
+- llm-wiki-pattern
+- karl-popper
 source: research/raw/simulacra-hyperreality.md
 ---
+
+
+
 
 # Simulacra and Hyperreality: The Code Generates Reality
 

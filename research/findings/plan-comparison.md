@@ -1,13 +1,20 @@
 ---
-title: "GitHub Team Plan Feature Analysis for Agentic Organizations"
-tags: [github, agents, infrastructure, comparison]
+title: GitHub Team Plan Feature Analysis for Agentic Organizations
+tags:
+- github
+- agents
+- infrastructure
+- comparison
 related:
-  - [[github-as-knowledge-graph]]
-  - [[agent-native-operations]]
-  - [[workflow-as-contract]]
-  - [[cost-and-roadmap]]
+- github-as-knowledge-graph
+- agent-native-operations
+- workflow-as-contract
+- cost-and-roadmap
 source: research/raw/plan-comparison.md
 ---
+
+
+
 
 # GitHub Team Plan Feature Analysis for Agentic Organizations
 

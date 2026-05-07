@@ -1,10 +1,14 @@
 ---
 title: "Élan Vital"
 tags: [philosophy, life, process-philosophy, concept, bergson]
-related: [[henri-bergson]], [[duration-duree]], [[intuition-vs-intellect]], [[process-philosophy]], [[becoming]]
+related:
+- henri-bergson
+- duration-duree
+- intuition-vs-intellect
+- process-philosophy
+- becoming
 source: research/raw/elan-vital.md
 ---
-
 # Élan Vital
 
 ## Summary

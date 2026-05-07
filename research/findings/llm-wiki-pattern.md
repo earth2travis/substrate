@@ -1,10 +1,14 @@
 ---
 title: "LLM Wiki Pattern: Persistent Compounding Knowledge Base"
 tags: [agent, memory, knowledge, tools, research]
-related: [[hermes-agent]], [[nous-research]], [[karpathy-llm-knowledge-bases]], [[rag-vs-wiki]], [[memex]]
+related:
+- hermes-agent
+- nous-research
+- karpathy-llm-knowledge-bases
+- rag-vs-wiki
+- memex
 source: research/raw/llm-wiki-pattern.md
 ---
-
 # LLM Wiki Pattern: Persistent Compounding Knowledge Base
 
 ## Summary

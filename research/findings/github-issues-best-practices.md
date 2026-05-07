@@ -5,6 +5,7 @@ related: [github-as-memory, github-project-best-practices, github-capabilities-a
 source: research/raw/github-issues-best-practices.md
 ---
 
+
 # Best Practices: GitHub Issues
 
 ## Summary

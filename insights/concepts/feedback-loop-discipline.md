@@ -1,17 +1,25 @@
 ---
-title: "Feedback Loop Discipline"
-tags: [process, improvement, kaizen, metrics, feedback]
+title: Feedback Loop Discipline
+tags:
+- process
+- improvement
+- kaizen
+- metrics
+- feedback
 related:
-  - [[kanban-doctrine]]
-  - [[lean-doctrine]]
-  - [[kaizen]]
-  - [[toyota-production-system]]
-  - [[proof-of-work]]
-  - [[reference-free-evaluation]]
-  - [[agent-native-operations]]
-  - [[per-run-learning]]
+- kanban-doctrine
+- lean-doctrine
+- kaizen
+- toyota-production-system
+- proof-of-work
+- reference-free-evaluation
+- agent-native-operations
+- per-run-learning
 source: research/findings/continuous-improvement-plan.md
 ---
+
+
+
 
 # Feedback Loop Discipline
 

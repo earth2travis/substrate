@@ -1,9 +1,12 @@
 ---
 title: "Context Compression"
 tags: [concept, context, compression, memory, agent-ops, prompt-caching]
-related: [[agent-memory]], [[context-stack]], [[agent-native-operations]], [[subagent-architecture]]
+related:
+- agent-memory
+- context-stack
+- agent-native-operations
+- subagent-architecture
 ---
-
 # Context Compression
 
 The techniques for preserving agent coherence when context windows exceed optimal thresholds.

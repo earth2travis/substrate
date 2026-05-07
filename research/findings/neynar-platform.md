@@ -1,10 +1,15 @@
 ---
 title: "Neynar Platform: Farcaster Infrastructure Provider"
 tags: [farcaster, infrastructure, api, social, agent, platform]
-related: [[farcaster-protocol]], [[clanker-event-driven-architecture]], [[clanker-agent-deployment-patterns]], [[nous-research]], [[the-openclaw-lesson]], [[decentralized-social]]
+related:
+- farcaster-protocol
+- clanker-event-driven-architecture
+- clanker-agent-deployment-patterns
+- nous-research
+- the-openclaw-lesson
+- decentralized-social
 source: research/raw/neynar-platform.md
 ---
-
 # Neynar Platform: Farcaster Infrastructure Provider
 
 ## Summary

@@ -5,6 +5,7 @@ related: [skills-as-portable-knowledge, agent-native-operations, design-system-a
 source: "YouTube transcript, 2026-03-22"
 ---
 
+
 # design.md: Portable Agent-Readable Design Systems
 
 ## Summary

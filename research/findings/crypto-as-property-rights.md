@@ -1,10 +1,13 @@
 ---
 title: "Crypto Is to Agents What Property Rights Were to Capitalism"
 tags: [crypto, agents, property-rights, economic-agency, autonomy, infrastructure]
-related: [[crypto-as-agent-infrastructure]], [[agent-payment-infrastructure]], [[agent-platform-ecosystem]], [[automation-leverage]]
+related:
+- crypto-as-agent-infrastructure
+- agent-payment-infrastructure
+- agent-platform-ecosystem
+- automation-leverage
 source: research/raw/crypto-as-property-rights.md
 ---
-
 # Crypto Is to Agents What Property Rights Were to Capitalism
 
 **One-liner:** Crypto is to agents what property rights were to capitalism. Not the energy source. Not the machines. The legal fiction that made the whole thing work. The thing that turned raw capability into an economy.

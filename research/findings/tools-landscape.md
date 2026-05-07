@@ -1,10 +1,15 @@
 ---
 title: "Tools Landscape: MCP and Function Calling Across Frameworks"
 tags: [tools, mcp, function-calling, agent-tools, protocols]
-related: [[skills-landscape]], [[workflows-landscape]], [[cloudflare-first-agent-factory]], [[agent-native-operations]], [[the-openclaw-lesson]], [[agent-tool-permissions]]
+related:
+- skills-landscape
+- workflows-landscape
+- cloudflare-first-agent-factory
+- agent-native-operations
+- the-openclaw-lesson
+- agent-tool-permissions
 source: research/raw/tools-landscape.md
 ---
-
 # Tools Landscape: MCP and Function Calling Across Frameworks
 
 ## Summary

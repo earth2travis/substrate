@@ -1,11 +1,13 @@
 ---
 title: "LlamaIndex Workflows: Event-Driven Agent Orchestration"
 tags: [finding, multi-agent, event-driven, orchestration, typescript]
-related: [[agent-native-operations]], [[agent-factory-production-system]], [[kanban-doctrine]]
+related:
+- agent-native-operations
+- agent-factory-production-system
+- kanban-doctrine
 source: research/raw/llamaindex-event-driven-orchestration.md
 ingested: 2026-05-07
 ---
-
 # LlamaIndex Workflows: Event-Driven Agent Orchestration
 
 An event-driven, step-based orchestration framework for AI applications that replaced LlamaIndex's previous DAG-based system. Open source Python.

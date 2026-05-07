@@ -1,11 +1,13 @@
 ---
 title: "ERC-8004: Trustless Agents"
 tags: [finding, ethereum, erc-8004, agent-economy, trust, identity]
-related: [[agent-native-operations]], [[agent-identity]], [[skills-as-portable-knowledge]]
+related:
+- agent-native-operations
+- agent-identity
+- skills-as-portable-knowledge
 source: research/raw/erc-8004-trustless-agents.md
 ingested: 2026-05-07
 ---
-
 # ERC-8004: Trustless Agents
 
 An Ethereum standard proposing three on-chain registries for agent discovery, reputation, and validation. Enables agents to find each other, build reputations, and verify work without pre-existing relationships or centralized intermediaries.

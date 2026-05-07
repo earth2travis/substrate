@@ -1,14 +1,21 @@
 ---
-title: "Machine Payments Protocol (MPP)"
-source: "research/raw/machine-payments-protocol.md"
-tags: ["payments", "protocol", "mcp", "agents", "crypto"]
+title: Machine Payments Protocol (MPP)
+source: research/raw/machine-payments-protocol.md
+tags:
+- payments
+- protocol
+- mcp
+- agents
+- crypto
 related:
-  - "[[agent-platform-ecosystem]]"
-  - "[[agent-native-operations]]"
-  - "[[x402-payment-protocol]]"
-  - "[[agent-payment-infrastructure]]"
-  - "[[protocol-as-coordination]]"
+- agent-platform-ecosystem
+- agent-native-operations
+- x402-payment-protocol
+- agent-payment-infrastructure
+- protocol-as-coordination
 ---
+
+
 
 # Machine Payments Protocol (MPP)
 

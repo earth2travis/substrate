@@ -1,13 +1,26 @@
 ---
-title: "Agent Orchestrator Pattern"
-tags: ["agents", "orchestration", "automation", "github", "workflow"]
+title: Agent Orchestrator Pattern
+tags:
+- agents
+- orchestration
+- automation
+- github
+- workflow
 related:
-  - "[[agent-native-operations]]"
-  - "[[agent-platform-ecosystem]]"
-  - "[[workflow-as-contract]]"
-  - "[[agent-factory-production-system]]"
-  - "[[harness-engineering]]"
+- agent-native-operations
+- agent-platform-ecosystem
+- workflow-as-contract
+- agent-factory-production-system
+- harness-engineering
+- hermes-agent-platform-analysis
+- hermes-agent-report
+- hermes-deployment-guide
+- hermes-kanban-deep-dive
+- hermes-self-evolution
 ---
+
+
+
 
 # Agent Orchestrator Pattern
 

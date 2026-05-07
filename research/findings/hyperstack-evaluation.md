@@ -1,13 +1,21 @@
 ---
-title: "HyperStack: Agent Provenance Graph"
-tags: [agents, knowledge-graph, provenance, security, multi-agent]
+title: 'HyperStack: Agent Provenance Graph'
+tags:
+- agents
+- knowledge-graph
+- provenance
+- security
+- multi-agent
 related:
-  - [[agent-native-operations]]
-  - [[proof-of-work]]
-  - [[decision-provenance]]
-  - [[agent-provenance-graph]]
+- agent-native-operations
+- proof-of-work
+- decision-provenance
+- agent-provenance-graph
 source: research/raw/hyperstack-evaluation.md
 ---
+
+
+
 
 # HyperStack: Agent Provenance Graph
 

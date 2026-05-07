@@ -1,10 +1,14 @@
 ---
 title: "Virtual and Actual (Deleuze)"
 tags: [philosophy, ontology, process-philosophy, concept, deleuze]
-related: [[gilles-deleuze]], [[becoming]], [[prehension]], [[concrescence]], [[process-philosophy]]
+related:
+- gilles-deleuze
+- becoming
+- prehension
+- concrescence
+- process-philosophy
 source: research/raw/virtual-and-actual.md
 ---
-
 # Virtual and Actual (Deleuze)
 
 ## Summary

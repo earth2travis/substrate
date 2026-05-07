@@ -1,14 +1,22 @@
 ---
-title: "MemPalace Spatial Scoping for the Context Stack: Structure as Intelligence"
-tags: [agent-memory, spatial-scoping, context-engineering, knowledge-graphs, memory-systems]
+title: 'MemPalace Spatial Scoping for the Context Stack: Structure as Intelligence'
+tags:
+- agent-memory
+- spatial-scoping
+- context-engineering
+- knowledge-graphs
+- memory-systems
 related:
-  - [[mempalace-analysis]]
-  - [[knowledge-graphs-as-agent-memory-substrate]]
-  - [[the-context-stack-spec]]
-  - [[memory-systems]]
-  - [[context-stack-as-conscience]]
+- mempalace-analysis
+- knowledge-graphs-as-agent-memory-substrate
+- the-context-stack-spec
+- memory-systems
+- context-stack-as-conscience
 source: research/raw/mempalace-spatial-scoping-for-context-stack.md
 ---
+
+
+
 
 # MemPalace Spatial Scoping for the Context Stack: Structure as Intelligence
 

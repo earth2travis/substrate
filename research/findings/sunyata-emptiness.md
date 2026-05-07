@@ -1,10 +1,13 @@
 ---
 title: "Sunyata (Emptiness)"
 tags: [philosophy, buddhism, ontology, process-philosophy, concept]
-related: [[nagarjuna]], [[dependent-origination]], [[process-philosophy]], [[process-without-substance]]
+related:
+- nagarjuna
+- dependent-origination
+- process-philosophy
+- process-without-substance
 source: research/raw/sunyata-emptiness.md
 ---
-
 # Sunyata (Emptiness)
 
 ## Summary

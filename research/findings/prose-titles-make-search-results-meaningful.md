@@ -1,11 +1,19 @@
 ---
-title: "Prose Titles Make Search Results Meaningful"
-tags: [writing, naming, search, knowledge-management, conventions]
+title: Prose Titles Make Search Results Meaningful
+tags:
+- writing
+- naming
+- search
+- knowledge-management
+- conventions
 related:
-  - [[atomic-notes-beat-monolithic-research-files]]
-  - [[karpathy-llm-knowledge-bases]]
+- atomic-notes-beat-monolithic-research-files
+- karpathy-llm-knowledge-bases
 source: research/raw/prose-titles-make-search-results-meaningful.md
 ---
+
+
+
 
 # Prose Titles Make Search Results Meaningful
 

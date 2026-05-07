@@ -5,6 +5,7 @@ related: [skills-as-portable-knowledge, agent-native-operations, browser-automat
 source: "Code analysis and research, February 16-17, 2026"
 ---
 
+
 # Rowboat Analysis: Executive Brief
 
 ## Summary

@@ -1,10 +1,15 @@
 ---
 title: "Becoming (Deleuze)"
 tags: [philosophy, process-philosophy, ontology, concept]
-related: [[gilles-deleuze]], [[duration-duree]], [[rhizome]], [[virtual-and-actual]], [[process-philosophy]], [[dsjjjj-desiderata]]
+related:
+- gilles-deleuze
+- duration-duree
+- rhizome
+- virtual-and-actual
+- process-philosophy
+- dsjjjj-desiderata
 source: research/raw/becoming.md
 ---
-
 # Becoming (Deleuze)
 
 ## Summary

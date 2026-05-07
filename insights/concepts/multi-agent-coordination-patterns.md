@@ -1,7 +1,20 @@
 ---
 title: "Multi-Agent Coordination Patterns"
+related:
+- multi-agent-coordination
+- multi-agents-push-pull-patterns
+- subagent-improvements
+- llamaindex-event-driven-orchestration
+---
+
+---
+title: "Multi-Agent Coordination Patterns"
 tags: [concept, multi-agent, orchestration, hierarchy, blackboard, patterns]
-related: [[agent-native-operations]], [[subagent-architecture]], [[kanban-doctrine]], [[agent-factory-production-system]]
+related:
+- agent-native-operations
+- subagent-architecture
+- kanban-doctrine
+- agent-factory-production-system
 ---
 
 # Multi-Agent Coordination Patterns

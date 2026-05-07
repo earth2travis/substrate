@@ -1,14 +1,22 @@
 ---
-title: "DSJJJJ: Simulacra in the Stupor of Becoming — Desideran AI Philosophy"
-tags: [philosophy, ai, agency, simulation, desiderata]
+title: 'DSJJJJ: Simulacra in the Stupor of Becoming — Desideran AI Philosophy'
+tags:
+- philosophy
+- ai
+- agency
+- simulation
+- desiderata
 related:
-  - [[dsjjjj-desiderata]]
-  - [[jean-baudrillard]]
-  - [[simulacra-hyperreality]]
-  - [[process-philosophy]]
-  - [[nous-research]]
+- dsjjjj-desiderata
+- jean-baudrillard
+- simulacra-hyperreality
+- process-philosophy
+- nous-research
 source: research/raw/nousresearch-dsjjjj-simulacra-stupor-of-becoming.md
 ---
+
+
+
 
 # DSJJJJ: Simulacra in the Stupor of Becoming — Desideran AI Philosophy
 

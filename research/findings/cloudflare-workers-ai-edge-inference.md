@@ -1,10 +1,12 @@
 ---
 title: "Cloudflare Workers AI: Open-Source Inference at the Edge"
 tags: [cloudflare, workers-ai, edge-computing, inference, agents, open-source]
-related: [[cloudflare-ai-platform-inference-layer]], [[dark-factory]], [[harness-engineering]]
+related:
+- cloudflare-ai-platform-inference-layer
+- dark-factory
+- harness-engineering
 source: research/raw/cloudflare-workers-ai-edge-inference.md
 ---
-
 # Cloudflare Workers AI: Open-Source Inference at the Edge
 
 ## Summary

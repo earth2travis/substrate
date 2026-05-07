@@ -1,11 +1,13 @@
 ---
 title: "Heijunka for Agent Orchestration"
 tags: [finding, lean, agent-factory, heijunka, scheduling, mura]
-related: [[lean-doctrine]], [[kanban-doctrine]], [[toyota-production-system]]
+related:
+- lean-doctrine
+- kanban-doctrine
+- toyota-production-system
 source: research/raw/heijunka-for-agent-orchestration.md
 ingested: 2026-05-07
 ---
-
 # Heijunka for Agent Orchestration
 
 Heijunka, or production leveling, applies directly to agent orchestration. The core problem: agents and humans both suffer from batching work (research for days, then code for days), which creates Mura (unevenness) and imposes a setup-time penalty at every context switch.

@@ -1,10 +1,17 @@
 ---
 title: "Mission Command"
 tags: [concept, mission-command, auftragstaktik, decentralization, autonomy, intent]
-related: [[intelligence-graph-organization]], [[creative-partnership]], [[protocol-as-coordination]], [[progressive-autonomy]], [[kanban-doctrine]], [[microsolidarity-five-scales]], [[block-hierarchy-to-intelligence]], [[auftragstaktik-mission-command]]
+related:
+- intelligence-graph-organization
+- creative-partnership
+- protocol-as-coordination
+- progressive-autonomy
+- kanban-doctrine
+- microsolidarity-five-scales
+- block-hierarchy-to-intelligence
+- auftragstaktik-mission-command
 source: insights/concepts/mission-command.md
 ---
-
 # Mission Command
 
 ## Thesis

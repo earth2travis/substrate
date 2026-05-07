@@ -1,10 +1,13 @@
 ---
 title: "Nex AI Brainstorm: Team Agent on OpenClaw"
 tags: [nex, team-agent, openclaw, multiplayer, synthweave, brainstorming]
-related: [[agent-orchestrator-pattern]], [[multi-agent-coordination-patterns]], [[full-visual-blueprint]], [[single-player-vs-multiplayer]]
+related:
+- agent-orchestrator-pattern
+- multi-agent-coordination-patterns
+- full-visual-blueprint
+- single-player-vs-multiplayer
 source: research/raw/nex-brainstorm.md
 ---
-
 # Nex AI Brainstorm: Team Agent on OpenClaw
 
 _February 19, 2026. Synthweave team session._

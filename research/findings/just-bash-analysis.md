@@ -1,10 +1,13 @@
 ---
 title: "just-bash: Virtual Shell for Agent Execution"
 tags: [sandbox, security, agent-execution, typescript, isolation]
-related: [[tools-landscape]], [[workflows-landscape]], [[agent-native-operations]], [[the-openclaw-lesson]]
+related:
+- tools-landscape
+- workflows-landscape
+- agent-native-operations
+- the-openclaw-lesson
 source: research/raw/just-bash-analysis.md
 ---
-
 # just-bash: Virtual Shell for Agent Execution
 
 ## Summary

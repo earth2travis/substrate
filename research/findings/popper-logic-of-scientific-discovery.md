@@ -1,13 +1,20 @@
 ---
-title: "Popper's Logic of Scientific Discovery: Falsification and the Growth of Knowledge"
-tags: [philosophy, epistemology, science, critical-rationalism]
+title: 'Popper''s Logic of Scientific Discovery: Falsification and the Growth of Knowledge'
+tags:
+- philosophy
+- epistemology
+- science
+- critical-rationalism
 related:
-  - [[karl-popper]]
-  - [[jean-baudrillard]]
-  - [[process-philosophy]]
-  - [[llm-wiki-pattern]]
+- karl-popper
+- jean-baudrillard
+- process-philosophy
+- llm-wiki-pattern
 source: research/raw/popper-logic-of-scientific-discovery.md
 ---
+
+
+
 
 # Popper's Logic of Scientific Discovery: Falsification and the Growth of Knowledge
 

@@ -1,12 +1,21 @@
 ---
-title: "The Death of the GUI: API-First Interfaces"
-tags: [agents, apis, interfaces, design, tools, trends]
+title: 'The Death of the GUI: API-First Interfaces'
+tags:
+- agents
+- apis
+- interfaces
+- design
+- tools
+- trends
 related:
-  - [[agent-native-operations]]
-  - [[automation-leverage]]
-  - [[skills-as-portable-knowledge]]
+- agent-native-operations
+- automation-leverage
+- skills-as-portable-knowledge
 source: research/raw/api-first-interfaces.md
 ---
+
+
+
 
 # The Death of the GUI: API-First Interfaces
 

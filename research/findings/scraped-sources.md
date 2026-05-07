@@ -1,13 +1,22 @@
 ---
-title: "Scraped Primary Sources for Stitch Prompt Skill"
-tags: [design, agents, stitch, design-systems, prompts, google]
+title: Scraped Primary Sources for Stitch Prompt Skill
+tags:
+- design
+- agents
+- stitch
+- design-systems
+- prompts
+- google
 related:
-  - [[design-system-as-code]]
-  - [[roundtrip-workflow]]
-  - [[skills-as-portable-knowledge]]
-  - [[creative-partnership]]
+- design-system-as-code
+- roundtrip-workflow
+- skills-as-portable-knowledge
+- creative-partnership
 source: research/raw/scraped-sources.md
 ---
+
+
+
 
 # Scraped Primary Sources for Stitch Prompt Skill
 

@@ -1,10 +1,13 @@
 ---
 title: "Hermes Agent Self-Evolution Framework"
 tags: [hermes-agent, evolution, optimization, agents, skills, dspy]
-related: [[hermes-agent]], [[harness-engineering]], [[lean-software-delivery]], [[dark-factory]]
+related:
+- hermes-agent
+- harness-engineering
+- lean-software-delivery
+- dark-factory
 source: research/raw/hermes-self-evolution.md
 ---
-
 # Hermes Agent Self-Evolution Framework
 
 ## Summary

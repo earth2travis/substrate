@@ -1,10 +1,13 @@
 ---
 title: "Browser Efficiency Patterns from gstack"
 tags: [browser, efficiency, gstack, claude-code, performance]
-related: [[gstack-analysis]], [[tools-landscape]], [[agent-native-operations]], [[cloudflare-first-agent-factory]]
+related:
+- gstack-analysis
+- tools-landscape
+- agent-native-operations
+- cloudflare-first-agent-factory
 source: research/raw/browser-efficiency-from-gstack.md
 ---
-
 # Browser Efficiency Patterns from gstack
 
 ## Summary

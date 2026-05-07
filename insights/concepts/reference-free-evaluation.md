@@ -1,14 +1,22 @@
 ---
-title: "Reference-Free Evaluation"
-tags: [evals, agents, safety, scaling, trust]
+title: Reference-Free Evaluation
+tags:
+- evals
+- agents
+- safety
+- scaling
+- trust
 related:
-  - [[proof-of-work]]
-  - [[harness-engineering]]
-  - [[agent-native-operations]]
-  - [[agent-orchestrator-pattern]]
-  - [[agent-provenance-graph]]
+- proof-of-work
+- harness-engineering
+- agent-native-operations
+- agent-orchestrator-pattern
+- agent-provenance-graph
 source: research/findings/mission-critical-evals-at-scale.md
 ---
+
+
+
 
 # Reference-Free Evaluation
 

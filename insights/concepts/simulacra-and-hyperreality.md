@@ -1,10 +1,16 @@
 ---
 title: "Simulacra and Hyperreality"
 tags: [concept, philosophy, simulation, media-theory, ontology, postmodernism]
-related: [[jean-baudrillard]], [[simulacra-hyperreality]], [[baudrillard-simulacra-and-simulation]], [[nousresearch-dsjjjj-simulacra-stupor-of-becoming]], [[dsjjjj-desiderata]], [[process-philosophy]], [[becoming]]
+related:
+- jean-baudrillard
+- simulacra-hyperreality
+- baudrillard-simulacra-and-simulation
+- nousresearch-dsjjjj-simulacra-stupor-of-becoming
+- dsjjjj-desiderata
+- process-philosophy
+- becoming
 source: research/findings/simulacra-hyperreality.md
 ---
-
 # Simulacra and Hyperreality
 
 ## Definition

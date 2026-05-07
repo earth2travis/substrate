@@ -1,21 +1,39 @@
 ---
-title: "AI Composable Primitives"
+title: AI Composable Primitives
 created: 2026-05-01
 updated: 2026-05-07
 type: concept
-tags: [ai-engineering, primitives, architecture, composition, models, prompts, context, memory, tools, skills, mcp, subagents, plugins, evals]
+tags:
+- ai-engineering
+- primitives
+- architecture
+- composition
+- models
+- prompts
+- context
+- memory
+- tools
+- skills
+- mcp
+- subagents
+- plugins
+- evals
 related:
-  - [[agentic-architecture]]
-  - [[agent-orchestrator-pattern]]
-  - [[skills-as-portable-knowledge]]
-  - [[subagent-architecture]]
-  - [[agentic-architecture]]
-  - [[agent-native-operations]]
-  - [[github-as-knowledge-graph]]
-source: |
-  Derived from research compiled February 2026 after 3 days at Anthropic.
+- agentic-architecture
+- agent-orchestrator-pattern
+- skills-as-portable-knowledge
+- subagent-architecture
+- agent-native-operations
+- github-as-knowledge-graph
+source: 'Derived from research compiled February 2026 after 3 days at Anthropic.
+
   See research/findings/composable-primitives.md for full detail.
+
+  '
 ---
+
+
+
 
 # AI Composable Primitives
 

@@ -1,10 +1,14 @@
 ---
 title: "Skills Audit: Anthropic Skill System Assessment"
 tags: [skills, anthropic, agent-tools, audit, quality]
-related: [[skills-landscape]], [[tools-landscape]], [[workflows-landscape]], [[hermes-agent]], [[codex]]
+related:
+- skills-landscape
+- tools-landscape
+- workflows-landscape
+- hermes-agent
+- codex
 source: research/raw/our-skills-audit.md
 ---
-
 # Skills Audit: Anthropic Skill System Assessment
 
 ## Summary

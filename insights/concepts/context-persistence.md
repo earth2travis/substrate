@@ -1,10 +1,13 @@
 ---
 title: "Context Persistence"
 tags: [concept, context, memory, handoffs, llm, session, persistence, compaction]
-related: [[context-stack]], [[context-compression]], [[agent-memory]], [[handoffs]]
+related:
+- context-stack
+- context-compression
+- agent-memory
+- handoffs
 updated: 2026-05-07
 ---
-
 # Context Persistence
 
 LLM sessions are ephemeral. When context windows fill, compaction loses critical details: decisions, reasoning, rejected alternatives, relational context. Building infrastructure that survives this requires a systematic approach.

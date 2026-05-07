@@ -5,6 +5,7 @@ related: [openclaw, skills-as-portable-knowledge, agent-native-operations, progr
 source: "https://code.claude.com/docs, compiled February 24, 2026"
 ---
 
+
 # Claude Code: Complete Capabilities Guide
 
 ## Summary

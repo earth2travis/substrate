@@ -5,6 +5,7 @@ related: [skills-as-portable-knowledge, agent-native-operations, design-md-trans
 source: "YouTube walkthrough by Chris, 2026-03-22"
 ---
 
+
 # Stitch design.md with Claude Code: Practical Workflow
 
 ## Summary

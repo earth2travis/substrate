@@ -1,11 +1,14 @@
 ---
 title: "Dark Factory / Lights-Out Manufacturing"
 tags: [finding, automation, manufacturing, dark-factory, fanuc, industry-4.0]
-related: [[dark-factory]], [[harness-engineering]], [[codex]], [[lean-doctrine]]
+related:
+- dark-factory
+- harness-engineering
+- codex
+- lean-doctrine
 source: research/raw/dark-factory-lights-out-manufacturing.md
 ingested: 2026-05-07
 ---
-
 # Dark Factory / Lights-Out Manufacturing
 
 "Lights-out" or "dark factory" manufacturing refers to fully automated production facilities that operate without human presence. The concept, coined in the 1980s, has migrated from physical production to software development.

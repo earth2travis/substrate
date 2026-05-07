@@ -5,6 +5,7 @@ related: [agent-native-operations, symphony-orchestrator, workflow-as-contract, 
 source: "Research notes from February 13, 2026"
 ---
 
+
 # Building the Team: Specialized Agents for Sivart
 
 ## Summary

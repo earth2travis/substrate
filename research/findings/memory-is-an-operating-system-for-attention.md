@@ -1,11 +1,13 @@
 ---
 title: "Memory Is an Operating System for Attention"
 tags: [finding, memory, attention, agent-ops, routing]
-related: [[agent-memory]], [[context-stack]], [[knowledge-graphs-as-agent-memory-substrate]]
+related:
+- agent-memory
+- context-stack
+- knowledge-graphs-as-agent-memory-substrate
 source: research/raw/memory-is-an-operating-system-for-attention.md
 ingested: 2026-05-07
 ---
-
 # Memory Is an Operating System for Attention
 
 Context amnesia is the real bottleneck for AI agents, not reasoning capability. Fix memory, and output compounds over time.

@@ -1,10 +1,12 @@
 ---
 title: "The 5 Whys: Root Cause Analysis"
 tags: [root-cause-analysis, toyota, five-whys, kaizen, problem-solving, methodology]
-related: [[kaizen-and-continuous-improvement]], [[fishbone-diagrams]], [[failure-modes]]
+related:
+- kaizen-and-continuous-improvement
+- fishbone-diagrams
+- failure-modes
 source: research/raw/5-whys.md
 ---
-
 # The 5 Whys: Root Cause Analysis
 
 The 5 Whys is a root cause analysis technique developed by Sakichi Toyoda and formalized by Taiichi Ohno at Toyota. The practice has older philosophical roots: Plato's *Meno*, Aristotle's four causes, and Leibniz's iterative questioning. What Toyota did was industrialize it.

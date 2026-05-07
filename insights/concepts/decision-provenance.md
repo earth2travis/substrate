@@ -1,9 +1,13 @@
 ---
 title: "Decision Provenance"
 tags: [concept, provenance, decision-tracking, observability, accountability]
-related: [[agent-memory]], [[context-stack]], [[agent-native-operations]], [[subagent-architecture]], [[agent-provenance-graph]]
+related:
+- agent-memory
+- context-stack
+- agent-native-operations
+- subagent-architecture
+- agent-provenance-graph
 ---
-
 # Decision Provenance
 
 The discipline and infrastructure for tracing every agent decision back to its inputs, reasoning, and alternatives considered.

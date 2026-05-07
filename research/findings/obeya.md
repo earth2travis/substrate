@@ -1,10 +1,14 @@
 ---
 title: "Obeya (Big Room)"
 tags: [manufacturing, lean, visual-management, toyota, integration]
-related: [[chief-engineer-system]], [[toyota-production-system]], [[lean-production]], [[just-in-time]], [[kaizen]]
+related:
+- chief-engineer-system
+- toyota-production-system
+- lean-production
+- just-in-time
+- kaizen
 source: research/raw/obeya.md
 ---
-
 # Obeya (Big Room)
 
 ## Summary

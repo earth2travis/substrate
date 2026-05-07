@@ -1,15 +1,25 @@
 ---
-title: "Hermes Kanban: Multi-Agent Coordination Primitive"
-tags: [kanban, hermes, multi-agent, workflow, coordination, toyota, lean]
+title: 'Hermes Kanban: Multi-Agent Coordination Primitive'
+tags:
+- kanban
+- hermes
+- multi-agent
+- workflow
+- coordination
+- toyota
+- lean
 related:
-  - [[kanban-doctrine]]
-  - [[toyota-production-system]]
-  - [[lean-doctrine]]
-  - [[agent-orchestrator-pattern]]
-  - [[subagent-architecture]]
-  - [[context-persistence]]
-source: "Hermes Agent Kanban docs (Nous Research), compiled 2026-05-04"
+- kanban-doctrine
+- toyota-production-system
+- lean-doctrine
+- agent-orchestrator-pattern
+- subagent-architecture
+- context-persistence
+source: Hermes Agent Kanban docs (Nous Research), compiled 2026-05-04
 ---
+
+
+
 
 # Hermes Kanban: Multi-Agent Coordination Primitive
 

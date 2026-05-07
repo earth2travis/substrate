@@ -5,6 +5,7 @@ related: [github-as-knowledge-graph, workflow-as-contract, agent-native-operatio
 source: "Feature Deep Dives 2 research"
 ---
 
+
 # GitHub Feature Deep Dives Part 2
 
 ## Summary

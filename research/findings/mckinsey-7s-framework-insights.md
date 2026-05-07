@@ -1,10 +1,12 @@
 ---
 title: "McKinsey 7-S Framework: Diagnostic Lens for the AI Transition"
 tags: [management, organizational-design, ai-adoption, mckinsey, diagnosis]
-related: [[block-hierarchy-to-intelligence]], [[jack-dorsey-from-hierarchy-to-intelligence]], [[microsolidarity-five-scales]]
+related:
+- block-hierarchy-to-intelligence
+- jack-dorsey-from-hierarchy-to-intelligence
+- microsolidarity-five-scales
 source: research/raw/mckinsey-7s-framework-insights.md
 ---
-
 # McKinsey 7-S Framework: Diagnostic Lens for the AI Transition
 
 The 7-S model (Strategy, Structure, Systems, Shared Values, Skills, Style, Staff) remains relevant because it forces a holistic view. Simply implementing AI Systems won't work if Strategy isn't AI-first, Structure isn't adapted for hybrid human-AI teams, or Shared Values don't embrace AI collaboration.

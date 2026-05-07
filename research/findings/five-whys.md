@@ -1,10 +1,12 @@
 ---
 title: "The 5 Whys: Root Cause Analysis from Toyota"
 tags: [lean, toyota, problem-solving, methodology, tps]
-related: [[toyota-production-system]], [[taiichi-ohno]], [[a3-thinking]]
+related:
+- toyota-production-system
+- taiichi-ohno
+- a3-thinking
 source: research/raw/the-five-whys-root-cause-analysis.md
 ---
-
 # The 5 Whys: Root Cause Analysis from Toyota
 
 ## Summary

@@ -1,16 +1,23 @@
 ---
-title: "Shusa Applied to Zookooree"
-source: "research/raw/shusa-zookooree-application.md"
-tags: ["shusa", "zookooree", "agent-factory", "lean", "leadership"]
+title: Shusa Applied to Zookooree
+source: research/raw/shusa-zookooree-application.md
+tags:
+- shusa
+- zookooree
+- agent-factory
+- lean
+- leadership
 related:
-  - "[[shusa-chief-engineer]]"
-  - "[[agent-factory-production-system]]"
-  - "[[toyota-production-system]]"
-  - "[[harness-engineering]]"
-  - "[[loom-overview]]"
-  - "[[agent-orchestrator-pattern]]"
-  - "[[workspace-isolation]]"
+- shusa-chief-engineer
+- agent-factory-production-system
+- toyota-production-system
+- harness-engineering
+- loom-overview
+- agent-orchestrator-pattern
+- workspace-isolation
 ---
+
+
 
 # Shusa Applied to Zookooree
 

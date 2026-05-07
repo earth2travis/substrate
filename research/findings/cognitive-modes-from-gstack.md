@@ -1,10 +1,13 @@
 ---
 title: "Cognitive Modes Pattern (from gstack)"
 tags: [cognitive-modes, agent, gstack, garry-tan, workflow, context-switching]
-related: [[probe-deeper-pattern]], [[centaur-principle]], [[agent-native-operations]], [[workflow-as-contract]]
+related:
+- probe-deeper-pattern
+- centaur-principle
+- agent-native-operations
+- workflow-as-contract
 source: research/raw/cognitive-modes-from-gstack.md
 ---
-
 # Cognitive Modes Pattern (from gstack)
 
 **Source:** Garry Tan's gstack — a pattern for telling the model what kind of brain to use right now. Explicit gears, not a blended mode.

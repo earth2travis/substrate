@@ -1,14 +1,22 @@
 ---
-title: "Agent Provenance Graph"
-tags: [agents, knowledge-graph, provenance, multi-agent, governance]
+title: Agent Provenance Graph
+tags:
+- agents
+- knowledge-graph
+- provenance
+- multi-agent
+- governance
 related:
-  - [[proof-of-work]]
-  - [[decision-provenance]]
-  - [[agent-native-operations]]
-  - [[context-stack]]
-  - [[agent-memory]]
+- proof-of-work
+- decision-provenance
+- agent-native-operations
+- context-stack
+- agent-memory
 source: research/findings/hyperstack-evaluation.md
 ---
+
+
+
 
 # Agent Provenance Graph
 
