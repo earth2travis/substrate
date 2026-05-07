@@ -76,3 +76,11 @@ Auftragstaktik and the intelligence graph are the same principle applied at diff
 - Mission command: decentralized execution within a military unit
 - Intelligence graph: decentralized execution within an entire organization
 Both rely on shared context, clear intent, and trust in local judgment. Both eliminate the information bottleneck. Both require the same thing: a system that holds the context so humans don't have to.
+
+
+# Related
+
+- [[local-first]]
+- [[pinata-agent-storage]]
+- [[rowboat-analysis]]
+- [[stitch-design-md-claude-code-workflow]]

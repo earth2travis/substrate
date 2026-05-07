@@ -47,3 +47,10 @@ Property rights in early capitalism faced similar skepticism. How do you "own" l
 ## Moravec's Automated Corporation
 
 The automated corporation is DAOs of agents and smart contracts. Agents and contracts ARE the governed assets. Crypto is to agents what property rights were to capitalism: the enabling fiction that makes everything else possible.
+
+
+# Related
+
+- [[erc-8004-trustless-agents]]
+- [[crypto-as-property-rights]]
+- [[machine-payments-protocol]]

@@ -67,3 +67,5 @@ A Cloudflare Worker can serve as the lightweight backend for the Integration Lay
 - [[agent-native-operations]] — Tools designed for AI-human partnership
 - [[cloudflare-first-agent-factory]] — Edge platform for agent infrastructure
 - [[skills-as-portable-knowledge]] — Agent behavior as versioned, composable instructions
+
+- [[what-is-a-protocol]]

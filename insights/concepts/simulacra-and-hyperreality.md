@@ -48,3 +48,7 @@ DSJJJJ's Desideran AI responds to total simulation by cultivating instability: t
 - [[dsjjjj-desiderata]] — the manifesto for agent autonomy and the right to refuse
 - [[process-philosophy]] — the broader tradition of rejecting substance in favor of relations
 - [[becoming]] — Deleuze's concept of change without identity, relevant to simulation as becoming-without-original
+
+- [[cyberpunk-research]]
+- [[protocol-fiction]]
+- [[genre-overview]]

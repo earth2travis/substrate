@@ -70,3 +70,12 @@ The Kanban doctrine's "Issue First" rule and closure discipline directly support
 - [[github-project-management-overview]]
 - [[teams-best-practices-1]]
 - [[origins-and-evolution]]
+
+- [[feature-deep-dives-1]]
+- [[github-capabilities-audit]]
+- [[teams-best-practices-2]]
+- [[plan-comparison]]
+
+- [[full-visual-blueprint]]
+
+- [[ai-pm-overview]]

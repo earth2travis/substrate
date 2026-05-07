@@ -73,3 +73,6 @@ Our own Substrate IS a Context Stack. SOUL.md, AGENTS.md, SCHEMA.md, and the kno
 - [[agentic-architecture]] — System design for autonomous agents
 - [[memory-systems]] — Memory architectures supporting agent continuity
 - [[interchangeable-context]] — Ford's revolution as structural parallel
+
+- [[context-poisoning-pattern]]
+- [[browser-efficiency-from-gstack]]

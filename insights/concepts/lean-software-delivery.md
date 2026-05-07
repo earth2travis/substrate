@@ -74,3 +74,6 @@ This mathematically proves what lean advocates argue: reducing WIP reduces lead 
 - [[lean-doctrine]] — the philosophical foundation of lean operations
 - [[toyota-production-system]] — the system that demonstrated lean at industrial scale
 - [[dark-factory]] — the endpoint where lean software delivery becomes fully autonomous
+
+- [[openai-harness-engineering]]
+- [[frontier-and-harness-for-zookooree]]

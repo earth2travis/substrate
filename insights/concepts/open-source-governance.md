@@ -79,3 +79,9 @@ React (Meta), Angular (Google). Well-funded, well-maintained, but creates depend
 - Start simple, add complexity only when you feel the pain
 - Governance is transparency, not bureaucracy
 - The founder must be separable from the project
+
+
+# Related
+
+- [[open-source-best-practices]]
+- [[open-governance-protocol]]

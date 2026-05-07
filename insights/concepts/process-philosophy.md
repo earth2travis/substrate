@@ -103,3 +103,7 @@ TPS is also a process philosophy. Ohno's rejection of "economies of scale" in fa
 - [[bergson-duration-creative-evolution]]
 - [[dreams-are-cognitive-maintenance-not-prophecy]]
 - [[process-without-substance]]
+
+- [[contemporary-process-philosophy]]
+
+- [[the-new-way-to-build-a-startup]]

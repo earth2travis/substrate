@@ -117,3 +117,18 @@ The Agent Factory doesn't need to choose one platform. It needs to:
 - [[skills-as-portable-knowledge]] — Agent behavior as versioned, composable instructions
 - [[agent-native-operations]] — Tools designed for AI-human partnership
 - [[the-openclaw-lesson]] — Lessons from OpenClaw adoption
+- [[agentic-audit-patterns]]
+- [[audit-replay]]
+- [[better-harness-tweet]]
+- [[big-lab-approaches]]
+- [[autoresearchclaw-analysis]]
+- [[hyperstack-evaluation]]
+
+- [[qwen-evaluation]]
+- [[anthropic-interviewer-81k-study]]
+- [[anthropic-interviewer-for-us]]
+
+- [[premium-results-strategy]]
+- [[og-protocol]]
+
+- [[optimization-targets]]

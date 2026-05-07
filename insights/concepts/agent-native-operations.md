@@ -114,3 +114,9 @@ Harness engineering principle #9: "Entropy and garbage collection: encode golden
 - [[tools-landscape]]
 - [[agent-evaluation]]
 - [[skills-landscape]]
+
+- [[agents-need-writing-for-the-same-reason-humans-do]]
+- [[api-first-interfaces]]
+- [[1password-integration]]
+
+- [[intercom-plugin-architecture]]

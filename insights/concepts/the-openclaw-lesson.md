@@ -97,3 +97,8 @@ Harness engineering's principle #9 is "Entropy and garbage collection: encode go
 - [[openclaw-report]]
 - [[28-openclaw-mistakes]]
 - [[agent-evaluation]]
+
+- [[28-openclaw-mistakes-kloss]]
+- [[openclaw-platform-state-2026]]
+- [[openclaw-community]]
+- [[openclaw-vs-hermes]]

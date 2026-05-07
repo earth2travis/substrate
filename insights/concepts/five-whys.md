@@ -52,3 +52,11 @@ When an agent repeats an error, use the 5 Whys:
 5. Why does the memory protocol lack a write gate before responding?
 
 The fifth why often reveals a systemic gap, not a one-off mistake.
+
+
+# Related
+
+- [[5-whys]]
+- [[the-five-whys-for-agentic-intelligence]]
+- [[the-five-whys-root-cause-analysis]]
+- [[fishbone-diagrams]]

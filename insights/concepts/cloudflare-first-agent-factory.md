@@ -78,3 +78,11 @@ The Cloudflare stack enables lights-out operation: edge inference runs without h
 - [[cloudflare-queues-decoupling-layer]] -- Asynchronous batch processing
 - [[cloudflare-email-service-for-agents]] -- Email transport layer
 - [[cloudflare-ai-gateway-observability]] -- Observability and cost control
+
+- [[hermes-agent-platform-analysis]]
+- [[hermes-agent-report]]
+- [[hermes-deployment-guide]]
+- [[hermes-self-evolution]]
+- [[ops-agent-implementation]]
+
+- [[gstack-analysis]]

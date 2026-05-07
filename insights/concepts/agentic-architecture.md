@@ -56,3 +56,19 @@ The architecture maps to Toyota Production System principles:
 - **Stop the line**: When an agent produces garbage, halt and diagnose
 - **Small improvements**: Agent capabilities compound through incremental refinement
 - **Problems as signals**: Every failure is information about where the system needs to improve
+
+
+# Related
+
+- [[agent-company-articles]]
+- [[agent-company-research-learnings]]
+- [[ai-agents-that-run-a-company]]
+- [[institutional-ai-vs-individual-ai]]
+- [[zero-human-company-framing-oversells-autonomy]]
+
+- [[subagent-improvements]]
+- [[nex-brainstorm]]
+- [[symphony-mapping]]
+- [[what-should-we-actually-build]]
+
+- [[george-hotz-gastown-computer-use]]

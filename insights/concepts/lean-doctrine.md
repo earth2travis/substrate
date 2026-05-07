@@ -90,3 +90,7 @@ The dark factory is the logical endpoint of lean. JIT becomes just-in-time with 
 - [[value-stream-mapping]]
 - [[lean-production]]
 - [[five-whys]]
+
+- [[continuous-improvement-plan]]
+- [[kaizen-for-the-agent-factory]]
+- [[kaizen-and-continuous-improvement]]

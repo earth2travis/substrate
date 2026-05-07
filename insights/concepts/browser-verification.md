@@ -97,3 +97,9 @@ The pattern from Rowboat (background agents that update the graph automatically)
 - [[skills-as-portable-knowledge]] — Agent behavior as versioned, composable instructions
 - [[agent-native-operations]] — Tools designed for AI-human partnership
 - [[claude-code-capabilities]] — Claude Code's browser integration and Chrome features
+- [[figma-dev-mode-presentation]]
+- [[figma-github-projects-plugin]]
+- [[figma-x-claude-code-livestream]]
+
+- [[just-bash-analysis]]
+- [[agent-tool-design-lessons]]

@@ -95,3 +95,5 @@ The dark factory is the logical endpoint of lean:
 - [[agentic-maximization]]
 - [[modern-times-for-agent-factory]]
 - [[autonomous-video-production]]
+
+- [[dark-factory-lights-out-manufacturing]]

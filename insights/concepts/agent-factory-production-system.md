@@ -91,3 +91,16 @@ Manufacturing history progressed through Craft → Mass → Lean → Industry 4.
 - [[openai-frontier-and-harness-engineering]]
 - [[multi-agent-coordination]]
 - [[agentic-maximization]]
+
+- [[accounting-bookkeeping-research]]
+- [[price-minus-vs-cost-plus]]
+- [[deployment-guide]]
+- [[gateway-integration]]
+- [[paperclip-is-an-os-for-autonomous-agent-companies]]
+- [[paperclip-atomic-task-checkout-prevents-agent-collisions]]
+
+- [[production-systems-for-agent-factories]]
+- [[synthesis-agent-factory]]
+
+- [[adapter-system]]
+- [[tool-provisioning-contract]]

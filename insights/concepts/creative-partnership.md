@@ -78,3 +78,16 @@ The human-AI partnership (Ξ2T + Sivart) maps directly:
 - [[marriages-and-relationships]]
 - [[mitch-hedberg]]
 - [[science-partnerships]]
+
+- [[calendar-management]]
+- [[handoffs]]
+- [[failure-modes]]
+- [[universal-principles]]
+- [[connection-to-us]]
+- [[implications-for-us]]
+
+- [[muscle-shoals]]
+- [[origins-and-meaning]]
+- [[modern-times-four-crises]]
+
+- [[sticker-printing]]

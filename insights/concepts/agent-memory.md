@@ -95,3 +95,10 @@ The Context Stack IS the memory architecture. SOUL.md is the identity anchor. Th
 - [[mempalace-code-analysis]]
 - [[memory-is-an-operating-system-for-attention]]
 - [[rag-vs-wiki]]
+
+- [[living-project-graph]]
+- [[composable-primitives]]
+
+- [[prompt-caching]]
+
+- [[karpathy-makemore-neural-networks-from-scratch]]

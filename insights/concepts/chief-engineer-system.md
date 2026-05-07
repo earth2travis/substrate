@@ -55,3 +55,8 @@ You cannot skip Phase 1. Integration intelligence must first exist in a human wh
 - [[dark-factory]] — end state where Shusa intelligence is embedded
 - [[lean-doctrine]] — the operating principles the Shusa embodies
 - [[lean-production]] — the paradigm within which the Shusa operates
+
+- [[shusa-chief-engineer]]
+- [[shusa-applied-zookooree]]
+- [[shusa-zookooree-application]]
+- [[hermes-kanban-deep-dive]]

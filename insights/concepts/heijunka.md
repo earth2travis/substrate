@@ -51,3 +51,5 @@ Heijunka is the scheduling complement to Just-in-Time (make what is needed) and 
 - [[kanban-doctrine]] -- Pull-based work management
 - [[just-in-time]] -- Demand-triggered production
 - [[agent-native-operations]] -- Human-AI workflow design
+
+- [[heijunka-level-scheduling]]

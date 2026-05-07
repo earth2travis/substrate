@@ -56,3 +56,14 @@ The pattern shifts the human role from executing to steering. Humans decide what
 ## What It Does Not Replace
 
 The orchestrator pattern is for routine, well specified issues that do not require human judgment. It does not replace: relational architecture, soul documents, proactive behavior, taste and discretion, or creative work. The pattern becomes valuable when you have a backlog of mechanical work that is well understood but time-consuming.
+
+
+# Related
+
+- [[multi-agents-push-pull-patterns]]
+- [[llamaindex-event-driven-orchestration]]
+- [[herdr-agent-multiplexer]]
+- [[loom-overview]]
+- [[loom-service-spec]]
+
+- [[workflows-landscape]]

@@ -79,3 +79,14 @@ Recommended priority order:
 ## Connection to Jidoka
 
 Toyota's jidoka principle, automation with a human touch, applies directly: when something goes wrong, production stops. For agent systems: when a security boundary is breached or anomalous behavior detected, halt and investigate rather than letting the agent continue operating.
+
+
+# Related
+
+- [[agent-opsec-overview]]
+- [[clawvault-deep-dive]]
+- [[server-hardening]]
+- [[prompt-injection-defenses]]
+- [[nvidia-nemoguard-analysis]]
+
+- [[provider-assessment]]
