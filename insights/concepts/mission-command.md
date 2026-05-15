@@ -11,6 +11,10 @@ related:
 - block-hierarchy-to-intelligence
 - auftragstaktik-mission-command
 - etymology-of-mission
+- us-military-mission-standardization
+- opord-format-deep-dive
+- mission-command-philosophy-deep-dive
+- opord-mission-command-synthesis
 source: insights/concepts/mission-command.md
 ---
 # Mission Command
@@ -71,6 +75,29 @@ Without these, mission command becomes chaos. With them, it becomes the most ada
 Jack Dorsey's "intelligence graph" is mission command applied to AI-native organizations. The world model provides context that managers used to provide. DRIs own outcomes with full authority. Player-coaches develop people. There is no permanent middle management because there is no need for information routers when the system itself holds the context.
 
 The Agent Factory is built on this principle. The Substrate is the General Staff — the shared training and knowledge base. The agents are the distributed commanders, each with intent, each with initiative, each accountable to outcome.
+
+## Research: OPORD Format and Mission Command Deep Dives
+
+The following findings provide exhaustive mechanical and philosophical coverage:
+
+- [[us-military-mission-standardization]] — OPORD format as standardized by DoD, five-paragraph structure, WARNO/FRAGORD
+- [[opord-format-deep-dive]] — Exhaustive mechanical coverage: every paragraph, sub-paragraph, annex, echelon cascade, graphics, digital evolution, branch variations, well-written vs. poorly-written examples
+- [[mission-command-philosophy-deep-dive]] — ADP 6-0 six principles, US adaptation of Auftragstaktik (kept vs. lost), historical cases (Desert Storm, Basra 2003, Afghanistan), IDF model, network-centric warfare critique, drone swarms, six intent failure modes
+- [[opord-mission-command-synthesis]] — Paragraph 2 Test, cascade problem, OKR/agile/agent parallels, the structure-freedom paradox
+
+## The OPORD-Agent Parallel
+
+The OPORD format maps to agent tasking:
+
+| OPORD Element | Agent Equivalent |
+|---|---|
+| SITUATION | Context, codebase state, constraints |
+| MISSION | GitHub Issue: Who, What, Where, When, Why |
+| EXECUTION | Plan of action, tool selection |
+| SERVICE AND SUPPORT | Available resources, API keys, compute |
+| COMMAND AND SIGNAL | Comms protocol, escalation path |
+
+The same tension applies: a well-structured issue can be used for micromanagement or for mission command, depending on what goes in paragraph 2.
 
 
 # Related

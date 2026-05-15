@@ -328,3 +328,12 @@
 - Concept updated: [[mission-command]] — added Mission vs. Order section, Etymological Note, backlink to [[etymology-of-mission]]
 - Backlinks: updated [[auftragstaktik-mission-command]] finding to link to new finding
 - Insight: the word 'mission' as military dispatch is 1929; the philosophy traces to 1806 Prussia
+
+## [2026-05-15] research | OPORD and Mission Command deep dive (3 workstreams)
+- Raw files: opord-format-deep-dive.md, mission-command-philosophy-deep-dive.md, opord-mission-command-synthesis.md
+- Findings: same titles, synthesized from raw + web research
+- Workstream A: OPORD format mechanical dive (5 paragraphs, annexes, echelon cascade, graphics, digital evolution, branch variations)
+- Workstream B: Mission Command philosophy (ADP 6-0, Desert Storm, Basra 2003, Afghanistan, IDF, drone swarms, intent failure modes)
+- Workstream C: Synthesis (Paragraph 2 Test, cascade problem, OKR/agile/agent parallels, Weick/Drucker/Marquet)
+- Concept updated: [[mission-command]] — added deep-dive backlink section and OPORD-Agent parallel table
+- Commits: ccb3b1b (etymology), 39ee6c1 (standardization), 7d8996b (deep dive), [this commit] (concept update)
