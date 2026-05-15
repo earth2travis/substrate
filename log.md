@@ -320,3 +320,11 @@
 - Cross-references: provenance graph for multi-agent coordination; real-time reference-free evals for autonomous quality filtering
 - Backlinks: updated [[agent-security]], [[proof-of-work]], [[harness-engineering]], [[decision-provenance]], [[hyperstack-evaluation]], [[audit-replay]], [[mission-critical-evals-at-scale]], [[better-harness-tweet]]
 - Commit: 913f9f3 — feat: promote 2 insights from Batch 24
+
+## [2026-05-15] research | mission etymology
+- Sources: etymonline.com, Wikipedia Mission-type tactics, Army War College Parameters
+- Raw: etymology-of-mission.md (Latin root → Jesuit dispatch → diplomacy → aviation → Prussian philosophy)
+- Finding: etymology-of-mission.md (mission vs. order structural distinction, Auftragstaktik history, British failure in Iraq)
+- Concept updated: [[mission-command]] — added Mission vs. Order section, Etymological Note, backlink to [[etymology-of-mission]]
+- Backlinks: updated [[auftragstaktik-mission-command]] finding to link to new finding
+- Insight: the word 'mission' as military dispatch is 1929; the philosophy traces to 1806 Prussia

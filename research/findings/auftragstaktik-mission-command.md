@@ -7,6 +7,7 @@ related:
 - microsolidarity-five-scales
 - teams-best-practices-1
 - mission-command
+- etymology-of-mission
 source: research/raw/auftragstaktik-mission-command.md
 ---
 # Auftragstaktik: The Philosophy of Mission Command

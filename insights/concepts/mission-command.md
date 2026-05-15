@@ -10,6 +10,7 @@ related:
 - microsolidarity-five-scales
 - block-hierarchy-to-intelligence
 - auftragstaktik-mission-command
+- etymology-of-mission
 source: insights/concepts/mission-command.md
 ---
 # Mission Command
@@ -17,6 +18,19 @@ source: insights/concepts/mission-command.md
 ## Thesis
 
 The most resilient organizations are not the most controlled. They are the most aligned. Mission command — command by intent rather than by instruction — is the operating system for high-trust, high-uncertainty environments. It scales not through hierarchy but through shared understanding.
+
+## Mission vs. Order: A Structural Distinction
+
+An **order** constrains method. A **mission** constrains outcome.
+
+- An order has one correct answer: follow it exactly. Failure mode is disobedience.
+- A mission has infinite correct answers and one way to fail: missing the intent.
+
+This is not a style preference. It is a recognition that the person closest to the problem usually has better information than the person who dispatched them. The only question is whether they share the same purpose.
+
+## Etymological Note
+
+The word entered English around the 1590s through the Jesuits: being "sent abroad" to convert. The military sense of "a dispatched operation" is 1929 American English, born from aviation. But the *philosophy* of mission-based command traces to Prussia after its defeat by Napoleon at Jena-Auerstedt in 1806. The word is young in military usage; the idea is old.
 
 ## The Four Elements
 
