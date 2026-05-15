@@ -6,6 +6,7 @@ related:
 - agent-payment-infrastructure
 - agent-platform-ecosystem
 - automation-leverage
+- principal-agent-theory
 updated: 2026-05-07
 ---
 # Crypto as Agent Infrastructure

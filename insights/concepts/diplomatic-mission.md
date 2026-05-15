@@ -7,6 +7,7 @@ related:
   - agent-native-operations
   - protocol-as-coordination
   - workflow-as-contract
+  - principal-agent-theory
 source: research/findings/origin-of-diplomatic-missions.md
 created: 2026-05-15
 updated: 2026-05-15

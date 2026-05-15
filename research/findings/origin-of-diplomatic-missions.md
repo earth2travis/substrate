@@ -2,7 +2,7 @@
 title: "Diplomatic Missions: From Roman Legatio to the Vienna Convention"
 date: 2026-05-15
 source: research/raw/origin-of-diplomatic-missions.md
-related: [[mission-arc]], [[etymology-of-mission]], [[diplomatic-mission]], [[protestant-missions-concept]], [[missio-dei-concept]], [[agent-native-operations]]
+related: [[mission-arc]], [[etymology-of-mission]], [[diplomatic-mission]], [[protestant-missions-concept]], [[missio-dei-concept]], [[agent-native-operations]], [[principal-agent-theory]]
 tags: [mission, diplomacy, legatio, Vienna, ambassador, embassy, international_relations, history, principal-agent]
 ---
 

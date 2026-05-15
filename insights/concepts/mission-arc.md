@@ -2,7 +2,7 @@
 title: "The Mission Arc: From Divine Sending to Distributed Participation"
 date: 2026-05-15
 source: research/findings/apostolic-mission-foundation.md, research/findings/medieval-mission-concept.md, research/findings/jesuit-missions-concept.md, research/findings/protestant-missions-concept.md, research/findings/missio-dei-concept.md, research/findings/religious-mission-comparative.md
-related: [[auftragstaktik-mission-command]], [[nasa-mission-taxonomy]], [[kanban-doctrine]], [[progressive-autonomy]], [[agent-native-operations]], [[diplomatic-mission]]
+related: [[auftragstaktik-mission-command]], [[nasa-mission-taxonomy]], [[kanban-doctrine]], [[progressive-autonomy]], [[agent-native-operations]], [[diplomatic-mission]], [[principal-agent-theory]]
 tags: [mission, religion, history, organization, arc, structure, concept]
 ---
 

@@ -7,6 +7,7 @@ related:
 - agent-native-operations
 - subagent-architecture
 - agent-provenance-graph
+- principal-agent-theory
 ---
 # Decision Provenance
 
