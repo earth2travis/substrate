@@ -52,6 +52,7 @@ Tools and capabilities:
 - [[browser-automation]] — Agent control of the web as operational sense.
 - [[tools-landscape]] — MCP ecosystem and the universal tool loop.
 - [[skills-as-portable-knowledge]] — Skills as instruction sets for agent systems.
+- [[goal-primitive]] — /goal as emerging coordination primitive across agent platforms.
 
 ## Key Guides
 - [[kanban-operating-manual]] — The field manual for the squad.

@@ -13,6 +13,7 @@ related:
 - protocol-as-coordination
 - agent-orchestrator-pattern
 - workspace-isolation
+- goal-primitive
 source: insights/concepts/agent-platform-ecosystem.md
 ---
 # Agent Platform Ecosystem

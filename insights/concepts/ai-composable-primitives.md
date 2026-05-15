@@ -25,6 +25,7 @@ related:
 - subagent-architecture
 - agent-native-operations
 - github-as-knowledge-graph
+- goal-primitive
 source: 'Derived from research compiled February 2026 after 3 days at Anthropic.
 
   See research/findings/composable-primitives.md for full detail.
