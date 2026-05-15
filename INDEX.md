@@ -21,6 +21,7 @@ Mission and purpose:
 - [[mission-arc]] — Four-stage arc: religious, military, NASA, diplomatic, and business mission concepts.
 - [[mission-command]] — Command by intent rather than instruction.
 - [[mission-in-business]] — Corporate purpose: MBO, OKR, Collins/Porras, Sinek.
+- [[objectives-and-key-results]] — Grove's OKRs as the civilian intent architecture: Objective = intent, KR = verifiable outcome, Initiative = disciplined initiative.
 - [[principal-agent-theory]] — The economics of delegation across all mission domains.
 
 Infrastructure and factory metaphors:

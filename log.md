@@ -350,7 +350,14 @@
 - Concept updated: insights/concepts/mission-command.md — added "The NASA Parallel" section linking NASA organizational architecture to mission command doctrine. Proved mission-based organization scales beyond military into science and public administration.
 - Key insight: "Congress funds Projects. The public rallies around Missions." The PI is the distributed commander. NPR 7120.5F is the General Staff. The Decadal Survey is the commander's intent.
 
-## [2026-05-15] ingest | Mission in business context
+## [2026-05-15] ingest | Grove's OKRs deep research (1 raw, 1 finding, 1 concept)
+- Raw source created: research/raw/grove-okrs-intel-high-output-management.md (Wikipedia OKR, Andrew Grove, High Output Management, MBO, What Matters examples)
+- Finding created: research/findings/grove-okrs-intent-architecture.md (synthesized: MBO → iMBOs → OKR lineage, mechanics, spread Intel→Google→industry, NASA PI-led parallel, cascade problem, failure mode taxonomy, agent-native implications)
+- Concept promoted: insights/concepts/objectives-and-key-results.md (OKR as civilian intent architecture: Objective = commander's intent, KR = verifiable outcome, Initiative = disciplined initiative)
+- Cross-references: linked to [[mission-command]], [[mission-in-business]], [[opord-mission-command-synthesis]], [[nasa-mission-model]], [[principal-agent-theory]], [[kanban-doctrine]], [[progressive-autonomy]], [[centaur-principle]], [[institutional-ai-redesign]]
+- Updated INDEX.md with new concept entry under "Mission and purpose"
+- Lint: 0 errors, 0 warnings
+
 - Sources: Wikipedia on mission statement, management by objectives, OKRs, Built to Last, Simon Sinek
 - Raw file created: research/raw/mission-in-business-context.md
 - Finding created: research/findings/mission-in-business.md
