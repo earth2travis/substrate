@@ -391,3 +391,11 @@
 - Updated insights/concepts/objectives-and-key-results.md with intent-architecture backlink
 - Lint: TBD
 - Inventory update: 318 findings, 84 concepts, 316 raw sources
+
+## [2026-05-15] promote | Mission Execution Chain synthesis
+- Source: Sub-agent research findings across all five mission domains
+- File created: insights/concepts/mission-execution-chain.md (~12KB)
+- Content: Cross-domain map of the full chain (Why → Strategic Goal → Mission → Objectives → Projects → Tasks → Execution) with six handoff points where intent is preserved or lost
+- Cross-references: links to [[mission-arc]], [[mission-command]], [[management-by-objectives]], [[objectives-and-key-results]], [[intent-architecture]], [[principal-agent-theory]], [[kanban-doctrine]], [[opord-mission-command-synthesis]], [[nasa-mission-model]], [[diplomatic-mission]], [[mission-in-business]], [[progressive-autonomy]], [[workflow-as-contract]], [[centaur-principle]], [[protocol-as-coordination]]
+- Updated INDEX.md with new concept entry under "Mission and purpose"
+- Inventory: 318 findings, 83 concepts, 312 raw sources

@@ -1,6 +1,6 @@
 # Substrate Index
 
-The shared nervous system. Current inventory: 314 findings, 82 concepts, 2 entities, 312 raw sources.
+The shared nervous system. Current inventory: 318 findings, 83 concepts, 2 entities, 312 raw sources.
 
 ## Core Directories
 - [[research/]] — Incoming work. Raw sources in `raw/`; synthesized findings in `findings/`.
@@ -21,9 +21,11 @@ Mission and purpose:
 - [[mission-arc]] — Four-stage arc: religious, military, NASA, diplomatic, and business mission concepts.
 - [[mission-command]] — Command by intent rather than instruction.
 - [[mission-in-business]] — Corporate purpose: MBO, OKR, Collins/Porras, Sinek.
+- [[management-by-objectives]] — Drucker's MBO as incomplete contract for delegated execution.
+- [[objectives-and-key-results]] — Grove's OKRs as civilian intent architecture.
+- [[intent-architecture]] — Why and BHAG as the upstream intent layer.
+- [[mission-execution-chain]] — Five-domain chain: mission → objectives → projects → tasks → execution.
 - [[principal-agent-theory]] — The economics of delegation across all mission domains.
-- [[management-by-objectives]] — Drucker's MBO as civilian incomplete contract for delegated execution.
-- [[intent-architecture]] — Why and BHAG as the upstream layer that gives OKRs meaning.
 
 Infrastructure and factory metaphors:
 - [[dark-factory]] — Lights-out manufacturing as pattern for autonomous agent systems.
