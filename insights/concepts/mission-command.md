@@ -15,6 +15,7 @@ related:
 - opord-format-deep-dive
 - mission-command-philosophy-deep-dive
 - opord-mission-command-synthesis
+- nasa-mission-model
 source: insights/concepts/mission-command.md
 ---
 # Mission Command
@@ -99,6 +100,28 @@ The OPORD format maps to agent tasking:
 
 The same tension applies: a well-structured issue can be used for micromanagement or for mission command, depending on what goes in paragraph 2.
 
+## The NASA Parallel: Purpose as Organizational Architecture
+
+NASA provides a civilian proving ground for the same principle. Its hierarchy is:
+
+**Directorate > Program > Project > Mission**
+
+- **Directorate**: Science Mission Directorate, Exploration Systems Development — top-level organizational units
+- **Program**: Discovery, New Frontiers, Mars Exploration — sustained efforts with budget lines
+- **Project**: The formal management unit with cost cap, schedule, Project Manager (governed by NPR 7120.5F)
+- **Mission**: The operational realization — the flight, the campaign, the public-facing purpose
+
+The distinction is identical to the military version: Congress funds Projects. The public rallies around Missions. The PI (Principal Investigator) is the distributed commander. The Decadal Survey is the commander's intent — what must be achieved, why it matters. NPR 7120.5F is the General Staff providing shared standards, training, and review gates.
+
+NASA's Discovery and New Frontiers Programs use competitive peer review (Announcement of Opportunity) to select PI-led missions. The PI owns cost, schedule, and performance. NASA monitors. This is Auftragstaktik with a budget.
+
+Both systems require:
+- Rigorous standards (NPR 7120.5F / OPORD format)
+- Shared mental models (scientific peer review / military training)
+- High trust (PI autonomy / disciplined initiative)
+- Clear intent (Decadal Survey / commander's intent)
+
+The NASA model proves that mission-based organization scales beyond the military into science, engineering, and public administration. Purpose remains the node. Hierarchy is the graph.
 
 # Related
 

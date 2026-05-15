@@ -337,3 +337,15 @@
 - Workstream C: Synthesis (Paragraph 2 Test, cascade problem, OKR/agile/agent parallels, Weick/Drucker/Marquet)
 - Concept updated: [[mission-command]] — added deep-dive backlink section and OPORD-Agent parallel table
 - Commits: ccb3b1b (etymology), 39ee6c1 (standardization), 7d8996b (deep dive), [this commit] (concept update)
+
+## [2026-05-15] ingest | NASA mission model research (6 raw, 1 finding, 1 concept update)
+- Raw sources created (6):
+  - research/raw/nasa-npr-7120-5f-overview.md (NPR 7120.5F lifecycle standard from NODIS)
+  - research/raw/nasa-discovery-program.md (Discovery Program: goals, cost cap, 16 missions, PI model)
+  - research/raw/nasa-new-frontiers-program.md (New Frontiers: AO selection, PI responsibilities, 4 missions)
+  - research/raw/nasa-mars-exploration-program.md (Mars Exploration: 60+ year program, habitability question)
+  - research/raw/nasa-planetary-science-programs-overview.md (Program classification: Discovery/New Frontiers/Mars/Flagship)
+  - research/raw/nasa-mission-taxonomy.md (nasa.gov/missions metadata taxonomy: status, type, target, program)
+- Finding created: research/findings/nasa-mission-model.md (synthesized hierarchy: Directorate > Program > Project > Mission)
+- Concept updated: insights/concepts/mission-command.md — added "The NASA Parallel" section linking NASA organizational architecture to mission command doctrine. Proved mission-based organization scales beyond military into science and public administration.
+- Key insight: "Congress funds Projects. The public rallies around Missions." The PI is the distributed commander. NPR 7120.5F is the General Staff. The Decadal Survey is the commander's intent.
