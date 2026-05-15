@@ -14,6 +14,7 @@ related:
 - multi-agent-coordination-patterns
 - progressive-autonomy
 - deployment-governance
+- management-by-objectives
 source: research/raw/auftragstaktik-mission-command.md
 ---
 # Kanban Doctrine: Auftragstaktik as Operating System

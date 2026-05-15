@@ -9,6 +9,10 @@ related:
   - opord-mission-command-synthesis
   - progressive-autonomy
   - intelligence-graph-organization
+  - intent-architecture
+  - collins-porras-bhag-mechanics
+  - sinek-golden-circle
+  - bhag-sinek-synthesis
 source: research/findings/mission-in-business.md
 ---
 

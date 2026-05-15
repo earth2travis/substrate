@@ -11,6 +11,7 @@ related:
   - decision-provenance
   - centaur-principle
   - protocol-as-coordination
+  - management-by-objectives
 source: research/findings/principal-agent-theory.md
 created: 2026-05-15
 updated: 2026-05-15

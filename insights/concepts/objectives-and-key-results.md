@@ -13,6 +13,7 @@ related:
   - progressive-autonomy
   - centaur-principle
   - institutional-ai-redesign
+  - intent-architecture
 source: research/findings/grove-okrs-intent-architecture.md
 ---
 

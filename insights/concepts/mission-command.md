@@ -16,6 +16,7 @@ related:
 - mission-command-philosophy-deep-dive
 - opord-mission-command-synthesis
 - nasa-mission-model
+- management-by-objectives
 source: insights/concepts/mission-command.md
 ---
 # Mission Command

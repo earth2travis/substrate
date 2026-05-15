@@ -365,3 +365,29 @@
 - Cross-references: links to [[mission-arc]], [[mission-command]], [[principal-agent-theory]], [[kanban-doctrine]], [[progressive-autonomy]], [[intelligence-graph-organization]]
 - Backlinks: updated INDEX.md with new "Mission and purpose" section
 - Inventory update: 314 findings, 82 concepts, 312 raw sources
+
+## [2026-05-15] research | Drucker's Management by Objectives deep dive (1 raw, 1 finding, 1 concept)
+- Raw source created: research/raw/drucker-management-by-objectives-deep-dive.md (Drucker biography, MBO five steps, Deming critique, OKR evolution, principal-agent contract mapping, military/NASA parallels)
+- Finding created: research/findings/drucker-management-by-objectives-deep-dive.md (synthesized: MBO as civilian Auftragstaktik, structural inversion from Taylorism, Deming critique, OKR evolution, cascade problem, agent-native contract implications)
+- Concept promoted: insights/concepts/management-by-objectives.md (MBO as incomplete contract for delegated execution, Objective-Intent Paradox, four-layer Intent Architecture mapping)
+- Cross-references: linked to [[mission-command]], [[principal-agent-theory]], [[kanban-doctrine]], [[mission-in-business]], [[opord-mission-command-synthesis]], [[progressive-autonomy]], [[centaur-principle]], [[decision-provenance]], [[protocol-as-coordination]]
+- Backlinks: updated [[mission-in-business]], [[principal-agent-theory]], [[mission-command]], [[kanban-doctrine]] with cross-references to new concept
+- Updated INDEX.md with new concept entry under "Mission and purpose"
+- Lint: TBD
+- Inventory update: 315 findings, 83 concepts, 313 raw sources
+
+## [2026-05-15] research | Collins/Porras BHAGs and Sinek's Why deep dive (3 raw, 3 findings, 1 concept)
+- Raw sources created:
+  - research/raw/collins-porras-bhag-mechanics.md (BHAG definition, 5 attributes, examples, Preserve the Core/Stimulate Progress paradox, Rosenzweig/Kahneman criticism, visionary company decline post-1994)
+  - research/raw/sinek-golden-circle-deep-dive.md (Golden Circle model, biological claims, diffusion of innovation, criticism, NASA Decadal Survey parallel, Infinite Game extension)
+  - research/raw/bhag-sinek-synthesis.md (hierarchy of intent, BHAG-OKR relationship, intent constraint, visionary company BHAG maintenance post-1994, agent-native implications)
+- Findings created:
+  - research/findings/collins-porras-bhag-mechanics.md
+  - research/findings/sinek-golden-circle.md
+  - research/findings/bhag-sinek-synthesis.md
+- Concept promoted: insights/concepts/intent-architecture.md (Why + BHAG as the upstream intent layer above OKRs/tasks; cascade problem prevention; NASA parallel; agent-native design requirements)
+- Cross-references: linked to [[mission-command]], [[mission-in-business]], [[opord-mission-command-synthesis]], [[nasa-mission-model]], [[principal-agent-theory]], [[kanban-doctrine]], [[objectives-and-key-results]], [[management-by-objectives]], [[progressive-autonomy]], [[centaur-principle]]
+- Backlinks: updated [[mission-in-business]], [[INDEX.md]] with new concept entry under "Mission and purpose"
+- Updated insights/concepts/objectives-and-key-results.md with intent-architecture backlink
+- Lint: TBD
+- Inventory update: 318 findings, 84 concepts, 316 raw sources
