@@ -349,3 +349,12 @@
 - Finding created: research/findings/nasa-mission-model.md (synthesized hierarchy: Directorate > Program > Project > Mission)
 - Concept updated: insights/concepts/mission-command.md — added "The NASA Parallel" section linking NASA organizational architecture to mission command doctrine. Proved mission-based organization scales beyond military into science and public administration.
 - Key insight: "Congress funds Projects. The public rallies around Missions." The PI is the distributed commander. NPR 7120.5F is the General Staff. The Decadal Survey is the commander's intent.
+
+## [2026-05-15] ingest | Mission in business context
+- Sources: Wikipedia on mission statement, management by objectives, OKRs, Built to Last, Simon Sinek
+- Raw file created: research/raw/mission-in-business-context.md
+- Finding created: research/findings/mission-in-business.md
+- Insight promoted: insights/concepts/mission-in-business.md
+- Cross-references: links to [[mission-arc]], [[mission-command]], [[principal-agent-theory]], [[kanban-doctrine]], [[progressive-autonomy]], [[intelligence-graph-organization]]
+- Backlinks: updated INDEX.md with new "Mission and purpose" section
+- Inventory update: 314 findings, 82 concepts, 312 raw sources

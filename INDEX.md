@@ -1,6 +1,6 @@
 # Substrate Index
 
-The shared nervous system. Current inventory: 313 findings, 81 concepts, 2 entities, 311 raw sources.
+The shared nervous system. Current inventory: 314 findings, 82 concepts, 2 entities, 312 raw sources.
 
 ## Core Directories
 - [[research/]] — Incoming work. Raw sources in `raw/`; synthesized findings in `findings/`.
@@ -16,6 +16,12 @@ Agent operating model and design:
 - [[context-stack]] — Portable identity: four-layer markdown specification for agents.
 - [[agent-memory]] — From flat files to structured continuity.
 - [[llm-wiki-pattern]] — Compounding knowledge base maintained by LLMs.
+
+Mission and purpose:
+- [[mission-arc]] — Four-stage arc: religious, military, NASA, diplomatic, and business mission concepts.
+- [[mission-command]] — Command by intent rather than instruction.
+- [[mission-in-business]] — Corporate purpose: MBO, OKR, Collins/Porras, Sinek.
+- [[principal-agent-theory]] — The economics of delegation across all mission domains.
 
 Infrastructure and factory metaphors:
 - [[dark-factory]] — Lights-out manufacturing as pattern for autonomous agent systems.
