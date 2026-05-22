@@ -1,6 +1,6 @@
 # Substrate Index
 
-The shared nervous system. Current inventory: 318 findings, 83 concepts, 2 entities, 312 raw sources.
+The shared nervous system. Current inventory: 319 findings, 83 concepts, 2 entities, 349 raw sources.
 
 ## Core Directories
 - [[research/]] — Incoming work. Raw sources in `raw/`; synthesized findings in `findings/`.
@@ -16,6 +16,7 @@ Agent operating model and design:
 - [[context-stack]] — Portable identity: four-layer markdown specification for agents.
 - [[agent-memory]] — From flat files to structured continuity.
 - [[llm-wiki-pattern]] — Compounding knowledge base maintained by LLMs.
+- [[karpathy-autoresearch]] — Autonomous LLM pretraining loop: constraint architecture, fixed budgets, and NEVER STOP autonomy.
 
 Mission and purpose:
 - [[mission-arc]] — Four-stage arc: religious, military, NASA, diplomatic, and business mission concepts.

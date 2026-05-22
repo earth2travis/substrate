@@ -1,3 +1,9 @@
+---
+source_url: https://github.com/karpathy/autoresearch
+ingested: 2026-05-21
+sha256: ef395b591000753ad4aea0487df3d7955a6387d98309b418a489d0efc8be9084
+---
+
 # Karpathy autoresearch: Autonomous LLM Pretraining Research Swarm
 
 **Source:** https://github.com/karpathy/autoresearch (commit 228791f, ~March 2026)  

@@ -399,3 +399,10 @@
 - Cross-references: links to [[mission-arc]], [[mission-command]], [[management-by-objectives]], [[objectives-and-key-results]], [[intent-architecture]], [[principal-agent-theory]], [[kanban-doctrine]], [[opord-mission-command-synthesis]], [[nasa-mission-model]], [[diplomatic-mission]], [[mission-in-business]], [[progressive-autonomy]], [[workflow-as-contract]], [[centaur-principle]], [[protocol-as-coordination]]
 - Updated INDEX.md with new concept entry under "Mission and purpose"
 - Inventory: 318 findings, 83 concepts, 312 raw sources
+
+## [2026-05-22] synthesis | karpathy-autoresearch (1 finding)
+- Source: research/raw/karpathy-autoresearch.md
+- Finding created: research/findings/karpathy-autoresearch.md (133 lines)
+- Content: Autonomous LLM pretraining loop by Karpathy — constraint architecture (one file to edit), fixed 5-minute wall-clock budget, NEVER STOP autonomy, git branch as proof-of-work ledger
+- Cross-references: [[goal-primitive]], [[kanban-doctrine]], [[proof-of-work]], [[skills-as-portable-knowledge]], [[dark-factory]], [[harness-engineering]], [[management-by-objectives]]
+- Lint: clean (0 errors, 15 warnings, 211 info)
