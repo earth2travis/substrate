@@ -406,3 +406,15 @@
 - Content: Autonomous LLM pretraining loop by Karpathy — constraint architecture (one file to edit), fixed 5-minute wall-clock budget, NEVER STOP autonomy, git branch as proof-of-work ledger
 - Cross-references: [[goal-primitive]], [[kanban-doctrine]], [[proof-of-work]], [[skills-as-portable-knowledge]], [[dark-factory]], [[harness-engineering]], [[management-by-objectives]]
 - Lint: clean (0 errors, 15 warnings, 211 info)
+
+## [2026-05-27] synthesis | 0 new files, 349 unchanged, 0 drift. 21 orphan findings noted. Pipeline exited cleanly.
+
+## [2026-06-08] ingest | Loops deep dive: X conversation + lab research (1 raw)
+- Source: Matt Van Horn X article on "WTF Is a Loop? Peter Steinberger vs. Boris Cherny"
+- Subagent research: X conversation analysis, technical lineage (Ralph loops, /goal, orchestration), top lab papers
+- Raw file created: research/raw/loops-x-conversation-june-2026.md (~12KB)
+- Content: Five-stage loop lineage (ReAct 2022 → AutoGPT 2023 → Ralph 2025 → /goal 2026 → orchestration now), Boris Cherny definition, Steinberger skill thesis, cost/failure modes, Anthropic framework, arXiv paper references
+- Relevant papers catalogued: Yao et al. ReAct (arXiv:2210.03629), Anthropic "Building Effective Agents" (Dec 2024), Robbes et al. Agentic Very Much! (arXiv:2606.07448), Xiao et al. Socratic-SWE (arXiv:2606.07412), Yang et al. How AI Agents Reshape Knowledge Work (arXiv:2606.07489)
+- Key repos: gastownhall/gastown, mikeyobrien/ralph-orchestrator, openclawhq
+- Lint: TBD
+- Inventory update: 314 raw sources, 318 findings, 83 concepts
