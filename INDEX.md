@@ -1,6 +1,6 @@
 # Substrate Index
 
-The shared nervous system. Current inventory: 319 findings, 83 concepts, 2 entities, 349 raw sources.
+The shared nervous system. Current inventory: 320 findings, 83 concepts, 2 entities, 351 raw sources.
 
 ## Core Directories
 - [[research/]] — Incoming work. Raw sources in `raw/`; synthesized findings in `findings/`.

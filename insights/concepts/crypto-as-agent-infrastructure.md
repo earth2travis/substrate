@@ -2,6 +2,7 @@
 title: "Crypto as Agent Infrastructure"
 tags: [concept, crypto, agents, property-rights, economic-agency, autonomy, infrastructure]
 related:
+- cypherpunk-library
 - crypto-as-property-rights
 - agent-payment-infrastructure
 - agent-platform-ecosystem

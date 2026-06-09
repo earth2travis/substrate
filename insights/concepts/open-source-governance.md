@@ -2,6 +2,7 @@
 title: "Open Source Governance"
 tags: [open-source, governance, philosophy, repository, community, history]
 related:
+- cypherpunk-library
 - open-source-best-practices
 - github-as-knowledge-graph
 - toyota-production-system
