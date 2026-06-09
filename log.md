@@ -418,3 +418,9 @@
 - Key repos: gastownhall/gastown, mikeyobrien/ralph-orchestrator, openclawhq
 - Lint: TBD
 - Inventory update: 314 raw sources, 318 findings, 83 concepts
+
+## [2026-06-09] capture | Cypherpunk Library (cypherpunkbooks.com)
+- Raw source created: research/raw/cypherpunk-library.md (~2KB)
+- Content: Curated digital library of foundational cypherpunk texts including Hughes manifesto, May's Crypto Anarchist Manifesto, Barlow's Declaration, Finney on eCash, Nash on Ideal Money, Zimmermann on PGP, and links to Anna's Archive / LibGen
+- Cross-references: [[cypherpunk-research]], [[open-source-best-practices]], [[protocol-fiction]], [[crypto-as-property-rights]]
+- Inventory update: 351 raw sources
