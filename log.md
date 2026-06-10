@@ -424,3 +424,21 @@
 - Content: Curated digital library of foundational cypherpunk texts including Hughes manifesto, May's Crypto Anarchist Manifesto, Barlow's Declaration, Finney on eCash, Nash on Ideal Money, Zimmermann on PGP, and links to Anna's Archive / LibGen
 - Cross-references: [[cypherpunk-library]], [[open-source-best-practices]], [[protocol-fiction]], [[crypto-as-property-rights]]
 - Inventory update: 351 raw sources
+
+## [2026-06-09] synthesis | 1 finding updated, lint: clean
+- Ingest: 351 files scanned, 1 new, 0 changed
+- New raw: cypherpunk-library.md (cypherpunkbooks.com catalog)
+- Finding created: research/findings/cypherpunk-library.md
+- Related links updated: insights/concepts/open-source-governance.md, insights/concepts/crypto-as-agent-infrastructure.md
+- INDEX.md updated: 320 findings, 351 raw sources
+- Lint: PASSED (0 errors, 16 warnings, 211 info)
+- Commit: 9d7e762 — feat: cypherpunk-library finding + related link updates
+- PR: not opened (main branch, push only)
+
+## [2026-06-10] ingest | Designing loops with Fable 5 (1 raw)
+- Source: Lance Martin X article, tweet ID 2064397389189071163
+- Raw file created: research/raw/2026-06-10-designing-loops-with-fable-5.md (~10KB)
+- Content: Full article text from archived mirror (SOTA Sync) + Claude Managed Agents technical context + synthesis notes
+- Key topics: Self-correction loops, Parameter Golf experiment (Fable 5 vs Opus 4.7, 6x improvement), memory as outer loop, Continual Learning Bench 1.0 results
+- Cross-references: [[loops-x-conversation-june-2026]], [[goal-primitive]], [[harness-engineering]], [[karpathy-autoresearch]], [[agent-memory]], [[subagent-architecture]], [[centaur-principle]]
+- Inventory update: 352 raw sources (pending daily synthesis pipeline)
