@@ -442,3 +442,12 @@
 - Key topics: Self-correction loops, Parameter Golf experiment (Fable 5 vs Opus 4.7, 6x improvement), memory as outer loop, Continual Learning Bench 1.0 results
 - Cross-references: [[loops-x-conversation-june-2026]], [[goal-primitive]], [[harness-engineering]], [[karpathy-autoresearch]], [[agent-memory]], [[subagent-architecture]], [[centaur-principle]]
 - Inventory update: 352 raw sources (pending daily synthesis pipeline)
+
+## [2026-06-10] synthesis | 1 finding updated, lint: clean
+- Ingest: 352 files scanned, 1 new, 0 changed
+- New raw: 2026-06-10-designing-loops-with-fable-5.md (Lance Martin X article on Fable 5)
+- Finding created: research/findings/fable-5-loops-and-memory.md
+- Cross-references: goal-primitive, harness-engineering, karpathy-autoresearch, agent-memory, subagent-architecture, centaur-principle, feedback-loop-discipline, per-run-learning, synthesis-over-retrieval
+- Lint: PASSED (0 errors, 16 warnings, 211 info)
+- Commit: f4af2de — feat: fable-5 finding + index update (1 new raw, 1 finding, lint clean)
+- INDEX.md updated: 321 findings, 352 raw sources
