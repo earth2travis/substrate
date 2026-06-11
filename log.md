@@ -455,3 +455,12 @@
 ## [2026-06-11] no-op | Daily synthesis — no new/changed sources
 - Ingest: 352 files scanned, 0 new, 0 changed, 22 orphan findings (known stem-mismatch false positives, incl. fable-5-loops-and-memory vs dated raw filename)
 - No synthesis required. Exiting cleanly.
+
+## [2026-06-11] ingest | missions-site deploy debugging findings (card trail provenance)
+- Source: Kanban card t_340d7b29 comment trail + missions-site repo commits (8d3ae28, 1cdb213); AAR at missions/missions-site.aar.md in missions repo
+- Raw file created: research/raw/2026-06-11-missions-site-deploy-debugging.md (evidence record: failure signature, both root causes, commits, version ids)
+- Findings created:
+  - research/findings/wrangler-3-vinext-handler-detection-failure.md — wrangler 3 uploads vinext 0.1.1 worker with handlers=[], deploy reports success, placeholder serves; fix is wrangler 4
+  - research/findings/run-worker-first-asset-misroute-masking.md — run_worker_first:true misroutes /_next/static/* into SSR worker; rule-array fix needs >=1 positive rule; masking pattern (config change made while system is dead cannot be validated)
+- Cross-references: cloudflare-first-agent-factory, deployment-governance, harness-engineering, browser-verification
+- INDEX.md updated: 323 findings, 353 raw sources
