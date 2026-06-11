@@ -451,3 +451,7 @@
 - Lint: PASSED (0 errors, 16 warnings, 211 info)
 - Commit: f4af2de — feat: fable-5 finding + index update (1 new raw, 1 finding, lint clean)
 - INDEX.md updated: 321 findings, 352 raw sources
+
+## [2026-06-11] no-op | Daily synthesis — no new/changed sources
+- Ingest: 352 files scanned, 0 new, 0 changed, 22 orphan findings (known stem-mismatch false positives, incl. fable-5-loops-and-memory vs dated raw filename)
+- No synthesis required. Exiting cleanly.
