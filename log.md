@@ -464,3 +464,9 @@
   - research/findings/run-worker-first-asset-misroute-masking.md — run_worker_first:true misroutes /_next/static/* into SSR worker; rule-array fix needs >=1 positive rule; masking pattern (config change made while system is dead cannot be validated)
 - Cross-references: cloudflare-first-agent-factory, deployment-governance, harness-engineering, browser-verification
 - INDEX.md updated: 323 findings, 353 raw sources
+
+## [2026-06-12] no-op | Daily synthesis — no new/changed sources
+- Ingest: 353 files scanned, 0 new, 0 changed, 24 orphan findings (known stem-mismatch false positives; +2 from 2026-06-11 deploy-debugging findings whose stems differ from the dated raw filename)
+- First digest run flagged 2026-06-11-missions-site-deploy-debugging.md as "new" but it was already fully ingested in commit ce76c36; hash state was simply behind. State refreshed, second run confirms clean.
+- Lint: PASSED (0 errors, 16 warnings, 211 info)
+- No synthesis required. Exiting cleanly.
