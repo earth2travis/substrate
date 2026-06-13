@@ -470,3 +470,10 @@
 - First digest run flagged 2026-06-11-missions-site-deploy-debugging.md as "new" but it was already fully ingested in commit ce76c36; hash state was simply behind. State refreshed, second run confirms clean.
 - Lint: PASSED (0 errors, 16 warnings, 211 info)
 - No synthesis required. Exiting cleanly.
+
+## [2026-06-13] ingest | The Bayern Maneuver: Legal Theory of Autonomous-System Entities (1 raw)
+- Source: Shawn Bayern, 19 Stan. Tech. L. Rev. 93 (2015), full primary PDF retrieved and read; plus Of Bitcoins/Zero-Member LLC (108 Nw. U. L. Rev. 1485), Autonomous Organizations (CUP 2021), LoPucki Algorithmic Entities (95 Wash. U. L. Rev. 887), Bryson et al. legal lacuna (25 AI and Law 273)
+- Trigger: ClawBank/$CLAWBANK tweet (June 12, 2026) claiming first implementation of the "Bayern Maneuver" via Manfred LLC
+- Raw file created: research/raw/bayern-maneuver-legal-theory.md (~18KB deep dive)
+- Key content: zero-member LLC mechanism (RULLCA 701(a)(3)/110(c) waivability argument, NY LLC Law 701(a)(4)), entity cross-ownership fallback, process-agreement equivalence principle, grantable vs regulatory vs denialist personhood models, Scherer/LoPucki/Bryson counter-literature, ClawBank June 2026 context
+- Inventory update: 354 raw sources (pending daily synthesis pipeline)
