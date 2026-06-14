@@ -5,6 +5,12 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 >
+## [2026-06-14] ingest | myth-of-sisyphus-camus
+- Source: Albert Camus, *The Myth of Sisyphus* (1942)
+- File created: research/raw/myth-of-sisyphus-camus.md (~18KB deep dive)
+- Content: The Absurd (definition, feeling of exile), central question of suicide, three responses (physical suicide, philosophical suicide, revolt), three consequences (revolt, freedom, passion), absurd man sketches (Don Juan, actor, conqueror), absurd creation and Dostoevsky critique, the myth of Sisyphus and "One must imagine Sisyphus happy," appendix on Kafka, philosophical context (Kierkegaard, Nietzsche, existentialism), critical reception (Nagel), relation to Camus's other works
+- Trigger: operator finished reading the work and requested a deep dive for the Brain
+
 ## [2026-05-07] ingest | Batch 19: figma-design (6 findings)
 - Sources: design-md-transcript, figma-dev-mode-presentation, figma-x-claude-code-livestream, skill-design-foundations, stitch-design-md-claude-code-workflow, stitch-march-2026-update-walkthrough
 - Findings created (6): design.md as portable design system; Figma MCP native tooling; live roundtrip workflow; skill design foundations; Stitch design.md practical workflow; Stitch March 2026 update
