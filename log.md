@@ -477,3 +477,11 @@
 - Raw file created: research/raw/bayern-maneuver-legal-theory.md (~18KB deep dive)
 - Key content: zero-member LLC mechanism (RULLCA 701(a)(3)/110(c) waivability argument, NY LLC Law 701(a)(4)), entity cross-ownership fallback, process-agreement equivalence principle, grantable vs regulatory vs denialist personhood models, Scherer/LoPucki/Bryson counter-literature, ClawBank June 2026 context
 - Inventory update: 354 raw sources (pending daily synthesis pipeline)
+## [2026-06-14] synthesis | Bayern Maneuver finding (1 new raw, sync of pending)
+- Raw source: research/raw/bayern-maneuver-legal-theory.md (ingested 2026-06-13, synthesized 2026-06-14)
+- Finding created: research/findings/bayern-maneuver-legal-theory.md
+  - Title: The Bayern Maneuver: Zero-Member LLCs as Legal Personhood for Autonomous Systems
+  - Tags: agents, legal, governance, entity, autonomy, personhood
+  - Cross-references: principal-agent-theory, workflow-as-contract, agent-identity, progressive-autonomy, protocol-as-coordination, constitutional-governance
+- INDEX.md updated: 324 findings, 354 raw sources
+- Lint: PASSED (0 errors, 16 warnings, 211 info)
