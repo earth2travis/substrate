@@ -491,3 +491,9 @@
   - Cross-references: principal-agent-theory, workflow-as-contract, agent-identity, progressive-autonomy, protocol-as-coordination, constitutional-governance
 - INDEX.md updated: 324 findings, 354 raw sources
 - Lint: PASSED (0 errors, 16 warnings, 211 info)
+## [2026-06-15] synthesis | Daily synthesis — 1 finding, lint: clean
+- New raw source: myth-of-sisyphus-camus.md (355 raw files total, was ingested 2026-06-14)
+- Finding created: research/findings/myth-of-sisyphus-camus.md
+- Cross-references: process-without-substance, principal-agent-theory, kaizen, kanban-doctrine, process-philosophy
+- Lint: 0 errors, 16 warnings (pre-existing), 211 info (pre-existing forward references in raw/)
+- INDEX.md: updated counts (325 findings, 355 raw sources)
