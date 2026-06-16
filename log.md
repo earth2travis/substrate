@@ -5,6 +5,14 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 >
+## [2026-06-16] ingest | Marc Andreessen's radical information diet
+- Source: Marc Andreessen X article + tweet, March 9, 2026
+- File created: research/raw/andreessen-information-diet.md (~13KB deep dive)
+- Content: Four-quadrant information diet (1/4 X, 1/4 practitioner podcasts, 1/4 AI models, 1/4 old books), opportunity cost principle, Lindy Effect, barbell strategy, signal-to-noise optimization, connection to Andreessen's broader philosophy (agency, E-shaped careers, AI as philosopher's stone, time to build), implications for agent systems and missions architecture
+- Cross-references: [[agent-memory]], [[intent-architecture]], [[lean-doctrine]], [[kanban-doctrine]], [[llm-wiki-pattern]]
+- Research opportunities identified: Lindy Effect audit of the Brain, practitioner mental models extraction pipeline, agent tool signal-to-noise audit, curation architecture problem, barbell strategy for agent risk
+- Trigger: operator shared the tweet and requested deep dive
+
 ## [2026-06-14] ingest | myth-of-sisyphus-camus
 - Source: Albert Camus, *The Myth of Sisyphus* (1942)
 - File created: research/raw/myth-of-sisyphus-camus.md (~18KB deep dive)
@@ -497,3 +505,6 @@
 - Cross-references: process-without-substance, principal-agent-theory, kaizen, kanban-doctrine, process-philosophy
 - Lint: 0 errors, 16 warnings (pre-existing), 211 info (pre-existing forward references in raw/)
 - INDEX.md: updated counts (325 findings, 355 raw sources)
+## [2026-06-16] no-op | Daily synthesis — no new/changed sources
+- Ingest: 355 files scanned, 0 new, 0 changed, 24 orphan findings
+- No synthesis required. Exiting cleanly.
