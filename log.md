@@ -508,3 +508,9 @@
 ## [2026-06-16] no-op | Daily synthesis — no new/changed sources
 - Ingest: 355 files scanned, 0 new, 0 changed, 24 orphan findings
 - No synthesis required. Exiting cleanly.
+## [2026-06-17] synthesis | Andreessen information diet (1 finding, lint: clean)
+- New raw source: andreessen-information-diet.md (356 raw files total)
+- Finding created: research/findings/andreessen-information-diet.md
+- Cross-references: agent-memory, llm-wiki-pattern, intent-architecture, kanban-doctrine, principal-agent-theory, kaizen, agent-native-operations, tools-landscape, context-stack, workflow-as-contract
+- Lint: 0 errors, 17 warnings (pre-existing), 211 info (pre-existing forward references in raw/)
+- INDEX.md: updated counts (326 findings, 356 raw sources)
