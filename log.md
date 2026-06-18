@@ -5,6 +5,18 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 >
+## [2026-06-18] no-op | Daily synthesis — no new/changed sources
+- Ingest: 356 files scanned, 0 new, 0 changed, 0 SHA drift, HTML excluded: 0
+- Lint: not run (no synthesis; lint is the gate for commits, none made)
+- Orphan findings: 24 (up from 2 on last no-op [2026-05-06])
+  - Mission/linguistics batch (~2026-05-15, 12): robert-morrison-finding, adoniram-judson-finding, sequoyah-cherokee-finding, wycliffe-sil-finding, medieval-mission-concept, jesuit-missions-concept, missio-dei-concept, apostolic-mission-foundation, protestant-missions-concept, religious-mission-comparative, missionary-linguist-tool-inventor, james-evans-finding
+  - NASA cluster (2): nasa-mission-model, nasa-lifecycle-gates-and-decadal-survey
+  - Intent/business (4): grove-okrs-intent-architecture, mission-in-business, sinek-golden-circle, goal-primitive-three-implementations
+  - Other (4): deseret-alphabet-finding, fable-5-loops-and-memory, run-worker-first-asset-misroute-masking, wrangler-3-vinext-handler-detection-failure
+  - Known stem-mismatch false positives (2): five-whys, 28-openclaw-mistakes
+- Assessment: 22 of 24 are genuine orphans from batches whose findings were written but never back-linked into the insight graph. Not synthesis work; a connectivity campaign (add incoming `[[wikilinks]]` to the orphan stems from bridge concepts) is the right remedy, recommended for a future session.
+- No synthesis required. Exiting cleanly.
+
 ## [2026-06-16] ingest | Marc Andreessen's radical information diet
 - Source: Marc Andreessen X article + tweet, March 9, 2026
 - File created: research/raw/andreessen-information-diet.md (~13KB deep dive)
