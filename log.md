@@ -526,3 +526,11 @@
 - Cross-references: agent-memory, llm-wiki-pattern, intent-architecture, kanban-doctrine, principal-agent-theory, kaizen, agent-native-operations, tools-landscape, context-stack, workflow-as-contract
 - Lint: 0 errors, 17 warnings (pre-existing), 211 info (pre-existing forward references in raw/)
 - INDEX.md: updated counts (326 findings, 356 raw sources)
+
+## [2026-06-21] no-op | Daily synthesis — no new/changed sources
+- Ingest: 356 files scanned, 0 new, 0 changed, 0 SHA drift, HTML excluded: 0
+- Lint: not run (no synthesis; lint is the gate for commits, none made)
+- Orphan findings: 24 (unchanged from [2026-06-18])
+  - Same set as prior no-op: mission/linguistics batch (12), NASA cluster (2), intent/business (4), other (6 including 2 known stem-mismatch false positives)
+  - Assessment unchanged: 22 of 24 are genuine orphans needing back-links (connectivity campaign), not synthesis work
+- No synthesis required. Exiting cleanly.
