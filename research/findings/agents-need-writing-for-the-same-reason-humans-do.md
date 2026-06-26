@@ -29,7 +29,7 @@ Context is not just "more tokens." It is structured, cross-referenced, and curre
 
 ## Implications for Our System
 
-1. **Substrate is the competitive advantage.** The accumulated understanding that compounds over time. If it is not in the Brain, it did not happen.
+1. **Substrate is the competitive advantage.** The accumulated understanding that compounds over time. If it is not in the Substrate, it did not happen.
 2. **Agents are the maintainers.** The agent system should write findings, create insights, update cross-references, and append to the log. This is not extra work; it is the work.
 3. **Writing is reasoning.** When an agent writes a finding, it is not just transcribing. It is synthesizing, selecting, and structuring. The output is a compression of understanding.
 4. **Context rot is real.** If the substrate becomes stale, agent quality degrades. The cron job that runs daily synthesis is not optional infrastructure. It is the heartbeat.

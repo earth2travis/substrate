@@ -41,9 +41,9 @@ The agent-system implications are the actionable payload. The four quadrants map
 | X (real-time signals) | Web search, API feeds, live monitoring | [[tools-landscape]], browser automation |
 | Podcast interviews (practitioner mental models) | Operator debriefs, after-action reviews, structured interviews | [[kanban-doctrine]], [[workflow-as-contract]] |
 | AI models (synthesis partner) | Other agents, multi-agent reasoning, delegation | [[principal-agent-theory]] |
-| Old books (durable knowledge) | The Brain, institutional knowledge, skills | [[agent-memory]], [[llm-wiki-pattern]] |
+| Old books (durable knowledge) | The Substrate, institutional knowledge, skills | [[agent-memory]], [[llm-wiki-pattern]] |
 
-The "old books" quadrant maps directly onto what Substrate is designed to be: the durable knowledge layer that persists across sessions, agents, and missions. The [[llm-wiki-pattern]] is the mechanism; [[agent-memory]] is the substrate. Andreessen's framework validates the architecture: the Brain is the agent's "old books" quadrant, and its quality determines output quality as much as model capability.
+The "old books" quadrant maps directly onto what Substrate is designed to be: the durable knowledge layer that persists across sessions, agents, and missions. The [[llm-wiki-pattern]] is the mechanism; [[agent-memory]] is the substrate. Andreessen's framework validates the architecture: the Substrate is the agent's "old books" quadrant, and its quality determines output quality as much as model capability.
 
 The "rising daily" dynamic is even more acute for agents than for humans. As more tools, MCP servers, and APIs become available, the agent's curation problem gets harder. The default response — call everything, read everything, include everything — produces worse results over time. The system needs an explicit curation architecture. [[intent-architecture]] provides the upstream framing: the Commander's Intent is the durable "why" that doesn't change, and the information diet is the constraint that keeps the system oriented toward it.
 
@@ -51,7 +51,7 @@ The "rising daily" dynamic is even more acute for agents than for humans. As mor
 
 **The information diet is a mission design parameter.** Each mission should specify its information diet: what sources it draws from, what it explicitly excludes, and what the opportunity cost of inclusion is. This is a natural extension of [[kanban-doctrine]]: auftragstaktik requires the agent to know not just what to do but what to ignore.
 
-**The four quadrants as a mission rhythm.** A mission can cycle through the quadrants: orient (real-time signals), learn (practitioner debriefs), synthesize (multi-agent reasoning), and ground (Brain consultation). This is a natural rhythm for complex missions, aligning with [[kaizen]]: continuous improvement of the curation mechanism itself.
+**The four quadrants as a mission rhythm.** A mission can cycle through the quadrants: orient (real-time signals), learn (practitioner debriefs), synthesize (multi-agent reasoning), and ground (Substrate consultation). This is a natural rhythm for complex missions, aligning with [[kaizen]]: continuous improvement of the curation mechanism itself.
 
 **The Bill Ackman question.** Ackman immediately asked Andreessen for his list of favorite practitioners. The equivalent for Substrate: which operators, which agents, which sources of signal have proven most valuable? The system should track this. It should know its own information diet performance. [[agent-native-operations]] implies that the system's own operating practices — including its information diet — should be visible, versioned, and improvable.
 

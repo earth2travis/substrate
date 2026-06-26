@@ -15,7 +15,7 @@ source: internal-process
 
 ## What Was Attempted
 
-This maintenance cycle had one goal: move the Brain from a pile of files to a connected knowledge graph. The work broke into four phases.
+This maintenance cycle had one goal: move the Substrate from a pile of files to a connected knowledge graph. The work broke into four phases.
 
 **Phase 0: Ingest backfill.** 311 raw files produced 313 findings and 73 concepts. Branch `auto/ingest-20260506-040805`, merged.
 
@@ -127,4 +127,4 @@ Tools used: `scripts/_lint.py` for structural validation, `scripts/_ingest.py` f
 ---
 
 *Retro written: 2026-05-07*
-*Next retro due: after the next maintenance cycle or when the Brain exceeds 1000 nodes.*
+*Next retro due: after the next maintenance cycle or when the Substrate exceeds 1000 nodes.*

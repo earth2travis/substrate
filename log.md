@@ -40,14 +40,14 @@
 - File created: research/raw/andreessen-information-diet.md (~13KB deep dive)
 - Content: Four-quadrant information diet (1/4 X, 1/4 practitioner podcasts, 1/4 AI models, 1/4 old books), opportunity cost principle, Lindy Effect, barbell strategy, signal-to-noise optimization, connection to Andreessen's broader philosophy (agency, E-shaped careers, AI as philosopher's stone, time to build), implications for agent systems and missions architecture
 - Cross-references: [[agent-memory]], [[intent-architecture]], [[lean-doctrine]], [[kanban-doctrine]], [[llm-wiki-pattern]]
-- Research opportunities identified: Lindy Effect audit of the Brain, practitioner mental models extraction pipeline, agent tool signal-to-noise audit, curation architecture problem, barbell strategy for agent risk
+- Research opportunities identified: Lindy Effect audit of the Substrate, practitioner mental models extraction pipeline, agent tool signal-to-noise audit, curation architecture problem, barbell strategy for agent risk
 - Trigger: operator shared the tweet and requested deep dive
 
 ## [2026-06-14] ingest | myth-of-sisyphus-camus
 - Source: Albert Camus, *The Myth of Sisyphus* (1942)
 - File created: research/raw/myth-of-sisyphus-camus.md (~18KB deep dive)
 - Content: The Absurd (definition, feeling of exile), central question of suicide, three responses (physical suicide, philosophical suicide, revolt), three consequences (revolt, freedom, passion), absurd man sketches (Don Juan, actor, conqueror), absurd creation and Dostoevsky critique, the myth of Sisyphus and "One must imagine Sisyphus happy," appendix on Kafka, philosophical context (Kierkegaard, Nietzsche, existentialism), critical reception (Nagel), relation to Camus's other works
-- Trigger: operator finished reading the work and requested a deep dive for the Brain
+Trigger: operator finished reading the work and requested deep dive for the Substrate
 
 ## [2026-05-07] ingest | Batch 19: figma-design (6 findings)
 - Sources: design-md-transcript, figma-dev-mode-presentation, figma-x-claude-code-livestream, skill-design-foundations, stitch-design-md-claude-code-workflow, stitch-march-2026-update-walkthrough
@@ -552,3 +552,16 @@
   - Same set as prior no-op: mission/linguistics batch (12), NASA cluster (2), intent/business (4), other (6 including 2 known stem-mismatch false positives)
   - Assessment unchanged: 22 of 24 are genuine orphans needing back-links (connectivity campaign), not synthesis work
 - No synthesis required. Exiting cleanly.
+## [2026-06-26] ingest | Stanford STORM (NAACL 2024) peer-reviewed paper
+- Source: arXiv 2402.14207v2, "Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models" (Shao et al., Stanford OVAL Lab)
+- File created: research/raw/storm-naacl-2024.md (~9.5KB raw capture)
+- Content: Full methodology (perspective discovery, multi-perspective conversation simulation with retrieval, outline curation), evaluation (FreshWiki dataset, 25% organization improvement, 10% coverage improvement over RAG baseline, 84.8% citation recall, 85.2% precision), known weaknesses (source bias transfer, over-association, no self-critique), system architecture, Python usage
+- Trigger: operator directed prioritization of peer-reviewed originals over Nav Toor's viral distillation
+- Cross-references: centaur principle, unknown unknowns, multi-perspective research methodology, Co-STORM
+
+## [2026-06-26] ingest | Stanford Co-STORM (EMNLP 2024) peer-reviewed paper
+- Source: arXiv 2408.15232v2, "Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations" (Jiang et al., Stanford OVAL Lab)
+- File created: research/raw/costorm-emnlp-2024.md (~9.7KB raw capture)
+- Content: Full methodology (collaborative human-AI discourse, agent-initiated questioning, dynamic mind map, comprehensive report), WildSeek dataset, human evaluation (70% prefer over search engine, 78% prefer over RAG chatbot), STORM vs Co-STORM comparison, centaur principle connection, Python usage
+- Trigger: operator directed prioritization of peer-reviewed originals
+- Cross-references: centaur principle, unknown unknowns, STORM paper, human-steered agent discourse

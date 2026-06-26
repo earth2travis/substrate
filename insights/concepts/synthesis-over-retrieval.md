@@ -43,7 +43,7 @@ The synthesis approach pays upfront for cheap queries later. The retrieval appro
 
 ## The Filesystem as Universal API
 
-The best way to deliver synthesized understanding to agents is through a Context Graph stored as files. Every agent already knows how to read files. By decoupling the Brain (Synthesis Layer) from the Agent (Execution Layer), we create a persistent, vendor-agnostic moat.
+The best way to deliver synthesized understanding to agents is through a Context Graph stored as files. Every agent already knows how to read files. By decoupling the Substrate (Synthesis Layer) from the Agent (Execution Layer), we create a persistent, vendor-agnostic moat.
 
 ## Connection to Our System
 
