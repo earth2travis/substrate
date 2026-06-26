@@ -73,7 +73,7 @@ A Python script located in `scripts/_eval.py`. Execution steps:
 3. **Query:** For each question, construct a prompt that forces the engine to answer using only Substrate files, expanded across all known aliases.
 4. **Synthesize:** Generate an answer via the Substrate's knowledge retrieval.
    - Phase 1 (local): Read files directly from the repo. Use a local LLM call.
-   - Phase 2 (cloud): Integrate with the AI Gateway + Workers ("the Brain") for consistent model usage and context window management.
+   - Phase 2 (cloud): Integrate with the AI Gateway + Workers ("the Substrate") for consistent model usage and context window management.
 5. **Cite:** Force the engine to list every source file used in its answer.
 6. **Compare:** Score the generated answer against the human-written ground truth.
 7. **Report:** Write the full eval report to `evals/YYYY-MM-DD-eval.md`.
