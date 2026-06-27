@@ -60,7 +60,21 @@ In spacecraft and military systems integration, subsystems are built separately,
 
 The onboarding IS Integration Day. The agent's subsystems, identity (SOUL.md), operational context (AGENTS.md), capabilities (skills and tools), connectivity (gateway), and autonomy (cron jobs), get connected and tested as a whole, live, with the client present. The client does not receive a finished product. They witness the act of integration. They watch their intent become a living system.
 
-No metaphor tax. Other frames require the client to learn a conceit before they can understand the experience. Integration Day names the actual event. Everyone who has worked on anything complex knows what integration day means: the day you find out if the thing works as a system, not just as parts.
+NASA's Systems Engineering Handbook (SEH Section 5.0, Product Realization) defines five iterative, recursive processes that map directly to the workshop:
+
+1. Product Implementation: make, buy, or reuse the subsystems. The factory produces components: the Hermes install, available skills, model providers.
+2. Product Integration: assemble subsystems into higher-level assemblies per interface requirements. Systems Assembly is where SOUL.md and AGENTS.md get connected and mated.
+3. Product Verification: "Did we build the product right?" Conformance to design specs. The Boot Sequence verifies each stage.
+4. Product Validation: "Did we build the right product?" Meets stakeholder expectations and mission need. The Autonomous Pass validates that the agent understood the mission, not just the instructions.
+5. Product Transition: hand off to the next level. The Readiness Review is the transition to sustained operations.
+
+The verification vs validation distinction is critical. Verification asks "did we build it right" (conformance to spec). Validation asks "did we build the right thing" (meets the actual need). The Boot Sequence verifies. The Autonomous Pass validates. Both must pass for the integration to be considered complete. A system that boots but does not understand the mission has passed verification and failed validation. This is the most common failure mode in agent setup: the config is technically correct but the agent does not grasp the intent.
+
+## A Historical Anchor: MEIT
+
+The concept of formal integration testing has a concrete historical precedent. For the International Space Station program, the concept was formalized as Multi-Element Integration Testing (MEIT) at Kennedy Space Center, added to the ISS plan in 1997 after a debate between "ship-and-shoot" (build a module and launch without physical multi-module testing) and pre-launch integration testing. Three MEIT campaigns and one Integration Systems Test (IST) were conducted, taking approximately three years from planning to closure.
+
+The principle: verify the whole system from separately-built subsystems, not just that each subsystem works in isolation. Interface incompatibilities, software handshakes, and emergent behaviors only surface when elements are actually connected. Each module passed its own tests. The question was whether they would work together. Integration Day asks the same question of the agent's subsystems.
 
 ## The Five Beats
 
@@ -192,6 +206,22 @@ Disciplined initiative: subordinates are expected to adapt. Sticking to original
 The backbrief: before execution, the subordinate presents their plan back to the commander. Not for permission but for alignment. Systems Assembly includes a moment where the operator reads the draft SOUL.md back to the client. This is the backbrief. Does the agent's identity serve the client's intent?
 
 An order constrains method. A mission constrains outcome. The onboarding gives the agent a mission, not an order. This is the structural difference between a handcrafted agent and a stamped one. A stamped agent gets orders. A handcrafted agent gets a mission.
+
+The Bungay Three Gaps. Stephen Bungay identified three gaps that prevent organizations from executing strategy. Mission command closes all three:
+
+1. The Knowledge Gap: leaders know less than they think about the front line. Closed by articulating clear intent. The intake form gives the operator the client's intent, not the front-line details.
+2. The Alignment Gap: plans do not match reality. Closed by allowing subordinate initiative. The agent adapts to the actual situation, not the planned one.
+3. The Effects Gap: actions do not produce intended outcomes. Closed by focusing on outcomes rather than processes. The Autonomous Pass tests the outcome, not the procedure.
+
+Key German vocabulary for the frame's internal vocabulary:
+
+- Auftragstaktik: mission-type tactics. Coined by opponents of the concept. The modern German Army uses Fuhren mit Auftrag ("leading by mission").
+- Auftragsbefehl: mission-type order. The order format that conveys intent rather than step-by-step instructions.
+- Schwerpunkt: focal point. The center of effort. Striking at the right place at the right time, ideally a spot that is both vital and weakly defended.
+- Fingerspitzengefuhl: fingertip feeling. The intuitive, immediate response to a changing situation. Maintaining a mental map of an ever-changing battlefield. Attributed to commanders like Rommel.
+- Fuhrer vor Ort: leader on site. The local leader at the point of action, whose judgment can outweigh the vertical chain of command.
+
+These are internal vocabulary for the integration team, not customer-facing language. The client never hears "Schwerpunkt." The operator knows what it means.
 
 ### NASA Lifecycle Gates
 
