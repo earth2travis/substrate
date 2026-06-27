@@ -565,3 +565,26 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
 - Content: Full methodology (collaborative human-AI discourse, agent-initiated questioning, dynamic mind map, comprehensive report), WildSeek dataset, human evaluation (70% prefer over search engine, 78% prefer over RAG chatbot), STORM vs Co-STORM comparison, centaur principle connection, Python usage
 - Trigger: operator directed prioritization of peer-reviewed originals
 - Cross-references: centaur principle, unknown unknowns, STORM paper, human-steered agent discourse
+## [2026-06-27] ingest | Batch 20: agent-ops and research systems (7 findings)
+- Sources (7 new raw files):
+  - clawbank-shodai-ricardian-contract-research.md (renamed from clawbank_shodai_ricardian_contract_research.md — kebab-case fix)
+  - costorm-emnlp-2024.md
+  - cross-agent-reporting-patterns.md
+  - integration-day-onboarding-frame.md
+  - session-report-best-practices.md
+  - sitrep-origin-and-doctrine.md
+  - storm-naacl-2024.md
+- Findings created (7):
+  - ricardian-contract-agent-economy.md — ClawBank/Shodai first AI-agent-signed Ricardian contract
+  - storm-naacl-2024.md — STORM multi-perspective question asking with retrieval
+  - costorm-emnlp-2024.md — Co-STORM collaborative human-AI knowledge curation for unknown unknowns
+  - cross-agent-reporting-patterns.md — Blackboard architecture for Hermes fleet coordination
+  - integration-day-onboarding-frame.md — Concierge agent onboarding as systems integration
+  - session-report-best-practices.md — Cross-domain synthesis for agent SITREPs
+  - sitrep-origin-and-doctrine.md — SITREP military origins and canonical structure
+- Lint: 0 ERRORs (linted on branch before commit), 23 WARNINGs (all pre-existing/exempt), 211 INFOs
+- Raw file renamed: clawbank_shodai_ricardian_contract_research.md -> clawbank-shodai-ricardian-contract-research.md (kebab-case, via _lint.py --fix)
+- Cross-references: crypto-as-agent-infrastructure, synthesis-over-retrieval, llm-wiki-pattern, centaur-principle, multi-agent-coordination-patterns, dark-factory, harness-engineering, chief-engineer-system, mission-command, kanban-doctrine, agent-native-operations, kaizen
+- Orphan findings: 24 (unchanged from prior session; no new orphans introduced)
+
+## [2026-06-27] synthesis | 7 findings updated, lint: clean
