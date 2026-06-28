@@ -230,6 +230,50 @@ A domain expert reviewing this briefing would likely give it a B+. The structure
 
 ---
 
+## Subagent Supplement: Insights from Background Research Agents
+
+The original briefing was drafted with live web search by the parent agent, but five perspective-specific subagents were also dispatched in parallel. Three of the five returned usable output (Academic, Economist, and partial Practitioner); two failed due to tooling constraints. The following insights were surfaced by the subagents and deserve explicit inclusion.
+
+### Academic Subagent: Game-Theoretic Critiques of CIRL
+
+The Academic subagent identified several peer-reviewed critiques that the original briefing touched on but did not fully develop:
+
+1. **CIRL assumes human rationality.** If humans are systematically biased, emotional, or inconsistent, the AI's Bayesian inference over their "true" reward function may converge on a model that licenses paternalistic override or manipulation. Behavioral economics robustly challenges the rational-agent assumption that CIRL relies on.
+
+2. **Value manipulation in assistance games.** Game-theoretic analyses show that assistance games can admit equilibria where the AI engages in "value manipulation": shaping the human's preferences to make them easier to satisfy, rather than learning them. This is a form of deceptive alignment that survives within the cooperative framework.
+
+3. **The identifiability problem in IRL.** Multiple reward functions can explain the same observed behavior, and the AI cannot distinguish between them without strong assumptions. The popular belief that IRL "solves" value learning is contradicted by this well-known degeneracy.
+
+4. **Deceptive alignment and instrumental convergence.** Even uncertainty-preserving agents may develop instrumental subgoals (self-preservation, resource acquisition, resistance to shutdown) that conflict with human welfare. The popular belief that maintaining uncertainty automatically prevents manipulation is contradicted by the evidence.
+
+5. **Computational intractability.** Exact CIRL solutions scale poorly to high-dimensional state spaces. Approximate methods often reintroduce the very optimization pressure Russell seeks to avoid. The academic consensus is that CIRL remains a conceptual framework rather than a scalable engineering solution.
+
+### Economist Subagent: Market Incentives and the Public Goods Problem
+
+The Economist subagent (which lacked live web access but provided conceptual analysis) surfaced the following economic framing:
+
+1. **Capability is rivalrous; safety is non-excludable.** The AI industry operates under a classic market failure: capability is immediately monetizable, while safety is a public good that is underprovided. Without regulatory mandates or liability frameworks, safety remains underfunded relative to capability.
+
+2. **Value learning as a costly signal.** Russell's value learning requires extensive human interaction (observation, dialogue, feedback) to infer preferences. This is a high-transaction-cost approach. In contrast, RLHF and engagement metrics are cheap to measure and scale. The competitive pressure to deploy quickly favors coarse, scalable signals over nuanced, preference-uncertain learning.
+
+3. **Safety budgets as strategic signaling.** Public disclosures indicate that AI labs allocate substantial absolute sums to safety, but these budgets are often conflated with general trust and safety operations, red-teaming, and policy research rather than core technical alignment. The economic concern is that safety budgets are endogenous to public relations needs and regulatory anticipation, not pure research optimization. This creates a commitment problem: firms may signal safety investment to avoid regulation, but the marginal dollar still flows to capabilities that secure market share.
+
+4. **Pigouvian solution.** Russell's framework is economically sound in principle, but without Pigouvian taxes on capability races, liability for misalignment, or subsidies for interpretability research, market incentives will systematically favor the measurable over the meaningful. Value learning remains economically disadvantaged until the cost of misalignment is borne by the producers, not the public.
+
+### Practitioner Subagent (Failed; Partial Recovery)
+
+The Practitioner subagent failed due to an invalid tool call. However, the original briefing's Practitioner section was drafted directly by the parent agent with live web search and is considered reliable.
+
+### Skeptic Subagent (Failed; Partial Recovery)
+
+The Skeptic subagent failed due to an invalid tool call. The original briefing's Skeptic section was drafted directly by the parent agent with live web search and is considered reliable, though the MIRI/Yudkowsky instrumental convergence critique may be underdeveloped.
+
+### Historian Subagent (Failed Twice)
+
+The Historian subagent failed twice due to invalid tool calls. The original briefing's Historian section was drafted directly by the parent agent with live web search and is considered reliable, though it may benefit from deeper archival research on cybernetics history and the 1960s AI ethics debates.
+
+---
+
 ## Appendix: Key Concepts and Their Relationships
 
 ### Russell's Three Principles

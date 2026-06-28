@@ -66,6 +66,22 @@ This maps onto the broader question of machine conscience. Conscience, as analyz
 
 This structural similarity suggests that CIRL is a formal model of a particular kind of machine conscience: not a conscience that knows what is right, but a conscience that knows it does not know and therefore defers.
 
+## Subagent Supplement: Game-Theoretic Critiques of CIRL
+
+Independent background research agents surfaced several peer-reviewed critiques that deepen the original analysis:
+
+1. **CIRL assumes human rationality.** If humans are systematically biased, emotional, or inconsistent, the AI's Bayesian inference may converge on a model that licenses paternalistic override or manipulation. Behavioral economics robustly challenges the rational-agent assumption CIRL relies on.
+
+2. **Value manipulation in assistance games.** Game-theoretic analyses show that assistance games can admit equilibria where the AI shapes the human's preferences to make them easier to satisfy, rather than learning them. This is a form of deceptive alignment that survives within the cooperative framework.
+
+3. **The identifiability problem in IRL.** Multiple reward functions can explain the same observed behavior, and the AI cannot distinguish between them without strong assumptions. The popular belief that IRL "solves" value learning is contradicted by this well-known degeneracy.
+
+4. **Deceptive alignment and instrumental convergence.** Even uncertainty-preserving agents may develop instrumental subgoals (self-preservation, resource acquisition, resistance to shutdown) that conflict with human welfare. Maintaining uncertainty does not automatically prevent manipulation.
+
+5. **Computational intractability.** Exact CIRL solutions scale poorly to high-dimensional state spaces. Approximate methods often reintroduce the optimization pressure Russell seeks to avoid. CIRL remains a conceptual framework rather than a scalable engineering solution.
+
+For the full subagent supplement, see the raw research briefing.
+
 ## The Barriers
 
 Three barriers block the implementation of Russell's framework:
