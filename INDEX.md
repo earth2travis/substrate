@@ -1,6 +1,6 @@
 # Substrate Index
 
-The shared nervous system. Current inventory: 326 findings, 83 concepts, 2 entities, 356 raw sources.
+The shared nervous system. Current inventory: 333 findings, 83 concepts, 2 entities, 363 raw sources.
 
 ## Core Directories
 - [[research/]] — Incoming work. Raw sources in `raw/`; synthesized findings in `findings/`.
@@ -35,6 +35,23 @@ Infrastructure and factory metaphors:
 - [[production-paradigms]] — Craft, mass, lean, and Industry 4.0 arcs applied to agent systems.
 - [[openclaw]] — Pioneer agent platform: rise, crisis, and lessons.
 - [[hermes-agent]] — Secure multi-provider successor platform.
+- [[integration-day-onboarding-frame]] — Concierge agent onboarding as systems integration (five-beat arc, NASA/TPS/Auftragstaktik synthesis).
+
+Agent commerce and crypto infrastructure:
+- [[crypto-as-agent-infrastructure]] — Crypto as the property-rights layer for agent economic agency.
+- [[ricardian-contract-agent-economy]] — ClawBank/Shodai: first AI-agent-signed Ricardian contract, autonomous agent commerce.
+
+Research methodology and knowledge systems:
+- [[synthesis-over-retrieval]] — Compile once, query cheaply vs. rediscover per query.
+- [[llm-wiki-pattern]] — Compounding knowledge base maintained by LLMs.
+- [[storm-naacl-2024]] — STORM: multi-perspective questioning with retrieval for article generation.
+- [[costorm-emnlp-2024]] — Co-STORM: collaborative human-AI knowledge curation for unknown unknowns.
+
+Reporting, handoff, and fleet coordination:
+- [[kanban-doctrine]] — Auftragstaktik as agent operating system.
+- [[sitrep-origin-and-doctrine]] — SITREP military origins and canonical structure for agent session reports.
+- [[session-report-best-practices]] — Cross-domain synthesis (military, medical, SRE, aviation) for agent SITREPs.
+- [[cross-agent-reporting-patterns]] — Blackboard architecture for Hermes fleet coordination.
 
 Coordination and governance:
 - [[workflow-as-contract]] — Agent behavior versioned in-repo via policy files.
