@@ -588,3 +588,13 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
 - Orphan findings: 24 (unchanged from prior session; no new orphans introduced)
 
 ## [2026-06-27] synthesis | 7 findings updated, lint: clean
+## [2026-06-29] ingest | Batch 21: IRL research cluster and May 2026 research dump (18 findings)
+- Sources (22 new raw files):
+  - IRL cluster (13): 2026-06-28-aima-irl-chapter.md, 2026-06-28-irl-landscape-2000-2010.md, 2026-06-28-ng-russell-2000-irl-summary.md, 2026-06-28-russell-human-compatible-storm-research.md, 2026-06-28-ziebart-maxent-irl-alignment-machine-conscience.md, 2026-06-29-active-interactive-irl.md, 2026-06-29-irl-theoretical-foundations.md, 2026-06-29-post-2018-irl-landscape.md, irl-mathematical-formalism.md, irl-moral-psychology-connection.md, ziebart-alignment-agent.md, ziebart-landscape-agent.md, ziebart-paper-agent.md
+  - May 2026 research dump (9): agent-filesystems-infrastructure.md, agent-harness-architecture.md, ai-ethics-philosophy.md, anthropic-openclaw-ecosystem.md, fleet-of-agents-and-ibm-multi-agent-collaboration.md, great-instructors-report.md, protocols-coordination.md, research-dump-master-index-2026-05-20.md, youtube-videos.md
+- Findings created (18):
+  - IRL cluster (11): ng-russell-2000-irl-foundations, irl-landscape-2000-2010, irl-mathematical-formalism, ziebart-maxent-irl-alignment-conscience, russell-human-compatible-storm, irl-moral-psychology-connection, active-interactive-irl, irl-theoretical-foundations, post-2018-irl-landscape, aima-irl-chapter, ziebart-maxent-alignment-landscape-deep-dive
+  - Research dump (7): agent-filesystems-infrastructure, agent-harness-architecture, ai-ethics-philosophy-dump, anthropic-openclaw-ecosystem-policy, fleet-of-agents-and-ibm-multi-agent-collaboration, great-instructors-report, protocols-coordination-institutional-design, research-dump-master-index, youtube-videos-research-dump
+- Cross-references: IRL cluster cross-linked to conscience, principal-agent-theory, intent-architecture. Research dump cross-linked to agent-native-operations, multi-agent-coordination-patterns, kanban-doctrine, dark-factory, karpathy-autoresearch, goal-primitive, the-openclaw-lesson, centaur-principle
+- Lint: PASSED (0 errors, 31 warnings pre-existing, 215 info)
+- INDEX.md updated: 344 findings, 83 concepts, 385 raw sources

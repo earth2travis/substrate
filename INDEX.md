@@ -1,6 +1,6 @@
 # Substrate Index
 
-The shared nervous system. Current inventory: 333 findings, 83 concepts, 2 entities, 363 raw sources.
+The shared nervous system. Current inventory: 344 findings, 83 concepts, 2 entities, 385 raw sources.
 
 ## Core Directories
 - [[research/]] — Incoming work. Raw sources in `raw/`; synthesized findings in `findings/`.
@@ -17,6 +17,22 @@ Agent operating model and design:
 - [[agent-memory]] — From flat files to structured continuity.
 - [[llm-wiki-pattern]] — Compounding knowledge base maintained by LLMs.
 - [[karpathy-autoresearch]] — Autonomous LLM pretraining loop: constraint architecture, fixed budgets, and NEVER STOP autonomy.
+- [[agent-harness-architecture]] — Nine-component harness taxonomy and /goal primitive convergence.
+- [[agent-filesystems-infrastructure]] — Mirage, Mesa, and A2A networks as agent-native storage.
+- [[fleet-of-agents-and-ibm-multi-agent-collaboration]] — Genetic particle filtering and IBM's five-element agent model.
+
+AI alignment and value learning:
+- [[ng-russell-2000-irl-foundations]] — IRL as linear programs and the reward ambiguity problem.
+- [[ziebart-maxent-irl-alignment-conscience]] — Maximum entropy IRL: Boltzmann distributions, machine conscience, and the RLHF lineage.
+- [[irl-landscape-2000-2010]] — Intellectual lineage from inverse optimal control to maximum entropy.
+- [[active-interactive-irl]] — Query-based learning, cooperative teaching, and online methods.
+- [[irl-theoretical-foundations]] — Identifiability, sample complexity, and computational complexity.
+- [[irl-mathematical-formalism]] — MDP notation and core IRL problem structure.
+- [[irl-moral-psychology-connection]] — The rationality assumption and its failure.
+- [[post-2018-irl-landscape]] — RLHF, DPO, Constitutional AI, and modern preference learning.
+- [[russell-human-compatible-storm]] — The standard model critique and Cooperative IRL.
+- [[aima-irl-chapter]] — IRL in Russell and Norvig's canonical textbook.
+- [[ziebart-maxent-alignment-landscape-deep-dive]] — Technical, alignment, and landscape analysis of MaxEnt IRL.
 
 Mission and purpose:
 - [[mission-arc]] — Four-stage arc: religious, military, NASA, diplomatic, and business mission concepts.
@@ -52,10 +68,13 @@ Reporting, handoff, and fleet coordination:
 - [[sitrep-origin-and-doctrine]] — SITREP military origins and canonical structure for agent session reports.
 - [[session-report-best-practices]] — Cross-domain synthesis (military, medical, SRE, aviation) for agent SITREPs.
 - [[cross-agent-reporting-patterns]] — Blackboard architecture for Hermes fleet coordination.
+- [[fleet-of-agents-and-ibm-multi-agent-collaboration]] — Genetic particle filtering, IBM BeeAI, and Watsonx Orchestrate.
+- [[anthropic-openclaw-ecosystem-policy]] — Metered billing and the Agent SDK credit model.
 
 Coordination and governance:
 - [[workflow-as-contract]] — Agent behavior versioned in-repo via policy files.
 - [[protocol-as-coordination]] — Protocols as coordination mechanisms across domains.
+- [[protocols-coordination-institutional-design]] — Protocol Institute, Palantir Ontology, Dalio Dot Collector.
 - [[progressive-autonomy]] — Graduated trust via feature flags and capability tiers.
 - [[proof-of-work]] — Verification stack for autonomous agent output.
 - [[github-as-memory]] — Institutional knowledge graph via Issues and PRs.
@@ -65,12 +84,19 @@ Process and philosophy:
 - [[kaizen]] — Continuous improvement as daily operating principle.
 - [[process-philosophy]] — Process ontology meets AI architecture.
 - [[process-without-substance]] — Whitehead, Nagarjuna, Bergson, Deleuze converge on AI structure.
+- [[ai-ethics-philosophy-dump]] — Institutional attention, consciousness, and the productivity trap.
+- [[great-instructors-report]] — Teaching methodology across military, sports, business, and arts.
+- [[irl-moral-psychology-connection]] — IRL's rationality assumption meets moral psychology.
 
 Tools and capabilities:
 - [[browser-automation]] — Agent control of the web as operational sense.
 - [[tools-landscape]] — MCP ecosystem and the universal tool loop.
 - [[skills-as-portable-knowledge]] — Skills as instruction sets for agent systems.
 - [[goal-primitive]] — /goal as emerging coordination primitive across agent platforms.
+
+Research dumps and indices:
+- [[research-dump-master-index]] — May 2026 open tabs collection master index.
+- [[youtube-videos-research-dump]] — Karpathy, dark factories, and the missing layer.
 
 ## Key Guides
 - [[kanban-operating-manual]] — The field manual for the squad.
