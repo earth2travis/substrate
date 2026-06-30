@@ -1,6 +1,6 @@
 # Substrate Index
 
-The shared nervous system. Current inventory: 344 findings, 83 concepts, 2 entities, 385 raw sources.
+The shared nervous system. Current inventory: 378 findings, 91 concepts, 2 entities, 385 raw sources.
 
 ## Core Directories
 - [[research/]] — Incoming work. Raw sources in `raw/`; synthesized findings in `findings/`.
@@ -93,6 +93,7 @@ Tools and capabilities:
 - [[tools-landscape]] — MCP ecosystem and the universal tool loop.
 - [[skills-as-portable-knowledge]] — Skills as instruction sets for agent systems.
 - [[goal-primitive]] — /goal as emerging coordination primitive across agent platforms.
+- [[loops-as-orchestration-primitive]] — ReAct to Ralph to /goal to continuous orchestration: the five-stage lineage and three hard stops.
 
 Research dumps and indices:
 - [[research-dump-master-index]] — May 2026 open tabs collection master index.
