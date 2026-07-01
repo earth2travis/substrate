@@ -608,3 +608,11 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
 - Batch 21 unpushed commit: pushed to origin/main (ef8dd7d)
 - INDEX.md updated: 378 findings, 91 concepts, 2 entities, 385 raw sources. Also corrected stale counts from prior session (344/83 -> 378/91)
 - Lint: PASSED (0 errors, 31 warnings all pre-existing, 215 info)
+## [2026-07-01] ingest | Isenberg AI-native organization thesis: the company as context layer
+- Source: Greg Isenberg, X tweet, June 27, 2026 (3,490 likes, 376 RTs)
+- Raw file: research/raw/isenberg-ai-native-orgs-context-layer.md (46KB, already committed)
+- Finding created: research/findings/isenberg-ai-native-orgs-context-layer.md (~10KB)
+- Content: Context-layer paradigm (Engelbart Collective IQ lineage), legibility as moat (James C. Scott inversion), Trust Economy (Zhao/Tang), SOPs as code not documentation, automation goldmine targeting, humans to strategy/taste/judgment (Autor, Brynjolfsson Turing Trap, Kasparov centaur chess), Klarna real architecture case study
+- Cross-references: [[agent-native-operations]], [[centaur-principle]], [[automation-leverage]], [[institutional-ai-redesign]], [[harness-engineering]], [[synthesis-over-retrieval]], [[workflow-as-contract]], [[progressive-autonomy]], [[proof-of-work]], [[llm-wiki-pattern]], [[agent-memory]], [[principal-agent-theory]], [[context-stack]]
+- Lint: 0 errors, 32 warnings (all raw fm-missing exemptions), 215 info. PASSED.
+- INDEX updated: findings count 378 to 379, raw sources 385 to 386
