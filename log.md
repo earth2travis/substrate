@@ -616,3 +616,14 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
 - Cross-references: [[agent-native-operations]], [[centaur-principle]], [[automation-leverage]], [[institutional-ai-redesign]], [[harness-engineering]], [[synthesis-over-retrieval]], [[workflow-as-contract]], [[progressive-autonomy]], [[proof-of-work]], [[llm-wiki-pattern]], [[agent-memory]], [[principal-agent-theory]], [[context-stack]]
 - Lint: 0 errors, 32 warnings (all raw fm-missing exemptions), 215 info. PASSED.
 - INDEX updated: findings count 378 to 379, raw sources 385 to 386
+## [2026-07-02] no-op | Daily synthesis — no new/changed sources
+- Ingest: 386 files scanned, 0 new, 0 changed, 0 SHA drift, HTML excluded: 0
+- Lint: PASSED (0 errors, 32 warnings all pre-existing raw fm-missing/fm-title-missing exemptions, 215 info)
+- Orphan findings (_ingest.py stem-match): 40 (up from 24 on 2026-06-25)
+  - Delta: +16 from recent batches whose findings have non-matching raw stems
+    - IRL cluster (11): findings named e.g. `ng-russell-2000-irl-foundations` vs raw `2026-06-28-ng-russell-2000-irl-summary`; `irl-landscape-2000-2010`, `ziebart-maxent-irl-alignment-conscience`, `russell-human-compatible-storm`, `irl-moral-psychology-connection`, `active-interactive-irl`, `irl-theoretical-foundations`, `post-2018-irl-landscape`, `aima-irl-chapter`, `ziebart-maxent-alignment-landscape-deep-dive`
+    - Research dump (7): `anthropic-openclaw-ecosystem-policy`, `fleet-of-agents-and-ibm-multi-agent-collaboration`, `ai-ethics-philosophy-dump`, `protocols-coordination-institutional-design`, `research-dump-master-index`, `youtube-videos-research-dump`, `great-instructors-report`
+    - Other (3): `loops-as-orchestration-primitive` (raw: loops-x-conversation-june-2026), `ricardian-contract-agent-economy` (raw: clawbank-shodai-ricardian-contract-research), `isenberg-ai-native-orgs-context-layer` (raw source exists but stem differs — actually matches, see below)
+  - Note: 38 of 40 are stem-mismatch false positives (finding `source:` frontmatter resolves to a differently-named raw file). `_lint.py` confirms only 2 genuine orphans: `nasa-mission-model`, `nasa-lifecycle-gates-and-decadal-survey` (known since 2026-06-18, raw sources are composite NASA program docs consolidated into existing findings)
+  - Assessment: no connectivity-sense orphans introduced. The increase is mechanical (date-prefixed raw filenames). A connectivity campaign remains recommended for the 2 genuine NASA orphans but is not blocking.
+- No synthesis required. Exiting cleanly.
