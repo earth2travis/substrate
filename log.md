@@ -626,4 +626,20 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
     - Other (3): `loops-as-orchestration-primitive` (raw: loops-x-conversation-june-2026), `ricardian-contract-agent-economy` (raw: clawbank-shodai-ricardian-contract-research), `isenberg-ai-native-orgs-context-layer` (raw source exists but stem differs — actually matches, see below)
   - Note: 38 of 40 are stem-mismatch false positives (finding `source:` frontmatter resolves to a differently-named raw file). `_lint.py` confirms only 2 genuine orphans: `nasa-mission-model`, `nasa-lifecycle-gates-and-decadal-survey` (known since 2026-06-18, raw sources are composite NASA program docs consolidated into existing findings)
   - Assessment: no connectivity-sense orphans introduced. The increase is mechanical (date-prefixed raw filenames). A connectivity campaign remains recommended for the 2 genuine NASA orphans but is not blocking.
+- No synthesis required. Exiting cleanly.## [2026-06-30] ingest | Loops as orchestration primitive (1 finding)
+- Source: 1 raw file — loops-x-conversation-june-2026.md (Steinberger/Cherny X conversation on loops: ReAct, AutoGPT, Ralph, /goal, continuous orchestration, Gas Town, cost inversion, hard stops, skills-not-prompts)
+- Finding created (1):
+  - loops-as-orchestration-primitive.md — Five-stage lineage from ReAct (2022) to continuous multi-agent orchestration (2026), three hard stops (iteration cap, no-progress detection, budget ceiling), cost inversion from tokens to loop management, skills as the durable unit inside the loop
+- Cross-references: goal-primitive, goal-primitive-three-implementations, agent-orchestrator-pattern, agentic-architecture, harness-engineering, skills-as-portable-knowledge, automation-leverage, karpathy-autoresearch, progressive-autonomy, feedback-loop-discipline, myth-of-sisyphus-camus
+- Previously ungested raw audit: 3 genuinely ungested files found. loops-x-conversation-june-2026.md synthesized (this batch). ziebart-alignment-agent.md and ziebart-landscape-agent.md confirmed as subagent outputs already consolidated into ziebart-maxent-alignment-landscape-deep-dive.md (composite finding cites ziebart-paper-agent.md as primary source but explicitly consolidates all three subagent docs)
+- Coverage: 374/385 raw sources now have findings (97.1%), with the remaining 11 being composite-source raw files (NASA program docs, goal-command raw files, Ziebart subagent outputs) whose content is fully captured in existing findings
+- Batch 21 unpushed commit: pushed to origin/main (ef8dd7d)
+- INDEX.md updated: 378 findings, 91 concepts, 2 entities, 385 raw sources. Also corrected stale counts from prior session (344/83 -> 378/91)
+- Lint: PASSED (0 errors, 31 warnings all pre-existing, 215 info)
+## [2026-07-03] no-op | Daily synthesis — no new/changed sources
+- Ingest: 386 files scanned, 0 new, 0 changed, 0 SHA drift, HTML excluded: 0
+- Lint: not run (no synthesis; lint is the gate for commits, none made)
+- Orphan findings: 40 (unchanged from 2026-07-02)
+  - 38 stem-mismatch false positives (IRL cluster, research dump, loops, ricardian, isenberg)
+  - 2 genuine (NASA cluster, known since 2026-06-18)
 - No synthesis required. Exiting cleanly.
