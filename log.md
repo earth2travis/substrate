@@ -643,3 +643,10 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
   - 38 stem-mismatch false positives (IRL cluster, research dump, loops, ricardian, isenberg)
   - 2 genuine (NASA cluster, known since 2026-06-18)
 - No synthesis required. Exiting cleanly.
+## [2026-07-07] ingest | continual-learning-for-agents-replit
+- Source: Replit AI team article (Michele Catasta @pirroh), X article posted July 6, 2026 + expanded Replit blog post June 23-24, 2026
+- File created: research/findings/continual-learning-for-agents-replit.md
+- Content: Replit's continual learning model for agent systems. Core thesis: continual learning is the universal recipe for hill climbing with agents even when you do not own the model weights. The harness learns too. Three-layer measurement system (ViBench offline benchmark, A/B and production traces online, optimization loop). Telescope trace clustering (Clio-inspired, density-based clustering). Self-improvement loop where agents propose PRs from production telemetry, engineers gate launch. Four human gates: hypothesis selection, implementation architecture, eval curation, launch approval. Moat: proprietary corpus of real app failures.
+- Cross-references: [[reference-free-evaluation]], [[harness-engineering]], [[feedback-loop-discipline]], [[per-run-learning]], [[proof-of-work]], [[agent-native-operations]]
+- Trigger: new raw file detected by ingest digest cron (1 new, 0 changed, 386 unchanged)
+- Lint: 0 errors on new finding; raw fm-missing warning is expected (raw files exempt per SCHEMA lint rule 5)
