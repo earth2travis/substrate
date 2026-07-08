@@ -650,3 +650,10 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
 - Cross-references: [[reference-free-evaluation]], [[harness-engineering]], [[feedback-loop-discipline]], [[per-run-learning]], [[proof-of-work]], [[agent-native-operations]]
 - Trigger: new raw file detected by ingest digest cron (1 new, 0 changed, 386 unchanged)
 - Lint: 0 errors on new finding; raw fm-missing warning is expected (raw files exempt per SCHEMA lint rule 5)
+## [2026-07-08] no-op | Daily synthesis — no new/changed sources
+- Ingest: 387 files scanned, 0 new, 0 changed, 0 SHA drift, HTML excluded: 0
+- Lint: not run (no synthesis; lint is the gate for commits, none made)
+- Orphan findings: 40 (unchanged from 2026-07-03)
+  - 38 stem-mismatch false positives (IRL cluster, research dump, loops, ricardian, isenberg, NASA linguistics batch)
+  - 2 genuine (NASA cluster: nasa-mission-model, nasa-lifecycle-gates-and-decadal-survey, known since 2026-06-18, raw sources composite)
+- No synthesis required. Exiting cleanly.
