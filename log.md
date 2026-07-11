@@ -663,3 +663,14 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
   - 38 stem-mismatch false positives (IRL cluster, research dump, loops, ricardian, isenberg, NASA linguistics batch)
   - 2 genuine (NASA cluster, known since 2026-06-18)
 - No synthesis required. Exiting cleanly.
+## [2026-07-11] ingest | Chamath Software Factory Thesis (8090 Labs)
+- Source: research/raw/chamath-palihapitiya-software-factory-thesis-for-zookooree.md (committed 2026-07-10 as bdfcf64, never synthesized until now)
+- Duplicate untracked file removed: research/raw/chamath-software-factory-zookooree-2026-07-10.md (byte-for-byte identical to the committed source)
+- Finding created: research/findings/chamath-software-factory-thesis.md
+  - Content: Five tests of a real software factory (business intent input, guaranteed quality, end-to-end accountability, coherence under change, independence from individuals), 8090 Labs commercial validation ($135M Series A, 18M-line COBOL to 300k rules in 40 days), mapping to AFPS and Context Stack, Jidoka and lean waste reinforcement, strategic implication, caution against enterprise bloat
+  - Cross-references: [[agent-factory-production-system]], [[dark-factory]], [[chief-engineer-system]], [[lean-doctrine]], [[production-paradigms]]
+- Insight updated: insights/concepts/agent-factory-production-system.md
+  - Added "External Validation" section summarizing the five tests and 8090 commercial validation
+  - Added [[chamath-software-factory-thesis]] to related links
+- INDEX.md updated: new finding listed under "Infrastructure and factory metaphors", finding count bumped to 381
+- Lint: PASSED, 0 errors, 35 warnings (all pre-existing raw fm warnings), 215 info

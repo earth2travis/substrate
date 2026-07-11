@@ -1,6 +1,6 @@
 # Substrate Index
 
-The shared nervous system. Current inventory: 380 findings, 91 concepts, 2 entities, 387 raw sources.
+The shared nervous system. Current inventory: 381 findings, 91 concepts, 2 entities, 387 raw sources.
 
 ## Core Directories
 - [[research/]] — Incoming work. Raw sources in `raw/`; synthesized findings in `findings/`.
@@ -46,6 +46,7 @@ Mission and purpose:
 
 Infrastructure and factory metaphors:
 - [[dark-factory]] — Lights-out manufacturing as pattern for autonomous agent systems.
+- [[chamath-software-factory-thesis]] — Five tests of a real software factory (8090 Labs, $135M raise). External commercial validation of AFPS.
 - [[cloudflare-first-agent-factory]] — Cloudflare platform as complete substrate for agent operations.
 - [[harness-engineering]] — Evaluation and safety infrastructure for agent systems.
 - [[production-paradigms]] — Craft, mass, lean, and Industry 4.0 arcs applied to agent systems.

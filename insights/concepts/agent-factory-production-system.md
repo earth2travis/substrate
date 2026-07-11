@@ -70,6 +70,10 @@ Mapped from Toyota's 40-year factory planning arc:
 
 Manufacturing history progressed through Craft → Mass → Lean → Industry 4.0. Agent production is replaying this arc in compressed time. AFPS aims to be a fourth-era system: lean's quality and flexibility, mass's scale, craft's care, with culture encoded into infrastructure (SOUL.md, AGENTS.md, CONTRACT.md) rather than dependent on sustained human commitment.
 
+## External Validation
+
+Chamath Palihapitiya's 8090 Labs ($135M Series A) independently validates AFPS with the "five tests of a real software factory": business intent input, finished goods with guaranteed quality, end-to-end accountability, coherence under continuous change, and independence from individuals. 8090 reverse-engineered 18M lines of COBOL/Assembly into ~300k plain-English rules in 40 days using this approach. The "who takes the call" accountability test maps directly to AFPS's Jidoka pillar and Context Stack infrastructure. See [[chamath-software-factory-thesis]] for the full mapping.
+
 ## Related
 
 - [[toyota-production-system]] -- Historical origin of the production system
@@ -79,6 +83,7 @@ Manufacturing history progressed through Craft → Mass → Lean → Industry 4.
 - [[heijunka]] -- Production leveling for agent orchestration
 - [[kaizen]] -- Continuous improvement culture
 - [[skills-as-portable-knowledge]] -- Modular capability system
+- [[chamath-software-factory-thesis]] -- External commercial validation of the factory thesis
 
 - [[factory-ai-droid-session]]
 - [[openclaw-vs-hermes-coding]]
