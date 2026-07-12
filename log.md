@@ -674,3 +674,12 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
   - Added [[chamath-software-factory-thesis]] to related links
 - INDEX.md updated: new finding listed under "Infrastructure and factory metaphors", finding count bumped to 381
 - Lint: PASSED, 0 errors, 35 warnings (all pre-existing raw fm warnings), 215 info
+## [2026-07-12] no-op | Daily synthesis — no new/changed sources
+- Ingest: 388 files scanned, 0 new, 0 changed, 0 SHA drift, HTML excluded: 0
+- Lint: not run (no synthesis; lint is the gate for commits, none made)
+- Orphan findings: 41 (up from 40 on 2026-07-08)
+  - Delta: +1 (chamath-software-factory-thesis, stem differs from raw `chamath-palihapitiya-software-factory-thesis-for-zookooree`)
+  - 39 stem-mismatch false positives (IRL cluster, research dump, loops, ricardian, isenberg, NASA linguistics batch, chamath)
+  - 2 genuine (NASA cluster: nasa-mission-model, nasa-lifecycle-gates-and-decadal-survey, known since 2026-06-18)
+- Pushed unpushed commit 7717d5b (chamath finding) to origin/main
+- No synthesis required. Exiting cleanly.
