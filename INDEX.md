@@ -1,6 +1,6 @@
 # Substrate Index
 
-The shared nervous system. Current inventory: 381 findings, 91 concepts, 2 entities, 387 raw sources.
+The shared nervous system. Current inventory: 384 findings, 91 concepts, 2 entities, 391 raw sources.
 
 ## Core Directories
 - [[research/]] — Incoming work. Raw sources in `raw/`; synthesized findings in `findings/`.
@@ -52,6 +52,9 @@ Infrastructure and factory metaphors:
 - [[production-paradigms]] — Craft, mass, lean, and Industry 4.0 arcs applied to agent systems.
 - [[openclaw]] — Pioneer agent platform: rise, crisis, and lessons.
 - [[hermes-agent]] — Secure multi-provider successor platform.
+- [[zookooree-first-production-run-findings]] — 3P run findings: independent review beats automated gates, yield reported honestly, line catches its own corrosion.
+- [[zookooree-factory-doctrine-learnings]] — Corrosion as organizing enemy, "done and maintained" not "never finished," operator attention as plant constraint.
+- [[zookooree-governance-authority-learnings]] — Germline merge authority delegated through CODEOWNERS without admin bypass; editorial authority as gates-curation-veto tiers.
 - [[integration-day-onboarding-frame]] — Concierge agent onboarding as systems integration (five-beat arc, NASA/TPS/Auftragstaktik synthesis).
 
 Agent commerce and crypto infrastructure:

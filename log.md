@@ -690,3 +690,16 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
   - 39 stem-mismatch false positives (IRL cluster, research dump, loops, ricardian, isenberg, NASA linguistics batch, chamath)
   - 2 genuine (NASA cluster: nasa-mission-model, nasa-lifecycle-gates-and-decadal-survey, known since 2026-06-18)
 - No synthesis required. Exiting cleanly.
+## [2026-07-14] ingest | Zookooree first production weekend: 3 new raw, 3 findings
+- Sources (3 new raw files, merged via PR #26 from feat/weekend-knowledge):
+  - research/raw/zookooree-factory-doctrine-learnings.md
+  - research/raw/zookooree-first-production-run-findings.md
+  - research/raw/zookooree-governance-and-authority-learnings.md
+- Findings created (3):
+  - zookooree-factory-doctrine-learnings.md — Corrosion as organizing enemy (unifies six theses), "done and maintained" not "never finished" (certificate perishability + aviation continuing airworthiness), operator attention as plant constraint (Theory of Constraints, verification leverage as elevation)
+  - zookooree-first-production-run-findings.md — 3P run: 5 certified units, independent review caught more defects than automated gates, yield reported honestly (defects as the brand), line caught its own corrosion (false andon from GitHub API change, docs deploy serving starter template), named open gaps (cost unmetered, ephemeral orchestration, verification leverage unbuilt)
+  - zookooree-governance-authority-learnings.md — Germline merge authority delegated to CEO agent via CODEOWNERS co-ownership (3 checkable criteria: CI green + independent non-author review + policy compliance; no admin bypass); editorial authority as 3-tier model (gates first, curation second, veto third; veto carries a clock)
+- Cross-references: agent-factory-production-system, dark-factory, lean-doctrine, harness-engineering, proof-of-work, reference-free-evaluation, chamath-software-factory-thesis, progressive-autonomy, workflow-as-contract, principal-agent-theory
+- INDEX.md updated: new entries under "Infrastructure and factory metaphors", counts bumped to 384 findings, 391 raw sources
+- Lint: PASSED (0 errors, 37 warnings all pre-existing raw fm-missing/fm-title-missing exemptions, 215 info)
+- Remote sync: pulled PR #26 (feat/weekend-knowledge) via rebase before ingest; pushed unpushed commit from 2026-07-13
