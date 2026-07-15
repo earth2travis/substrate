@@ -703,3 +703,11 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
 - INDEX.md updated: new entries under "Infrastructure and factory metaphors", counts bumped to 384 findings, 391 raw sources
 - Lint: PASSED (0 errors, 37 warnings all pre-existing raw fm-missing/fm-title-missing exemptions, 215 info)
 - Remote sync: pulled PR #26 (feat/weekend-knowledge) via rebase before ingest; pushed unpushed commit from 2026-07-13
+## [2026-07-15] no-op | Daily synthesis — no new/changed sources
+- Ingest: 391 files scanned, 0 new, 0 changed, 0 SHA drift, HTML excluded: 0
+- Lint: not run (no synthesis; lint is the gate for commits, none made)
+- Orphan findings: 42 (up from 41 on 2026-07-13)
+  - 39 stem-mismatch false positives (IRL cluster, research dump, loops, ricardian, isenberg, NASA linguistics batch, chamath)
+  - 1 new from 2026-07-14 batch (zookooree finding not yet back-linked into insight graph)
+  - 2 genuine (NASA cluster: nasa-mission-model, nasa-lifecycle-gates-and-decadal-survey, known since 2026-06-18)
+- No synthesis required. Exiting cleanly.
