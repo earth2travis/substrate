@@ -711,3 +711,11 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
   - 1 new from 2026-07-14 batch (zookooree finding not yet back-linked into insight graph)
   - 2 genuine (NASA cluster: nasa-mission-model, nasa-lifecycle-gates-and-decadal-survey, known since 2026-06-18)
 - No synthesis required. Exiting cleanly.
+## [2026-07-16] no-op | Daily synthesis — no new/changed sources
+- Ingest: 391 files scanned, 0 new, 0 changed, 0 SHA drift, HTML excluded: 0
+- Lint: not run (no synthesis; lint is the gate for commits, none made)
+- Orphan findings: 42 (unchanged from 2026-07-15)
+  - 39 stem-mismatch false positives (IRL cluster, research dump, loops, ricardian, isenberg, NASA linguistics batch, chamath)
+  - 1 from 2026-07-14 zookooree batch (finding not yet back-linked into insight graph)
+  - 2 genuine (NASA cluster: nasa-mission-model, nasa-lifecycle-gates-and-decadal-survey, known since 2026-06-18)
+- No synthesis required. Exiting cleanly.
