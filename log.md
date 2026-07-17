@@ -719,3 +719,10 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
   - 1 from 2026-07-14 zookooree batch (finding not yet back-linked into insight graph)
   - 2 genuine (NASA cluster: nasa-mission-model, nasa-lifecycle-gates-and-decadal-survey, known since 2026-06-18)
 - No synthesis required. Exiting cleanly.
+## [2026-07-17] no-op | Daily synthesis — no new/changed sources
+- Ingest: 391 files scanned, 0 new, 0 changed, 0 SHA drift, HTML excluded: 0
+- Lint: PASSED, 0 errors, 37 warnings (raw fm-missing and fm-title-missing, structural not actionable)
+- Orphan findings: 3 stem-mismatch (goal-primitive-three-implementations, nasa-lifecycle-gates-and-decadal-survey, nasa-mission-model)
+  - Note: down from 42 reported on 2026-07-16. The linter now only flags true stem-mismatch orphans (finding file with no matching raw source). The 39 IRL/research-dump/loops orphans noted on 7/16 were inbound-link orphans, a different metric the lint script does not track.
+- SCHEMA.md inventory updated: raw 311 → 391, findings 313 → 384, concepts 81 → 91, decisions 2 → 1, guides 3 → 2 (reflected actual filesystem counts)
+- No synthesis required. Exiting cleanly.

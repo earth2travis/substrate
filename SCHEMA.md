@@ -1,12 +1,12 @@
 # Substrate Schema
 
 ## Inventory
-- research/raw/ — 311 immutable source files.
-- research/findings/ — 313 synthesized findings.
-- insights/concepts/ — 81 durable concepts.
+- research/raw/ — 391 immutable source files.
+- research/findings/ — 384 synthesized findings.
+- insights/concepts/ — 91 durable concepts.
 - insights/entities/ — 2 biographical entities.
-- decisions/ — 2 ADRs.
-- guides/ — 3 field manuals.
+- decisions/ — 1 ADR.
+- guides/ — 2 field manuals.
 
 ## Frontmatter Requirements
 Every knowledge file (research, insights, decisions) must include:
