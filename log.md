@@ -726,3 +726,18 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
   - Note: down from 42 reported on 2026-07-16. The linter now only flags true stem-mismatch orphans (finding file with no matching raw source). The 39 IRL/research-dump/loops orphans noted on 7/16 were inbound-link orphans, a different metric the lint script does not track.
 - SCHEMA.md inventory updated: raw 311 → 391, findings 313 → 384, concepts 81 → 91, decisions 2 → 1, guides 3 → 2 (reflected actual filesystem counts)
 - No synthesis required. Exiting cleanly.
+## [2026-07-18] no-op | Daily synthesis — no new/changed sources
+- Ingest: 391 files scanned, 0 new, 0 changed, 0 SHA drift, HTML excluded: 0
+- Lint: not run (no synthesis; lint is the gate for commits, none made)
+- Orphan findings: 42 (up from 24 on 2026-06-25)
+  - Delta: +18 flagged, 0 resolved since last no-op
+  - New flags include several pages already catalogued in INDEX.md as key concepts
+    (e.g., ng-russell-2000-irl-foundations, loops-as-orchestration-primitive,
+    irl-landscape-2000-2010, ricardian-contract-agent-economy,
+    protocols-coordination-institutional-design, chamath-software-factory-thesis).
+  - Suspicion: orphan-detector scope changed, or inbound-link graph narrowed to
+    exclude INDEX.md and body-text wikilinks, producing false positives on
+    findings that ARE linked from the catalog but lack spine links from other
+    findings/insights. Worth verifying _ingest.py's orphan logic against
+    2026-06-25 behavior before treating the +18 as genuine orphans.
+- No synthesis required. Exiting cleanly.
