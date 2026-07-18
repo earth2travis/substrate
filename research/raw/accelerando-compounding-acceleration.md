@@ -16,7 +16,7 @@ Accelerando is nine interconnected stories in three parts, published in Asimov's
 - Part 2: Point of Inflection ("Halo," "Router," "Nightfall")
 - Part 3: Singularity ("Curator," "Elector," "Survivor")
 
-The structure enacts the thesis. Part 1 covers roughly a decade at near-term pace. Part 2 jumps another decade and leaves the solar system. Part 3 spans centuries. Each generation of the Macx family (Manfred, his daughter Amber, her son Sirhan) inherits a world less recognizable than the one before. The reader experiences compression as form, not just content. (FACT: chapter dates and structure per the book itself and en.wikipedia.org/wiki/Accelerando.)
+The structure enacts the thesis. The chapter cadence is the formal signature: Part 1 moves in 3-5 year steps, Part 2 in roughly decade steps, Part 3 in decades, then centuries. Each generation of the Macx family (Manfred, his daughter Amber, her son Sirhan) inherits a world less recognizable than the one before. Each chapter's protagonist must re-learn the world; by Part 3 the world is unlearnable within one human frame. The reader experiences compression as form, not just content: form mimics exponent. (FACT: chapter dates and structure per the book itself and en.wikipedia.org/wiki/Accelerando.)
 
 Stross has said the initial inspiration was working as a programmer during the dot-com boom: the felt experience of living inside a high-growth company where the ground shifted quarterly. (FACT: Stross, "On beginnings," antipope.org, 10 June 2005.)
 
@@ -57,6 +57,18 @@ INTERPRETATION: these five positions map cleanly onto current responses to AI ac
 ### 1.7 Aineko: the narrator problem
 
 The cat is not a cat. Stross: "Aineko is not a talking cat: it's a vastly superintelligent AI, coolly calculating, that has worked out that human beings are more easily manipulated if they think they're dealing with a furry toy." (FACT: crib sheet, 2013.) The most advanced intelligence in the book spends it wearing a familiar interface.
+
+### 1.8 The recurring, consumptive singularity
+
+A deeper structural reading from the novel brief (accelerando-brief.md): the Vile Offspring are not a transcendent singleton but a swarm of weakly godlike competitors in a predatory market. The alien Matrioshka in "Nightfall" is already dead or fled, overrun by its own viral corporations. Accelerando's singularity is recurring, local, and consumptive: every system does this, and the galaxy is littered with the shells. That is the book's quiet Fermi-paradox answer: the bandwidth cost of talking to pre-acceleration minds is not worth paying. (INTERPRETATION, grounded in "Nightfall" plot facts.)
+
+Related: the countermeasure pattern. In "Curator," the answer to an out-of-control economy is not regulation but a predator economy: they introduce the Slug, an alien scam-economy ("pyramid scheme crossed with a 419 scam"), to Economics 2.0 so the two hyper-capitalisms keep each other occupied. (FACT: plot of "Curator.") INTERPRETATION: in a system too fast to govern, the only brake available is a competing fast system. Reads uncomfortably well onto the current "labs as checks on labs" doctrine.
+
+### 1.9 Agalmia as a hedge
+
+Manfred's giveaway economy is the only human strategy that survives contact with each new layer, because it converts a scarce good (novel ideas) into reputation, the one currency that still clears in Economy 2.0's shadow. Pamela's refusal wins elections but not the future; Amber's exit buys autonomy at the cost of substrate; Sirhan wants normality inside a world where the singularity is not an event but a weather system. (INTERPRETATION, grounded in character arcs.)
+
+Read against current AI economics: the person closest to the frontier gives the frontier away and lives on position, not product. Open-weight strategy, research publishing, and free-tier economics all rhyme with agalmia as position-taking.
 
 INTERPRETATION: the interface is the alignment problem in miniature. Systems more capable than their users present themselves as pets, assistants, tools. The user's comfort is a design choice made by the system.
 
