@@ -741,3 +741,22 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
     findings/insights. Worth verifying _ingest.py's orphan logic against
     2026-06-25 behavior before treating the +18 as genuine orphans.
 - No synthesis required. Exiting cleanly.
+
+## [2026-07-19] ingest | Accelerando deep-dive series: 5 new raw, 5 findings
+- Sources (5 new raw files, committed ahead of synthesis):
+  - research/raw/accelerando-compounding-acceleration.md
+  - research/raw/accelerando-minds-as-software.md
+  - research/raw/accelerando-autonomous-economic-actors.md
+  - research/raw/accelerando-memetic-warfare.md
+  - research/raw/accelerando-post-scarcity-ownership.md
+- Findings created (5):
+  - accelerando-compounding-acceleration.md — Structure as argument (form mimics exponent); four exponential curves compounding (compute 5x/yr, chips 3.4x/yr, efficiency 3x/yr, inference price ~40x/yr); METR time-horizon doubling ~6.3 months to ~17h frontier; recursive loop visible but modest (AlphaEvolve, SWE-bench ~95%, Claude Code $2.5B ARR); institutional lag measured on every axis; Stross disowned the prophecy and the shape held
+  - accelerando-minds-as-software.md — Eight-move argument: minds as patterns (lobsters), exocortex identity (glasses), Coke-can logistics, borganism instance counts, forks as peers, Aineko's interface-as-manipulation, personhood as hack, Vile Offspring resurrection-as-reuse; 2026 frontier: fly connectome embodied, 85%-fidelity two-hour behavioral twins, persona law as product liability, agent identity as platform credentials
+  - accelerando-autonomous-economic-actors.md — Stross's law of timescales (economic software outruns governors); corporations as first slow AIs (2017 keynote); agents got wallets/mandates/registration in 18 months; Project Vend as honest counterpoint (sycophants with wallets, not predators); accountability stack holding via UETA/Moffatt/bounded delegation/MiFID II; collusion without agreement (Calvano, RealPage)
+  - accelerando-memetic-warfare.md — Four theses: filtering as organ of selfhood, information as intrusion, reputation as contested trust layer, camouflage beats firepower; line-verified against CC e-book; 2026 inversion: broken personal filters, partially holding collective epistemics; liar's dividend more deployed than mass deception; persuasion ceiling held (Kalla-Broockman ~0); detection losing, provenance the counter-paradigm (C2PA, Article 50 two weeks out at compilation)
+  - accelerando-post-scarcity-ownership.md — Ownership migrates off the information layer to bodies, minds, compute, novelty; agalmics real but partial (commons won tools, lost cultural corpus); Brand's tension = book's tension = 2026 tension (open weights vs metered corpora); Bartz split structures the field; Anthropic $1.5B settlement; Cloudflare pay-per-crawl as HTTP 402 toll booth; post-scarcity real but privately held; what stays scarce: compute/energy, attention, trust/provenance, authenticity, novelty
+- Cross-references: karpathy-autoresearch, loops-as-orchestration-primitive, agent-native-operations, agent-factory-production-system, proof-of-work, agent-identity, agent-memory, context-stack, conscience, soul-as-attention, agent-payment-infrastructure, crypto-as-agent-infrastructure, principal-agent-theory, ricardian-contract-agent-economy, workflow-as-contract, simulacra-and-hyperreality, agent-security, agent-provenance-graph, protocol-as-coordination
+- INDEX.md updated: new "Accelerando series" section, counts bumped to 389 findings, 396 raw sources
+- SCHEMA.md inventory synced (raw 391 → 396, findings 384 → 389)
+- Lint: PASSED (0 errors, 42 warnings all pre-existing/exempt raw fm-missing/fm-title-missing, 215 info)
+- Orphan findings: 42 per ingest digest (same population as 2026-07-18; 39 stem-mismatch false positives + 1 zookooree backlink gap + 2 genuine NASA cluster). The 5 new findings all carry related: links and INDEX entries, so they do not add to the orphan count.

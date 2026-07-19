@@ -1,6 +1,6 @@
 # Substrate Index
 
-The shared nervous system. Current inventory: 384 findings, 91 concepts, 2 entities, 391 raw sources.
+The shared nervous system. Current inventory: 389 findings, 91 concepts, 2 entities, 396 raw sources.
 
 ## Core Directories
 - [[research/]] — Incoming work. Raw sources in `raw/`; synthesized findings in `findings/`.
@@ -102,6 +102,13 @@ Tools and capabilities:
 Research dumps and indices:
 - [[research-dump-master-index]] — May 2026 open tabs collection master index.
 - [[youtube-videos-research-dump]] — Karpathy, dark factories, and the missing layer.
+
+Accelerando series (Stross's 2005 novel read against mid-2026 AI):
+- [[accelerando-compounding-acceleration]] — Four exponential curves compounding at once; the recursive loop visible but modest; institutional lag measured.
+- [[accelerando-minds-as-software]] — Mind as copyable pattern: lobsters, exocortex identity, forks as peers, Aineko's interface problem.
+- [[accelerando-autonomous-economic-actors]] — Stross's law of timescales: economic software outruns its governors; agents got wallets in 18 months.
+- [[accelerando-memetic-warfare]] — Filtering as organ of selfhood; information as intrusion; camouflage beats firepower; the liar's dividend.
+- [[accelerando-post-scarcity-ownership]] — Ownership migrates off the information layer to compute, attention, trust, and novelty; post-scarcity privately held.
 
 ## Key Guides
 - [[kanban-operating-manual]] — The field manual for the squad.
