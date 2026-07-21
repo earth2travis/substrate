@@ -110,6 +110,11 @@ Accelerando series (Stross's 2005 novel read against mid-2026 AI):
 - [[accelerando-memetic-warfare]] — Filtering as organ of selfhood; information as intrusion; camouflage beats firepower; the liar's dividend.
 - [[accelerando-post-scarcity-ownership]] — Ownership migrates off the information layer to compute, attention, trust, and novelty; post-scarcity privately held.
 
+Frontier AI and agent-native organizations (July 2026):
+- [[rsi-anthropic-openai-deep-dive]] — Anthropic publicizes the RSI curve (80% AI-authored code, 8x throughput, 52x research speedup); OpenAI defines the tripwires.
+- [[self-driving-company-replit]] — Replit's 5.8x code volume with flat incidents; loops on verifiable tasks as the dramatic change; build-vs-buy inversion.
+- [[vmao-verified-multi-agent-orchestration]] — Plan-execute-verify-replan with orchestration-level verification; +35% completeness at 8.5x tokens.
+
 ## Key Guides
 - [[kanban-operating-manual]] — The field manual for the squad.
 - [[kanban-vs-delegate-task]] — When to use which coordination primitive.

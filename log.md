@@ -760,3 +760,17 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
 - SCHEMA.md inventory synced (raw 391 → 396, findings 384 → 389)
 - Lint: PASSED (0 errors, 42 warnings all pre-existing/exempt raw fm-missing/fm-title-missing, 215 info)
 - Orphan findings: 42 per ingest digest (same population as 2026-07-18; 39 stem-mismatch false positives + 1 zookooree backlink gap + 2 genuine NASA cluster). The 5 new findings all carry related: links and INDEX entries, so they do not add to the orphan count.
+
+## [2026-07-21] ingest | 3 findings: RSI lab positions, Replit self-driving company, VMAO orchestration
+- Sources (3 raw files committed ahead of synthesis in prior sessions):
+  - research/raw/rsi-anthropic-openai-deep-dive.md
+  - research/raw/self-driving-company-replit-amjad-masad.md
+  - research/raw/vmao-verified-multi-agent-orchestration.md
+- Findings created (3):
+  - rsi-anthropic-openai-deep-dive.md — Anthropic "When AI Builds Itself" internal data (>80% Claude-authored merged code, 8x engineer code throughput Q2 2026, 52x training-optimization speedup, 97% research gap recovery, 64% research judgment over human choice, METR 16+ hour horizons); three scenarios (stall / compounding / full RSI); OpenAI Preparedness Framework v2 AI self-improvement Tracked Category with Critical halt condition; Altman "less than six months from RSI" and IPO-delay comments; convergence: both labs building agents that do AI research; divergence: Anthropic publicizes the curve, OpenAI defines tripwires
+  - self-driving-company-replit.md — Masad's self-driving company: 5.8x LOC Jan-Jun, 2.9x per-engineer on constant cohort while doubling team, review latency flat via agentic co-reviewer (30% human PR time saved), reversions/incidents flat, support escalations 60% faster; loops on verifiable tasks as the highest-leverage move; Slack interface as cross-functional distribution; build-vs-buy inversion (churned seven-figure SaaS); doers become directors; same Amdahl review bottleneck as Anthropic
+  - vmao-verified-multi-agent-orchestration.md — AWS+HSBC plan-execute-verify-replan framework; DAG decomposition, orchestration-level LLM verifier, adaptive replanning with result preservation, five explicit stop conditions; +35% completeness and +58% source quality over single-agent at 8.5x tokens; verification pays most on open-ended queries; execution variance beats planning failure as gap source
+- Cross-references: accelerando-compounding-acceleration, karpathy-autoresearch, loops-as-orchestration-primitive, agent-factory-production-system, deployment-governance, agent-native-operations, multi-agent-coordination-patterns, institutional-ai-redesign, toyota-production-system, accelerando-autonomous-economic-actors, agent-orchestrator-pattern, subagent-architecture, feedback-loop-discipline
+- INDEX.md updated: new "Frontier AI and agent-native organizations (July 2026)" section
+- SCHEMA.md inventory synced: raw 396 -> 399, findings 389 -> 392
+- Lint: PASSED (0 errors)
