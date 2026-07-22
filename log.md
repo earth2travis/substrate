@@ -774,3 +774,9 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
 - INDEX.md updated: new "Frontier AI and agent-native organizations (July 2026)" section
 - SCHEMA.md inventory synced: raw 396 -> 399, findings 389 -> 392
 - Lint: PASSED (0 errors)
+
+## [2026-07-22] no-op | Daily synthesis — no new/changed sources
+- Ingest: 399 files scanned, 0 new, 0 changed, 0 SHA drift, HTML excluded: 0
+- Lint: not run (no synthesis; lint is the gate for commits, none made)
+- Orphan findings: 43 per ingest digest (up 1 from 42 on 2026-07-19; same known population of stem-mismatch false positives plus the zookooree backlink gap and 2 genuine NASA cluster orphans; the +1 delta not investigated this cycle since no new findings were written)
+- No synthesis required. Exiting cleanly.
