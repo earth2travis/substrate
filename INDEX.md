@@ -1,6 +1,6 @@
 # Substrate Index
 
-The shared nervous system. Current inventory: 389 findings, 91 concepts, 2 entities, 396 raw sources.
+The shared nervous system. Current inventory: 393 findings, 91 concepts, 2 entities, 400 raw sources.
 
 ## Core Directories
 - [[research/]] — Incoming work. Raw sources in `raw/`; synthesized findings in `findings/`.
@@ -114,6 +114,7 @@ Frontier AI and agent-native organizations (July 2026):
 - [[rsi-anthropic-openai-deep-dive]] — Anthropic publicizes the RSI curve (80% AI-authored code, 8x throughput, 52x research speedup); OpenAI defines the tripwires.
 - [[self-driving-company-replit]] — Replit's 5.8x code volume with flat incidents; loops on verifiable tasks as the dramatic change; build-vs-buy inversion.
 - [[vmao-verified-multi-agent-orchestration]] — Plan-execute-verify-replan with orchestration-level verification; +35% completeness at 8.5x tokens.
+- [[hats-protocol-agent-orchestration]] — Roles as revocable objects: computed wearing, three-way separation of powers, role-bound accounts; no chain required to borrow.
 
 ## Key Guides
 - [[kanban-operating-manual]] — The field manual for the squad.

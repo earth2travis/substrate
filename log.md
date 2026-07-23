@@ -780,3 +780,11 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
 - Lint: not run (no synthesis; lint is the gate for commits, none made)
 - Orphan findings: 43 per ingest digest (up 1 from 42 on 2026-07-19; same known population of stem-mismatch false positives plus the zookooree backlink gap and 2 genuine NASA cluster orphans; the +1 delta not investigated this cycle since no new findings were written)
 - No synthesis required. Exiting cleanly.
+
+## [2026-07-23] ingest | Hats Protocol: role-based permissions for agent fleets (1 finding)
+- Source: research/raw/hats-protocol-agent-orchestration.md (committed 2026-07-23 ahead of synthesis; docs.hatsprotocol.xyz retrieved via direct curl of GitBook .md endpoints)
+- Finding created (1):
+  - hats-protocol-agent-orchestration.md — Roles as non-transferable objects worn by agents (AI agents explicitly named as wearers); wearing computed dynamically from three factors (balance, toggle, eligibility/standing) giving instant revocation; separation of powers across admin/eligibility/toggle principals; transitive admin with IP-address-style semantic ids; SeasonToggle default-expiry ("organizational structure should not be permanent"); HSG guard invariant (no principal may hold authority over the roles that authorize it); Hats Account binds keys/funds/pay to the role across wearer rotation; RaidGuild: payment streams acceptable only once revocation existed; nine design lessons mapped to fleet key management, none requiring a chain (Postgres + policy engine or 1Password + Hermes profile scoping); onchain value confined to client-facing accountability (Synthweave) and cross-org delegation
+- Cross-references: agent-identity, agent-tool-permissions, agent-security, crypto-as-agent-infrastructure, agent-payment-infrastructure, agent-orchestrator-pattern, principal-agent-theory, progressive-autonomy
+- INDEX.md updated: entry added under "Frontier AI and agent-native organizations (July 2026)"; counts bumped to 393 findings, 400 raw sources
+- SCHEMA.md inventory synced: raw 399 -> 400, findings 392 -> 393
