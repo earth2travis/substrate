@@ -788,3 +788,12 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
 - Cross-references: agent-identity, agent-tool-permissions, agent-security, crypto-as-agent-infrastructure, agent-payment-infrastructure, agent-orchestrator-pattern, principal-agent-theory, progressive-autonomy
 - INDEX.md updated: entry added under "Frontier AI and agent-native organizations (July 2026)"; counts bumped to 393 findings, 400 raw sources
 - SCHEMA.md inventory synced: raw 399 -> 400, findings 392 -> 393
+
+## [2026-07-24] ingest | AI Skill Threat and FoMO-AI: human cost of GenAI adoption (1 finding)
+- Source: research/raw/ai-skill-threat-fomo-genai-anxiety-report-2026.md (committed 2026-07-24 ahead of synthesis; 2023-2026 compiled literature synthesis)
+- Removed uncommitted duplicate raw/ai-skill-threat-fomo-genai-anxiety-2026.md (byte-identical to the committed report file)
+- Finding created (1):
+  - ai-skill-threat-fomo-genai-anxiety.md — 45% developer AI Skill Threat (Pluralsight 3,000+ devs), 74% compelled upskilling, 2.5-year skill half-life; FoMO-AI formalized (Méndez-Suárez OECD/fsQCA pathways; Fengyi validated scale); oversight labor and burnout (Guizani arXiv:2605.22349; Brandebusemeyer SAP field study with physiological measures: higher cognitive load at flat productivity, 19% productivity decline in some contexts); Kim 2024 insecurity -> knowledge hiding via psychological safety; Yi 2026 AI awareness -> work-family conflict via failed detachment; Farooqi Toronto CS student entry-level anxiety; Nature poll: 1,900+ scientists negative on AI but FOMO-adopting; equity gaps for female/LGBTQ+ developers; Centaur Principle fails without process improvement
+- Cross-references: centaur-principle, brain-fry, agent-native-operations, institutional-ai-redesign, progressive-autonomy, feedback-loop-discipline
+- INDEX.md updated: entry added under "Frontier AI and agent-native organizations (July 2026)"; findings count 393 -> 394
+- SCHEMA.md inventory synced: findings 393 -> 394 (raw stays 400; duplicate was uncommitted)

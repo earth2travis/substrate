@@ -115,6 +115,7 @@ Frontier AI and agent-native organizations (July 2026):
 - [[self-driving-company-replit]] — Replit's 5.8x code volume with flat incidents; loops on verifiable tasks as the dramatic change; build-vs-buy inversion.
 - [[vmao-verified-multi-agent-orchestration]] — Plan-execute-verify-replan with orchestration-level verification; +35% completeness at 8.5x tokens.
 - [[hats-protocol-agent-orchestration]] — Roles as revocable objects: computed wearing, three-way separation of powers, role-bound accounts; no chain required to borrow.
+- [[ai-skill-threat-fomo-genai-anxiety]] — The demand-side cost of the curve: 45% skill threat, oversight-labor burnout, knowledge hiding, FoMO-AI across developers, students, and scientists.
 
 ## Key Guides
 - [[kanban-operating-manual]] — The field manual for the squad.

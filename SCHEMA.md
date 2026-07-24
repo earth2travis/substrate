@@ -2,7 +2,7 @@
 
 ## Inventory
 - research/raw/ — 400 immutable source files.
-- research/findings/ — 393 synthesized findings.
+- research/findings/ — 394 synthesized findings.
 - insights/concepts/ — 91 durable concepts.
 - insights/entities/ — 2 biographical entities.
 - decisions/ — 1 ADR.
