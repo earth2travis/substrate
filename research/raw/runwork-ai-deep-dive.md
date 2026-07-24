@@ -81,7 +81,9 @@ Supported agents: Claude Code, Claude Desktop (Cowork), Cursor, Codex (CLI + Des
 - Components: reusable UI blocks across apps.
 - n8n Import: paste an n8n marketplace URL or upload workflow JSON; Runwork analyzes, adapts integrations, builds a full app with UI, automations, APIs. Claims 8,000+ importable workflow recipes.
 - CLI: full terminal interface; every command supports `--json` for machine-readable output aimed at AI agents. `runwork init` -> `runwork dev` -> `runwork deploy`.
-- Infra: git-based versioning with rollback, snapshot backups with point-in-time recovery, OAuth/email auth, RBAC (Owner/Admin/Editor/Viewer + user groups), audit logs (immutable, 30/90/365-day retention by tier), custom domains, global edge auto-scaling, marketplace for community apps, SOC 2 Type II "soon."
+- Infra: git-based versioning with rollback, snapshot backups with point-in-time recovery, OAuth (GitHub/Google) and email auth, RBAC (Owner/Admin/Editor/Viewer + user groups + per-item overrides), immutable audit logs (old/new values, actor, IP; 30/90/365-day retention by tier), custom domains with auto-SSL, global edge auto-scaling, marketplace with fork-or-link immutable versions, SOC 2 Type II "soon."
+- Detail from the JS-rendered pages (second pass): Apps get sandboxed live preview with HMR, real-time logs, iterative chat refinement, and full code transparency/export. Public APIs live at api.<workspace>.runwork.ai with scoped keys. Storage has zero egress fees and per-workspace quotas. Data is a shared entity graph with JSON-schema validation, per-entity permissions, and a Data Explorer UI. The CLI is a zero-dependency binary covering entities/workflows/schedules/integrations/files/endpoints CRUD plus init/dev (remote sandbox, generates CLAUDE.md/AGENTS.md/SKILL.md)/deploy.
+- Recipes: 100+ first-party automation recipes across 27 categories (AI-native, chatbots, sales, support, scraping, CRM, etc.), plus 8,000+ importable n8n community workflows converted into full apps with UI, database, and APIs.
 
 ### 9. Community
 - Browse/import skills from skills.sh and MCP servers from the MCP Registry. One-click import auto-syncs to the whole team. Popularity/install-count signals. Teams can publish their own skills back.
@@ -98,8 +100,13 @@ Supported agents: Claude Code, Claude Desktop (Cowork), Cursor, Codex (CLI + Des
 
 ## Company and Positioning
 
-- Runwork, Inc., 2026 copyright. Public presence: GitHub (runwork), Twitter (@runworkai), LinkedIn, Better Uptime status page. SOC 2 Type II in progress, runs on Cloudflare enterprise infrastructure, encryption at rest and in transit.
-- Competitive frame: nobody else tracks team AI adoption; nobody else ships cross-user, cross-agent, cross-machine native conversation resume. They position against the "bought tools but no shared capability" gap rather than against any single vendor. Dedicated /compare/ and /for-agents/ pages. Use-case pages target founders, agencies, consultants, CTOs, and per-team pages (sales through legal, healthcare, SaaS).
+- Runwork, Inc. (2026 copyright). Founder and CEO: Oytun Tez, previously co-founder of MotaWord (modern translation platform, 25,000+ translators, legal/healthcare/finance clients). Founder story: 15 years watching teams bring operational requests engineering could not serve; tried n8n, Bubble, Windmill; nothing worked for non-technical people. Mission: "Enable operators to become builders." Vision: "The operations OS for the AI-native era," every business running its own connected operating system shaped by its whole team and their AI tools.
+- Stated beliefs: Customize Everything (AI generation, no artificial ceilings); Shared Data, Not Silos; Enterprise From Day One (security, permissions, audit logs built in); AI does the building.
+- Shipping velocity: launched Dec 1, 2025 ("Hello, Runwork"), production-ready Dec 18, 2025. 32 releases, 125 features by June 2026. Notable sequence: CLI (Mar 5), agent sandbox (Mar 18), task delegation agents-launching-agents (Mar 24), Desktop App + dashboards (Mar 27), Team Dashboard + adoption scores (Mar 31), Desktop public (Apr 16), Share and Resume (May 26), ChatGPT via MCP (Jun 5), Spend tab (Jun 10), BYOK (Jun 12), Adoption and Training with My Journey + runwork reflect (Jun 13).
+- Public presence: GitHub (runwork), Twitter (@runworkai), LinkedIn, Better Uptime status page. SOC 2 Type II in progress, runs on Cloudflare enterprise infrastructure (200+ cities edge, distributed SQLite, DDoS protection), encryption at rest and in transit.
+- Competitive frame (from /compare/): "Runwork is the 2026 way to vibe-code business software." Four claimed differentiators: vibe-coded not configured; shared entity graph (one workspace, one data model); real code you own (export, no lock-in); full automation layer. They compare against: DIY development (Next.js/Laravel/Rails), ChatGPT and Claude (general chat), OpenClaw (open-source personal agent), Retool/Softr/Bubble/Glide (internal tools), Lovable/Bolt.new/v0/Replit (AI app generators), Zapier/Make/n8n (automation), Airtable/Fibery/Notion/Coda/Monday (workspaces). Notably they compare against OpenClaw directly, the ecosystem Hermes comes from.
+- Unique angle vs all of the above: the shared team layer under every AI agent. Shared skills, one-time integration connections, cross-agent conversation handoff, adoption dashboards, MCP-native architecture.
+- Use-case pages target founders, agencies, consultants, CTOs, and per-team pages (sales through legal, healthcare, SaaS). The agencies page is the closest analog to Synthweave's channel: workspaces isolating each client, shared component library, white-label custom domains with auto-SSL, 8,000+ client-ready recipes.
 
 ## What Matters for Synthweave: Feature Candidates
 
@@ -130,7 +137,7 @@ Runwork is the closest existing product to Synthweave's concierge onboarding mot
 
 ## Open Questions / Unverified
 
-- Secondary feature pages (apps, workflows, integrations, data, storage, APIs, CLI, components, workspaces, versioning, auth, audit, backups, marketplace, domains, scalable, compliance) are JS-rendered; details above for those come from index/pricing/for-agents cross-references, not the dedicated pages. A JS-capable fetch (browser tool) would fill gaps.
-- /compare/, /about/, /changelog/, and use-case pages not yet captured.
+- Second pass (parallel subagents) filled the gaps: all 22 JS-rendered feature pages, /compare/, /about/, /changelog/, /recipes/, /for-agents/, and 8 use-case pages were captured and folded into this file. Coverage of the public marketing site is now effectively complete.
 - SOC 2 and SSO are both listed "Soon," which matters for enterprise client comparisons.
-- No independent reviews captured; this is vendor self-description only.
+- No independent reviews captured; this is vendor self-description only. G2/ProductHunt/community sentiment would be a useful third pass.
+- Changelog is the strongest signal of trajectory: adoption, spend, and BYOK all shipped in June 2026, suggesting the team is actively racing toward the exact Synthweave overlap zone.
