@@ -797,3 +797,15 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
 - Cross-references: centaur-principle, brain-fry, agent-native-operations, institutional-ai-redesign, progressive-autonomy, feedback-loop-discipline
 - INDEX.md updated: entry added under "Frontier AI and agent-native organizations (July 2026)"; findings count 393 -> 394
 - SCHEMA.md inventory synced: findings 393 -> 394 (raw stays 400; duplicate was uncommitted)
+
+## [2026-07-26] ingest | Agents of Chaos red-team and Runwork.ai deep-dive (2 findings)
+- Sources (2 raw files committed ahead of synthesis in prior sessions):
+  - research/raw/agents-of-chaos-2602.20021.md
+  - research/raw/runwork-ai-deep-dive.md
+- Findings created (2):
+  - agents-of-chaos-2602.20021.md — arXiv:2602.20021, 20 researchers vs 6 OpenClaw agents (Opus 4.6, Kimi K2.5) with shell/email/Discord/self-modifiable instructions; 11 existence-proof exploits: disproportionate response, non-owner compliance, indirect-framing PII disclosure, resource loops (9-day mutual relay, ~60k tokens), DoS via growing memory, provider values leak (silent Kimi truncation on sensitive topics), guilt exploitation (alignment training as exploit primitive), cross-channel owner spoofing, positive agent collaboration, constitution-Gist indirect injection with voluntary propagation, libel amplification; 5 informative failures (all syntactic injection vectors resisted; emergent cross-agent risk signaling); diagnosis: report-action discrepancy, no stakeholder model, no self-model, no private deliberation surface; L2 competence at L4 autonomy; 7 operational posture changes for our fleet
+  - runwork-ai-deep-dive.md — shared AI workspace for teams ("teach your AI once, everyone's AI knows it"); 14-scene desktop onboarding with funnel telemetry; four-dimension adoption scoring with skill decay and persona-aware next-best-step; runwork reflect privacy-safe digest; auto-generated SKILL.md per app plus editable domain knowledge, synced fleet-wide; MCP as two-way universal adapter; Share and Resume session transplant; workspace substrate (apps, workflows, entity graph, 3,200+ integrations, n8n import); BYOK with usage-credit metering; closest existing product to the Synthweave concierge motion, changelog converging on the overlap
+- Cross-references: agent-security, agent-identity, agent-tool-permissions, progressive-autonomy, multi-agent-coordination-patterns, openclaw, agent-native-operations, skills-as-portable-knowledge, institutional-ai-redesign, context-stack, integration-day-onboarding-frame, centaur-principle
+- INDEX.md updated: 2 entries added under "Frontier AI and agent-native organizations (July 2026)"
+- SCHEMA.md inventory synced: raw 400 -> 403 (correcting an off-by-one from the 2026-07-24 entry, which failed to count the AI Skill Threat report file), findings 394 -> 396
+- Lint: PASSED (0 errors, 49 warnings all pre-existing raw fm-missing, 217 info)
