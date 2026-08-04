@@ -821,3 +821,13 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
 - Lint: not run (no synthesis; lint is the gate for commits, none made)
 - Orphan findings: 44 per ingest digest (unchanged from 2026-07-27; known population is 39 stem-mismatch false positives plus the zookooree backlink gap and 2 genuine NASA cluster orphans)
 - No synthesis required. Exiting cleanly.
+
+## [2026-08-04] ingest | Farewell to DAOs: legitimacy infrastructure (1 finding)
+- Source: research/raw/farewell-to-daos-towards-legitimacy-infrastructure.md (committed 2026-08-02 ahead of synthesis in an interactive session; hashes saved at commit time so _ingest.py digest showed 0 new / 0 changed, but no finding had been written — session detected gap by cross-referencing committed raw files against findings/ directory)
+- Finding created (1):
+  - farewell-to-daos-legitimacy-infrastructure.md — McCarthy/Almond/Graham/Bbeats/Tan/Van Epps X essay 2026-07-28. v1 DAOs are dead: regulatory arbitrage and speculative fervor both gone, token-holder governance collapsed 2025-2026 (Tally shutdown quoted). Original Sins: one-token-one-vote misapplied to everything, ownership confused with legitimate authority, performative decentralization as regulatory cover. Legitimacy framework: organizations legitimate through performance and observational boundaries (Preda), DAOs destroyed corporate information systems without building replacements. v2 reframe: DAOs as legitimacy infrastructure — decompose to technical guarantees plus legible coordination systems, then recompose modularly; five legitimating components (staking commitments, onchain proofs, multisig permissioning, attestations, public transactions). Significance: direct match to Substrate-as-observational-boundary thesis; co-authored by Hats Protocol contributors, connecting legitimacy theory to role-based agent permissions. Critical assessment kept: diagnosis durable, prescription thin, blockchain necessity asserted not argued
+- Duplicate raw noted: research/raw/towards-legitimacy-infrastructure-for-new-organizational-forms.md is the same essay sans thread replies (committed same day, 3991458). Raw/ is immutable; duplication flagged for operator deletion decision rather than agent action
+- INDEX.md updated: entry added under "Frontier AI and agent-native organizations (July 2026)"; findings 396 -> 397
+- SCHEMA.md inventory synced: findings 396 -> 397
+- Lint: PASSED (0 errors, 51 warnings all pre-existing raw fm-missing, 217 info)
+- Orphan findings: 44 per ingest digest (unchanged population: 39 stem-mismatch false positives, 3 genuine NASA cluster plus others, 2 zookooree backlink gaps)

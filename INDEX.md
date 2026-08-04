@@ -1,6 +1,6 @@
 # Substrate Index
 
-The shared nervous system. Current inventory: 396 findings, 91 concepts, 2 entities, 403 raw sources.
+The shared nervous system. Current inventory: 397 findings, 91 concepts, 2 entities, 403 raw sources.
 
 ## Core Directories
 - [[research/]] — Incoming work. Raw sources in `raw/`; synthesized findings in `findings/`.
@@ -118,6 +118,7 @@ Frontier AI and agent-native organizations (July 2026):
 - [[ai-skill-threat-fomo-genai-anxiety]] — The demand-side cost of the curve: 45% skill threat, oversight-labor burnout, knowledge hiding, FoMO-AI across developers, students, and scientists.
 - [[agents-of-chaos-2602.20021]] — Twenty researchers break six live autonomous agents: the vulnerable layer is social, not syntactic; alignment training as exploit primitive; L2 competence at L4 autonomy.
 - [[runwork-ai-deep-dive]] — The shared capability layer under every team agent: adoption analytics, synced skills, MCP both directions; closest commercial analog to the concierge motion.
+- [[farewell-to-daos-legitimacy-infrastructure]] — v1 DAOs are dead from legitimacy collapse, not bad code; the successor is modular legitimacy infrastructure for new organizational forms, with agents as first-class participants.
 
 ## Key Guides
 - [[kanban-operating-manual]] — The field manual for the squad.
