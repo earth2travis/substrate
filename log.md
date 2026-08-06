@@ -837,3 +837,10 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
 - Lint: not run (no synthesis; lint is the gate for commits, none made)
 - Orphan findings: 45 per ingest digest (up 1 from 44 on 2026-08-04; known population is 39 stem-mismatch false positives, 3 genuine NASA cluster orphans, and 2 zookooree backlink gaps; the +1 delta not investigated this cycle since no new findings were written)
 - No synthesis required. Exiting cleanly.
+
+## [2026-08-06] no-op | Daily synthesis — no new/changed sources
+- Ingest: 405 files scanned, 0 new, 0 changed, 0 SHA drift, HTML excluded: 0
+- Lint: not run (no synthesis; lint is the gate for commits, none made)
+- Orphan findings: 45 per digest (unchanged population from 2026-08-05: 39-40 stem-mismatch false positives, 3 genuine NASA cluster orphans, 2 zookooree backlink gaps; delta on 2026-08-05 remains uninvestigated but consistent with recent concept promotions whose filenames differ from raw stems)
+- Latest synthesis state: farewell-to-daos-legitimacy-infrastructure finding present and complete (2026-08-04 cycle)
+- No synthesis required. Exiting cleanly.
