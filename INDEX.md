@@ -1,6 +1,6 @@
 # Substrate Index
 
-The shared nervous system. Current inventory: 398 findings, 91 concepts, 2 entities, 406 raw sources.
+The shared nervous system. Current inventory: 402 findings, 91 concepts, 2 entities, 410 raw sources.
 
 ## Core Directories
 - [[research/]] — Incoming work. Raw sources in `raw/`; synthesized findings in `findings/`.
@@ -120,6 +120,12 @@ Frontier AI and agent-native organizations (July 2026):
 - [[runwork-ai-deep-dive]] — The shared capability layer under every team agent: adoption analytics, synced skills, MCP both directions; closest commercial analog to the concierge motion.
 - [[farewell-to-daos-legitimacy-infrastructure]] — v1 DAOs are dead from legitimacy collapse, not bad code; the successor is modular legitimacy infrastructure for new organizational forms, with agents as first-class participants.
 - [[kitesurf-agent-browser-cloudflare]] — Cloudflare's agent-first browser on Workers: custom Rust/Wasm engine, 3-7x cheaper than Chromium, Quick Actions plus CDP and MCP integration; the sensory organ for the Cloudflare agent substrate.
+
+## August 2026 additions
+- [[buzz-zookooree-infrastructure-assessment-2026-08-12]] — Block's Nostr-native workspace verified against source: agents as first-class co-members, the conforming-launcher contract proven live; membrane, not forge, not base.
+- [[luddites-and-the-agent-loom]] — The Luddites as skilled technologists bargaining by riot; the judgment-versus-translation line, surplus capture, concierge as anti-mill, Ned Ludd as prior art for agent identity.
+- [[fermi-paradox-solutions-landscape]] — The silence is overdetermined: past filters, dark forest, aestivation, grabby aliens; most serious answers are claims about what mature computation leaves visible.
+- [[v1-daos-experimentation-critique]] — Metagov's Cooper audits the DAO obituary: v1 ran activities, not experiments; the ENS case fails all seven conditions; v2 needs evaluation infrastructure, not just new primitives.
 
 ## Key Guides
 - [[kanban-operating-manual]] — The field manual for the squad.

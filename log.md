@@ -877,3 +877,20 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
 - Gap check: cross-referenced 406 committed raw stems against 398 findings; all gaps are known stem-mismatches (date-prefix drops, multi-source bundles, NASA/missionary/goal-command clusters folded into synthesis findings), the ziebart subagent consolidation case, or the flagged duplicate raw towards-legitimacy-infrastructure-for-new-organizational-forms (pending operator deletion decision since 2026-08-04). No raw file lacks synthesis.
 - Latest synthesis state: kitesurf-agent-browser-cloudflare finding present and complete (2026-08-07 cycle)
 - No synthesis required. Exiting cleanly.
+
+## [2026-08-13] ingest | 4 findings: Luddites, Fermi landscape, v1 DAO critique, Buzz assessment
+- Sources (4 raw files committed in interactive sessions 2026-08-11/12, detected by _ingest.py digest as 4 new / 0 changed / 406 unchanged, 0 drift):
+  - research/raw/luddites-and-the-agent-loom.md (finding stem matches raw stem)
+  - research/raw/fermi-paradox-solutions-landscape.md (finding stem matches raw stem)
+  - research/raw/v1-daos-farewell-to-daos-and-missing-lessons.md (finding stem: v1-daos-experimentation-critique — distinct title/stem to avoid duplicate-title with raw and to mark it as the Cooper critique finding, separate from the existing farewell-to-daos-legitimacy-infrastructure finding)
+  - research/raw/buzz-zookooree-infrastructure-assessment-2026-08-12.md (finding stem matches raw stem)
+- Findings created (4):
+  - luddites-and-the-agent-loom.md — Luddites as skilled technologists practicing collective bargaining by riot (Hobsbawm/Thomis/Sale); General Ludd as coordination brand with no decapitatable center; the judgment-versus-translation line the croppers lost; surplus capture as the sharpest caution for the agent factory; concierge onboarding as the anti-mill; signed-Captain-Ludd as the provenance design problem
+  - fermi-paradox-solutions-landscape.md — Drake and Great Filter formalisms; past filters (Rare Earth, phase transition), strategic silence (dark forest, berserkers), computation answers (aestivation 10^30 multiplier, grabby aliens 40-50% of universe volume); 70 years of observational null; most serious answers are civilizational claims about what mature computation leaves visible, making Fermi and agent architecture the same question at two scales
+  - v1-daos-experimentation-critique.md — Cooper (Metagov): v1 DAOs ran activities, not experiments; seven-condition experiment bar; ENS audit fails all seven (zero outcome KPIs, no learning loop, reform roadmap unacted, Namechain at treasury scale with no stop-loss); governance theater as structural echo chamber; DAO Intelligence framework as the ask; the missing control group for the farewell-to-daos legitimacy finding
+  - buzz-zookooree-infrastructure-assessment-2026-08-12.md — Block's Nostr-native workspace verified against source with live same-day proof (Hermes agent Sivart in sandbox community via conforming bash launcher); capability map honest about gaps (approval gates fail, no agent-to-agent dispatch, forge unfinished); recommendation: collaboration membrane for Synthweave front door, not forge, not knowledge base; engrams as relay-scoped agent memory
+- Cross-references: centaur-principle, agent-identity, agent-provenance-graph, lean-doctrine, agent-native-operations, soul-as-attention, feedback-loop-discipline, proof-of-work, reference-free-evaluation, institutional-ai-redesign, decentralized-social, agent-memory, multi-agent-coordination-patterns
+- INDEX.md updated: new "August 2026 additions" section (4 entries); counts 398 -> 402 findings, 406 -> 410 raw sources
+- SCHEMA.md inventory synced: raw 406 -> 410, findings 398 -> 402
+- Lint: PASSED (0 errors; 56 warnings all pre-existing raw fm-missing/fm-title-missing exemptions; 217 info; JSON check confirms zero issues on the four new files)
+- Coverage streak maintained: every raw source outside the known stem-mismatch set has a finding
