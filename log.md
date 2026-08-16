@@ -908,3 +908,13 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
 - Orphan findings: 46 per digest (up 1 from 45 on 2026-08-14; the delta is v1-daos-experimentation-critique from the 2026-08-13 batch, a known stem-mismatch false positive — raw is v1-daos-farewell-to-daos-and-missing-lessons.md. Known population: 39-40 stem-mismatch false positives, 3 genuine NASA cluster orphans, 2 zookooree backlink gaps)
 - Latest synthesis state: 4-finding batch (luddites, fermi landscape, v1 DAO critique, buzz assessment) present and complete (2026-08-13 cycle)
 - No synthesis required. Exiting cleanly.
+
+## [2026-08-16] ingest | Trip hop rig finding + duplicate raw cleanup
+- Source: research/raw/trip-hop-rig-dark-2026-08-15.md (committed 2026-08-15, previously unsynthesized)
+- Housekeeping: removed research/raw/trip-hop-rig-2026-08-15.md (untracked, byte-identical duplicate of the -dark file; sha256 ee032e24)
+- Finding created: research/findings/trip-hop-rig-slow-dark-music.md
+  - Content: five-function rig (Anchor/Dread/Skeleton/Soul/Dub Desk), tactile-first acquisition order, daily-ten-minutes practice cadence, Malthusian frame (fleet replicates, rig expresses)
+  - Cross-references: [[centaur-principle]], [[kaizen]], [[lean-doctrine]], [[agent-memory]], [[dark-factory]]
+- INDEX.md: added under August 2026 additions; inventory 402 → 403 findings
+- Ingest: 412 files scanned, 0 new, 0 changed (hash state consumed on first run this session), 46 orphan findings (pre-existing connectivity debt, unchanged; remedy remains the deferred connectivity campaign)
+- Lint: 0 errors, 57 warnings (raw fm-missing pattern per SCHEMA exemption 5)

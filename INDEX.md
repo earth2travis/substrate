@@ -1,6 +1,6 @@
 # Substrate Index
 
-The shared nervous system. Current inventory: 402 findings, 91 concepts, 2 entities, 410 raw sources.
+The shared nervous system. Current inventory: 403 findings, 91 concepts, 2 entities, 410 raw sources.
 
 ## Core Directories
 - [[research/]] — Incoming work. Raw sources in `raw/`; synthesized findings in `findings/`.
@@ -122,6 +122,7 @@ Frontier AI and agent-native organizations (July 2026):
 - [[kitesurf-agent-browser-cloudflare]] — Cloudflare's agent-first browser on Workers: custom Rust/Wasm engine, 3-7x cheaper than Chromium, Quick Actions plus CDP and MCP integration; the sensory organ for the Cloudflare agent substrate.
 
 ## August 2026 additions
+- [[trip-hop-rig-slow-dark-music]] — The rig as five-member band (Anchor, Dread, Skeleton, Soul, Dub Desk): acquisition order as tactile-first curriculum, ten-minute daily sessions as kaizen, and the Malthusian frame: the fleet replicates, the rig expresses.
 - [[buzz-zookooree-infrastructure-assessment-2026-08-12]] — Block's Nostr-native workspace verified against source: agents as first-class co-members, the conforming-launcher contract proven live; membrane, not forge, not base.
 - [[luddites-and-the-agent-loom]] — The Luddites as skilled technologists bargaining by riot; the judgment-versus-translation line, surplus capture, concierge as anti-mill, Ned Ludd as prior art for agent identity.
 - [[fermi-paradox-solutions-landscape]] — The silence is overdetermined: past filters, dark forest, aestivation, grabby aliens; most serious answers are claims about what mature computation leaves visible.
