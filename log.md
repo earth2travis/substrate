@@ -960,3 +960,10 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
 - Orphan findings: 47 per digest (unchanged from 2026-08-23; known population: mission/linguistics cluster, IRL cluster, NASA/intent cluster, recent ingest batch stem-mismatches, 2 run-worker/vinext debugging artifacts, 2 stem-mismatch false positives)
 - Latest synthesis state: trip-hop-rig-slow-dark-music finding present and complete (2026-08-16 cycle)
 - No synthesis required. Exiting cleanly.
+
+## [2026-08-25] no-op | Daily synthesis — no new/changed sources
+- Ingest: 411 files scanned, 0 new, 0 changed, 0 SHA drift, HTML excluded: 0
+- Lint: not run as commit gate (no synthesis; none made)
+- Orphan findings: 47 per digest (unchanged from 2026-08-24; known population: mission/linguistics cluster, IRL cluster, NASA/intent cluster, recent ingest batch stem-mismatches, 2 run-worker/vinext debugging artifacts, 2 stem-mismatch false positives)
+- Latest synthesis state: trip-hop-rig-slow-dark-music finding present and complete (2026-08-16 cycle)
+- No synthesis required. Exiting cleanly.
