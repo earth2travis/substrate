@@ -32,7 +32,7 @@
   - Intent/business (4): grove-okrs-intent-architecture, mission-in-business, sinek-golden-circle, goal-primitive-three-implementations
   - Other (4): deseret-alphabet-finding, fable-5-loops-and-memory, run-worker-first-asset-misroute-masking, wrangler-3-vinext-handler-detection-failure
   - Known stem-mismatch false positives (2): five-whys, 28-openclaw-mistakes
-- Assessment: 22 of 24 are genuine orphans from batches whose findings were written but never back-linked into the insight graph. Not synthesis work; a connectivity campaign (add incoming `[[wikilinks]]` to the orphan stems from bridge concepts) is the right remedy, recommended for a future session.
+- Assessment: 22 of 24 are genuine orphans from batches whose findings were written but never back-linked into the insight graph. Not synthesis work; a connectivity campaign (add incoming wikilinks to the orphan stems from bridge concepts) is the right remedy, recommended for a future session.
 - No synthesis required. Exiting cleanly.
 
 ## [2026-06-16] ingest | Marc Andreessen's radical information diet
@@ -923,7 +923,7 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
 - Ingest: 411 files scanned, 0 new, 0 changed, 0 SHA drift, HTML excluded: 0
 - Lint: not run as commit gate (no synthesis; none made)
 - Orphan findings: 47 (up from 24 on 2026-06-25). Composition: 12 mission/linguistics cluster (robert-morrison-finding, adoniram-judson-finding, sequoyah-cherokee-finding, wycliffe-sil-finding, medieval-mission-concept, jesuit-missions-concept, missio-dei-concept, apostolic-mission-foundation, protestant-missions-concept, religious-mission-comparative, missionary-linguist-tool-inventor, james-evans-finding, deseret-alphabet-finding), 11 IRL cluster (ng-russell-2000-irl-foundations, irl-landscape-2000-2010, active-interactive-irl, irl-theoretical-foundations, post-2018-irl-landscape, russell-human-compatible-storm, aima-irl-chapter, ziebart-maxent-irl-alignment-conscience, ziebart-maxent-alignment-landscape-deep-dive, loops-as-orchestration-primitive, ai-ethics-philosophy-dump), 4 NASA/intent (nasa-mission-model, nasa-lifecycle-gates-and-decadal-survey, grove-okrs-intent-architecture, mission-in-business, sinek-golden-circle, goal-primitive-three-implementations), recent ingest batch (trip-hop-rig-slow-dark-music, v1-daos-experimentation-critique, chamath-software-factory-thesis, anthropic-openclaw-ecosystem-policy, ai-skill-threat-fomo-genai-anxiety, self-driving-company-replit, ricardian-contract-agent-economy, farewell-to-daos-legitimacy-infrastructure, protocols-coordination-institutional-design, zookooree-governance-authority-learnings, youtube-videos-research-dump, research-dump-master-index, fable-5-loops-and-memory), 2 stem-mismatch false positives (five-whys, 28-openclaw-mistakes), 2 run-worker/vinext debugging artifacts (run-worker-first-asset-misroute-masking, wrangler-3-vinext-handler-detection-failure)
-- Assessment: same structural pattern as 2026-06-18/25. Findings exist and are indexed, but inbound wikilinks from bridge concepts were never added. A connectivity campaign (add incoming [[wikilinks]] from well-connected bridge concepts to orphan stems) remains the correct remedy, recommended for a future dedicated session.
+- Assessment: same structural pattern as 2026-06-18/25. Findings exist and are indexed, but inbound wikilinks from bridge concepts were never added. A connectivity campaign (add incoming wikilinks from well-connected bridge concepts to orphan stems) remains the correct remedy, recommended for a future dedicated session.
 - No synthesis required. Exiting cleanly.
 
 ## [2026-08-19] no-op | Daily synthesis — no new/changed sources
@@ -1044,3 +1044,8 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
 - Orphan findings: 47 per digest (unchanged from 2026-09-04; known population: mission/linguistics cluster, IRL cluster, NASA/intent cluster, recent ingest batch stem-mismatches, 2 run-worker/vinext debugging artifacts, 2 stem-mismatch false positives)
 - Latest synthesis state: trip-hop-rig-slow-dark-music finding present and complete (2026-08-16 cycle)
 - No synthesis required. Exiting cleanly.
+
+## [2026-09-06] lint | Broken wikilink repair in log.md
+- Lint: 1 ERROR found, fixed, 0 remaining. 57 warnings, 217 info (unchanged, all exempt categories).
+- Fix: removed literal `[[wikilinks]]` references in two log entries (2026-06-18 and 2026-08-24 no-op assessments). The bracket text was prose describing the connectivity campaign, not a real page reference; the linter resolved it as a broken link.
+- No other actionable findings. Orphan findings (47 as of last scan) remain the known structural backlog for a future connectivity campaign.
