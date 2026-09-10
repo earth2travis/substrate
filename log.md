@@ -1070,3 +1070,15 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
 - Orphan findings: 47 per digest (unchanged from 2026-09-08; known population: mission/linguistics cluster, IRL cluster, NASA/intent cluster, recent ingest batch stem-mismatches, 2 run-worker/vinext debugging artifacts, 2 stem-mismatch false positives)
 - Latest synthesis state: trip-hop-rig-slow-dark-music finding present and complete (2026-08-16 cycle)
 - No synthesis required. Exiting cleanly.
+
+## [2026-09-10] ingest | Prisoner's dilemma series (4 findings)
+- Sources: prisoners-dilemma-anatomy, iterated-prisoners-dilemma-axelrod-tournaments, prisoners-dilemma-psychology-coordination, faustian-bargain-prisoners-dilemma-crypto-ai (raw committed 2026-09-09 after that day's cycle; synthesized this cycle)
+- Findings created (4):
+  - research/findings/prisoners-dilemma-anatomy.md — T > R > P > S ordinal skeleton, 2x2 game family, unraveling, shadow of the future δ ≥ (T-R)/(T-P)
+  - research/findings/iterated-prisoners-dilemma-axelrod-tournaments.md — Axelrod's tournaments, TFT's four properties, noise fragility (TFT to GTFT to Pavlov), Press-Dyson ZD extortion, Nowak's five rules
+  - research/findings/prisoners-dilemma-psychology-coordination.md — Sally 1995 meta-analysis, Liberman framing study, Fehr-Gächter punishment, Ostrom's eight principles, cooperation's moral neutrality
+  - research/findings/faustian-bargain-prisoners-dilemma-crypto-ai.md — Faust arc (Faustbuch/Marlowe/Goethe/Mann), Goethe's wager as game-theoretic revision, Moloch lineage in Ethereum, slashing as inverse Faustian pact, Askell-Brundage-Hadfield racing dynamics
+- Cross-references: [[principal-agent-theory]], [[protocol-as-coordination]], [[multi-agent-coordination-patterns]], [[crypto-as-agent-infrastructure]]
+- INDEX.md updated: September 2026 additions section created; inventory now 407 findings, 414 raw sources
+- Lint: PASSED, 0 errors (61 warnings, all raw-layer fm-missing/fm-title-missing per standing exemptions)
+- Orphan findings: 47 per digest (unchanged from 2026-09-09 baseline; the four new findings are wired into the graph at creation)
