@@ -1082,3 +1082,8 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
 - INDEX.md updated: September 2026 additions section created; inventory now 407 findings, 414 raw sources
 - Lint: PASSED, 0 errors (61 warnings, all raw-layer fm-missing/fm-title-missing per standing exemptions)
 - Orphan findings: 47 per digest (unchanged from 2026-09-09 baseline; the four new findings are wired into the graph at creation)
+
+## [2026-09-11] no-op | Daily synthesis — no new/changed sources
+- Ingest: 415 files scanned, 0 new, 0 changed, 0 SHA drift
+- Lint: not run (no synthesis; lint is the gate for commits, none made)
+- No synthesis required. Exiting cleanly.
