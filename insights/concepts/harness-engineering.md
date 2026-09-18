@@ -24,6 +24,7 @@ related:
 - agent-native-operations
 - reference-free-evaluation
 - better-harness-tweet
+- domain-specific-agent-harnesses-yc-cohort
 - automation-leverage
 - feedback-loop-discipline
 source: research/findings/harness-engineering.md

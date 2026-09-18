@@ -5,6 +5,15 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 >
+## [2026-09-18] ingest | Domain-Specific Agent Harnesses in the YC Cohort
+- Source: research/raw/domain-specific-agent-harnesses-yc-cohort.md (X thread by @shamshudein, Sep 15 2026, + subagent research compilation)
+- Finding created: research/findings/domain-specific-agent-harnesses-yc-cohort.md
+- Content: YC cohort phase change from GPT wrappers to domain-specific agent harnesses; Garry Tan "system of record vs domain-specific harness" fork; harness operational definition (loop, tools, memory, rules); three strategic shifts (moat moves to workflow, seat-based to outcome pricing, prompt engineering to harness engineering); cohort landscape across healthcare/legal/dev/support/finance; 3-4x token efficiency reports; limitations-as-moat analysis
+- Cross-references: [[harness-engineering]], [[agentic-architecture]], [[agent-native-operations]], [[goal-primitive]]
+- Backlink added: insights/concepts/harness-engineering.md related: + domain-specific-agent-harnesses-yc-cohort
+- Lint: 0 errors (gate passed)
+- Orphan findings: 47 (unchanged in character; connectivity campaign still the pending remedy)
+
 ## [2026-06-25] no-op | Daily synthesis — no new/changed sources
 - Ingest: 356 files scanned, 0 new, 0 changed, 0 SHA drift, HTML excluded: 0
 - Lint: not run (no synthesis; lint is the gate for commits, none made)
