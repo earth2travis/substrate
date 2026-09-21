@@ -1,6 +1,6 @@
 # Substrate Index
 
-The shared nervous system. Current inventory: 407 findings, 91 concepts, 2 entities, 414 raw sources.
+The shared nervous system. Current inventory: 408 findings, 91 concepts, 2 entities, 415 raw sources.
 
 ## Core Directories
 - [[research/]] — Incoming work. Raw sources in `raw/`; synthesized findings in `findings/`.
@@ -122,6 +122,7 @@ Frontier AI and agent-native organizations (July 2026):
 - [[kitesurf-agent-browser-cloudflare]] — Cloudflare's agent-first browser on Workers: custom Rust/Wasm engine, 3-7x cheaper than Chromium, Quick Actions plus CDP and MCP integration; the sensory organ for the Cloudflare agent substrate.
 
 ## September 2026 additions
+- [[aristotle-logic-reasoning-decisions]] — Logic as instrument: syllogistic completeness, episteme's six conditions, Hume's inversion, phronesis as irreducible practical judgment, and the practical syllogism as proto-BDI.
 - [[prisoners-dilemma-anatomy]] — The game where rational and good diverge: T > R > P > S ordinal skeleton, 2x2 menagerie, unraveling, and the shadow of the future as the master variable.
 - [[iterated-prisoners-dilemma-axelrod-tournaments]] — Tit for Tat's contingent victory: nice, retaliatory, forgiving, clear; noise dethrones it (GTFT to Pavlov); zero-determinant extortion; Nowak's five rules.
 - [[prisoners-dilemma-psychology-coordination]] — The human player: 37% baseline cooperation, framing doubles it, altruistic punishment sustains it, Ostrom's eight principles institutionalize it.

@@ -5,6 +5,15 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 >
+## [2026-09-21] ingest | Aristotle: Logic, Reasoning, and Rational Decision-Making
+- Source: research/raw/aristotle-logic-reasoning-decisions.md (committed earlier today in 494c175; 417 raw files scanned, 1 new)
+- Finding created: research/findings/aristotle-logic-reasoning-decisions.md
+- Content: Organon as instrument; syllogism definition (Prior Analytics I.1, 24b18-20) and first completeness result; episteme's six conditions on demonstrative premises (Posterior Analytics I.2); epagoge and nous grounding first principles (II.19); Hume's inversion and Popper's deductive re-founding; Frege's expressive rupture; phronesis, deliberation, prohairesis, and the practical syllogism concluding in action; akrasia as failure of the perceptual minor premise; virtue-ethics revival (Anscombe, MacIntyre, Flyvbjerg); rules-versus-judgment dialectic in AI (Dreyfus, Winograd, BDI mapping); explicit where-the-mapping-breaks section
+- Cross-references: [[critical-rationalism]], [[5-whys]], [[decision-provenance]], [[agent-identity-is-a-philosophical-question]]
+- Backlinks added: insights/concepts/critical-rationalism.md (Related section + aristotle-logic-reasoning-decisions); research/findings/5-whys.md (new Related section with aristotle-logic-reasoning-decisions and kaizen)
+- INDEX.md: September 2026 additions entry; inventory bumped to 408 findings / 415 raw
+- Lint: gate run below
+- Orphan findings: 47 baseline (unchanged in character; connectivity campaign still the pending remedy)
 ## [2026-09-18] ingest | Domain-Specific Agent Harnesses in the YC Cohort
 - Source: research/raw/domain-specific-agent-harnesses-yc-cohort.md (X thread by @shamshudein, Sep 15 2026, + subagent research compilation)
 - Finding created: research/findings/domain-specific-agent-harnesses-yc-cohort.md
@@ -1145,3 +1154,4 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
 - Orphan findings: 47 per digest (unchanged from 2026-09-17; known population: mission/linguistics cluster, IRL cluster, NASA/intent cluster, recent ingest batch stem-mismatches, 2 run-worker/vinext debugging artifacts, 2 stem-mismatch false positives)
 - Latest synthesis state: prisoner's dilemma series complete (2026-09-10 cycle); domain-specific agent harnesses finding (2026-09-19, YC cohort)
 - No synthesis required. Exiting cleanly.
+

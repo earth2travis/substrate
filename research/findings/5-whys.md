@@ -57,3 +57,8 @@ Adaptations needed:
 - **Documentation serves double duty:** it is both record and continuity
 
 When something goes wrong: notice and name it, gather evidence, run the 5 Whys together, check for multiplicity, define actions, document, follow through, and review.
+
+## Related
+
+- [[aristotle-logic-reasoning-decisions]] — Aristotle's four causes are the ancient formalization of "why"; Posterior Analytics supplies the full account of demonstration as causal explanation
+- [[kaizen]] — continuous improvement as daily operating principle
