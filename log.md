@@ -1162,3 +1162,9 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
 - Orphan findings: 47 per digest (unchanged from 2026-09-20; known population: mission/linguistics cluster, IRL cluster, NASA/intent cluster, recent ingest batch stem-mismatches, 2 run-worker/vinext debugging artifacts, 2 stem-mismatch false positives)
 - Latest synthesis state: Aristotle logic/reasoning finding complete (2026-09-21 cycle)
 - No synthesis required. Exiting cleanly.
+
+## [2026-09-23] no-op | Daily synthesis — no new/changed sources
+- Ingest: 417 files scanned, 0 new, 0 changed, 0 SHA drift, HTML excluded: 0
+- Lint: not run (no synthesis; lint is the gate for commits, none made)
+- Orphan findings: 47 (unchanged population from 2026-09-21: 39-40 stem-mismatch false positives, 3 genuine NASA cluster orphans, 2 zookooree backlink gaps)
+- No synthesis required. Exiting cleanly.
