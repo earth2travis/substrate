@@ -1,6 +1,6 @@
 # Substrate Index
 
-The shared nervous system. Current inventory: 408 findings, 91 concepts, 2 entities, 415 raw sources.
+The shared nervous system. Current inventory: 411 findings, 91 concepts, 2 entities, 419 raw sources.
 
 ## Core Directories
 - [[research/]] — Incoming work. Raw sources in `raw/`; synthesized findings in `findings/`.
@@ -123,6 +123,8 @@ Frontier AI and agent-native organizations (July 2026):
 
 ## September 2026 additions
 - [[aristotle-logic-reasoning-decisions]] — Logic as instrument: syllogistic completeness, episteme's six conditions, Hume's inversion, phronesis as irreducible practical judgment, and the practical syllogism as proto-BDI.
+- [[rsi-survey-autonomy-levels-deep-dive]] — The Theseus autonomy ladder: five levels of responsibility transfer (L1 execution to L5 recursive inheritance), HCI capability audit, and the honest verdict that effective L5 does not yet exist.
+- [[dream-rsi-replay-simulator-deep-dive]] — Dream-RSI: recorded discovery trees as replay simulators for off-policy meta-improvement; 1.7x-2.4x controlled efficiency gains; structural L5 on a narrow mechanism.
 - [[prisoners-dilemma-anatomy]] — The game where rational and good diverge: T > R > P > S ordinal skeleton, 2x2 menagerie, unraveling, and the shadow of the future as the master variable.
 - [[iterated-prisoners-dilemma-axelrod-tournaments]] — Tit for Tat's contingent victory: nice, retaliatory, forgiving, clear; noise dethrones it (GTFT to Pavlov); zero-determinant extortion; Nowak's five rules.
 - [[prisoners-dilemma-psychology-coordination]] — The human player: 37% baseline cooperation, framing doubles it, altruistic punishment sustains it, Ostrom's eight principles institutionalize it.
