@@ -1193,3 +1193,11 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
 - SCHEMA.md inventory synced: raw 410 -> 419, findings 402 -> 411, entities 2 -> 3 (matching filesystem census)
 - Lint: PASSED, 0 errors (65 warnings all pre-existing raw fm-missing/fm-title-missing exemptions, 217 info)
 - Orphan findings: 47 per digest (unchanged population; both new findings carry related: links and INDEX entries, wired at creation)
+
+## [2026-09-29] no-op | Daily synthesis — no new/changed sources
+- Ingest: 420 files scanned, 0 new, 0 changed, 0 SHA drift, HTML excluded: 0, no-ingest excluded: 0
+- Note: first digest run today self-healed stale hash state for thich-nhat-hanh-mindfulness.md (raw committed 2026-09-26 without synthesis trigger); second run confirms zero pending work
+- Lint: not run (no synthesis; lint is the gate for commits, none made beyond this log entry)
+- Orphan findings: 47 (unchanged population from 2026-09-25: 39-40 stem-mismatch false positives, 3 genuine NASA cluster orphans, 2 zookooree backlink gaps)
+- Latest synthesis state: RSI cluster complete (2026-09-26 cycle)
+- No synthesis required. Exiting cleanly.
