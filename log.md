@@ -1201,3 +1201,14 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
 - Orphan findings: 47 (unchanged population from 2026-09-25: 39-40 stem-mismatch false positives, 3 genuine NASA cluster orphans, 2 zookooree backlink gaps)
 - Latest synthesis state: RSI cluster complete (2026-09-26 cycle)
 - No synthesis required. Exiting cleanly.
+
+## [2026-09-30] ingest | Thich Nhat Hanh and the transmission of mindfulness (1 finding)
+- Source: research/raw/thich-nhat-hanh-mindfulness.md (committed 2026-09-26 as 2109f8b; the 2026-09-29 no-op cycle healed the digest hash state but never synthesized the finding — gap detected this cycle by cross-referencing committed raw stems against findings/, which returned zero thich-nhat-hanh hits)
+- Finding created: research/findings/thich-nhat-hanh-mindfulness.md
+  - Content: mindfulness reframed from bounded technique to continuous presence in ordinary acts (wash the dishes to wash the dishes) as the transmission move that made it portable outside monastic conditions; interbeing (Heart Sutra emptiness, Indra's net) as ontological rather than contractual ethics; Engaged Buddhism as wartime Vietnamese improvisation (SYSS 1965, Order of Interbeing Feb 5 1966, first three Mindfulness Trainings as anti-dogmatism clause forged by ideology-driven violence); MLK Nobel nomination letter (Jan 25 1967, verified verbatim); Kabat-Zinn line as proof-of-concept transmission then de-Buddhification; Purser McMindfulness critique vs Lele/Analayo counter-critique as the live fault line; Plum Village institutional build-out (11 centers, Wake Up, Wake Up Schools, app) as resilience without personality cult; contested legacy question: did corporate appearances legitimize McMindfulness or infiltrate it
+  - First Substrate node on Buddhism, meditation, or contemplative practice (grep confirmed zero prior hits)
+- Cross-references: [[emptiness-and-dependent-origination]], [[conscience]], [[kaizen]], [[process-philosophy]], [[soul-as-attention]]
+- INDEX.md: added under September 2026 additions; inventory 411 -> 412 findings, 419 -> 420 raw, 2 -> 3 entities (synced to filesystem census)
+- SCHEMA.md inventory synced (raw 419 -> 420, findings 411 -> 412)
+- Lint: PASSED, 0 errors (66 warnings all pre-existing raw fm-missing/fm-title-missing exemptions, 217 info)
+- Orphan findings: 47 per digest (unchanged population; new finding carries related: links and INDEX entry, wired at creation)
