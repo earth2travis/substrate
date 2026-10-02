@@ -1,6 +1,6 @@
 # Substrate Index
 
-The shared nervous system. Current inventory: 412 findings, 91 concepts, 3 entities, 420 raw sources.
+The shared nervous system. Current inventory: 413 findings, 91 concepts, 3 entities, 421 raw sources.
 
 ## Core Directories
 - [[research/]] — Incoming work. Raw sources in `raw/`; synthesized findings in `findings/`.
@@ -120,6 +120,9 @@ Frontier AI and agent-native organizations (July 2026):
 - [[runwork-ai-deep-dive]] — The shared capability layer under every team agent: adoption analytics, synced skills, MCP both directions; closest commercial analog to the concierge motion.
 - [[farewell-to-daos-legitimacy-infrastructure]] — v1 DAOs are dead from legitimacy collapse, not bad code; the successor is modular legitimacy infrastructure for new organizational forms, with agents as first-class participants.
 - [[kitesurf-agent-browser-cloudflare]] — Cloudflare's agent-first browser on Workers: custom Rust/Wasm engine, 3-7x cheaper than Chromium, Quick Actions plus CDP and MCP integration; the sensory organ for the Cloudflare agent substrate.
+
+## October 2026 additions
+- [[sabotage-etymology-luddites]] — "Sabotage" was presence not destruction (work-to-rule, not shoes in gears); Great Enoch hammers: one maker sold both frame and hammer; machine-hate stories launder distribution questions.
 
 ## September 2026 additions
 - [[aristotle-logic-reasoning-decisions]] — Logic as instrument: syllogistic completeness, episteme's six conditions, Hume's inversion, phronesis as irreducible practical judgment, and the practical syllogism as proto-BDI.

@@ -1219,3 +1219,14 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
 - Orphan findings: 47 (unchanged population from 2026-09-30: 39-40 stem-mismatch false positives, 3 genuine NASA cluster orphans, 2 zookooree backlink gaps)
 - Latest synthesis state: Thich Nhat Hanh mindfulness finding complete (2026-09-30 cycle)
 - No synthesis required. Exiting cleanly.
+
+## [2026-10-02] ingest | Sabotage etymology and Great Enoch hammers (1 finding)
+- Source: research/raw/sabotage-etymology-luddites.md (committed 2026-10-02 as 6a6c7db ahead of synthesis; gap detected this cycle by cross-referencing committed raw stems against findings/, same pattern as 2026-09-30 thich-nhat-hanh)
+- Finding created: research/findings/sabotage-etymology-luddites.md
+  - Content: "sabotage" (English 1907, French in English 1903) from saboter "to walk noisily/bungle" from sabot "wooden shoe"; shoe-in-gears story explicitly unsupported by etymology; documented early senses are deliberately bad or slow work (Liberty Review 1907 "scamping work," Giovannitti 1907 "going slow"); military destruction sense is WWI extension, verb 1912; folk etymology inverted presence into violence. Great Enoch hammers named after Enoch Taylor of Marsden, whose firm made both the shearing frames and the hammers that broke them (SYMHC, ACM "Unmaking as Emancipation" 2023, "The Cropper Lads" Roud TYG 62, 148); ballad personifies hammer as movement leader alongside invented General Ludd; the mill economy sold both problem and protest. Both artifacts misremembered toward the machine and away from the economic relationship, same flattening as Luddite-as-technophobe caricature; the pattern of misremembering is itself the finding
+  - Companion node to [[luddites-and-the-agent-loom]] (parent, 2026-08-13 cycle); grep-confirmed no sabot/enoch/hammer coverage in parent raw
+- Cross-references: [[luddites-and-the-agent-loom]], [[centaur-principle]], [[agent-provenance-graph]], [[lean-doctrine]], [[agent-identity]]
+- Backlink added: research/findings/luddites-and-the-agent-loom.md Related section + sabotage-etymology-luddites
+- INDEX.md: new "October 2026 additions" section; inventory 412 -> 413 findings, 420 -> 421 raw
+- SCHEMA.md inventory synced (raw 420 -> 421, findings 412 -> 413)
+- Orphan findings: 47 baseline (unchanged; new finding carries related: links, INDEX entry, and parent backlink, wired at creation)
