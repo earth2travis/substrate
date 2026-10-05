@@ -1,6 +1,6 @@
 # Substrate Index
 
-The shared nervous system. Current inventory: 413 findings, 91 concepts, 3 entities, 421 raw sources.
+The shared nervous system. Current inventory: 422 findings, 91 concepts, 3 entities, 430 raw sources.
 
 ## Core Directories
 - [[research/]] — Incoming work. Raw sources in `raw/`; synthesized findings in `findings/`.
@@ -123,6 +123,17 @@ Frontier AI and agent-native organizations (July 2026):
 
 ## October 2026 additions
 - [[sabotage-etymology-luddites]] — "Sabotage" was presence not destruction (work-to-rule, not shoes in gears); Great Enoch hammers: one maker sold both frame and hammer; machine-hate stories launder distribution questions.
+- Hill-climbing series (2026-10-05): classical AI search theory applied to agent improvement and resource allocation.
+  - [[local-search]] — Hill climbing, simulated annealing, local beam, genetic algorithms: the landscape frame and the explore/exploit tradeoff.
+  - [[informed-search]] — The AIMA deck version: adds ant colony optimization, tabu search, ridge failure modes in high dimensions, and errata.
+  - [[search-depth-first-hill-climbing-beam]] — Winston's MIT 6.034: every search is one queue loop with swappable insertion rules; search finds meaning in stories, not just paths.
+  - [[eval-hill-climbing]] — The operational manual: noise math (SE = √(p(1−p)/n)), Goodhart controls, error analysis, and the ten rules for knowing a change worked.
+  - [[explore-exploit-ad-testing]] — Bandit methods for media buying: Thompson sampling beats UCB under delayed feedback; Meta's platform mechanics; the "not tested vs. lost" distinction.
+- Quantum Thief series (2026-10-05): Rajaniemi's novel as a stress test for coordination, identity, privacy, and conscience frameworks.
+  - [[quantum-thief-privacy-as-currency]] — The Oubliette: gevulot as negotiated privacy membrane, exomemory as write-only archive, Time as currency, the Quiet as structural underclass.
+  - [[quantum-thief-sobornost-copy-problem]] — The Sobornost: Hansonian em economics with the copy-veto stripped; gogols as Dead Souls; Parfit's branching clause industrialized.
+  - [[quantum-thief-crypto-coordination]] — Two coordination architectures matched: Oubliette (bounded disclosure over shared record) vs. zoku (shared ruleset with cheap exit); Szabo, Buterin, and Ostrom scored against both.
+  - [[quantum-thief-conscience-architecture]] — The Dilemma Prison as Axelrod penology; Jean's memory caches as inverted Ulysses contracts; the off-switch game as conscience-as-architecture's formal proof.
 
 ## September 2026 additions
 - [[aristotle-logic-reasoning-decisions]] — Logic as instrument: syllogistic completeness, episteme's six conditions, Hume's inversion, phronesis as irreducible practical judgment, and the practical syllogism as proto-BDI.

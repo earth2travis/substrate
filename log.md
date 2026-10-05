@@ -1245,3 +1245,24 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
 - Orphan findings: 47 per digest (unchanged population from 2026-10-03: 39-40 stem-mismatch false positives, 3 genuine NASA cluster orphans, 2 zookooree backlink gaps)
 - Latest synthesis state: sabotage-etymology-luddites finding complete (2026-10-02 cycle)
 - No synthesis required. Exiting cleanly.
+
+## [2026-10-05] ingest | Hill-climbing series + Quantum Thief series (9 findings)
+- Sources: 9 new raw files committed 2026-10-05 (34849ec..e4d62e2)
+  - research/raw/local-search.md, informed-search.md, search-depth-first-hill-climbing-beam.md, eval-hill-climbing.md, explore-exploit-ad-testing.md
+  - research/raw/quantum-thief-privacy-as-currency.md, quantum-thief-sobornost-copy-problem.md, quantum-thief-crypto-coordination.md, quantum-thief-conscience-architecture.md
+- Findings created:
+  - research/findings/local-search.md — Hill climbing, simulated annealing, local beam, genetic algorithms: landscape frame and explore/exploit tradeoff.
+  - research/findings/informed-search.md — AIMA deck version: ant colony optimization, tabu search, ridge failure modes in high dimensions, errata on the deck.
+  - research/findings/search-depth-first-hill-climbing-beam.md — Winston's MIT 6.034: all search as one queue loop with swappable insertion rules; search finds meaning in stories.
+  - research/findings/eval-hill-climbing.md — Operational manual: noise math (SE = √(p(1−p)/n)), Goodhart controls, error analysis, ten rules for knowing a change worked.
+  - research/findings/explore-exploit-ad-testing.md — Bandit methods for media buying: Thompson sampling beats UCB under delayed feedback; Meta platform mechanics; "not tested vs. lost" distinction.
+  - research/findings/quantum-thief-privacy-as-currency.md — The Oubliette: gevulot as negotiated privacy membrane, exomemory as write-only archive, Time as currency, Quiet as structural underclass.
+  - research/findings/quantum-thief-sobornost-copy-problem.md — The Sobornost: Hansonian em economics with copy-veto stripped; gogols as Dead Souls; Parfit's branching clause industrialized.
+  - research/findings/quantum-thief-crypto-coordination.md — Two coordination architectures matched: Oubliette (bounded disclosure over shared record) vs. zoku (shared ruleset with cheap exit); Szabo, Buterin, Ostrom scored.
+  - research/findings/quantum-thief-conscience-architecture.md — Dilemma Prison as Axelrod penology; memory caches as inverted Ulysses contracts; off-switch game as conscience-as-architecture formal proof.
+- Cross-references: Each finding links to 2+ existing concepts/findings per SCHEMA conventions. Sibling links wired between hill-climbing and Quantum Thief series files. Backlinks not added to existing pages (series files are new branches; existing pages already link to related concepts).
+- INDEX.md: added under October 2026 additions; inventory 413 -> 422 findings, 421 -> 430 raw.
+- SCHEMA.md: inventory synced (raw 421 -> 430, findings 413 -> 422).
+- Lint: PASSED, 0 errors (67 warnings all pre-existing raw fm-missing/fm-title-missing exemptions, 217 info). New files introduce no new warnings.
+- Orphan findings: 47 baseline (unchanged; 3 pre-existing genuine orphans remain: goal-primitive-three-implementations, nasa-lifecycle-gates-and-decadal-survey, nasa-mission-model).
+- No synthesis gaps remain for 2026-10-05 raw files.

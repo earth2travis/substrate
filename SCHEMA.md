@@ -1,8 +1,8 @@
 # Substrate Schema
 
 ## Inventory
-- research/raw/ — 421 immutable source files.
-- research/findings/ — 413 synthesized findings.
+- research/raw/ — 430 immutable source files.
+- research/findings/ — 422 synthesized findings.
 - insights/concepts/ — 91 durable concepts.
 - insights/entities/ — 3 biographical entities.
 - decisions/ — 1 ADR.
