@@ -1315,3 +1315,9 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
 - Orphan findings: 47 per digest (unchanged population: ~40 stem-mismatch false positives, 3 genuine NASA cluster orphans, 2 zookooree backlink gaps)
 - Latest synthesis state: hill-climbing series + Quantum Thief series complete (2026-10-05 cycle, commit 6a8900f)
 - No synthesis required. Exiting cleanly.
+
+## [2026-10-13] ingest | Left-market-anarchist cluster: mutualism, agorism, Carson
+- Sources: research/raw/mutualism.md, research/raw/samuel-edward-konkin-iii-agorism.md, research/raw/kevin-carson-free-market-anti-capitalism.md (all 2026-10-12 research deep dives, landed after the 2026-10-12 no-op cycle)
+- Findings created: research/findings/mutualism.md, research/findings/samuel-edward-konkin-iii-agorism.md, research/findings/kevin-carson-free-market-anti-capitalism.md
+- INDEX.md: cluster entry added under October 2026 additions; inventory counts bumped (425 findings, 433 raw)
+- No new insight pages promoted yet; cluster is a candidate for a left-market-anarchism concept page once the finding layer settles

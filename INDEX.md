@@ -1,6 +1,6 @@
 # Substrate Index
 
-The shared nervous system. Current inventory: 422 findings, 91 concepts, 3 entities, 430 raw sources.
+The shared nervous system. Current inventory: 425 findings, 91 concepts, 3 entities, 433 raw sources.
 
 ## Core Directories
 - [[research/]] — Incoming work. Raw sources in `raw/`; synthesized findings in `findings/`.
@@ -123,6 +123,10 @@ Frontier AI and agent-native organizations (July 2026):
 
 ## October 2026 additions
 - [[sabotage-etymology-luddites]] — "Sabotage" was presence not destruction (work-to-rule, not shoes in gears); Great Enoch hammers: one maker sold both frame and hammer; machine-hate stories launder distribution questions.
+- Left-market-anarchist cluster (2026-10-13): mutualism, agorism, and Carson's free-market anti-capitalism as one research program.
+  - [[mutualism]] — Possession against property from Proudhon to the present: the Four Monopolies as diagnostic engine, mutual credit as the most consequential (and unattributed) idea, strategy as substitution not seizure; the ideas outcompeted the brand.
+  - [[samuel-edward-konkin-iii-agorism]] — Counter-economics as consistency strategy: partyarchy as anti-concept, the NLM-to-Silk-Road causal chain, parasitism unsolved but inherited; legacy entirely in the second degree.
+  - [[kevin-carson-free-market-anti-capitalism]] — The subsidy of history: every stage of capitalism state-dependent; Hayek turned against the firm; IP as the late-capitalist enclosure; exodus over capture; the political economy of waste.
 - Hill-climbing series (2026-10-05): classical AI search theory applied to agent improvement and resource allocation.
   - [[local-search]] — Hill climbing, simulated annealing, local beam, genetic algorithms: the landscape frame and the explore/exploit tradeoff.
   - [[informed-search]] — The AIMA deck version: adds ant colony optimization, tabu search, ridge failure modes in high dimensions, and errata.
