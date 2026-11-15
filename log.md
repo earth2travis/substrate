@@ -1461,5 +1461,5 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
   - minimax-beyond-game-theory.md — Wald's game against Nature; regret as machine-age variant; Shannon→Deep Blue→MCTS lineage; GANs as literal Wald; CFR poker lineage; three-costume disambiguation
   - minimax-reception-influence-critiques.md — RAND adoption, 1994 Nobel consecration; economics absorbed Nash not saddle; ESS; five critiques; security games; alignment uses are bets not theorems
   - creative-destruction.md — Schumpeter 1942; Sombart attribution contested (2026 scholarship); dynamism decline vs AI acceleration; destruction at software speed, creation at institutional speed; J-curve unfalsifiable in short run
-- Lint: pending (run before commit)
+- Lint: PASSED, 0 errors (88 warnings, all pre-existing raw fm-missing/fm-title-missing exemptions, 217 info)
 - Orphan findings: 47 per digest (unchanged population, pre-existing)
