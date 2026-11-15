@@ -1448,3 +1448,18 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
 - Orphan findings: 47 per digest (unchanged population: ~40 stem-mismatch false positives, 3 genuine NASA cluster orphans, 2 zookooree backlink gaps)
 - Latest synthesis state: left-market-anarchist cluster complete (2026-10-13 cycle, commit 1536296)
 - No synthesis required. Exiting cleanly.
+
+## [2026-11-15] ingest | Design thinking (4), minimax (4), creative destruction (1)
+- Ingest: 442 files scanned, 9 new, 0 changed, 0 SHA drift, HTML excluded: 0
+- Synthesis: 9 findings written across three clusters
+  - design-thinking-lineage.md — three strata (methods movement, epistemological consolidation, commercial translation); Rittel 1973 as hinge; Simon charter vs Rittel epistemology; lean parallel
+  - design-thinking-methods-models.md — five codifications, one rhythm; d.school model as PDCA with empathy prepended; IBM Loop closest to PDCA; Double Diamond adjacent to VSM; sprint as formalized Deep Dive
+  - design-thinking-applications-cases.md — evidence pyramid inverts publicity pyramid; McKinsey MDI correlational; DMI DVI compromised; adoption vs outcome evidence
+  - design-thinking-critiques.md — Iskander/Nussbaum/Vinsel/Norman; empirical + political convergence; Liedtka's narrow defense; components survive, bundle untested
+  - minimax-theorem-history.md — Borel posed and conjectured against; von Neumann 1928 quasiconcave-quasiconvex generality (Kjeldsen); Brouwer 1911 → von Neumann 1937 → Kakutani 1941 → Nash 1950
+  - minimax-theorem-statement-proofs.md — formal statement; mixed strategies as the object; four proof families; minimax ≡ LP duality; P vs PPAD-complete boundary; Sion 1958 general form
+  - minimax-beyond-game-theory.md — Wald's game against Nature; regret as machine-age variant; Shannon→Deep Blue→MCTS lineage; GANs as literal Wald; CFR poker lineage; three-costume disambiguation
+  - minimax-reception-influence-critiques.md — RAND adoption, 1994 Nobel consecration; economics absorbed Nash not saddle; ESS; five critiques; security games; alignment uses are bets not theorems
+  - creative-destruction.md — Schumpeter 1942; Sombart attribution contested (2026 scholarship); dynamism decline vs AI acceleration; destruction at software speed, creation at institutional speed; J-curve unfalsifiable in short run
+- Lint: pending (run before commit)
+- Orphan findings: 47 per digest (unchanged population, pre-existing)

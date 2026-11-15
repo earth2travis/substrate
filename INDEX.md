@@ -1,6 +1,6 @@
 # Substrate Index
 
-The shared nervous system. Current inventory: 425 findings, 91 concepts, 3 entities, 433 raw sources.
+The shared nervous system. Current inventory: 434 findings, 91 concepts, 3 entities, 442 raw sources.
 
 ## Core Directories
 - [[research/]] — Incoming work. Raw sources in `raw/`; synthesized findings in `findings/`.
@@ -120,6 +120,19 @@ Frontier AI and agent-native organizations (July 2026):
 - [[runwork-ai-deep-dive]] — The shared capability layer under every team agent: adoption analytics, synced skills, MCP both directions; closest commercial analog to the concierge motion.
 - [[farewell-to-daos-legitimacy-infrastructure]] — v1 DAOs are dead from legitimacy collapse, not bad code; the successor is modular legitimacy infrastructure for new organizational forms, with agents as first-class participants.
 - [[kitesurf-agent-browser-cloudflare]] — Cloudflare's agent-first browser on Workers: custom Rust/Wasm engine, 3-7x cheaper than Chromium, Quick Actions plus CDP and MCP integration; the sensory organ for the Cloudflare agent substrate.
+
+## November 2026 additions
+- Design thinking series (2026-11-15): the first branch into design research, closing the gap flagged in the AI Factory design brief.
+  - [[design-thinking-lineage]] — Three strata: the 1962-73 design methods movement and Rittel's wicked-problems hinge, the 1969-87 epistemological consolidation (Simon, Cross, Schon, Rowe), the 1991-2009 commercial translation (IDEO, d.school, Brown). Simon's charter, Rittel's epistemology.
+  - [[design-thinking-methods-models]] — Five codifications of one rhythm: d.school five stages (PDCA with empathy prepended), IDEO lenses, Double Diamond (adjacent to VSM), IBM Loop plus governance Keys, LUMA taxonomy; the sprint as formalized Deep Dive.
+  - [[design-thinking-applications-cases]] — The evidence pyramid inverts the publicity pyramid: canonical cases self-reported, McKinsey MDI correlational, DMI DVI backtested and Apple-weighted, adoption evidence outpacing outcome evidence.
+  - [[design-thinking-critiques]] — Iskander's power critique, Nussbaum's insider defection, Vinsel's polemic, Norman's useful myth; Liedtka's narrow defense; the components survive, the bundle remains untested.
+- Minimax series (2026-11-15): the first branch into game theory's mathematical foundations.
+  - [[minimax-theorem-history]] — Borel posed and conjectured against; von Neumann 1928 proved the general quasiconcave-quasiconvex case; Brouwer to von Neumann to Kakutani to Nash.
+  - [[minimax-theorem-statement-proofs]] — The theorem precisely; mixed strategies as the object; four proof families; minimax equivalent to LP duality; P vs PPAD-complete boundary.
+  - [[minimax-beyond-game-theory]] — Three export routes: Wald's statistics, Shannon's search, Savage's regret; GANs as literal Wald; CFR poker lineage; one idea in three costumes.
+  - [[minimax-reception-influence-critiques]] — RAND adoption, Nobel consecration; economics absorbed Nash not the saddle; five critiques; security games and alignment bets.
+- [[creative-destruction]] — Schumpeter 1942 to the AI wave: dynamism declining while adoption accelerates; destruction at software speed, creation at institutional speed; the J-curve question.
 
 ## October 2026 additions
 - [[sabotage-etymology-luddites]] — "Sabotage" was presence not destruction (work-to-rule, not shoes in gears); Great Enoch hammers: one maker sold both frame and hammer; machine-hate stories launder distribution questions.
