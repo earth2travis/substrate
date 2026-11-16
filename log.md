@@ -1463,3 +1463,14 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
   - creative-destruction.md — Schumpeter 1942; Sombart attribution contested (2026 scholarship); dynamism decline vs AI acceleration; destruction at software speed, creation at institutional speed; J-curve unfalsifiable in short run
 - Lint: PASSED, 0 errors (88 warnings, all pre-existing raw fm-missing/fm-title-missing exemptions, 217 info)
 - Orphan findings: 47 per digest (unchanged population, pre-existing)
+
+## [2026-11-16] ingest | Nash equilibrium (3), Popper hypothesis structure (1)
+- Ingest: 444 files scanned, 2 new, 0 changed, 0 SHA drift, HTML excluded: 0
+- New raw sources (committed 2026-11-15 by research session): nash-equilibrium.md, popper-hypothesis-structure.md
+- Synthesis: 4 findings written across two clusters
+  - nash-equilibrium-foundations.md — definition in Nash's own words; existence via Kakutani (1950 PNAS) and Brouwer (1951 Annals, at Gale's suggestion); strict generalization of minimax; the three foundational texts; von Neumann "trivial" dismissal traced to Nasar p. 94 via Goeree-Holt, a recollection not a transcript; rationalistic vs mass-action interpretations never reconciled
+  - nash-equilibrium-refinements-complexity.md — Selten subgame/trembling-hand, Harsanyi Bayesian games; PPAD-completeness (Daskalakis-Goldberg-Papadimitriou 2006/2009, Chen-Deng 2006) as foundational critique: uncomputable equilibria cannot predict behavior; lab deviations (Nagel beauty contest, ultimatum, public goods, centipede); QRE and level-k relocate rather than refute; the two deepest problems (people don't play it, computers can't find it) as one gap between fixed point and process
+  - nash-equilibrium-applications.md — Cournot/Bertrand as retroactive Nash; auctions and mechanism design (2007 Nobel); Maynard Smith-Price ESS decoupling equilibrium from cognition; MARL's three problems (PPAD, non-uniqueness, non-learnability) and the CE/CCE/mean-field relaxations; GAN saddle point as Nash ideal, mode collapse as non-learnability recapitulated
+  - popper-hypothesis-structure.md — the three-component logical form (universal, basic statement, prohibition); empirical content as class of potential falsifiers; severity as property of tests; the five-part template (universal claim, prohibition, potential falsifier, risky prediction, no escape clause); six writing prescriptions; fills the practical-structure gap left by popper-logic-of-scientific-discovery
+- Lint: PASSED, 0 errors (90 warnings, all pre-existing raw fm-missing/fm-title-missing exemptions, 217 info)
+- Orphan findings: 47 per digest (unchanged population, pre-existing)

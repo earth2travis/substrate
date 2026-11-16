@@ -1,6 +1,6 @@
 # Substrate Index
 
-The shared nervous system. Current inventory: 434 findings, 91 concepts, 3 entities, 442 raw sources.
+The shared nervous system. Current inventory: 438 findings, 91 concepts, 3 entities, 444 raw sources.
 
 ## Core Directories
 - [[research/]] — Incoming work. Raw sources in `raw/`; synthesized findings in `findings/`.
@@ -133,6 +133,11 @@ Frontier AI and agent-native organizations (July 2026):
   - [[minimax-beyond-game-theory]] — Three export routes: Wald's statistics, Shannon's search, Savage's regret; GANs as literal Wald; CFR poker lineage; one idea in three costumes.
   - [[minimax-reception-influence-critiques]] — RAND adoption, Nobel consecration; economics absorbed Nash not the saddle; five critiques; security games and alignment bets.
 - [[creative-destruction]] — Schumpeter 1942 to the AI wave: dynamism declining while adoption accelerates; destruction at software speed, creation at institutional speed; the J-curve question.
+- Nash equilibrium series (2026-11-16): the concept that displaced minimax, its limits, and its exports.
+  - [[nash-equilibrium-foundations]] — Definition, existence via fixed points, generalization of minimax; the von Neumann dismissal as reported recollection; two interpretations never reconciled.
+  - [[nash-equilibrium-refinements-complexity]] — Selten/Harsanyi refinements; PPAD-completeness as foundational critique; behavioral deviations and the QRE/level-k relocation.
+  - [[nash-equilibrium-applications]] — Cournot/Bertrand retroactive absorption; ESS decoupling equilibrium from cognition; MARL's three problems and the CCE/mean-field relaxations; GAN saddle as Nash ideal.
+- [[popper-hypothesis-structure]] — The template for a well-formed falsifiable hypothesis: universal prohibition, basic statement, risky prediction, no escape clause; six writing prescriptions.
 
 ## October 2026 additions
 - [[sabotage-etymology-luddites]] — "Sabotage" was presence not destruction (work-to-rule, not shoes in gears); Great Enoch hammers: one maker sold both frame and hammer; machine-hate stories launder distribution questions.
