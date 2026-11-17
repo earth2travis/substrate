@@ -1474,3 +1474,11 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
   - popper-hypothesis-structure.md — the three-component logical form (universal, basic statement, prohibition); empirical content as class of potential falsifiers; severity as property of tests; the five-part template (universal claim, prohibition, potential falsifier, risky prediction, no escape clause); six writing prescriptions; fills the practical-structure gap left by popper-logic-of-scientific-discovery
 - Lint: PASSED, 0 errors (90 warnings, all pre-existing raw fm-missing/fm-title-missing exemptions, 217 info)
 - Orphan findings: 47 per digest (unchanged population, pre-existing)
+
+## [2026-11-17] no-op | Daily synthesis — no new/changed sources
+- Ingest: 444 files scanned, 0 new, 0 changed, 0 SHA drift, HTML excluded: 0
+- Lint: not run (no synthesis; lint is the gate for commits, none made)
+- Orphan findings: 50 (up from 47 on 2026-09-21)
+  - New since 2026-09-21 (3): nash-equilibrium-foundations, nash-equilibrium-refinements-complexity, nash-equilibrium-applications — findings written and indexed in commit 3e2f74b but no incoming wikilinks wired from bridge concepts
+  - Baseline character unchanged for the other 47
+- Assessment: the nash cluster is a straightforward backlink task (add [[nash-equilibrium-*]] incoming links from [[minimax-theorem-history]] and related game-theory pages). Still the connectivity campaign remedy; no synthesis required. Exiting cleanly.
