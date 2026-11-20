@@ -1481,18 +1481,18 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
 - Orphan findings: 50 (up from 47 on 2026-09-21)
   - New since 2026-09-21 (3): nash-equilibrium-foundations, nash-equilibrium-refinements-complexity, nash-equilibrium-applications — findings written and indexed in commit 3e2f74b but no incoming wikilinks wired from bridge concepts
   - Baseline character unchanged for the other 47
-- Assessment: the nash cluster is a straightforward backlink task (add [[nash-equilibrium-*]] incoming links from [[minimax-theorem-history]] and related game-theory pages). Still the connectivity campaign remedy; no synthesis required. Exiting cleanly.
+- Assessment: the nash cluster is a straightforward backlink task (add `nash-equilibrium-*` incoming links from [[minimax-theorem-history]] and related game-theory pages). Still the connectivity campaign remedy; no synthesis required. Exiting cleanly.
 
 ## [2026-11-18] no-op | Daily synthesis — no new/changed sources
 - Ingest: 444 files scanned, 0 new, 0 changed, 0 SHA drift, HTML excluded: 0, no-ingest excluded: 0
 - Lint: not run (no synthesis; lint is the gate for commits, none made beyond this log entry)
 - Orphan findings: 50 per digest (unchanged population: ~40 stem-mismatch false positives, 3 genuine NASA cluster orphans, 2 zookooree backlink gaps, 3 nash cluster backlink gaps, plus assorted long-tail)
 - Latest synthesis state: nash-equilibrium + popper cluster complete (2026-11-16 cycle, commit 3e2f74b)
-- Assessment: nash cluster remains a straightforward backlink task (add [[nash-equilibrium-*]] incoming links from [[minimax-theorem-history]] and related game-theory pages). No synthesis required. Exiting cleanly.
+- Assessment: nash cluster remains a straightforward backlink task (add `nash-equilibrium-*` incoming links from [[minimax-theorem-history]] and related game-theory pages). No synthesis required. Exiting cleanly.
 
 ## [2026-11-19] no-op | Daily synthesis — no new/changed sources
 - Ingest: 444 files scanned, 0 new, 0 changed, 0 SHA drift, HTML excluded: 0, no-ingest excluded: 0
 - Lint: not run (no synthesis; lint is the gate for commits, none made beyond this log entry)
 - Orphan findings: 50 per digest (unchanged population: ~40 stem-mismatch false positives, 3 genuine NASA cluster orphans, 2 zookooree backlink gaps, 3 nash cluster backlink gaps, plus assorted long-tail)
 - Latest synthesis state: nash-equilibrium + popper cluster complete (2026-11-16 cycle, commit 3e2f74b)
-- Assessment: nash cluster remains a straightforward backlink task (add [[nash-equilibrium-*]] incoming links from [[minimax-theorem-history]] and related game-theory pages). No synthesis required. Exiting cleanly.
+- Assessment: nash cluster remains a straightforward backlink task (add `nash-equilibrium-*` incoming links from [[minimax-theorem-history]] and related game-theory pages). No synthesis required. Exiting cleanly.
