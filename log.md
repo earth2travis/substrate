@@ -1496,3 +1496,11 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
 - Orphan findings: 50 per digest (unchanged population: ~40 stem-mismatch false positives, 3 genuine NASA cluster orphans, 2 zookooree backlink gaps, 3 nash cluster backlink gaps, plus assorted long-tail)
 - Latest synthesis state: nash-equilibrium + popper cluster complete (2026-11-16 cycle, commit 3e2f74b)
 - Assessment: nash cluster remains a straightforward backlink task (add `nash-equilibrium-*` incoming links from [[minimax-theorem-history]] and related game-theory pages). No synthesis required. Exiting cleanly.
+
+## [2026-11-20] no-op | Daily synthesis: no new or changed sources
+- Ingest: 444 files scanned, 0 new, 0 changed, 0 SHA drift, HTML excluded: 0, no-ingest excluded: 0
+- Lint: gate errors 3, all broken-wikilink from the wildcard `[[nash-equilibrium-*]]` in the 2026-11-17 entry (log.md lines 1484, 1491, 1498). Replaced with backticks, matching the file-reference convention. Post-fix lint: 0 errors, 90 warnings (pre-existing raw fm-missing and fm-title-missing exemptions), 217 info, 992 files checked.
+- Orphan findings: 50 per digest (unchanged population: roughly 40 stem-mismatch false positives, 3 NASA cluster orphans, 2 zookooree backlink gaps, 3 nash cluster backlink gaps, plus long tail)
+- Latest synthesis state: nash-equilibrium and popper cluster complete (2026-11-16 cycle, commit 3e2f74b)
+- Run note: the job prompt is currently the single token "show". Read as a status display request, so this run also produced a Substrate state report instead of exiting silently. No content changes beyond the lint fix.
+- No synthesis required. Exiting cleanly.
