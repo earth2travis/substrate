@@ -35,3 +35,4 @@ SOUL.md is an attempt to encode conscience and identity into agent architecture.
 - [[agent-identity]] -- Values, trust, and the SOUL.md pattern
 - [[conscience]] -- Five-component architecture for agent conscience
 - [[context-stack]] -- Where identity and values are encoded
+- [[turing-1950-imitation-game]] -- The 1950 paper that founded the machine-thinks question

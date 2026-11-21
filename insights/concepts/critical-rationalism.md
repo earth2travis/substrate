@@ -48,3 +48,4 @@ Science is like a jury verdict or a bridge built on a swamp. There are no incorr
 - [[process-philosophy]] — the broader tradition of rejecting fixed foundations in favor of dynamic processes
 - [[llm-wiki-pattern]] — the compounding knowledge model that implements critical rationalism in practice
 - [[aristotle-logic-reasoning-decisions]] — the demonstrative ideal Popper broke with: epagoge and nous abandoned, deduction retained
+- [[turing-1950-nine-objections]] -- The nine objections Turing answers, and his aside on conjecture over induction

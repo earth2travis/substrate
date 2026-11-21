@@ -23,3 +23,9 @@ ingested: 2026-11-15
 **In non-zero-sum games, minimax stops characterizing rational play.** No single value; multiple non-interchangeable equilibria; minimax strategies can be irrational against non-adversarial opponents. The prisoner's dilemma in one line: the minimax strategy is defect, and its value is strictly worse than the cooperative payoff; that is precisely the dilemma.
 
 **Generalizations and their limits.** Sion 1958 (Pacific Journal of Mathematics 8(1):171-176, verified) is the standard general form: quasiconcave-quasiconvex, one-sided compactness suffices, semicontinuity. Hypotheses are tight: Sion's own counterexample fails without semicontinuity, and naturals-with-sign payoffs fail without compactness. Far kin: Gale-Stewart (1953) and Martin's Borel determinacy (1975, verified) assert max-min equals min-max for win-lose infinite games, requiring definability hypotheses; the axiom of choice manufactures counterexamples on both sides.
+
+## Related
+
+- [[riemann-hypothesis-2026-claims]] -- Statement fidelity versus compilation as the crux of a formal proof claim
+- [[riemann-hypothesis-what-a-proof-would-mean]] -- What a formal proof buys and does not buy
+- [[ai-math-verification-bottleneck]] -- Verification, not generation, as the binding constraint

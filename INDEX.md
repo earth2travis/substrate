@@ -1,6 +1,6 @@
 # Substrate Index
 
-The shared nervous system. Current inventory: 438 findings, 91 concepts, 3 entities, 444 raw sources.
+The shared nervous system. Current inventory: 445 findings, 91 concepts, 2 entities, 446 raw sources.
 
 ## Core Directories
 - [[research/]] — Incoming work. Raw sources in `raw/`; synthesized findings in `findings/`.
@@ -138,6 +138,15 @@ Frontier AI and agent-native organizations (July 2026):
   - [[nash-equilibrium-refinements-complexity]] — Selten/Harsanyi refinements; PPAD-completeness as foundational critique; behavioral deviations and the QRE/level-k relocation.
   - [[nash-equilibrium-applications]] — Cournot/Bertrand retroactive absorption; ESS decoupling equilibrium from cognition; MARL's three problems and the CCE/mean-field relaxations; GAN saddle as Nash ideal.
 - [[popper-hypothesis-structure]] — The template for a well-formed falsifiable hypothesis: universal prohibition, basic statement, risky prediction, no escape clause; six writing prescriptions.
+- Turing series (2026-11-21): the 1950 paper that founded AI as a question, read from the Mind reprint.
+  - [[turing-1950-imitation-game]] — The replacement of "Can machines think?" with the imitation game; the 70 percent prediction and its misquotation; universality as the paper's real load; the two concessions that are its weak joints.
+  - [[turing-1950-nine-objections]] — The nine objections and Turing's method: identify the unstated premise, concede what is true, decline to solve what the operational question does not require.
+  - [[turing-1950-child-machine-and-learning]] — The child machine as the field's real ancestor: simulate a child and educate it, the evolutionary mapping, reward and punishment stated operationally, randomness as search, opacity named as a property.
+  - [[turing-1950-reception-and-llm-afterlife]] — From a philosophy journal to the Loebner Prize to the LLM headlines; Searle, Blockhead, Dreyfus; why a passing run settles less than it looks.
+- AI mathematics and verification series (2026-11-21): the November 2026 Riemann claims and the constraint they expose.
+  - [[riemann-hypothesis-2026-claims]] — The hypothesis, the same-day Alpoge/Claude (Lean-only, claimed RH/GRH/ERH) and Masullo (human GRH) claims, and the four checks compilation does not answer; dated snapshot.
+  - [[riemann-hypothesis-what-a-proof-would-mean]] — Conversion of the conditional literature, optimal error bars, the operator as the larger prize; and the popular crypto claim that is simply false.
+  - [[ai-math-verification-bottleneck]] — The 2026 firehose (August Claude zeros result, Lamzouri, the OpenAI release, Navier-Stokes) and the structural shift: verification, not generation, is now the rate limiter.
 
 ## October 2026 additions
 - [[sabotage-etymology-luddites]] — "Sabotage" was presence not destruction (work-to-rule, not shoes in gears); Great Enoch hammers: one maker sold both frame and hammer; machine-hate stories launder distribution questions.

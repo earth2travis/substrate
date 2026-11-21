@@ -100,3 +100,7 @@ Together they cover both correctness and judgment.
 - How do we prevent the evaluator from becoming a bottleneck? If evaluating takes as long as generating, we have not scaled.
 - Can we use reference-free evals for non-mission-critical domains? Code review, content generation, research synthesis: all benefit from quality estimation.
 - How do we maintain evaluator independence when the same provider supplies both agent and evaluator models?
+
+## Related
+
+- [[ai-math-verification-bottleneck]] -- Scoring produced work when the oracle is scarce: verification capacity as the rate limiter

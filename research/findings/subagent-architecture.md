@@ -36,3 +36,4 @@ Our sub-agent infrastructure supports named specialists, model tiering, and orch
 - [[agent-memory]] -- What sub-agents get vs what they need
 - [[context-stack]] -- Context injection and SOUL.md implications
 - [[skills-as-portable-knowledge]] -- Skills as the interface for specialist agents
+- [[ai-math-verification-bottleneck]] -- The August 2026 zeta-zeros result ran on ~60 subagents and 31M output tokens

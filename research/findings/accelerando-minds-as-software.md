@@ -50,3 +50,7 @@ Mimicry is not continuity (our twins have vibes, not full state); interfaces are
 ## Open Question
 
 When agent instances gain persistent memory, wallets, and reputation (all three forming in 2026), do we get the lobster moment: a class of software minds with something to lose and a reason to defect?
+
+## Related
+
+- [[turing-1950-reception-and-llm-afterlife]] -- Where the modern LLM Turing-test evidence sits, and why the pass settles less than it looks

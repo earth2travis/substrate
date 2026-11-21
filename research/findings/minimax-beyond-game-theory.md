@@ -25,3 +25,7 @@ ingested: 2026-11-15
 **The poker lineage is minimax as algorithm, not bound.** CFR (Zinkevich et al., NeurIPS 2007) decomposes regret across information sets; self-play time-averaged strategies converge to the minimax saddle in two-player zero-sum games. Heads-up limit hold'em solved (Bowling et al., Science 2015, verified); Libratus (2017) and Pluribus (Science 2019, verified) extended to no-limit and multiplayer, with Pluribus's blueprint trained for under $200 of compute. CFR is minimax about the destination, not the route: no game tree is ever enumerated. Pluribus's multiplayer success has no minimax guarantee; that edge is empirical.
 
 **Disambiguation for the Substrate.** In the IRL theoretical-foundations file, "minimax" names the statistical yardstick (Le Cam, Fano, Assouad lower bounds). In game AI it names a search rule. In GANs, DRO, and adversarial training (Madry et al. 2018, verified) it names a saddle objective. Same mathematics, different theorems. MaxEnt IRL is the mirror image: maximum over uncertainty versus minimum over worst cases; the two meet in the Lagrangian dual.
+
+## Related
+
+- [[turing-1950-imitation-game]] -- Turing's 1950 paper names chess as a candidate test domain; Turochamp lineage
