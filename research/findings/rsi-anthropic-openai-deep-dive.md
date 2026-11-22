@@ -77,3 +77,4 @@ The asymmetry is the story: Anthropic is measuring and publicizing the curve; Op
 - [[deployment-governance]] — Preparedness Framework halt conditions and ASL levels as the two governance instruments.
 - [[self-driving-company-replit]] — the same Amdahl-bottleneck dynamic (review as constraint) observed at company scale.
 - [[ai-math-verification-bottleneck]] -- The 2026 AI-mathematics firehose and the verification rate limiter
+- [[turing-1950-child-machine-and-learning]] -- The child machine as the ancestor of the self-improvement loop: an uneducated seed plus a teaching regime, iterated

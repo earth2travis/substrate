@@ -1522,3 +1522,17 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
 - Orphan findings: 50 per digest (unchanged; the digest counts stem mismatches between findings and raw sources, not graph orphans)
 - Run note: the job prompt is still the single token "show". The 2026-11-20 run read it as a display request and asked whether the pipeline prompt should be restored. The two staged sources arrived after that question, so this run ran the documented Stage 3 synthesis path as well as reporting state, on the reading that research/raw/ is the pipeline input queue and processing it is this job's function. If display-only was intended, this commit is the thing to revert
 - No change to existing findings' content beyond the 8 incoming-link lines
+
+## [2026-11-22] no-op + fix | No new or changed sources; nash and Turing backlinks wired
+- Ingest: 446 files scanned, 0 new, 0 changed, 0 SHA drift, HTML excluded: 0, no-ingest excluded: 0. No synthesis required; the 2026-11-21 staged sources (turing, riemann) remain fully processed
+- Lint: PASSED, 0 errors, 92 warnings (the pre-existing `research/raw/` fm-missing and fm-title-missing exemptions, including the two new sources), 217 info, 1001 files checked
+- Digest orphan count: 57, up from 50. Fully accounted for by the 7 findings written on 2026-11-21 whose stems do not match a raw source stem (4x turing-1950-*, 2x riemann-hypothesis-*, ai-math-verification-bottleneck). The digest test is stem mismatch against `research/raw/`, not graph reachability: no raw source is missing
+- Graph audit (inbound wikilink map over findings, concepts, entities, decisions, guides, specs; 525 pages, 1764 inbound links): 70 pages had zero inbound links
+- Connectivity fix, the remedy flagged as pending from 2026-11-17 through 2026-11-20 for the nash cluster and left open by the 2026-11-21 run:
+  - `research/findings/minimax-theorem-history.md` -- new Related section linking nash-equilibrium-foundations, nash-equilibrium-refinements-complexity, nash-equilibrium-applications
+  - `research/findings/minimax-reception-influence-critiques.md` -- new Related section linking nash-equilibrium-refinements-complexity, nash-equilibrium-applications
+  - `research/findings/ai-machine-soul.md` -- added turing-1950-child-machine-and-learning to Related
+  - `research/findings/rsi-anthropic-openai-deep-dive.md` -- added turing-1950-child-machine-and-learning to Connections
+- Result: 1771 inbound links, graph-orphan pages 70 -> 67. All three former nash-cluster gaps and the Turing child-machine finding now have inbound links
+- Surprise: the nash cluster's three findings were written 2026-11-16 and indexed, but only the two newest findings had been wired the following day. Six consecutive runs named the remedy and deferred it; it took four small body-section edits
+- Run note: the job prompt is still the single token "show". Read as a status display request, so this run reported state and cleared the small backlink debt it has been flagging. If display-only was intended with no graph edits, this commit is the thing to revert

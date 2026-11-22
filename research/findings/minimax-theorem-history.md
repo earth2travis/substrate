@@ -21,3 +21,9 @@ ingested: 2026-11-15
 **Elementary proofs multiplied.** Ville gave the first elementary proof in 1938 using separating hyperplanes; Weyl another in 1950; Dantzig's linear programming revealed every two-person zero-sum game is equivalent to an LP, with LP duality and minimax as two faces of one fact (Gale, Kuhn, Tucker 1951); Shapley and Snow gave a basic-solutions proof in 1950.
 
 **Downstream significance for the Substrate.** Nash equilibrium existence, and hence the equilibrium framing in the prisoner's dilemma series, runs through Kakutani, which runs through von Neumann 1937. The minimax regret criterion and adversarial formulations in learning theory, including the worst-case-reward estimation underlying maximum causal entropy IRL, inherit the same saddle-point logic: one player picks a policy, nature or an adversary picks the environment, and the value of the game certifies the guarantee.
+
+## Related
+
+- [[nash-equilibrium-foundations]] -- Nash 1950 as the strict generalization of minimax: existence by Kakutani (1941) and Brouwer (1911), the fixed-point line this page traces forward from von Neumann 1928
+- [[nash-equilibrium-refinements-complexity]] -- Selten and Harsanyi refinements, PPAD-completeness, and the lab deviations: what the equilibrium concept buys and what it cannot predict
+- [[nash-equilibrium-applications]] -- Cournot, Bertrand, auctions, Maynard Smith ESS, and multi-agent RL inheriting the saddle-point structure

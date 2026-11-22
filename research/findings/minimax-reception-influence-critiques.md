@@ -23,3 +23,8 @@ ingested: 2026-11-15
 **Where minimax is genuinely load-bearing today.** Security games (Tambe's ARMOR at LAX since 2007, GUARDS, Coast Guard PROTECT, verified): Stackelberg leader-follower games, recognizably minimax in intellectual core, deployed and bounded. Robust optimization (Ben-Tal/Nemirovski, Bertsimas/Sim). Adversarial ML (Madry et al.). The seventy-year retreat from "theory of all strategic interaction" to "right tool for a specific class of worst-case problems" is maturation, not failure.
 
 **The agent-systems angle: proven versus aspirational.** Proven: in well-defined two-player zero-sum games, regret-minimizing dynamics converge to minimax equilibrium, and this runs real systems (CFR poker AIs, AlphaZero's self-play lineage, some security allocations). Aspirational: AI-safety-via-debate and scalable oversight frame oversight as a zero-sum game whose equilibrium surfaces truth, but no one has proven debate equilibria are truthful in general (Barnes-Christiano 2020 shows the picture is subtler). Von Neumann's theorem is doing real work in AI again, but the alignment community's use of it is a bet, not a theorem.
+
+## Related
+
+- [[nash-equilibrium-refinements-complexity]] -- The same predictive-failure critique one level up: PPAD-completeness, non-uniqueness, and the lab deviations that relocate rather than refute equilibrium
+- [[nash-equilibrium-applications]] -- The applications counterpart: where equilibrium reasoning pays off and where the MARL problems reproduce the critiques above
