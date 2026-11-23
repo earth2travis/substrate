@@ -87,3 +87,9 @@ The Context Stack (SOUL, CONTRACT, TASTE, MEMORY) is the agent's internal proven
 - How do we handle sensitive data in a shared graph? Encryption at the card level? Separate subgraphs with different access rules?
 - When does the overhead of maintaining the graph outweigh its value? What is the threshold of agent count or decision frequency where provenance becomes essential rather than nice-to-have?
 - How do we prevent the graph itself from becoming a source of context bloat? Not every fact needs to be in the graph. What is the curation rule?
+
+## Related
+
+- [[decision-provenance]] -- the single-agent, per-decision discipline this graph generalizes
+- [[categorization-consequences]] -- provenance as the answer to Bowker and Star's demand that a classification retain traces of its construction
+- [[decision-tools-and-categorization]] -- the calibrated, recordable decision as a primitive the graph can ingest

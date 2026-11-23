@@ -1,6 +1,6 @@
 # Substrate Index
 
-The shared nervous system. Current inventory: 445 findings, 91 concepts, 2 entities, 446 raw sources.
+The shared nervous system. Current inventory: 457 findings, 91 concepts, 2 entities, 457 raw sources.
 
 ## Core Directories
 - [[research/]] — Incoming work. Raw sources in `raw/`; synthesized findings in `findings/`.
@@ -147,6 +147,21 @@ Frontier AI and agent-native organizations (July 2026):
   - [[riemann-hypothesis-2026-claims]] — The hypothesis, the same-day Alpoge/Claude (Lean-only, claimed RH/GRH/ERH) and Masullo (human GRH) claims, and the four checks compilation does not answer; dated snapshot.
   - [[riemann-hypothesis-what-a-proof-would-mean]] — Conversion of the conditional literature, optimal error bars, the operator as the larger prize; and the popular crypto claim that is simply false.
   - [[ai-math-verification-bottleneck]] — The 2026 firehose (August Claude zeros result, Lamzouri, the OpenAI release, Navier-Stokes) and the structural shift: verification, not generation, is now the rate limiter.
+- Escalation and social-dilemma series (2026-11-23): the prisoner's-dilemma neighbours, read from Poundstone and the primary literature.
+  - [[poundstone-prisoners-dilemma-book]] — How a 1992 popular book became the canon for the game's origin story: the braided von Neumann biography, the RAND birth, the origin audit (Flood-Dresher motive, Tucker naming, arms race as prisoner's dilemma versus chicken), and the book's own datedness.
+  - [[poundstone-prisoners-dilemma-quotations]] — The operator's page-anchored transcription: text-verified Tucker naming, the Flood-Dresher anti-equilibrium motive, the four social dilemmas, and the book's own stated limits.
+  - [[dollar-auction-escalation]] — Shubik's 1971 dollar auction: both leaders lose past a dollar, the entrapment stack, Teger's experiments and the organizational sunk-cost literature, and MEV as a live instance.
+  - [[largest-number-game-all-pay-auctions]] — Hofstadter's luring lottery and the all-pay and rent-dissipation family (Baye-Kovenock-de Vries, Hillman-Riley, the war of attrition, priority gas auctions).
+  - [[volunteers-dilemma]] — Diekmann's game: one volunteer and n-1 free riders; the group-size prediction and its contested empirical record; the corrected bystander evidence.
+  - [[howard-metagame-theory]] — Intentions as strategies: Shubik's 16x4 construction, the superrationality/program-equilibrium/team-reasoning lineage, and why economics ignored it.
+- Agent-platform and harness wave (2026-11-23): the terms, the blueprint, and the measured evidence.
+  - [[agent-platform-2027]] — John Suh's unpublished four-image blueprint for the "one application layer": eight primitives, the actor-versus-durable-execution bet, the RBAC filesystem risk, and the Jev reference.
+  - [[graph-engineering]] — The July 2026 joke coinage that became a discipline: the prompt/context/harness/loop/graph sequence, the prior-art case, and the self-preference failure evidence.
+  - [[self-improvement-memory-crsi]] — arXiv:2611.18856: provenance memory that carries harness improvement across a model or benchmark change, with an honest account of its own narrow statistics.
+- Decision models and categorization (2026-11-23): the primitive and its consequences.
+  - [[jev-system-one-models]] — TypeSafe's Jev: typed probabilistic decisions, the honest reading of the evals (a cost and latency play, not an accuracy win), and the unverified calibration claim.
+  - [[decision-tools-and-categorization]] — Calibration, conformal coverage, selective prediction, learning to defer, and the product landscape; the cost matrix as the object that cannot be learned from data.
+  - [[categorization-consequences]] — Bowker and Star's four design demands, torque and residual categories, and the inverted taxonomy problem of generated classifiers.
 
 ## October 2026 additions
 - [[sabotage-etymology-luddites]] — "Sabotage" was presence not destruction (work-to-rule, not shoes in gears); Great Enoch hammers: one maker sold both frame and hammer; machine-hate stories launder distribution questions.

@@ -64,3 +64,5 @@ Decision provenance is not a feature you add. It's a discipline you practice. Th
 - [[context-stack]] -- Where reasoning and identity are encoded
 - [[agent-native-operations]] -- Executive layer and process discipline
 - [[subagent-architecture]] -- Multi-agent attribution and delegation
+- [[jev-system-one-models]] -- A typed decision with a confidence score is the recordable unit
+- [[decision-tools-and-categorization]] -- Calibration, deferral, and the cost policy behind the threshold

@@ -33,3 +33,8 @@ ingested: 2026-11-16
 ## Source
 
 `research/raw/nash-equilibrium.md` (sections 1, 3; compression points 1-4). Nash 1951 Annals full text, PNAS 1950 bibliographic record, Nobel 1994 press release, Princeton Mudd Library dissertation record, Goeree and Holt PNAS 1999 for the von Neumann quote's provenance.
+
+## Related
+
+- [[howard-metagame-theory]]: the metagame departs from this equilibrium and then seeks it again in a larger game
+- [[poundstone-prisoners-dilemma-book]]: the popular history that carried von Neumann's mathematics into the Cold War

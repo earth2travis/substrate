@@ -49,3 +49,4 @@ Runwork's /compare/ page frames it as "the 2026 way to vibe-code business softwa
 - [[context-stack]] — instruction files as managed, synced, versioned objects rather than bootstrap artifacts.
 - [[integration-day-onboarding-frame]] — the five-beat concierge arc extended into continuous onboarding.
 - [[centaur-principle]] — reflection-driven skill capture as process improvement from actual use.
+- [[agent-platform-2027]] — a competing blueprint for the application layer the shared capability sits under.

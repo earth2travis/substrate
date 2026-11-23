@@ -37,3 +37,6 @@ This finding connects the Substrate's crypto and AI-safety threads to the coordi
 - [[multi-agent-coordination-patterns]]: population-level defenses against extortion and racing
 - [[principal-agent-theory]]: contracts, observability, and the limits of enforcement
 - [[protocol-as-coordination]]: building the court the cooperators lack
+- [[dollar-auction-escalation]]: sunk-cost escalation as the direct ancestor of the Moloch framing
+- [[largest-number-game-all-pay-auctions]]: priority gas auctions and rent dissipation as all-pay contests
+- [[poundstone-prisoners-dilemma-book]]: the popular vehicle and its cosmic-suicide image

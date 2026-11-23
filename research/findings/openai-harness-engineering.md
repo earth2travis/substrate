@@ -39,3 +39,5 @@ This is the canonical account of harness engineering. Every principle (AGENTS.md
 - [[agent-native-operations]] -- Tools for the AI-human partnership
 - [[agent-factory-production-system]] -- Factory as product
 - [[centaur-principle]] -- Process as differentiator
+- [[graph-engineering]] -- The discourse that succeeded harness engineering as a term
+- [[self-improvement-memory-crsi]] -- Measured evidence for provenance memory across model changes

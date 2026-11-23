@@ -133,3 +133,4 @@ The Agent Factory doesn't need to choose one platform. It needs to:
 - [[og-protocol]]
 
 - [[optimization-targets]]
+- [[agent-platform-2027]] — Suh's unpublished blueprint for a competing agent application layer

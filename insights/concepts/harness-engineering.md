@@ -1,14 +1,9 @@
 ---
 title: "Harness Engineering"
+tags: [concept, agent, development, operations, architecture, codex, ai]
 related:
 - openai-harness-engineering
 - openai-frontier-and-harness-engineering
----
-
----
-title: "Harness Engineering"
-tags: [concept, agent, development, operations, architecture, codex, ai]
-related:
 - dark-factory
 - codex
 - symphony-orchestrator
@@ -27,6 +22,8 @@ related:
 - domain-specific-agent-harnesses-yc-cohort
 - automation-leverage
 - feedback-loop-discipline
+- graph-engineering
+- self-improvement-memory-crsi
 source: research/findings/harness-engineering.md
 ---
 
@@ -84,3 +81,5 @@ The Toyota Chief Engineer (Shusa) held complete product vision without doing det
 - [[symphony-orchestrator]] -- Internal orchestration system
 - [[dark-factory]] -- The development approach
 - [[lean-software-development]] -- Theoretical foundation
+- [[graph-engineering]] -- The next term in the sequence; harness engineering defended against it
+- [[self-improvement-memory-crsi]] -- Provenance memory for harness evolution across model and benchmark changes

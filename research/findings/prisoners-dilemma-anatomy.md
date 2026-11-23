@@ -31,3 +31,9 @@ This finding grounds the Substrate's coordination cluster in the minimal formal 
 - [[principal-agent-theory]]: contracts as payoff rewrites that move the dominant strategy
 - [[protocol-as-coordination]]: protocols as the institutional layer that changes the game
 - [[multi-agent-coordination-patterns]]: the n-player generalization the anatomy points toward
+- [[poundstone-prisoners-dilemma-book]]: the popular book that made this origin story canon
+- [[poundstone-prisoners-dilemma-quotations]]: text-verified passages and the page-anchored arc
+- [[dollar-auction-escalation]]: the escalation trap sibling (Shubik's dollar auction)
+- [[largest-number-game-all-pay-auctions]]: the all-pay and rent-dissipation family
+- [[volunteers-dilemma]]: the multiperson anti-coordination branch of chicken
+- [[howard-metagame-theory]]: intentions as strategies, the reframing resolution

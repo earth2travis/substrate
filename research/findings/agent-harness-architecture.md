@@ -64,3 +64,5 @@ Grok Build (xAI) confirms every major model provider is building a harness. Symp
 - /goal as coordination primitive: [[goal-primitive]]
 - Deployment patterns: [[clanker-agent-deployment-patterns]]
 - Constraint architecture parallel: [[karpathy-autoresearch]]
+- The next term in the sequence: [[graph-engineering]]
+- Harness evolution that survives a model change: [[self-improvement-memory-crsi]]
