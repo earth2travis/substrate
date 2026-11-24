@@ -22,3 +22,10 @@ ingested: 2026-11-15
 **The strongest defense abandons the strong claims.** Liedtka (Darden; "Why Design Thinking Works," HBR 2018, verified) concedes no unique creative faculty and no power redistribution, then argues the method works as engineered workaround for known cognitive failure modes: immersion counters confirmation bias, staged stakeholder engagement manages innovation's social dynamics, small experiments counter loss aversion. The discourse's center of gravity has moved to this narrower claim.
 
 **What survives: the components, not the bundle.** Rapid prototyping and iterative user testing (decades of HCI evidence), early direct user research (NPD literature), divergent-then-convergent structure (creativity research, with the caveat that structured individual ideation beats classic group brainstorming), and explicit bias-attention in team process all have independent support predating and outliving the brand. Whether the bundled package outperforms its components remains untested against a counterfactual. Closest internal analogy: Frederick Taylor, a real set of techniques inflated into a universal science, sold as product, later partially validated and partially exposed. Lean startup inherited the corporate market share and re-bundled the survivors under an experimentation label.
+
+## Related
+
+- [[design-thinking-lineage]] -- what the critics say the lineage actually produced, against what the commercial translation claims
+- [[design-thinking-methods-models]] -- the codifications under critique
+- [[design-thinking-applications-cases]] -- the evidence the critiques are aimed at
+- [[critical-rationalism]] -- falsifiability as the test the design-thinking bundle keeps failing

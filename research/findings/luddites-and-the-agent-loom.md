@@ -38,3 +38,4 @@ This finding sharpens four things already in the Substrate. First, the [[zero-hu
 - [[zero-human-company-framing-oversells-autonomy]] finding — the honest-framing constraint this history reinforces
 - [[ai-skill-threat-fomo-genai-anxiety]] finding — the modern demand-side counterpart: 45% skill threat is the cropper's position, measured
 - [[sabotage-etymology-luddites]] finding — companion node: sabotage etymology and the Great Enoch hammers as material culture of the same correction
+- [[creative-destruction]] — the macro frame for the same correction: destruction at deployment speed, creation at institutional speed

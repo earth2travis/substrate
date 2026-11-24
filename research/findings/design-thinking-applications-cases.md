@@ -22,3 +22,10 @@ ingested: 2026-11-15
 **Enterprise programs prove diffusion, not causation.** IBM (Loop, Hills, Sponsor Users; Forrester TEI claiming 301% ROI is IBM-commissioned), SAP (Fiori 2013, Plattner sponsorship), and Intuit D4D (Innovation Catalysts, Scott Cook) all show verifiable training scale. Outcome metrics are self-reported or commissioned. The training scale itself is the data point: the method spread.
 
 **The Stanford Extreme Affordability cohort is the strongest existence proof.** Embrace infant warmer (2007 student project, nonprofit 2008) and d.light (100M+ people reached, partially corroborated by industry data) show a design course can produce durable ventures. The unit of evidence is ventures founded and units distributed, not health or income outcomes against controls.
+
+## Related
+
+- [[design-thinking-lineage]] -- the research tradition the cases are sold as proof of
+- [[design-thinking-methods-models]] -- the process models the case studies are attributed to
+- [[design-thinking-critiques]] -- why self-reported cases and correlational surveys do not settle the outcome question
+- [[proof-of-work]] -- the verification standard the case literature does not meet

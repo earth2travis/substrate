@@ -22,3 +22,10 @@ ingested: 2026-11-15
 **The d.school is the institutional pivot.** Founded by Kelley and Roth 2004, inaugurated 3 October 2005 with $35M from Hasso Plattner (verified), the d.school re-potted the academic design-cognition tradition (Cross's "designerly ways of knowing," Schon's reflection-in-action, Lawson's solution-first finding) as a teachable curriculum for non-designers. Rowe's "Design Thinking" (MIT Press 1987) had anchored the phrase; Tim Brown's June 2008 HBR cover article (verified) was the single most consequential document in the business migration. IDEO's 1991 formation merged four firms (David Kelley Design 1978, Moggridge Associates 1969, ID Two 1979, Matrix Product Design 1983); the common three-firm version is a compression.
 
 **Structural parallel to lean.** Like the Toyota shop floor, the design studio was a practice tradition studied by academics, distilled into a teachable method, then re-exported as management doctrine, losing situational depth at each compression. PDCA treats the world as stable enough to reduce variance against a standard; the design loop treats the problem frame itself as unstable, reframing each cycle. Same iterative shape, different epistemic stance, the tame/wicked distinction in operational form.
+
+## Related
+
+- [[design-thinking-methods-models]] -- the five codifications of the same rhythm, and where the lineage's second-generation premise gets flattened into a first-generation method
+- [[design-thinking-critiques]] -- what the discourse says the lineage lost in the commercial translation
+- [[design-thinking-applications-cases]] -- the evidence pyramid behind the practice, inverted relative to its publicity
+- [[kaizen]] -- the same pattern from the shop floor: a practice tradition studied, distilled, and re-exported as doctrine

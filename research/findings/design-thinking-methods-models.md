@@ -22,3 +22,10 @@ ingested: 2026-11-15
 **The Google Ventures Design Sprint is the Nightline Deep Dive formalized.** Jake Knapp created the sprint at Google in 2010, refined it at GV from 2012; the book "Sprint" (2016, verified) compresses empathize-through-test into a fixed five-day agenda with a decision-maker in the room. IDEO's 1999 Nightline segment (redesigning the shopping cart in five days) did more to make design process visible to executives than any white paper; every later codification inherits the televised template.
 
 **LUMA sells taxonomy, not sequence.** Where the d.school sells a process shape and IBM sells an operating system, LUMA sells a periodic table: 36 methods, twelve each under Looking, Understanding, Making, combinable at will. This makes it the most library-like codification and the easiest to embed in software, presumably why a digital whiteboard company (Mural) bought it.
+
+## Related
+
+- [[design-thinking-lineage]] -- the three strata these models compress, and Rittel's wicked-problems hinge
+- [[design-thinking-critiques]] -- the bundle-versus-components argument: the pieces survive, the package is untested
+- [[design-thinking-applications-cases]] -- what the case evidence actually supports
+- [[pdca-cycle]] -- the iterative rhythm the d.school stages repackage with empathy prepended

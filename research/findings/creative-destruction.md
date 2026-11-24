@@ -26,3 +26,9 @@ ingested: 2026-11-15
 **The speed asymmetry is the central risk.** ChatGPT hit 100M users in two months (verified); electrification took four decades to 70 percent of households. But enterprise generative-AI adoption is only 9.3 percent, so the consumer curve has outpaced structural transformation. The destruction side operates at deployment speed (replace a team in a quarter); the creation side operates at institutional speed (titles, pipelines, norms take years). The labor market has no precedent for absorbing displaced cognitive workers at the pace AI can displace them, and cognitive workers have stronger political voice than the manual workers of previous waves.
 
 **The productivity J-curve may be turning, unfalsifiably.** Brynjolfsson-Rock-Syverson (NBER WP 25148, AEJ:Macro 2021, verified): GPTs require unmeasured intangible complements, so early productivity is understated; adjusted TFP was 15.9 percent higher than official at end of 2017. US productivity grew 2.3 percent in 2024, 2.8 percent in Q4 2025 preliminary, consistent with the upward leg but too recent to attribute. The model explains any outcome: if productivity stalls, the intangibles have not matured; if it surges, told you so.
+
+## Related
+
+- [[luddites-and-the-agent-loom]] -- the same displacement story from the worker's side, and why machine-hate stories launder distribution questions
+- [[production-paradigms]] -- craft to mass to lean: destruction as the price of each paradigm shift
+- [[lean-doctrine]] -- waste elimination and the human cost it does not price
