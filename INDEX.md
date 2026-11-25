@@ -1,6 +1,6 @@
 # Substrate Index
 
-The shared nervous system. Current inventory: 457 findings, 91 concepts, 2 entities, 457 raw sources.
+The shared nervous system. Current inventory: 458 findings, 91 concepts, 2 entities, 458 raw sources.
 
 ## Core Directories
 - [[research/]] — Incoming work. Raw sources in `raw/`; synthesized findings in `findings/`.
@@ -162,6 +162,7 @@ Frontier AI and agent-native organizations (July 2026):
   - [[jev-system-one-models]] — TypeSafe's Jev: typed probabilistic decisions, the honest reading of the evals (a cost and latency play, not an accuracy win), and the unverified calibration claim.
   - [[decision-tools-and-categorization]] — Calibration, conformal coverage, selective prediction, learning to defer, and the product landscape; the cost matrix as the object that cannot be learned from data.
   - [[categorization-consequences]] — Bowker and Star's four design demands, torque and residual categories, and the inverted taxonomy problem of generated classifiers.
+- [[receipt-pipeline-system]] — Receipts as deterministic infrastructure: append-only JSONL and content-addressed blobs in a private git ledger, the v1.1 entity/direction/vendor split, quarantine over guessing, sender registry over keyword scan, and the pipeline/skill/LLM boundary with 257 hours to close the tax year.
 
 ## October 2026 additions
 - [[sabotage-etymology-luddites]] — "Sabotage" was presence not destruction (work-to-rule, not shoes in gears); Great Enoch hammers: one maker sold both frame and hammer; machine-hate stories launder distribution questions.

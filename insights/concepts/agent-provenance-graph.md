@@ -93,3 +93,4 @@ The Context Stack (SOUL, CONTRACT, TASTE, MEMORY) is the agent's internal proven
 - [[decision-provenance]] -- the single-agent, per-decision discipline this graph generalizes
 - [[categorization-consequences]] -- provenance as the answer to Bowker and Star's demand that a classification retain traces of its construction
 - [[decision-tools-and-categorization]] -- the calibrated, recordable decision as a primitive the graph can ingest
+- [[receipt-pipeline-system]] -- content-addressed money records: provenance as the write path, not a report

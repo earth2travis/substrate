@@ -4,6 +4,7 @@ tags: [operations, finance, tooling, agents]
 related:
 - 1password-integration
 - 28-openclaw-mistakes
+- receipt-pipeline-system
 source: research/raw/accounting-bookkeeping-research.md
 ---
 # Accounting and Bookkeeping for AI-Native Operations
@@ -36,3 +37,7 @@ Tax categorization is manual. You define your own chart of accounts mapped to Sc
 ## Recommendation
 
 Start with hledger or beancount. Maintain the books as part of the agent's normal operations. If tax complexity justifies it later, migrate to QuickBooks with clean historical data.
+
+## Follow-up
+
+The receipt pipeline (2026-11) supersedes part of this recommendation in practice: the ledger is append-only JSONL in a private git repo, with content-addressed PDFs and one commit per receipt, and the accounting system is reduced to an annual CSV for the CPA. The plain-text instinct holds; the double-entry tool is deferred. See `receipt-pipeline-system.md`.

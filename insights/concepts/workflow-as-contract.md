@@ -64,6 +64,7 @@ A Cloudflare Worker can serve as the lightweight backend for the Integration Lay
 - [[symphony-orchestrator]] — OpenAI Frontier's internal Elixir/BEAM implementation
 - [[codex]] — The coding agent that Symphony dispatches
 - [[harness-engineering]] — The discipline that makes autonomous agents safe
+- [[receipt-pipeline-system]] — A deterministic pipeline whose sender registry, schema, and exit codes are the contract
 - [[agent-native-operations]] — Tools designed for AI-human partnership
 - [[cloudflare-first-agent-factory]] — Edge platform for agent infrastructure
 - [[skills-as-portable-knowledge]] — Agent behavior as versioned, composable instructions
