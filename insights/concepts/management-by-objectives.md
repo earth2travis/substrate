@@ -169,3 +169,6 @@ Drucker's MBO, after 70 years, remains the most mature civilian precedent for ho
 - [[centaur-principle]] — Human-AI collaboration quality matters
 - [[decision-provenance]] — Tracing agent decisions back to intent
 - [[protocol-as-coordination]] — Protocols as coordination mechanisms
+- [[objectives-and-key-results]] — OKR as MBO's measurable descendant
+- [[grove-okrs-intent-architecture]] — The three-layer separation that made OKRs work
+- [[drucker-management-by-objectives-deep-dive]] — Drucker's framework, its failure modes, and the intent paradox

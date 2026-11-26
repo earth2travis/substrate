@@ -108,6 +108,7 @@ Harness engineering principle #9: "Entropy and garbage collection: encode golden
 - [[the-openclaw-lesson]] — Security as foundation for agent operations
 - [[current-costs]] — Partnership operating expense tracking
 - [[skills-as-portable-knowledge]] — Portable, composable skill architecture
+- [[chief-of-staff-model]] — The operating model for a human-plus-agent staff
 - [[agent-tool-permissions]] — Permission models for agent tool access
 
 - [[composio-analysis]]

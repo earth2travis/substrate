@@ -76,3 +76,5 @@ The Substrate pipeline (_ingest.py → findings → insights) is the wiki approa
 - [[synthesis-vs-retrieval-paradigm]]
 
 - [[nousresearch-instruct-monomyth]]
+
+- [[karpathy-llm-knowledge-bases]] — The wiki-side origin description this comparison argues from

@@ -61,3 +61,4 @@ When the fog of war descends (API changes, missing credentials, ambiguous requir
 
 - [[kanban-vs-delegate-task]] — Decision record on when to use each primitive
 - [[kanban-metadata-rules]] — The metadata schema for squad handoffs
+- [[kanban-operating-manual]] — The field manual: lanes, handoffs, scratch discipline

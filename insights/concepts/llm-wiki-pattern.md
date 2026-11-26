@@ -46,3 +46,5 @@ The `_ingest.py → findings → insights` pipeline is the wiki pattern in produ
 - [[agent-memory]] — Broader memory system taxonomy
 - [[knowledge-graphs-as-agent-memory-substrate]] — Graph topology for wiki navigation
 - [[synthesis-over-retrieval]] — Why accumulated understanding beats search
+- [[memex]] — Bush's 1945 associative-trail ancestor of the pattern
+- [[karpathy-llm-knowledge-bases]] — The talk that named the pattern, with the gap analysis

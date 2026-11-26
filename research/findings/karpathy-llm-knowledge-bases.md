@@ -80,3 +80,10 @@ Karpathy's pattern maps to our system with gaps:
 Our Context Stack + Agent Factory could become exactly this. The spec describes the structure. The factory produces agents that maintain it. The skills encode how to compile, lint, and query. What Karpathy does manually with scripts is what we are trying to systematize.
 
 The missing piece: the compilation pipeline that turns raw sources into a maintained, interlinked, queryable wiki. That pipeline is the gap between his vision and our system.
+
+## Related
+
+- [[llm-wiki-pattern]] — The pattern this describes, now specified as a skill
+- [[rag-vs-wiki]] — Why the wiki approach beats retrieval at this scale
+- [[memex]] — The 1945 ancestor of the same ambition
+- [[youtube-videos-research-dump]] — Metadata index of the surrounding Karpathy talks
