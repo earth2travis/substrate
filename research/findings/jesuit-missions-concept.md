@@ -2,7 +2,7 @@
 title: "Jesuit Missions: The First Global Missionary Corporation"
 date: 2026-05-15
 source: research/raw/jesuit-missions-history.md
-related: [[medieval-mission-concept]], [[protestant-missions-concept]], [[religious-mission-cross-traditions]], [[dark-factory]]
+related: [[medieval-mission-concept]], [[protestant-missions-concept]], [[religious-mission-comparative]], [[dark-factory]]
 tags: [mission, jesuit, religion, globalization, ricci, xavier, institution]
 ---
 

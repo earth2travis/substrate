@@ -11,7 +11,7 @@ related:
 - institutional-ai-redesign
 - agent-native-operations
 - harness-engineering
-- creative-partnership
+- [[creative-partnership]]
 - the-openclaw-lesson
 source: research/findings/the-new-way-to-build-a-startup.md
 ---

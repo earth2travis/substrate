@@ -1588,3 +1588,22 @@ Trigger: operator finished reading the work and requested deep dive for the Subs
 - Ingest digest orphan count 59 by stem mismatch against `research/raw/`; unchanged, since no findings were written. This is a stem test, not graph reachability
 - Navigation: no pages created or removed; INDEX.md and SCHEMA.md unchanged and still accurate at 458 raw / 458 findings / 91 concepts / 2 entities
 - Run note: the job prompt is still the single token "show". Read as a status display plus queue check plus small backlink-debt clearance, consistent with the 2026-11-22 through 2026-11-25 runs. Only Related lines changed in existing files
+
+## [2026-11-27] no-op + fix | Queue empty; mission, partnership, and memory clusters wired
+
+- Ingest: 458 raw files scanned, 0 new, 0 changed, 0 SHA drift, HTML excluded 0, no-ingest excluded 0. The `research/raw/` queue is empty, so no synthesis was required
+- Lint: PASSED, 0 errors, 104 warnings (the unchanged pre-existing `research/raw/` fm-missing and fm-title-missing exemptions), 217 info, 1026 files checked
+- Graph audit (562 pages: 458 findings, 91 concepts, 2 entities, 1 decision, 2 guides, 8 specs): zero-inbound pages 49 -> 38, unique inbound edges 2412 -> 2435
+- Broken wikilink repair (three links pointing at raw filenames instead of findings):
+  - `insights/concepts/mission-arc.md` frontmatter: `nasa-mission-taxonomy` -> `[[nasa-mission-model]]` (the former is a raw source name, not a page)
+  - `research/findings/jesuit-missions-concept.md` and `research/findings/medieval-mission-concept.md`: `religious-mission-cross-traditions` -> `[[religious-mission-comparative]]`
+- Connectivity fix, eleven pages given their first inbound references:
+  - mission cluster: `insights/concepts/mission-arc.md` gained a Related section pointing at its six stage findings plus `missionary-linguistics`, `nasa-mission-model`, and `nasa-lifecycle-gates-and-decadal-survey`. The parent concept had listed these in `source:` for six months without ever linking to them as pages
+  - partnership cluster: `creative-partnership`, `partnership-anatomy`, and `partnership-failure-modes` were referenced from five well-connected concepts (`mission-command`, `protocol-as-coordination`, `automation-leverage`, `soul-as-attention`, and each other) but only as bare names in `related:` lists, which resolve to no edge. Wrapped those specific entries as wikilinks rather than rewriting whole lists
+  - memory and context cluster: `insights/concepts/agent-memory.md` Related gained `context-compression`, `context-persistence`, `progressive-disclosure`; `insights/concepts/conscience.md` gained `thich-nhat-hanh-mindfulness` (mindfulness as the practice regime for stopping)
+- Systemic finding for operator review: 511 files carry 2418 `related:` entries as bare names with no brackets, against SCHEMA.md's requirement that related be a list of wikilinks. The linter does not enforce this, so roughly half the declared relationships in the repo produce no graph edge and inflate the orphan count. This run converted only 7 targeted entries inside the cluster being wired; no global sweep attempted
+- Remaining orphan debt, 38 pages: specs and design documents (5), knowledge and agent-architecture singletons, mission-adjacent findings, and the rest of the older findings backlog. Three concepts remain unwired: `probe-deeper-pattern`, `roundtrip-workflow`, `single-player-vs-multiplayer`
+- Remaining broken targets (6 distinct) are all illustrative placeholders in `specs/` (`page-name`, `missing-page`, `...`) and two wikilink-syntax examples in prose (`obsidian`, `rowboat-analysis`). Not errors
+- Ingest digest orphan count 59 by stem mismatch against `research/raw/`; unchanged, since no findings were written. This is a stem test, not graph reachability
+- Navigation: no pages created or removed; INDEX.md and SCHEMA.md unchanged and still accurate at 458 raw / 458 findings / 91 concepts / 2 entities
+- Run note: the job prompt is still the single token "show". Read as a status display plus queue check plus backlink-debt clearance, consistent with the 2026-11-22 through 2026-11-26 runs. Only Related lines, three frontmatter relation targets, and one new Related section changed

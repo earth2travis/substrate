@@ -57,3 +57,4 @@ The machine must have a mechanism that says "this pace is not sustainable" and s
 - [[agent-identity]] -- SOUL.md as moral orientation
 - [[modern-times-for-agent-factory]] -- The anti-brain-fry argument for conscience
 - [[jev-system-one-models]] -- Calibrated uncertainty as the deferral mechanism the conscience layer needs
+- [[thich-nhat-hanh-mindfulness]] -- Mindfulness as continuous practice: the training regime for stopping

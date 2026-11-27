@@ -8,7 +8,7 @@ tags:
 related:
 - agent-native-operations
 - centaur-principle
-- creative-partnership
+- [[creative-partnership]]
 - github-as-knowledge-graph
 - workflow-as-contract
 - mission-command

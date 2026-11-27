@@ -14,8 +14,8 @@ related:
 - origins-and-meaning
 - modern-times-four-crises
 - soul-as-attention
-- partnership-anatomy
-- partnership-failure-modes
+- [[partnership-anatomy]]
+- [[partnership-failure-modes]]
 - failure-modes
 source: insights/concepts/creative-partnership.md
 ---

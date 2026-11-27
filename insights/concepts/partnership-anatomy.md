@@ -5,11 +5,11 @@ related:
 - science-partnerships
 - sports-partnerships
 - marriages-and-relationships
-- creative-partnership
+- [[creative-partnership]]
 - creative-duos
 - building-the-team
 - universal-principles
-- partnership-failure-modes
+- [[partnership-failure-modes]]
 - failure-modes
 source: insights/concepts/partnership-anatomy.md
 ---

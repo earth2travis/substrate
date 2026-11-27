@@ -86,6 +86,9 @@ The Context Stack IS the memory architecture. SOUL.md is the identity anchor. Th
 - [[agentic-architecture]] — System design for autonomous agents
 - [[the-openclaw-lesson]] — Security as foundational to memory integrity
 - [[process-philosophy]] — Reality as process, not substance
+- [[context-compression]] — Anchored compression when the window outgrows the optimum
+- [[context-persistence]] — The three-layer defense against context loss across sessions
+- [[progressive-disclosure]] — Context as architecture: load by need, not by default
 
 - [[factory-ai-droid-session]]
 - [[ai-sdk-research]]

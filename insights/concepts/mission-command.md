@@ -3,7 +3,7 @@ title: "Mission Command"
 tags: [concept, mission-command, auftragstaktik, decentralization, autonomy, intent]
 related:
 - intelligence-graph-organization
-- creative-partnership
+- [[creative-partnership]]
 - protocol-as-coordination
 - progressive-autonomy
 - kanban-doctrine

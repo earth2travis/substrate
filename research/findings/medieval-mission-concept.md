@@ -2,7 +2,7 @@
 title: "Medieval Missions: Monastic Expansion and the Accommodationist Strategy"
 date: 2026-05-15
 source: research/raw/medieval-christian-missions.md
-related: [[apostolic-mission-foundation]], [[jesuit-missions-concept]], [[religious-mission-cross-traditions]]
+related: [[apostolic-mission-foundation]], [[jesuit-missions-concept]], [[religious-mission-comparative]]
 tags: [mission, medieval, religion, gregory, boniface, monastic, accommodation]
 ---
 

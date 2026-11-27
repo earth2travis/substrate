@@ -2,7 +2,7 @@
 title: "The Mission Arc: From Divine Sending to Distributed Participation"
 date: 2026-05-15
 source: research/findings/apostolic-mission-foundation.md, research/findings/medieval-mission-concept.md, research/findings/jesuit-missions-concept.md, research/findings/protestant-missions-concept.md, research/findings/missio-dei-concept.md, research/findings/religious-mission-comparative.md
-related: [[auftragstaktik-mission-command]], [[nasa-mission-taxonomy]], [[kanban-doctrine]], [[progressive-autonomy]], [[agent-native-operations]], [[diplomatic-mission]], [[principal-agent-theory]], [[mission-in-business]]
+related: [[auftragstaktik-mission-command]], [[nasa-mission-model]], [[kanban-doctrine]], [[progressive-autonomy]], [[agent-native-operations]], [[diplomatic-mission]], [[principal-agent-theory]], [[mission-in-business]]
 tags: [mission, religion, history, organization, arc, structure, concept]
 ---
 
@@ -98,3 +98,15 @@ Buddhism's partial bureaucratization (and subsequent return to diffusion) sugges
 Can a system maintain the clarity of Stage 1 (personal calling, clear intent) while operating at the scale of Stage 3 (global, funded, professional) and the adaptability of Stage 4 (distributed, local, participatory)?
 
 This is the design problem of modern mission: religious, military, scientific, and now agentic.
+
+## Related
+
+- [[apostolic-mission-foundation]] -- Stage 1: personal sending before institution
+- [[medieval-mission-concept]] -- Stage 2: mission as civilizational infrastructure
+- [[jesuit-missions-concept]] -- Stage 2 at its peak: centralized global deployment
+- [[protestant-missions-concept]] -- Stage 3: mission as funded, reported enterprise
+- [[missio-dei-concept]] -- Stage 4: participation rather than ownership
+- [[religious-mission-comparative]] -- Da'wah and dharma as cross-tradition tests of the arc
+- [[missionary-linguistics]] -- The medium-invention case: when translating means building the vessel
+- [[nasa-mission-model]] -- The secular Stage 3 form: Directorate > Program > Project > Mission
+- [[nasa-lifecycle-gates-and-decadal-survey]] -- How secular missions earn their right to exist

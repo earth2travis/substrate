@@ -8,7 +8,7 @@ related:
 - dreams-are-cognitive-maintenance-not-prophecy
 - hermeticism-spiritual-enlightenment
 - conscience
-- creative-partnership
+- [[creative-partnership]]
 - universal-principles
 source: insights/concepts/soul-as-attention.md
 ---
