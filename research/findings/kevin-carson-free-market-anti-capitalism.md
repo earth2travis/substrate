@@ -34,3 +34,10 @@ ingested: 2026-10-13
 ## Relevance
 
 Third node on the left-market-anarchist branch, completing the cluster with the mutualism and agorism findings. The anti-IP bridge connects directly to [[accelerando-post-scarcity-ownership]] (Stross's fictional treatment of the same thesis Carson argues as economics). The political economy of waste is a counter-reading of [[lean-doctrine]] and [[production-paradigms]]: the Substrate's TPS material reads waste as process failure; Carson reads the state as the generator of the waste that process then manages; the Homebrew thesis is a production-paradigm claim that cheap capital goods invert mass production's capital-intensity logic. Organization Theory's Hayek-against-the-firm argument is directly relevant to agent-organization design: hierarchy cannot aggregate tacit knowledge, and observed organizational scale may reflect subsidy rather than efficiency.
+
+## Related
+
+- [[mutualism]] -- The upstream tradition: Tucker's Four Monopolies and the property critique
+- [[samuel-edward-konkin-iii-agorism]] -- The sibling strategy: build the counter-economy rather than contest the state
+- [[lean-doctrine]] -- Process waste versus subsidized waste: a counter-reading of the TPS frame
+- [[accelerando-post-scarcity-ownership]] -- The fiction that dramatizes the same anti-IP thesis

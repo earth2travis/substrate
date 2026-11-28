@@ -10,9 +10,9 @@ related:
   - progressive-autonomy
   - intelligence-graph-organization
   - intent-architecture
-  - collins-porras-bhag-mechanics
-  - sinek-golden-circle
-  - bhag-sinek-synthesis
+  - [[collins-porras-bhag-mechanics]]
+  - [[sinek-golden-circle]]
+  - [[bhag-sinek-synthesis]]
 source: research/findings/mission-in-business.md
 ---
 
@@ -85,3 +85,12 @@ The business "mission" completes the four-domain research thread: religion, mili
 But the structural elements are the same across all five domains: sender, agent, mandate, method, reporting, accountability. Principal-agent theory explains why these elements persist: they are the optimal response to the problem of delegated purpose. The business literature adds the most practical toolkit for implementing that theory: how to communicate intent (mission statement/Why), how to measure progress (OKRs/MBO), how to build culture (core ideology), and how to align incentives (rewards).
 
 For Substrate, the implication is direct: agent-native operations need all four business mechanisms. The agent must know the Why (mission statement in the context stack), must be measured against clear criteria (evals, benchmarks), must operate within a cultural framework (constitutional constraints, value alignment), and must be incentivized (token rewards, reputation capital). The business literature is not an analogy. It is a precedent.
+
+## Related
+
+- [[sinek-golden-circle]] -- Why before How before What: purpose as the communication primitive
+- [[collins-porras-bhag-mechanics]] -- Core ideology plus BHAG: preserve the core, stimulate progress
+- [[bhag-sinek-synthesis]] -- The two frameworks fused: intent as the upstream layer above OKRs
+- [[management-by-objectives]] -- Drucker's original mechanism for delegating purpose
+- [[objectives-and-key-results]] -- Grove's measurable translation of intent into targets
+- [[intelligence-graph-organization]] -- Why AI removes the span-of-control limit that hierarchy worked around

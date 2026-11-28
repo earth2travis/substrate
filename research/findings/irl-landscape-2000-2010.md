@@ -55,6 +55,7 @@ The connection from this decade to modern AI alignment is direct. The maximum en
 - The MaxEnt resolution is the subject of [[ziebart-maxent-irl-alignment-conscience]].
 - The mathematics are consolidated in [[irl-mathematical-formalism]].
 - The revealed preference connection to [[principal-agent-theory]] is structural: both fields infer intent from observed behavior.
+- The textbook treatment that canonized the field is assessed in [[aima-irl-chapter]].
 
 ## Bibliography
 

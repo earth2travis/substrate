@@ -2,7 +2,7 @@
 title: "Crypto as Agent Infrastructure"
 tags: [concept, crypto, agents, property-rights, economic-agency, autonomy, infrastructure]
 related:
-- cypherpunk-library
+- [[cypherpunk-library]]
 - crypto-as-property-rights
 - agent-payment-infrastructure
 - agent-platform-ecosystem
@@ -56,3 +56,8 @@ The automated corporation is DAOs of agents and smart contracts. Agents and cont
 - [[erc-8004-trustless-agents]]
 - [[crypto-as-property-rights]]
 - [[machine-payments-protocol]]
+- [[quantum-thief-crypto-coordination]] -- Rajaniemi's fictional proof that cryptography is a governance substrate
+- [[mutualism]] -- Possession versus property: the 19th-century root of crypto's ownership argument
+- [[samuel-edward-konkin-iii-agorism]] -- Counter-economics: exit and forbidden exchange as strategy
+- [[kevin-carson-free-market-anti-capitalism]] -- The state as the generator of the waste markets are blamed for
+- [[cypherpunk-library]] -- The source canon this infrastructure grew out of

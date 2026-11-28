@@ -36,3 +36,10 @@ ingested: 2026-10-13
 ## Relevance
 
 First node on the Substrate's left-market-anarchist branch. Connects to [[production-paradigms]] (mutualism's cost principle and waste critique read production through privilege rather than process, a counter-reading of the lean material), [[lean-doctrine]] (the TPS frame reads waste as process failure; mutualism reads the state as the generator of the waste that process then manages), [[protocol-as-coordination]] (synallagmatic contracts, federation of producers, imperative mandates as a 19th-century coordination architecture), and [[crypto-as-agent-infrastructure]] (crypto-era mutual credit: Circles UBI, Community Inclusion Currencies; crypto gave mutual credit a programmable substrate but imported speculative dynamics alien to the tradition). Sets up the sibling findings on Konkin's agorism and Carson's free-market anti-capitalism.
+
+## Related
+
+- [[samuel-edward-konkin-iii-agorism]] -- The next node: consistency strategy and the counter-economy
+- [[kevin-carson-free-market-anti-capitalism]] -- The third node: the subsidy of history as the source of market distortion
+- [[protocol-as-coordination]] -- Federation, imperative mandates, and synallagmatic contract as 19th-century coordination architecture
+- [[crypto-as-agent-infrastructure]] -- Mutual credit given a programmable substrate

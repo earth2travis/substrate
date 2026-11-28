@@ -36,3 +36,10 @@ ingested: 2026-10-13
 ## Relevance
 
 Second node on the left-market-anarchist branch. The exit-over-voice logic connects directly to [[progressive-autonomy]]'s inverse (graduated trust versus total withdrawal), [[principal-agent-theory]] (voting as delegation versus exit as refusal of delegation), and [[crypto-as-agent-infrastructure]] (the cypherpunk-Bitcoin-Silk Road lineage is the historical substrate on which agent-crypto economics is now being built). The sectarian-innovation pattern, the sect loses every organizational fight but coins the vocabulary the winner later absorbs, is a durable observation about how ideas propagate through movements.
+
+## Related
+
+- [[mutualism]] -- The upstream tradition: possession against property
+- [[kevin-carson-free-market-anti-capitalism]] -- The sibling critique: state privilege as the engine of extraction
+- [[progressive-autonomy]] -- The inverse logic: graduated trust versus total exit
+- [[crypto-as-agent-infrastructure]] -- The cypherpunk-to-crypto lineage agorism anticipated

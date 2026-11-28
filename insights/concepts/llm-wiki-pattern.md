@@ -48,3 +48,5 @@ The `_ingest.py → findings → insights` pipeline is the wiki pattern in produ
 - [[synthesis-over-retrieval]] — Why accumulated understanding beats search
 - [[memex]] — Bush's 1945 associative-trail ancestor of the pattern
 - [[karpathy-llm-knowledge-bases]] — The talk that named the pattern, with the gap analysis
+- [[storm-naacl-2024]] — Multi-perspective question asking: pay upfront in research, query compiled knowledge later
+- [[costorm-emnlp-2024]] — Collaborative curation for unknown unknowns: build understanding, not just output
